@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-17T11:36:39.137Z,59.6598,-153.352,117.3,0.8,ml,,,,0.84,ak,ak0226are4db,2022-05-17T11:40:39.474Z,"44 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-17T11:21:07.037Z,31.642,-104.3659,5,2.6,ml,,105,0.118,0.44,us,us6000hlrd,2022-05-17T11:28:55.040Z,"59 km S of Whites City, New Mexico",earthquake,0.8,1.9,0.045,64,reviewed,us,us
+2022-05-17T11:08:42.470Z,18.669,-66.8743333333333,66.1,2.77,md,13,219,,0.1,pr,pr71349123,2022-05-17T11:41:25.720Z,"20 km N of Camuy, Puerto Rico",earthquake,0.72,0.48,0.102709737191694,11,reviewed,pr,pr
 2022-05-17T11:01:16.980Z,33.586,-116.7253333,13.59,0.23,ml,17,57,0.02285,0.19,ci,ci40020967,2022-05-17T11:04:56.388Z,"6km NW of Anza, CA",earthquake,0.57,0.59,0.066,4,automatic,ci,ci
 2022-05-17T10:56:58.340Z,33.6998333,-116.7203333,15.71,0.67,ml,23,70,0.01242,0.2,ci,ci40020959,2022-05-17T11:00:36.311Z,"4km S of Idyllwild, CA",earthquake,0.39,0.61,0.22,13,automatic,ci,ci
 2022-05-17T10:54:28.450Z,35.6786652,-121.0810013,6.62,1.39,md,10,100,0.05927,0.01,nc,nc73734981,2022-05-17T11:06:11.117Z,"11km ENE of San Simeon, CA",earthquake,0.39,0.81,0.09,7,automatic,nc,nc
@@ -224,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T12:32:12.970Z,44.3491667,-115.0551667,6.46,1.5,ml,10,92,0.73,0.18,mb,mb80545964,2022-05-16T19:36:51.640Z,"17 km NNW of Stanley, Idaho",earthquake,0.46,1.41,0.198,11,reviewed,mb,mb
 2022-05-16T12:12:13.350Z,36.3588333,-89.514,8.61,2.02,md,38,35,0.01684,0.08,nm,nm60394641,2022-05-16T12:48:23.500Z,"4 km WSW of Tiptonville, Tennessee",earthquake,0.18,0.34,0.194,35,reviewed,nm,nm
 2022-05-16T11:43:26.190Z,-0.7444,133.2796,35.29,4.9,mb,,117,2.393,0.44,us,us6000hlg1,2022-05-16T12:01:12.040Z,"88 km W of Manokwari, Indonesia",earthquake,5.6,6.8,0.071,62,reviewed,us,us
-2022-05-16T11:41:13.610Z,43.4493333,-110.2925,5.95,1.86,ml,14,131,0.279,0.18,mb,mb80545954,2022-05-16T14:37:24.510Z,"28 km NNE of Bondurant, Wyoming",earthquake,0.58,9.55,0.175,17,reviewed,mb,mb
-2022-05-16T11:41:11.180Z,38.8436661,-122.824501,1.77,1.03,md,18,99,0.009965,0.01,nc,nc73734556,2022-05-16T14:08:10.622Z,"9km WNW of Cobb, CA",earthquake,0.23,0.54,0.08,3,automatic,nc,nc
