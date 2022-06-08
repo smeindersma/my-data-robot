@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-08T11:49:44.460Z,33.4885,-116.4685,9.71,0.8,ml,38,67,0.0499,0.22,ci,ci40036287,2022-06-08T11:53:19.843Z,"20km ESE of Anza, CA",earthquake,0.26,0.55,0.166,26,automatic,ci,ci
+2022-06-08T11:45:50.960Z,35.9138333,-117.7115,1.68,0.66,ml,10,61,0.09175,0.11,ci,ci40036279,2022-06-08T11:49:24.452Z,"18km E of Little Lake, CA",earthquake,0.3,0.46,0.163,6,automatic,ci,ci
 2022-06-08T11:37:19.793Z,64.7823,-149.1878,0,1.8,ml,,,,0.97,ak,ak0227b57x6z,2022-06-08T11:39:58.790Z,"20 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-08T11:30:54.389Z,58.2776,-150.8767,46.4,1.8,ml,,,,1.04,ak,ak0227b56hum,2022-06-08T11:33:28.926Z,"103 km ENE of Ouzinkie, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2022-06-08T11:30:21.217Z,56.534,-148.3677,10,3,ml,,228,2.615,0.48,us,us7000hfw3,2022-06-08T11:50:12.040Z,"265 km ESE of Chiniak, Alaska",earthquake,11.4,2,0.055,44,reviewed,us,us
 2022-06-08T11:23:09.970Z,35.8893333,-117.737,9.69,0.36,ml,7,173,0.08878,0.1,ci,ci40036271,2022-06-08T11:26:45.508Z,"16km ESE of Little Lake, CA",earthquake,1.06,1.76,0.052,2,automatic,ci,ci
 2022-06-08T11:23:07.830Z,38.814167,-122.7626648,1.85,1.09,md,20,108,0.01372,0.03,nc,nc73741466,2022-06-08T11:40:15.130Z,"4km WSW of Cobb, CA",earthquake,0.26,0.46,0.16,4,automatic,nc,nc
 2022-06-08T11:02:05.400Z,33.9866667,-116.6036667,13.63,0.59,ml,18,66,0.06347,0.18,ci,ci40036247,2022-06-08T11:05:39.559Z,"7km SSW of Morongo Valley, CA",earthquake,0.42,1.01,0.096,11,automatic,ci,ci
@@ -217,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T12:35:17.863Z,18.4869,145.6996,221.58,4.8,mb,,82,4.934,0.56,us,us7000hfjf,2022-06-07T12:57:42.040Z,"Pagan region, Northern Mariana Islands",earthquake,9.9,7.1,0.034,265,reviewed,us,us
 2022-06-07T12:27:49.631Z,39.3369,-119.9889,4.2,0.5,ml,6,144.68,0.058,0.1341,nn,nn00840513,2022-06-08T02:37:50.449Z,"6 km SSE of Floriston, California",earthquake,,4.1,0.02,2,reviewed,nn,nn
 2022-06-07T11:59:19.330Z,36.2668333,-120.4708333,6.41,1.07,md,23,132,0.1062,0.14,nc,nc73741146,2022-06-07T22:29:11.290Z,"17km NW of Coalinga, CA",earthquake,0.47,1.14,0.092,11,reviewed,nc,nc
-2022-06-07T11:46:52.919Z,59.5973,-152.9855,107.5,1.1,ml,,,,0.32,ak,ak02279hqknw,2022-06-07T11:48:57.975Z,"66 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-07T11:46:34.904Z,65.2986,-150.3298,0,1.2,ml,,,,0.99,ak,ak02279hqjb6,2022-06-07T11:48:37.024Z,"24 km SSW of Rampart, Alaska",earthquake,,0.6,,,automatic,ak,ak
