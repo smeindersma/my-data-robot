@@ -254,5 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T07:05:30.913Z,31.72136173,-104.5940674,6.465771484,2.7,ml,20,140,0.07486656942,0.3,tx,tx2022ldfp,2022-06-08T21:27:41.808Z,"54 km SSW of Whites City, New Mexico",earthquake,1.421133735,1.257828868,0.2,13,reviewed,tx,tx
 2022-06-08T07:02:01.210Z,36.2417,-116.8413,0,0.2,ml,4,162.74,0.149,0.1075,nn,nn00840593,2022-06-09T04:07:53.563Z,"22 km S of Furnace Creek, California",earthquake,,0,0.92,3,reviewed,nn,nn
 2022-06-08T06:58:20.400Z,35.9038333,-117.6895,5.73,1.15,ml,24,53,0.07804,0.17,ci,ci40036047,2022-06-08T21:11:44.548Z,"20km E of Little Lake, CA",earthquake,0.23,0.66,0.137,9,reviewed,ci,ci
-2022-06-08T06:56:49.500Z,37.5586667,-113.0533333,12.62,1.92,ml,16,117,0.04562,0.08,uu,uu60500862,2022-06-08T13:39:55.060Z,"11 km E of Kanarraville, Utah",earthquake,0.35,0.41,0.182,9,reviewed,uu,uu
-2022-06-08T06:52:24.449Z,35.916,77.8526,10,5.1,mww,,91,4.397,0.57,us,us7000hfug,2022-06-08T07:14:38.040Z,"145 km NE of Thang, India",earthquake,4.8,1.8,0.093,11,reviewed,us,us
