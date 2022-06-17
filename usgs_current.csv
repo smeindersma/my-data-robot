@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-17T15:42:48.600Z,35.6986667,-117.7228333,13.15,0.77,ml,7,138,0.02339,0.12,ci,ci40286144,2022-06-17T15:46:19.956Z,"10km NNW of Ridgecrest, CA",earthquake,0.82,1.05,0.305,6,automatic,ci,ci
 2022-06-17T15:22:47.590Z,38.7975006,-122.7525024,2.62,0.86,md,9,161,0.00644,0.03,nc,nc73746741,2022-06-17T15:41:16.583Z,"2km N of The Geysers, CA",earthquake,0.55,2.41,,1,automatic,nc,nc
 2022-06-17T15:18:58.460Z,19.1889991760254,-155.489166259766,32.9900016784668,2.28,ml,43,68,,0.119999997,hv,hv73046902,2022-06-17T15:24:28.600Z,"1 km SW of Pāhala, Hawaii",earthquake,0.5,0.660000026,3.2,8,automatic,hv,hv
 2022-06-17T15:07:40.196Z,64.0594,-151.5926,5.6,1.6,ml,,,,0.89,ak,ak0227q39e5f,2022-06-17T15:10:38.950Z,"40 km ENE of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -41,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T11:11:20.210Z,19.5263328552246,-155.467498779297,0.239999994635582,2.14,ml,24,181,,0.25999999,hv,hv73046787,2022-06-17T11:16:51.880Z,"26 km WNW of Volcano, Hawaii",earthquake,0.64,1.41999996,2.91,6,automatic,hv,hv
 2022-06-17T11:10:06.270Z,33.0618333,-116.4236667,12.51,0.68,ml,18,133,0.1471,0.32,ci,ci40286000,2022-06-17T11:13:37.625Z,"17km E of Julian, CA",earthquake,0.78,1.85,0.096,6,automatic,ci,ci
 2022-06-17T11:08:28.530Z,19.2215003967285,-155.406661987305,33.2999992370605,2.35,ml,43,143,,0.129999995,hv,hv73046782,2022-06-17T11:21:00.040Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.52,0.689999998,3.9,6,automatic,hv,hv
-2022-06-17T11:08:02.510Z,37.3388329,-122.2036667,8.66,2.45,md,44,53,0.02422,0.12,nc,nc73746671,2022-06-17T15:18:10.393Z,"6km SSE of Portola Valley, CA",earthquake,0.19,0.37,0.14,52,automatic,nc,nc
+2022-06-17T11:08:02.510Z,37.3388329,-122.2036667,8.66,2.45,md,44,53,0.02422,0.12,nc,nc73746671,2022-06-17T15:47:52.181Z,"6km SSE of Portola Valley, CA",earthquake,0.19,0.37,0.14,52,automatic,nc,nc
 2022-06-17T10:55:32.630Z,38.8318329,-122.8138351,2.15,0.97,md,23,43,0.008923,0.02,nc,nc73746661,2022-06-17T11:58:14.320Z,"8km NW of The Geysers, CA",earthquake,0.21,0.44,0.1,4,automatic,nc,nc
 2022-06-17T10:48:11.270Z,18.4946,-62.9751,29.4,4.8,mww,,32,0.452,0.54,us,us7000hi2s,2022-06-17T15:12:12.511Z,"31 km NNE of The Valley, Anguilla",earthquake,6.1,5.2,0.098,10,reviewed,us,us
 2022-06-17T10:45:33.790Z,33.6383333,-116.7431667,15.77,0.64,ml,22,90,0.04783,0.14,ci,ci40285992,2022-06-17T10:49:11.487Z,"11km NW of Anza, CA",earthquake,0.36,0.67,0.149,18,automatic,ci,ci
@@ -86,6 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T06:56:25.840Z,33.1266667,-116.5756667,6.75,1.06,ml,11,144,0.3677,0.1,ci,ci40285856,2022-06-17T06:59:59.443Z,"6km NNE of Julian, CA",earthquake,0.61,9.08,0.144,10,automatic,ci,ci
 2022-06-17T06:55:14.180Z,17.991,-66.8668333333333,18,2.24,md,5,139,,0.07,pr,pr71354573,2022-06-17T07:08:42.880Z,"2 km SSE of Palomas, Puerto Rico",earthquake,0.59,0.65,0.13591871421927,4,reviewed,pr,pr
 2022-06-17T06:38:16.450Z,35.9765,-117.8888333,3.85,0.65,ml,12,121,0.0312,0.08,ci,ci40285848,2022-06-17T15:44:12.206Z,"5km NNE of Little Lake, CA",earthquake,0.16,0.28,0.444,4,reviewed,ci,ci
+2022-06-17T06:37:56.820Z,35.9718333,-117.889,3.01,0.18,ml,6,172,0.03585,0.07,ci,ci37504029,2022-06-17T15:48:39.310Z,"4km NNE of Little Lake, CA",earthquake,0.23,0.58,0.2,2,reviewed,ci,ci
 2022-06-17T06:36:15.060Z,35.9735,-117.886,2.55,1.85,ml,26,54,0.03435,0.16,ci,ci40285840,2022-06-17T06:46:40.560Z,"4km NNE of Little Lake, CA",earthquake,0.24,0.39,0.244,25,automatic,ci,ci
 2022-06-17T06:28:37.740Z,17.9108333333333,-66.8491666666667,14.02,2.23,md,5,231,,0.13,pr,pr71354568,2022-06-17T06:40:01.700Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,1.01,0.82,0.20117151903299,4,reviewed,pr,pr
 2022-06-17T06:09:30.890Z,33.5518333,-82.3233333,6.79,2.16,md,9,109,0.6263,0.23,se,se60153543,2022-06-17T15:05:52.737Z,"15 km N of Harlem, Georgia",earthquake,0.63,5.09,0.026,5,reviewed,se,se
@@ -239,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T16:03:27.240Z,36.0055008,-120.5856705,1.69,0.6,md,7,229,0.03024,0.03,nc,nc73746251,2022-06-16T16:29:17.447Z,"18km NW of Parkfield, CA",earthquake,1.08,2.1,0.02,3,automatic,nc,nc
 2022-06-16T15:59:10.390Z,33.9261667,-116.7968333,3.58,0.63,ml,14,143,0.1091,0.13,ci,ci40285200,2022-06-16T16:40:38.589Z,"1km NW of Cabazon, CA",earthquake,0.4,0.99,0.212,5,reviewed,ci,ci
 2022-06-16T15:58:05.900Z,37.6463333,-119.4378333,17.67,2.55,md,22,116,0.2849,0.26,nc,nc73746246,2022-06-16T20:55:59.183Z,"16km SE of Yosemite Valley, CA",earthquake,0.67,1.59,0.172,22,reviewed,nc,nc
-2022-06-16T15:51:25.789Z,33.9664,134.5466,33.3,5,mww,,70,0.605,0.78,us,us7000hhvk,2022-06-17T05:39:41.885Z,"5 km SW of Komatsushimachō, Japan",earthquake,5.8,4.9,0.08,15,reviewed,us,us
-2022-06-16T15:48:51.630Z,35.6221667,-117.5906667,9.28,0.25,ml,7,169,0.06391,0.14,ci,ci40285184,2022-06-16T16:17:41.248Z,"8km E of Ridgecrest, CA",earthquake,0.54,1.72,0.066,3,reviewed,ci,ci
