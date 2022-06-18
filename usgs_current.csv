@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-18T17:46:19.968Z,38.1817,-117.8188,4.1,0.6,ml,8,191.17,0.119,0.1112,nn,nn00841154,2022-06-18T17:52:02.120Z,"34 km SE of Mina, Nevada",earthquake,,3.8,0.29,5,automatic,nn,nn
+2022-06-18T17:40:29.080Z,19.1905002593994,-155.380172729492,31.1499996185303,1.82000005,md,31,170,,0.109999999,hv,hv73047957,2022-06-18T17:43:39.160Z,"10 km E of Pāhala, Hawaii",earthquake,0.64,0.980000019,0.419999987,5,automatic,hv,hv
 2022-06-18T17:40:28.134Z,63.4455,-151.3131,0,1.9,ml,,,,0.73,ak,ak0227rs6njx,2022-06-18T17:42:38.933Z,"23 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-18T17:37:56.230Z,38.7939987,-122.7490005,2.33,0.21,md,13,91,0.01067,0.03,nc,nc73747101,2022-06-18T17:39:33.527Z,"2km NNE of The Geysers, CA",earthquake,0.34,0.81,0.16,2,automatic,nc,nc
+2022-06-18T17:37:56.230Z,38.7939987,-122.7490005,2.33,0.21,md,13,91,0.01067,0.03,nc,nc73747101,2022-06-18T17:46:11.007Z,"2km NNE of The Geysers, CA",earthquake,0.34,0.81,0.16,2,automatic,nc,nc
 2022-06-18T17:36:57.450Z,33.8893318,-117.2754974,20.23,1.05,ml,18,94,0.06461,0.33,ci,ci40286840,2022-06-18T17:40:35.470Z,"1km WSW of March Air Reserve Base, CA",earthquake,1.07,1.79,0.267,4,automatic,ci,ci
-2022-06-18T16:58:50.970Z,37.7195,-118.683,0.13,0.47,md,9,326,0.1124,0.08,nc,nc73747091,2022-06-18T17:36:10.946Z,"18km N of Toms Place, CA",earthquake,6.95,8.24,0.264,9,reviewed,nc,nc
+2022-06-18T16:58:49.590Z,37.7641667,-118.6141667,0.13,0.52,md,10,315,0.1807,0.09,nc,nc73747091,2022-06-18T17:50:15.030Z,"23km NNE of Toms Place, CA",earthquake,6.88,31.61,0.262,9,reviewed,nc,nc
 2022-06-18T16:44:48.852Z,26.6409,54.1919,10,4.9,mb,,76,2.478,0.84,us,us7000hied,2022-06-18T17:08:50.040Z,"19 km ENE of Kīsh, Iran",earthquake,4.6,1.8,0.052,118,reviewed,us,us
 2022-06-18T16:37:58.570Z,34.2078333,-117.5226667,10.69,1.2,ml,23,48,0.08038,0.21,ci,ci40286824,2022-06-18T17:38:26.224Z,"6km SSW of Lytle Creek, CA",earthquake,0.38,0.68,0.272,33,reviewed,ci,ci
 2022-06-18T16:29:06.810Z,17.9498333333333,-66.9556666666667,14.87,2.66,md,15,210,,0.19,pr,pr71354863,2022-06-18T17:28:18.660Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.75,0.41,0.0970562054100241,6,reviewed,pr,pr
@@ -109,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-18T00:16:56.524Z,38.1604,-118.0142,1.5,1.9,ml,10,130.19,0.045,0.3,nn,nn00841120,2022-06-18T00:20:36.477Z,"26 km SSE of Mina, Nevada",earthquake,,0.8,0.24,8,automatic,nn,nn
 2022-06-18T00:15:32.360Z,17.9901666666667,-67.0963333333333,9.94,2.18,md,7,210,,0.44,pr,pr71354758,2022-06-18T01:45:14.280Z,"5 km WNW of La Parguera, Puerto Rico",earthquake,1.51,2.12,0.00394402338709376,3,reviewed,pr,pr
 2022-06-18T00:14:14.140Z,38.7915001,-122.7576675,1.57,0.47,md,9,77,0.009251,0.02,nc,nc73746881,2022-06-18T00:39:17.739Z,"2km N of The Geysers, CA",earthquake,0.39,0.78,0.09,2,automatic,nc,nc
-2022-06-18T00:04:54.340Z,33.6883333,-116.7955,15.33,0.88,ml,24,60,0.07153,0.2,ci,ci40286400,2022-06-18T00:08:29.246Z,"9km SW of Idyllwild, CA",earthquake,0.39,0.63,0.224,27,automatic,ci,ci
+2022-06-18T00:04:54.340Z,33.6883333,-116.7955,15.33,0.88,ml,24,60,0.07153,0.2,ci,ci40286400,2022-06-18T17:43:50.527Z,"9km SW of Idyllwild, CA",earthquake,0.39,0.63,0.224,27,reviewed,ci,ci
 2022-06-18T00:04:39.949Z,61.0009,-151.2323,70.8,1.2,ml,,,,0.27,ak,ak0227rhulei,2022-06-18T00:06:51.125Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-18T00:03:04.971Z,26.6587,54.2424,10,4.1,mb,,79,2.457,0.73,us,us7000hi9g,2022-06-18T00:19:37.040Z,"24 km ENE of Kīsh, Iran",earthquake,8.2,1.9,0.094,31,reviewed,us,us
 2022-06-17T23:47:52.330Z,35.1098328,-119.0039978,12.24,3.11,ml,83,30,0.08304,0.32,ci,ci40286392,2022-06-18T00:50:06.463Z,"19km SSW of Lamont, CA",earthquake,0.26,1.04,0.207,23,automatic,ci,ci
