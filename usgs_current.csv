@@ -246,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T17:57:25.360Z,35.6998333,-117.4891667,1.7,1.45,ml,21,84,0.1152,0.21,ci,ci40298304,2022-07-06T18:01:04.859Z,"11km SW of Searles Valley, CA",earthquake,0.52,0.67,0.192,18,automatic,ci,ci
 2022-07-06T17:54:44.140Z,40.5660019,-124.9586639,9.05,2.18,md,20,292,0.5695,0.13,nc,nc73755426,2022-07-06T19:43:15.207Z,"59km W of Ferndale, CA",earthquake,3.61,2.17,0.07,3,automatic,nc,nc
 2022-07-06T17:54:10.570Z,38.7921677,-122.803833,3.38,0.25,md,10,65,0.003882,0.02,nc,nc73755421,2022-07-06T18:09:17.670Z,"4km WNW of The Geysers, CA",earthquake,0.44,1.07,0.11,2,automatic,nc,nc
-2022-07-06T17:52:00.370Z,10.3603,94.3318,10,4.5,mb,39,161,5.486,0.88,us,us6000i0bw,2022-07-06T20:00:09.040Z,"225 km SE of Port Blair, India",earthquake,10.5,1.9,0.094,33,reviewed,us,us
-2022-07-06T17:51:45.490Z,39.4311667,-110.3076667,-1.16,1.88,ml,16,180,0.01524,0.12,uu,uu60504667,2022-07-06T20:11:06.260Z,"15 km SSE of Sunnyside, Utah",earthquake,0.71,0.31,0.091,6,reviewed,uu,uu
