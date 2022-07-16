@@ -238,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T00:12:08.310Z,35.8706667,-117.7263333,7.86,0.75,ml,11,70,0.06944,0.12,ci,ci40064135,2022-07-16T00:15:40.676Z,"18km ESE of Little Lake, CA",earthquake,0.33,1.1,0.225,8,automatic,ci,ci
 2022-07-16T00:07:07.845Z,61.9172,-149.5955,37.7,1,ml,,,,0.77,ak,ak02291swvvc,2022-07-16T00:10:09.416Z,"27 km NW of Fishhook, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-07-15T23:59:38.840Z,38.7903328,-122.7648315,3.24,0.73,md,11,85,0.01103,0.03,nc,nc73759061,2022-07-16T01:28:16.372Z,"2km NNW of The Geysers, CA",earthquake,0.43,1.27,0.14,2,automatic,nc,nc
-2022-07-15T23:51:47.410Z,48.821333333333335,-123.48,16.2,0.6900000000000001,ml,9,139,0.1299,0.21,uw,uw61862581,2022-07-16T16:09:31.110Z,"Washington-British Columbia border region",earthquake,0.59,1.22,0.16021967964181705,4,reviewed,uw,uw
-2022-07-15T23:51:10.280Z,51.8566666666667,-177.9215,-1.8,0.04,ml,4,215,,0.26,av,av91066178,2022-07-16T07:39:20.920Z,"88 km W of Adak, Alaska",earthquake,0.84,1.86,0.364004474607444,4,reviewed,av,av
