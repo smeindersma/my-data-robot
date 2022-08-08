@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-08T14:44:28.730Z,38.8153343,-122.8183365,2.42,0.35,md,7,106,0.01032,0.01,nc,nc73765455,2022-08-08T14:46:03.556Z,"7km NW of The Geysers, CA",earthquake,0.46,1.22,,1,automatic,nc,nc
 2022-08-08T14:18:58.610Z,38.8359985,-122.80867,2.16,0.85,md,13,57,0.01263,0.01,nc,nc73765435,2022-08-08T14:35:21.835Z,"8km WNW of Cobb, CA",earthquake,0.37,0.85,,1,automatic,nc,nc
 2022-08-08T13:42:52.293Z,-19.6767,170.0421,10,5.1,mww,29,91,3.795,0.47,us,us6000i92k,2022-08-08T14:10:27.040Z,"81 km E of Isangel, Vanuatu",earthquake,6.21,1.895,0.098,10,reviewed,us,us
-2022-08-08T13:41:33.204Z,17.9874,-66.8322,10,2.6,ml,18,171,0.064,0.36,us,us6000i92i,2022-08-08T14:12:06.040Z,"1 km WSW of Indios, Puerto Rico",earthquake,1.85,1.658,0.062,34,reviewed,us,us
+2022-08-08T13:41:33.080Z,17.9716666666667,-66.8365,15.73,2.79,md,32,164,,0.21,pr,pr71364013,2022-08-08T14:39:17.360Z,"3 km SW of Indios, Puerto Rico",earthquake,0.42,0.31,0.192909708826098,18,reviewed,pr,pr
 2022-08-08T13:38:11.665Z,64.4578,-147.9577,9.2,1.1,ml,,,,0.92,ak,ak022a4275m6,2022-08-08T13:41:31.257Z,"40 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-08T13:36:03.160Z,17.9826666666667,-66.8401666666667,15.39,2.22,md,21,152,,0.14,pr,pr71363993,2022-08-08T14:12:52.390Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.26,0.38,0.121923069336273,19,reviewed,pr,pr
 2022-08-08T13:33:14.970Z,17.9833333333333,-66.838,15.51,2.22,md,12,168,,0.14,pr,pr71363983,2022-08-08T13:42:52.060Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.58,0.38,0.0893452858683284,9,reviewed,pr,pr
@@ -41,12 +42,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T09:19:15.542Z,-18.7759,-69.5139,120.613,4.6,mb,48,80,0.439,1.21,us,us6000i916,2022-08-08T09:53:50.040Z,"89 km ESE of Arica, Chile",earthquake,5.2,5.949,0.05,122,reviewed,us,us
 2022-08-08T09:12:54.180Z,18.024,-66.8325,18.37,2.48,md,10,139,,0.09,pr,pr71363868,2022-08-08T12:51:25.880Z,"2 km ESE of Yauco, Puerto Rico",earthquake,0.48,0.74,0.0661631621069962,3,reviewed,pr,pr
 2022-08-08T09:12:50.662Z,59.4679,-152.644,74.4,2,ml,,,,0.27,ak,ak022a3znxkb,2022-08-08T09:14:46.224Z,"42 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-08-08T09:02:01.650Z,39.4205,-110.2785,-3.41,1.05,md,6,206,0.03627,0.12,uu,uu60508907,2022-08-08T14:39:30.080Z,"17 km SSE of Sunnyside, Utah",earthquake,1.76,3.54,0.274,5,reviewed,uu,uu
 2022-08-08T09:01:43.004Z,64.4171,-147.1364,0,1.1,ml,,,,0.69,ak,ak022a3zlk1n,2022-08-08T09:03:52.259Z,"16 km SW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-08T08:55:54.060Z,19.3508338928223,-155.809494018555,9.43000030517578,1.85000002,md,23,143,,0.159999996,hv,hv73102707,2022-08-08T09:02:45.311Z,"13 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.64,0.579999983,1.85000002,4,automatic,hv,hv
 2022-08-08T08:55:07.891Z,-12.2442,122.8149,10,4.5,mb,34,69,2.855,0.53,us,us6000i90z,2022-08-08T09:33:01.040Z,"245 km SSW of Kupang, Indonesia",earthquake,6.23,1.878,0.121,21,reviewed,us,us
 2022-08-08T08:54:15.420Z,17.8636666666667,-66.9186666666667,13.07,2.38,md,6,290,,0.15,pr,pr71363853,2022-08-08T12:07:42.460Z,"12 km S of Guánica, Puerto Rico",earthquake,1.51,1.91,0.0999818355265574,3,reviewed,pr,pr
 2022-08-08T08:53:01.860Z,35.8753333,-90.0781667,16.82,1.67,md,26,71,0.005278,0.06,nm,nm60403657,2022-08-08T13:19:31.560Z,"3 km NW of Dell, Arkansas",earthquake,0.77,0.48,0.08,15,reviewed,nm,nm
-2022-08-08T08:39:35.200Z,18.1296,-68.4375,70,3.62,md,17,185,0.9916,0.27,pr,pr2022220005,2022-08-08T12:56:48.656Z,"32 km SSE of Boca de Yuma, Dominican Republic",earthquake,1.44,1.07,0.07,6,reviewed,pr,pr
+2022-08-08T08:39:35.200Z,18.1296,-68.4375,70,3.62,md,17,185,0.9916,0.27,pr,pr2022220005,2022-08-08T14:40:07.040Z,"32 km SSE of Boca de Yuma, Dominican Republic",earthquake,1.44,1.07,0.07,6,reviewed,pr,pr
 2022-08-08T08:34:53.124Z,64.411,-147.1322,0,1.1,ml,,,,0.79,ak,ak022a3z77xc,2022-08-08T08:37:52.128Z,"16 km SW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-08T08:31:13.940Z,44.4401667,-110.326,2.24,0.94,md,7,172,0.0833,0.04,uu,uu60508902,2022-08-08T13:45:18.230Z,"Wyoming",earthquake,0.67,31.61,0.082,4,reviewed,uu,uu
 2022-08-08T08:24:05.030Z,38.8300018,-122.8138351,1.05,0.8,md,19,60,0.007222,0.02,nc,nc73765370,2022-08-08T10:28:16.278Z,"8km NW of The Geysers, CA",earthquake,0.2,0.47,0.25,3,automatic,nc,nc
