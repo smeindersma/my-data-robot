@@ -184,9 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T12:42:59.192Z,38.1725,-117.8035,8,1.4,ml,21,140.33,0.122,0.1681,nn,nn00846245,2022-09-01T20:27:16.977Z,"36 km SE of Mina, Nevada",earthquake,,1.4,0.35,9,reviewed,nn,nn
 2022-09-01T12:41:41.042Z,59.671,-153.3451,112.9,2.1,ml,,,,0.17,ak,ak022b7qirah,2022-09-01T12:42:57.379Z,"44 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-01T12:40:55.634Z,61.9681,-148.9858,24.9,2.1,ml,,,,0.46,ak,ak022b7qikor,2022-09-01T12:42:49.133Z,"24 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-09-01T12:31:50.530Z,38.8261681,-122.7645035,1.93,0.45,md,8,129,0.006026,0.01,nc,nc73774290,2022-09-01T12:48:12.708Z,"4km W of Cobb, CA",earthquake,0.43,0.97,0.4,2,automatic,nc,nc
-2022-09-01T12:31:22.480Z,58.1545,-155.398333333333,1.8,0.4,ml,10,88,,0.06,av,av91672816,2022-09-02T05:23:19.880Z,"Alaska Peninsula",earthquake,0.16,0.46,0.297719342953061,10,reviewed,av,av
-2022-09-01T12:01:10.660Z,34.0825,-117.798,15.21,0.91,ml,24,122,0.01196,0.18,ci,ci40094207,2022-09-01T15:35:37.374Z,"3km SSE of San Dimas, CA",earthquake,0.32,0.36,0.094,8,reviewed,ci,ci
-2022-09-01T11:59:56.674Z,37.2984,-117.6185,0,1.6,ml,23,120.53,0.069,0.2117,nn,nn00846242,2022-09-01T12:04:42.979Z,"50 km S of Silver Peak, Nevada",earthquake,,3.3,0.62,13,automatic,nn,nn
-2022-09-01T11:57:43.677Z,47.1997,9.6018,2.719,3.9,mb,17,77,0.736,0.55,us,us7000i4af,2022-09-01T21:14:12.917Z,"2 km SW of Frastanz, Austria",earthquake,2.51,6.478,0.362,2,reviewed,us,us
-2022-09-01T11:57:32.894Z,65.7923,-149.5756,0.1,1.5,ml,,,,0.7,ak,ak022b7q0qi1,2022-09-01T11:59:36.507Z,"32 km SW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
