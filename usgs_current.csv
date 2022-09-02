@@ -176,11 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T13:41:07.777Z,61.3608,-150.1172,31.3,1.7,ml,,,,0.46,ak,ak022b7r44bd,2022-09-01T13:43:22.169Z,"7 km W of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-01T13:36:22.150Z,36.549,-121.0965,1.6,4,mw,62,64,0.04243,0.09,nc,nc73774300,2022-09-02T00:24:31.935Z,"5km ENE of Pinnacles, CA",earthquake,0.12,0.26,,4,reviewed,nc,nc
 2022-09-01T13:30:38.440Z,19.4218330383301,-155.612838745117,-3.75,2.9,ml,38,66,,0.300000012,hv,hv73128127,2022-09-01T16:19:19.359Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.4,0.25,3.53,28,automatic,hv,hv
-2022-09-01T13:25:31.530Z,19.0874996185303,-155.348999023438,32.0299987792969,2.1400001,md,40,204,,0.170000002,hv,hv73128117,2022-09-01T13:29:15.460Z,"18 km SE of Pāhala, Hawaii",earthquake,0.77,1.21000004,1.33000004,16,automatic,hv,hv
-2022-09-01T12:54:42.960Z,62.7714,-143.3009,0,1.5,ml,,,,0.67,ak,ak022b7qljqd,2022-09-01T12:56:56.667Z,"29 km SE of Mentasta Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-09-01T12:54:26.070Z,19.3696670532227,-155.296340942383,1.38999998569489,1.98000002,md,9,108,,0.0799999982,hv,hv73128087,2022-09-01T12:57:10.270Z,"10 km SW of Volcano, Hawaii",earthquake,0.5,0.519999981,1.98000002,4,automatic,hv,hv
-2022-09-01T12:52:41.750Z,32.619,-115.7635,8,1.34,ml,25,130,0.04354,0.16,ci,ci40094223,2022-09-01T14:54:32.703Z,"17km WNW of Progreso, B.C., MX",earthquake,0.27,0.43,0.246,8,reviewed,ci,ci
-2022-09-01T12:49:01.464Z,38.1672,-117.7826,13.9,0.5,ml,8,198.46,0.108,0.0581,nn,nn00846248,2022-09-01T12:52:49.719Z,"37 km SE of Mina, Nevada",earthquake,,7.5,0.36,4,automatic,nn,nn
-2022-09-01T12:42:59.192Z,38.1725,-117.8035,8,1.4,ml,21,140.33,0.122,0.1681,nn,nn00846245,2022-09-01T20:27:16.977Z,"36 km SE of Mina, Nevada",earthquake,,1.4,0.35,9,reviewed,nn,nn
-2022-09-01T12:41:41.042Z,59.671,-153.3451,112.9,2.1,ml,,,,0.17,ak,ak022b7qirah,2022-09-01T12:42:57.379Z,"44 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-09-01T12:40:55.634Z,61.9681,-148.9858,24.9,2.1,ml,,,,0.46,ak,ak022b7qikor,2022-09-01T12:42:49.133Z,"24 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
