@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-07T08:00:00.820Z,38.8344994,-122.7901688,1.93,0.88,md,17,56,0.003906,0.02,nc,nc73776285,2022-09-07T08:01:35.130Z,"6km WNW of Cobb, CA",earthquake,0.24,0.43,0.13,4,automatic,nc,nc
 2022-09-07T07:38:07.290Z,19.2021675109863,-155.384002685547,32.2599983215332,1.84000003,md,37,161,,0.119999997,hv,hv73133262,2022-09-07T07:41:19.150Z,"9 km E of Pāhala, Hawaii",earthquake,0.57,0.910000026,0.469999999,13,automatic,hv,hv
+2022-09-07T07:35:57.350Z,1.7817,127.4784,123.145,4.6,mb,36,105,1.009,0.7,us,us7000i5y8,2022-09-07T08:04:42.040Z,"59 km W of Tobelo, Indonesia",earthquake,10.62,7.252,0.105,27,reviewed,us,us
 2022-09-07T07:25:33.957Z,61.3863,-149.6312,29.1,0.8,ml,,,,1.4,ak,ak022bhko87n,2022-09-07T07:27:09.474Z,"7 km NNW of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-07T07:23:58.000Z,60.4349,-151.0907,59.1,1.1,ml,,,,0.14,ak,ak022bhknumw,2022-09-07T07:25:50.246Z,"6 km SSW of Soldotna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-09-07T07:23:24.390Z,36.0045013,-120.5605011,4.29,1.05,md,13,99,0.01998,0.03,nc,nc73776280,2022-09-07T07:44:13.055Z,"16km NW of Parkfield, CA",earthquake,0.35,0.53,0.24,5,automatic,nc,nc
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-07T06:34:30.410Z,36.7573318,-121.4179993,9.71,1.78,md,16,154,0.0244,0.13,nc,nc73776270,2022-09-07T07:06:14.817Z,"8km SW of Ridgemark, CA",earthquake,0.72,0.94,0.22,11,automatic,nc,nc
 2022-09-07T06:31:49.380Z,40.1539993,-123.8525009,21,1.88,md,14,133,0.05365,0.09,nc,nc73776265,2022-09-07T07:47:11.073Z,"4km NNW of Redway, CA",earthquake,0.7,0.51,0.06,8,automatic,nc,nc
 2022-09-07T06:22:01.428Z,60.0588,-151.5653,71.4,1.3,ml,,,,0.68,ak,ak022bhk22y6,2022-09-07T06:24:42.339Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-09-07T06:07:49.406Z,-54.375,-119.3785,10.207,5.5,mb,28,153,27.619,0.98,us,us7000i5xu,2022-09-07T06:33:00.852Z,"southern East Pacific Rise",earthquake,13.49,4.599,0.086,47,reviewed,us,us
+2022-09-07T06:07:49.406Z,-54.375,-119.3785,10.207,5.5,mb,28,153,27.619,0.98,us,us7000i5xu,2022-09-07T08:09:27.020Z,"southern East Pacific Rise",earthquake,13.49,4.599,0.086,47,reviewed,us,us
 2022-09-07T06:05:10.640Z,35.5093333,-118.3948333,5.66,1.32,ml,20,69,0.1662,0.14,ci,ci40097359,2022-09-07T06:08:37.081Z,"12km SE of Bodfish, CA",earthquake,0.25,1.23,0.143,16,automatic,ci,ci
 2022-09-07T05:58:11.846Z,60.5211,-145.2185,15.3,1.3,ml,,,,0.67,ak,ak022bhjodxc,2022-09-07T06:00:59.217Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-07T05:56:19.980Z,33.8981667,-117.0451667,13.96,1.39,ml,49,26,0.1479,0.2,ci,ci40097351,2022-09-07T05:59:49.155Z,"7km WSW of Beaumont, CA",earthquake,0.22,0.74,0.163,27,automatic,ci,ci
