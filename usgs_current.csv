@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-18T10:53:17.391Z,61.0882,-148.0951,0.1,1.4,ml,,,,0.87,ak,ak022bztjb8b,2022-09-18T10:55:13.070Z,"47 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-09-18T10:51:41.800Z,19.2614994049072,-155.428665161133,0.0700000002980232,2.32,ml,40,112,,0.25,hv,hv73143347,2022-09-18T10:57:12.740Z,"8 km NE of Pāhala, Hawaii",earthquake,0.47,0.239999995,3.3,7,automatic,hv,hv
 2022-09-18T10:47:30.593Z,63.175,-150.6182,105.8,1.7,ml,,,,1.01,ak,ak022bzti1yb,2022-09-18T10:49:44.622Z,"68 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-09-18T10:44:30.470Z,33.766,-115.934,5.71,1.27,ml,31,69,0.1024,0.21,ci,ci40102423,2022-09-18T10:48:00.522Z,"24km NE of Thermal, CA",earthquake,0.28,1.48,0.142,26,automatic,ci,ci
 2022-09-18T10:44:29.882Z,61.9748,-149.9186,29.2,1.2,ml,,,,0.58,ak,ak022bzther0,2022-09-18T10:46:23.677Z,"21 km S of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -33,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-18T08:30:42.415Z,23.269,121.3481,10,4.2,mb,8,157,0.513,0.15,us,us7000i91p,2022-09-18T09:32:18.040Z,"80 km SE of Lugu, Taiwan",earthquake,2.32,2.001,0.215,7,reviewed,us,us
 2022-09-18T08:20:20.970Z,19.232666015625,-155.390167236328,32.060001373291,1.83000004,md,35,145,,0.129999995,hv,hv73143247,2022-09-18T08:23:31.400Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.66,0.610000014,0.159999996,5,automatic,hv,hv
 2022-09-18T08:17:31.272Z,58.081,-155.6561,123.3,0.9,ml,,,,0.91,ak,ak022bzs4rbb,2022-09-18T08:19:02.517Z,"89 km SE of King Salmon, Alaska",earthquake,,9,,,automatic,ak,ak
-2022-09-18T08:16:18.520Z,61.9535,-149.5327,39,1.6,ml,,,,0.84,ak,ak022bzs4im4,2022-09-18T08:17:55.730Z,"28 km NW of Fishhook, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2022-09-18T08:16:18.520Z,61.9535,-149.5327,39,1.6,ml,,,,0.84,ak,ak022bzs4im4,2022-09-18T08:17:55.730Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-09-18T08:10:17.304Z,61.0416,-148.3833,7,1.5,ml,,,,0.53,ak,ak022bzs3882,2022-09-18T08:11:55.110Z,"33 km NNE of Whittier, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-18T08:09:59.600Z,26.2527,126.0142,10,5.7,mww,70,51,2.105,0.58,us,us7000i91n,2022-09-18T10:16:37.780Z,"Ryukyu Islands, Japan",earthquake,5.96,1.467,0.063,24,reviewed,us,us
 2022-09-18T08:07:28.126Z,26.3351,126.0564,10,5.2,mb,85,49,2.046,1,us,us7000i91h,2022-09-18T08:28:00.040Z,"Ryukyu Islands, Japan",earthquake,7.25,1.861,0.034,284,reviewed,us,us
@@ -274,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-17T11:16:02.716Z,35.56047058,-96.42234802,9.219111443,1.7,ml,17,85.42492104,0.2882706225,0.2391494263,ok,ok2022sgbp,2022-09-17T11:18:35.233Z,"5 km NW of IXL, Oklahoma",earthquake,3.126828517,4.127417796,,12,automatic,ok,ok
 2022-09-17T11:15:27.450Z,18.5036666666667,-66.2941666666667,114.54,2.84,md,12,211,,0.09,pr,pr71372203,2022-09-17T12:01:03.980Z,"5 km NNW of Dorado, Puerto Rico",earthquake,1.62,0.59,0.120149249685212,10,reviewed,pr,pr
 2022-09-17T11:02:32.334Z,60.7401,-151.3585,51.5,1.5,ml,,,,0.34,ak,ak022by6ahz5,2022-09-17T11:03:56.105Z,"6 km NW of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-09-17T10:51:03.520Z,35.9378333,-117.6948333,2.5,1.23,ml,12,142,0.1004,0.11,ci,ci40101575,2022-09-17T10:54:33.840Z,"19km E of Little Lake, CA",earthquake,0.44,0.48,0.148,15,automatic,ci,ci
-2022-09-17T10:50:45.100Z,-18.3957,-69.9451,120.461,4.6,mb,36,60,0.378,0.67,us,us7000i8tr,2022-09-17T11:11:22.040Z,"38 km ENE of Arica, Chile",earthquake,7.35,5.61,0.106,28,reviewed,us,us
