@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-22T05:58:10.130Z,36.7533,-115.4408,0,1.1,ml,13,190.11,0.337,0.3509,nn,nn00849774,2022-10-22T06:00:51.746Z,"28 km NE of Indian Springs, Nevada",earthquake,,37.7,0.84,9,automatic,nn,nn
 2022-10-22T05:52:19.400Z,40.9830017,-121.9465027,9.2,2.02,md,16,72,0.1431,0.12,nc,nc73797791,2022-10-22T06:39:14.020Z,"5km SW of Big Bend, CA",earthquake,0.45,1.92,0.16,11,automatic,nc,nc
 2022-10-22T05:48:15.980Z,19.2071666717529,-155.403335571289,31.8899993896484,1.83000004,md,38,155,,0.129999995,hv,hv73190192,2022-10-22T05:51:35.470Z,"7 km E of Pāhala, Hawaii",earthquake,0.65,0.899999976,1.65999997,10,automatic,hv,hv
-2022-10-22T05:45:53.060Z,38.8286667,-122.8154984,2.05,1.35,md,25,44,0.006757,0.02,nc,nc73797781,2022-10-22T06:16:11.757Z,"8km NW of The Geysers, CA",earthquake,0.18,0.37,0.1,5,automatic,nc,nc
+2022-10-22T05:45:53.060Z,38.8286667,-122.8154984,2.05,1.35,md,25,44,0.006757,0.02,nc,nc73797781,2022-10-22T07:57:10.396Z,"8km NW of The Geysers, CA",earthquake,0.18,0.37,0.1,5,automatic,nc,nc
 2022-10-22T05:41:03.450Z,36.3001671,-121.1416702,4.49,2.01,md,8,187,0.3427,0.3,nc,nc73797776,2022-10-22T07:16:10.137Z,"9km ESE of Greenfield, CA",earthquake,8.99,15.63,,1,automatic,nc,nc
 2022-10-22T05:36:35.798Z,64.751,-149.0645,8.1,2,ml,,,,0.59,ak,ak022djyqc8r,2022-10-22T05:38:58.126Z,"16 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-22T05:36:06.638Z,64.754,-149.059,17,1,ml,,,,0.22,ak,ak022djyq9zr,2022-10-22T05:37:56.959Z,"17 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
