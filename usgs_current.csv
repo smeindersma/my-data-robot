@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-11T07:27:05.640Z,38.8391685,-122.8348312,1.22,1.57,md,28,83,,0.03,nc,nc73803685,2022-11-11T07:30:15.080Z,"10km NW of The Geysers, CA",earthquake,0.17,0.29,0.06,8,automatic,nc,nc
+2022-11-11T07:15:11.920Z,33.0271667,-115.525,12.55,1.37,ml,10,259,0.04907,0.25,ci,ci40130975,2022-11-11T07:18:44.941Z,"5km N of Brawley, CA",earthquake,1.61,0.93,0.157,24,automatic,ci,ci
 2022-11-11T06:59:04.610Z,37.5615005,-121.8335037,8.53,1.19,md,15,76,0.04514,0.06,nc,nc73803680,2022-11-11T07:12:10.155Z,"7km SE of Sunol, CA",earthquake,0.31,0.44,0.15,11,automatic,nc,nc
 2022-11-11T06:51:57.300Z,34.0018333,-118.2188333,13.06,1.17,ml,14,120,0.06111,0.24,ci,ci40130967,2022-11-11T06:55:34.213Z,"2km NNE of Huntington Park, CA",earthquake,0.76,1.03,0.232,29,automatic,ci,ci
 2022-11-11T06:46:45.310Z,35.9873352,-120.5425034,9.7,1.74,md,23,67,0.01484,0.06,nc,nc73803670,2022-11-11T07:14:15.169Z,"14km NW of Parkfield, CA",earthquake,0.3,0.39,0.14,15,automatic,nc,nc
@@ -12,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-11T05:46:55.388Z,60.4356,-152.7639,15.5,0.5,ml,,,,0.27,ak,ak022eh1jgsi,2022-11-11T05:47:58.969Z,"74 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-11T05:44:25.840Z,38.8333321,-122.7956696,0.81,0.91,md,14,51,0.006557,0.02,nc,nc73803645,2022-11-11T07:12:11.155Z,"6km WNW of Cobb, CA",earthquake,0.22,0.37,0.3,2,automatic,nc,nc
 2022-11-11T05:43:56.949Z,57.7945,-157.4104,13.8,2.7,ml,,,,0.81,ak,ak022eh1itri,2022-11-11T05:46:17.807Z,"27 km NNE of Pilot Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-11T05:42:41.580Z,38.8326683,-122.8010025,-0.81,2.34,md,46,49,,0.39,nc,nc73803640,2022-11-11T06:47:11.003Z,"7km W of Cobb, CA",earthquake,0.34,0.84,0.12,25,automatic,nc,nc
+2022-11-11T05:42:41.580Z,38.8326683,-122.8010025,-0.81,2.34,md,46,49,,0.39,nc,nc73803640,2022-11-11T07:30:15.255Z,"7km W of Cobb, CA",earthquake,0.34,0.84,0.12,25,automatic,nc,nc
 2022-11-11T05:34:58.410Z,38.8344994,-122.7945023,0.85,0.36,md,7,123,0.005078,0.01,nc,nc73803635,2022-11-11T07:14:17.169Z,"6km WNW of Cobb, CA",earthquake,0.4,0.96,,1,automatic,nc,nc
 2022-11-11T05:32:38.021Z,60.304,-152.1867,78.7,1.1,ml,,,,0.26,ak,ak022eh1geu2,2022-11-11T06:01:45.344Z,"Southern Alaska",earthquake,,1,,,reviewed,ak,ak
 2022-11-11T05:31:53.680Z,38.8326683,-122.7941666,0.96,1.15,md,16,50,0.006463,0.02,nc,nc73803630,2022-11-11T06:47:24.004Z,"6km W of Cobb, CA",earthquake,0.22,0.4,0.11,4,automatic,nc,nc
@@ -239,7 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-10T07:59:15.357Z,59.7244,-152.9434,57,1.8,ml,,,,1.63,ak,ak022eff9ocp,2022-11-10T08:07:47.590Z,"62 km W of Anchor Point, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2022-11-10T07:51:01.120Z,33.4626667,-116.588,11.7,1.18,ml,60,44,0.03408,0.13,ci,ci40130655,2022-11-10T15:59:16.240Z,"13km SE of Anza, CA",earthquake,0.11,0.28,0.185,39,reviewed,ci,ci
 2022-11-10T07:38:30.220Z,19.1518325805664,-155.493835449219,35.1800003051758,2.01999998,md,34,141,,0.150000006,hv,hv73215167,2022-11-10T07:41:49.950Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.66,1.02999997,1.75999999,10,automatic,hv,hv
-2022-11-10T07:28:31.820Z,36.9831667,-121.6403333,4.83,0.89,md,18,73,0.05496,0.08,nc,nc73803215,2022-11-10T21:43:14.433Z,"7km WSW of Gilroy, CA",earthquake,0.22,0.43,0.178,15,reviewed,nc,nc
-2022-11-10T07:28:07.210Z,38.414,-112.8175,6.51,0.76,md,9,272,0.02837,0.17,uu,uu60524557,2022-11-10T16:57:47.680Z,"16 km E of Milford, Utah",earthquake,2.18,1.81,0.16,3,reviewed,uu,uu
-2022-11-10T07:26:11.994Z,36.5915,-116.2163,6,-0.2,ml,6,172.46,0.102,0.0531,nn,nn00850997,2022-11-10T15:33:24.534Z,"47 km NNW of Pahrump, Nevada",earthquake,,3.9,1.16,3,reviewed,nn,nn
-2022-11-10T07:23:36.460Z,19.4088325500488,-155.295333862305,1.76999998092651,2.01999998,md,10,135,,0.170000002,hv,hv73215147,2022-11-10T07:26:31.700Z,"7 km WSW of Volcano, Hawaii",earthquake,0.52,0.50999999,0.810000002,7,automatic,hv,hv
