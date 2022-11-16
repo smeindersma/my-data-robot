@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-16T09:19:31.990Z,38.8313332,-122.819664,1.75,1.6,md,22,52,0.01091,0.02,nc,nc73808071,2022-11-16T09:31:11.134Z,"8km NW of The Geysers, CA",earthquake,0.19,0.42,0.16,5,automatic,nc,nc
+2022-11-16T09:40:57.860Z,38.8276672,-122.7898331,1.38,0.85,md,10,74,0.01073,0.02,nc,nc73808081,2022-11-16T09:42:31.155Z,"6km W of Cobb, CA",earthquake,0.38,1.26,,1,automatic,nc,nc
+2022-11-16T09:34:29.835Z,60.0444,-152.6269,95.6,1.1,ml,,,,0.29,ak,ak022epdjb47,2022-11-16T09:36:51.378Z,"51 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-11-16T09:22:44.754Z,-5.3468,102.3553,32.34,5.1,mb,58,93,1.148,0.71,us,us7000iq39,2022-11-16T09:40:00.040Z,"southern Sumatra, Indonesia",earthquake,7.13,4.364,0.08,50,reviewed,us,us
+2022-11-16T09:19:31.990Z,38.8313332,-122.819664,1.75,1.6,md,22,52,0.01091,0.02,nc,nc73808071,2022-11-16T09:37:12.166Z,"8km NW of The Geysers, CA",earthquake,0.19,0.42,0.16,5,automatic,nc,nc
 2022-11-16T09:13:18.844Z,36.7568,-116.224,8,-0.3,ml,10,97.5,0.03,0.0757,nn,nn00851377,2022-11-16T09:15:45.396Z,"50 km ESE of Beatty, Nevada",earthquake,,1.1,0.84,5,automatic,nn,nn
 2022-11-16T09:10:43.770Z,19.2608337402344,-155.380004882812,29.7999992370605,1.82000005,md,40,134,,0.170000002,hv,hv73223857,2022-11-16T09:14:06.870Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.62,0.75999999,0.639999986,12,automatic,hv,hv
 2022-11-16T08:55:44.480Z,19.4788341522217,-155.661666870117,-1.99000000953674,2.24,ml,40,50,,0.239999995,hv,hv73223842,2022-11-16T09:01:15.380Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.39,0.5,3.81,9,automatic,hv,hv
@@ -214,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T09:47:28.519Z,5.7189,126.1189,106,4.4,mb,44,109,1.445,0.52,us,us7000ipuh,2022-11-15T10:51:09.040Z,"57 km ESE of Caburan, Philippines",earthquake,9.5,8.141,0.098,30,reviewed,us,us
 2022-11-15T09:47:11.760Z,36.0209999,-120.581337,3.56,1.89,md,23,80,0.03806,0.04,nc,nc73807706,2022-11-15T11:17:17.106Z,"19km NW of Parkfield, CA",earthquake,0.24,0.43,0.18,17,automatic,nc,nc
 2022-11-15T09:46:07.502Z,37.0896,-117.9937,7.2,1.5,ml,7,154.76,0.192,0.1429,nn,nn00851298,2022-11-15T17:33:07.277Z,"27 km ESE of Big Pine, California",earthquake,,6.3,0.64,3,reviewed,nn,nn
-2022-11-15T09:36:41.960Z,46.20033333333333,-122.187,0.45,0.88,ml,10,89,0.00105,0.06,uw,uw61885522,2022-11-15T18:52:10.310Z,"37 km NNE of Amboy, Washington",earthquake,0.23,0.23,0.5626588363684226,2,reviewed,uw,uw
-2022-11-15T09:33:58.360Z,41.5023333,-112.1751667,4.34,0.8,md,13,76,0.1045,0.1,uu,uu60525097,2022-11-15T17:19:38.380Z,"Utah",earthquake,0.31,2.27,0.08,10,reviewed,uu,uu
