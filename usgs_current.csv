@@ -271,7 +271,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T14:18:57.470Z,61.0543333333333,-152.369166666667,15.17,0.6,ml,6,304,,0.1,av,av91717986,2022-11-19T03:49:49.290Z,"66 km W of Tyonek, Alaska",earthquake,0.81,0.82,0.239390906722262,6,reviewed,av,av
 2022-11-18T14:12:43.840Z,33.2453333,-116.0926667,9.72,1.58,ml,50,51,0.09598,0.17,ci,ci40377592,2022-11-19T01:00:16.780Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.17,0.57,0.118,24,reviewed,ci,ci
 2022-11-18T14:07:00.364Z,-4.6325,100.5504,10,5.4,mb,49,107,2.413,0.49,us,us7000iqqs,2022-11-18T16:10:34.925Z,"211 km WSW of Bengkulu, Indonesia",earthquake,6.92,1.883,0.1,34,reviewed,us,us
-2022-11-18T13:51:46.590Z,53.395,-168.282166666667,-1,1.19,ml,6,298,,0.32,av,av91717976,2022-11-19T00:12:58.710Z,"63 km NE of Nikolski, Alaska",earthquake,0.95,0.64,0.418266873072423,6,reviewed,av,av
+2022-11-18T13:51:46.590Z,53.395,-168.282166666667,-1,1.19,ml,6,298,,0.32,av,av91717976,2022-11-19T00:12:58.710Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.95,0.64,0.418266873072423,6,reviewed,av,av
 2022-11-18T13:50:25.650Z,19.1491661071777,-155.386840820312,28.6900005340576,2.0999999,md,42,178,,0.100000001,hv,hv73227037,2022-11-18T13:53:43.050Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.56,1.00999999,1.82000005,14,automatic,hv,hv
 2022-11-18T13:48:55.526Z,61.3734,-150.1795,34.6,1.7,ml,,,,0.37,ak,ak022esr2sj4,2022-11-18T13:50:31.897Z,"10 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-18T13:46:09.520Z,35.9216667,-117.6978333,4.23,1.18,ml,20,129,0.1011,0.11,ci,ci40377584,2022-11-19T00:52:59.221Z,"19km E of Little Lake, CA",earthquake,0.2,0.4,0.129,13,reviewed,ci,ci
@@ -308,6 +308,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T11:41:29.079Z,-22.0562,170.2289,10,5,mb,38,119,2.635,0.71,us,us7000iqnk,2022-11-18T11:59:46.040Z,"249 km ESE of Tadine, New Caledonia",earthquake,9.09,1.845,0.095,35,reviewed,us,us
 2022-11-18T11:41:11.127Z,63.5383,-147.2979,0,1.7,ml,,,,0.49,ak,ak022espubvs,2022-11-18T11:43:27.884Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-18T11:41:10.880Z,17.9875,-66.9745,13.65,2.23,md,8,158,0.06875,0.19,pr,pr71382963,2022-11-18T12:13:41.640Z,"6 km W of Fuig, Puerto Rico",earthquake,0.87,0.52,0.0225603547812059,4,reviewed,pr,pr
-2022-11-18T11:27:06.840Z,19.1604995727539,-155.484161376953,32.8800010681152,2.01999998,md,45,121,,0.150000006,hv,hv73226907,2022-11-18T11:30:17.350Z,"4 km S of Pāhala, Hawaii",earthquake,0.6,0.949999988,0.25999999,17,automatic,hv,hv
-2022-11-18T11:25:46.677Z,63.3509,-145.0963,0,1.4,ml,,,,0.93,ak,ak022espqz5z,2022-11-18T11:28:02.295Z,"39 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-11-18T11:25:21.400Z,51.852,-177.979666666667,1.76,1.03,ml,4,156,,0.08,av,av91076988,2022-11-19T03:19:36.940Z,"92 km W of Adak, Alaska",earthquake,0.35,1.4,0.21824246046326,4,reviewed,av,av
