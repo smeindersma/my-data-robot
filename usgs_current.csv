@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-21T22:41:23.240Z,19.2663326263428,-155.397994995117,33.3499984741211,2.1400001,md,32,210,,0.109999999,hv,hv73230917,2022-11-21T22:44:29.800Z,"11 km NE of Pāhala, Hawaii",earthquake,0.64,0.779999971,1.22000003,22,automatic,hv,hv
 2022-11-21T22:24:00.570Z,38.8311653,-122.8010025,1.92,0.36,md,11,87,0.01051,0.01,nc,nc73810091,2022-11-21T22:35:12.136Z,"7km W of Cobb, CA",earthquake,0.34,0.79,,1,automatic,nc,nc
 2022-11-21T21:48:30.673Z,62.7103,-150.8357,103.8,1.5,ml,,,,0.72,ak,ak022exug8xn,2022-11-21T21:50:13.782Z,"24 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-11-21T21:48:20.650Z,35.6043333,-117.4818333,7.3,1.09,ml,18,142,0.02393,0.15,ci,ci40379072,2022-11-21T21:51:57.426Z,"18km E of Ridgecrest, CA",earthquake,0.34,0.56,0.088,10,automatic,ci,ci
@@ -241,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-20T22:55:41.010Z,47.593833333333336,-122.8045,22.35,1.1300000000000001,ml,11,124,0.0328,0.16,uw,uw61886497,2022-11-21T04:11:48.460Z,"5 km SSE of Seabeck, Washington",earthquake,0.85,0.74,0.19763091087152085,7,reviewed,uw,uw
 2022-11-20T22:55:07.796Z,37.3425,-117.2602,0.8,0.7,ml,8,142.05,0.042,0.2487,nn,nn00851679,2022-11-20T22:58:55.416Z,"40 km S of Goldfield, Nevada",earthquake,,0.3,1.14,4,automatic,nn,nn
 2022-11-20T22:47:14.650Z,38.504,-119.5463333,1.49,2.22,md,18,62,0.05326,0.06,nc,nc73809731,2022-11-21T22:19:10.038Z,"6km WSW of Walker, CA",earthquake,0.22,0.86,0.234,25,reviewed,nc,nc
-2022-11-20T22:42:09.312Z,36.8235,69.841,10,4.3,mb,24,97,0.661,0.58,us,us7000ir80,2022-11-20T23:51:04.040Z,"27 km N of Farkhār, Afghanistan",earthquake,3.04,1.938,0.202,7,reviewed,us,us
