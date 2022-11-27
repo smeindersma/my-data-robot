@@ -177,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T14:08:13.180Z,63.1,-150.8799,120.6,3,ml,,,,0.51,ak,ak022f5zqc6z,2022-11-26T14:44:10.040Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-26T14:02:01.015Z,61.3492,-150.326,14.4,1.5,ml,,,,0.57,ak,ak022f5zp0xx,2022-11-26T14:04:42.416Z,"18 km W of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-26T13:52:00.286Z,59.0049,-152.2093,35.2,2.3,ml,,,,0.75,ak,ak022f5zeb30,2022-11-26T13:55:42.897Z,"Southern Alaska",earthquake,,16,,,automatic,ak,ak
-2022-11-26T13:35:27.310Z,38.7939987,-122.7493362,1.7,0.95,md,13,91,0.01047,0.03,nc,nc73811761,2022-11-26T16:00:13.251Z,"2km NNE of The Geysers, CA",earthquake,0.27,0.75,0.21,3,automatic,nc,nc
