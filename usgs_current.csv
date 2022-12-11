@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T21:06:15.250Z,33.6746667,-116.725,14.65,0.76,ml,21,80,0.03751,0.16,ci,ci40144639,2022-12-11T21:26:35.115Z,"7km S of Idyllwild, CA",earthquake,0.43,0.51,0.245,15,reviewed,ci,ci
 2022-12-11T20:59:30.030Z,34.0441667,-116.698,10.22,1.26,ml,32,47,0.04194,0.19,ci,ci40144631,2022-12-11T21:02:59.195Z,"11km W of Morongo Valley, CA",earthquake,0.24,0.62,0.229,28,automatic,ci,ci
 2022-12-11T20:58:56.850Z,34.0468333,-116.7038333,10.67,1.64,ml,55,37,0.04714,0.22,ci,ci40144623,2022-12-11T21:09:50.090Z,"11km W of Morongo Valley, CA",earthquake,0.23,0.44,0.162,27,automatic,ci,ci
-2022-12-11T20:56:41.855Z,64.977,-164.4183,1,3.9,ml,,,,0.94,ak,ak022fuwnhsp,2022-12-11T21:41:14.116Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-11T20:56:41.855Z,64.977,-164.4183,1,3.9,ml,,,,0.94,ak,ak022fuwnhsp,2022-12-11T23:56:41.040Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-11T20:49:15.670Z,38.7879982,-122.7496643,0.01,1.43,md,14,136,0.02135,0.05,nc,nc73817431,2022-12-11T22:27:13.970Z,"1km NNE of The Geysers, CA",earthquake,0.27,0.81,0.19,14,automatic,nc,nc
 2022-12-11T20:34:59.530Z,38.7869987,-122.7513351,0.1,1.72,md,15,126,0.01202,0.03,nc,nc73817416,2022-12-11T21:59:14.796Z,"1km NNE of The Geysers, CA",earthquake,0.22,0.43,0.2,17,automatic,nc,nc
 2022-12-11T20:29:27.316Z,39.4611,141.8776,62.49,4.7,mb,33,178,1.466,0.33,us,us6000j8na,2022-12-11T21:28:35.040Z,"6 km W of Yamada, Japan",earthquake,6.45,7.191,0.12,21,reviewed,us,us
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T14:48:46.021Z,58.2452,-155.1036,0,0.8,ml,,,,0.2,ak,ak022fut16re,2022-12-11T14:50:30.274Z,"84 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-12-11T14:38:25.210Z,38.7663345,-122.7251663,2.63,1.17,md,6,136,0.004741,0.02,nc,nc73817286,2022-12-11T15:12:11.277Z,"3km ESE of The Geysers, CA",earthquake,4.45,4.58,0.36,6,automatic,nc,nc
 2022-12-11T14:34:48.665Z,-31.6726,125.8667,9.953,4.6,mb,23,47,2.079,0.34,us,us6000j8lq,2022-12-11T20:00:25.817Z,"Western Australia",earthquake,7.31,3.385,0.146,16,reviewed,us,us
-2022-12-11T14:31:29.648Z,17.2249,-100.4732,18.83,6,mww,98,119,1.851,0.73,us,us6000j8lp,2022-12-11T23:13:31.030Z,"3 km WNW of El Ticui, Mexico",earthquake,9.09,3.647,0.043,53,reviewed,us,us
+2022-12-11T14:31:29.648Z,17.2249,-100.4732,18.83,6,mww,98,119,1.851,0.73,us,us6000j8lp,2022-12-11T23:55:40.365Z,"3 km WNW of El Ticui, Mexico",earthquake,9.09,3.647,0.043,53,reviewed,us,us
 2022-12-11T14:29:13.436Z,37.2318,-97.9554,10,3.2,mb_lg,31,64,0.175,0.77,us,us6000j8ln,2022-12-11T16:18:16.263Z,"8 km SW of Danville, Kansas",earthquake,1.33,1.996,0.051,102,reviewed,us,us
 2022-12-11T14:24:44.369Z,60.0896,-152.539,98.7,1.8,ml,,,,0.36,ak,ak022fusw1g4,2022-12-11T14:26:52.241Z,"47 km WNW of Happy Valley, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-12-11T14:12:43.587Z,31.0228,141.7936,10,4.9,mb,53,122,2.679,0.78,us,us6000j8lk,2022-12-11T15:24:11.040Z,"Izu Islands, Japan region",earthquake,5.62,1.835,0.057,98,reviewed,us,us
@@ -179,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T00:31:16.733Z,18.6115,-104.1361,28.208,4.1,mb,40,217,2.937,0.79,us,us6000j8i1,2022-12-11T14:51:30.336Z,"34 km SSW of Cuyutlán, Mexico",earthquake,11.81,12.044,0.12,19,reviewed,us,us
 2022-12-11T00:29:47.560Z,18.0036666666667,-66.8366666666667,14.76,2.29,md,9,157,0.04844,0.12,pr,pr71386553,2022-12-11T00:39:31.510Z,"2 km WNW of Indios, Puerto Rico",earthquake,0.44,0.44,0.0485690318596512,4,reviewed,pr,pr
 2022-12-11T00:16:20.874Z,59.7434,-153.1188,105.6,2.1,ml,,,,0.34,ak,ak022fuki7fr,2022-12-11T00:20:43.836Z,"55 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-10T23:57:53.930Z,38.8349991,-122.8033371,1.86,1.03,md,15,68,0.0107,0.02,nc,nc73817086,2022-12-11T00:30:13.031Z,"7km WNW of Cobb, CA",earthquake,0.29,0.58,0.25,17,automatic,nc,nc
-2022-12-10T23:53:36.187Z,32.942,141.6374,10,5.1,mb,93,93,1.542,0.92,us,us6000j8hx,2022-12-11T00:12:55.040Z,"273 km SSE of Katsuura, Japan",earthquake,7.82,1.86,0.048,141,reviewed,us,us
