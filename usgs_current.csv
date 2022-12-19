@@ -202,6 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T07:40:47.923Z,-5.0069,152.0251,90.498,4.6,mb,24,78,0.823,0.56,us,us6000ja46,2022-12-18T08:02:40.040Z,"78 km SSW of Kokopo, Papua New Guinea",earthquake,11.4,8.821,0.136,18,reviewed,us,us
 2022-12-18T07:37:58.210Z,48.208333333333336,-122.28433333333334,19.36,1.1500000000000001,ml,19,68,0.05,0.26,uw,uw61899011,2022-12-18T21:09:05.490Z,"2 km WNW of Silvana, Washington",earthquake,0.52,0.78,0.19978533441260304,7,reviewed,uw,uw
 2022-12-18T07:33:04.210Z,34.0736667,-120.3796667,12.88,2.1,ml,14,284,0.4889,0.18,ci,ci40391696,2022-12-18T07:36:43.197Z,"5km NNW of San Miguel Is., CA",earthquake,6.3,2.44,0.099,8,automatic,ci,ci
-2022-12-18T07:24:55.240Z,46.196,-122.18733333333333,3.36,0.24,ml,15,81,0.00439,0.09,uw,uw61899006,2022-12-18T21:00:13.320Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.4,0.12458668350157415,12,reviewed,uw,uw
-2022-12-18T07:24:24.970Z,37.4075,-118.5245,-0.78,1.22,md,14,103,0.1629,0.06,nc,nc73820171,2022-12-19T06:42:14.078Z,"6km E of Round Valley, CA",earthquake,0.32,0.93,0.213,11,reviewed,nc,nc
-2022-12-18T07:22:03.010Z,63.3751,-149.2903,92.8,2.1,ml,,,,0.43,ak,ak022g69gx5a,2022-12-18T07:32:55.040Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
