@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T02:33:06.530Z,38.5296669,-119.5066681,5.58,2.56,md,15,85,0.05713,0.1,nc,nc73822871,2022-12-22T04:28:13.552Z,"3km NW of Walker, CA",earthquake,0.38,0.8,0.28,12,automatic,nc,nc
 2022-12-22T02:25:06.679Z,62.3562,-149.0818,15.3,1.8,ml,,,,0.24,ak,ak022gcsnsff,2022-12-22T02:26:30.399Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-22T02:23:07.023Z,62.3562,-149.0763,8.3,1.9,ml,,,,0.43,ak,ak022gcsnd0u,2022-12-22T02:25:14.132Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-22T02:22:50.320Z,37.6173325,-122.0241699,4.88,3.31,ml,83,39,,0.16,nc,nc73822861,2022-12-22T04:32:00.353Z,"2km N of Union City, CA",earthquake,0.18,0.58,0.246,53,reviewed,nc,nc
+2022-12-22T02:22:50.320Z,37.6173325,-122.0241699,4.88,3.31,ml,83,39,,0.16,nc,nc73822861,2022-12-22T04:42:17.487Z,"2km N of Union City, CA",earthquake,0.18,0.58,0.246,53,reviewed,nc,nc
 2022-12-22T01:53:33.350Z,17.9506666666667,-66.9613333333333,11.62,2.09,md,5,212,0.08108,0.05,pr,pr71388478,2022-12-22T02:02:58.300Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.61,0.88,0.0634485560795948,4,reviewed,pr,pr
 2022-12-22T01:37:21.649Z,62.8425,-151.5802,0,2,ml,,,,0.69,ak,ak022gcs4ykm,2022-12-22T01:39:48.834Z,"56 km NW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-22T01:30:01.210Z,32.9245,-115.8115,7.18,1.3,ml,26,67,0.02273,0.26,ci,ci40148687,2022-12-22T01:33:36.010Z,"22km SW of Westmorland, CA",earthquake,0.43,0.82,0.204,22,automatic,ci,ci
@@ -258,6 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T04:55:24.700Z,40.5936661,-124.0684967,20.85,2.62,md,16,122,,0.07,nc,nc73822251,2022-12-21T15:09:49.230Z,"6km NNE of Hydesville, CA",earthquake,0.43,0.6,0.2,11,automatic,nc,nc
 2022-12-21T04:53:23.530Z,60.5585,-152.997333333333,10.53,-0.03,ml,6,290,,0.1,av,av91081378,2022-12-22T01:10:15.700Z,"82 km ENE of Port Alsworth, Alaska",earthquake,0.8,0.62,0.227833775023414,6,reviewed,av,av
 2022-12-21T04:48:53.620Z,44.0553333,-110.4965,6.41,2.13,md,17,159,0.2098,0.2,uu,uu60528432,2022-12-21T16:46:45.510Z,"Wyoming",earthquake,0.7,1.27,0.175,9,reviewed,uu,uu
-2022-12-21T04:40:53.777Z,64.928,-148.9453,5.6,1.4,ml,,,,0.75,ak,ak022gb6emf0,2022-12-21T04:43:01.834Z,"31 km SE of Minto, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-21T04:39:32.134Z,39.5939,-119.9519,5.6,0.7,ml,6,118.89,0.016,0.1549,nn,nn00853916,2022-12-21T21:21:53.031Z,"8 km NNE of Verdi, Nevada",earthquake,,1.6,0.23,4,reviewed,nn,nn
-2022-12-21T04:38:53.080Z,40.6011667,-124.0805,16.16,2.53,md,28,39,0.1151,0.12,nc,nc73822246,2022-12-21T16:28:13.001Z,"6km NNE of Hydesville, CA",earthquake,0.24,0.41,0.074,26,reviewed,nc,nc
