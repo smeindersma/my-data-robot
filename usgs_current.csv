@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-24T13:19:49.150Z,38.7779999,-122.7578354,1.55,0.75,md,8,102,0.009543,0.01,nc,nc73824151,2022-12-24T13:21:24.228Z,"0km WNW of The Geysers, CA",earthquake,0.34,0.75,0.04,7,automatic,nc,nc
 2022-12-24T13:03:14.920Z,19.3864994049072,-155.278167724609,1.12999999523163,2.23000002,md,7,132,,0.129999995,hv,hv73280812,2022-12-24T13:06:09.180Z,"Hawaii region, Hawaii",earthquake,0.44,0.379999995,1.48000002,3,automatic,hv,hv
 2022-12-24T12:56:25.390Z,19.2081661224365,-155.46549987793,30.25,1.97000003,md,39,100,,0.119999997,hv,hv73280807,2022-12-24T12:59:29.130Z,"Hawaii region, Hawaii",earthquake,0.55,0.850000024,1.38999999,14,automatic,hv,hv
 2022-12-24T12:46:42.847Z,59.3572,-151.2511,39.4,2.2,ml,,,,0.17,ak,ak022gg9teak,2022-12-24T12:48:57.663Z,"26 km ESE of Seldovia Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -216,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T13:43:01.140Z,58.1851666666667,-155.280333333333,1.2,0.35,ml,5,148,,0.03,av,av91736946,2022-12-23T16:00:20.330Z,"84 km NW of Karluk, Alaska",earthquake,0.28,1.01,0.314053266138891,5,reviewed,av,av
 2022-12-23T13:31:11.850Z,33.2746667,-115.9656667,5.69,1.4,ml,50,53,0.01775,0.15,ci,ci40149143,2022-12-23T19:15:44.050Z,"3km SSW of Salton City, CA",earthquake,0.16,0.37,0.208,30,reviewed,ci,ci
 2022-12-23T13:27:38.620Z,38.8429985,-122.8278351,1.7,0.34,md,10,140,0.007423,0.02,nc,nc73823686,2022-12-23T14:04:13.568Z,"9km WNW of Cobb, CA",earthquake,0.34,0.87,0.25,12,automatic,nc,nc
-2022-12-23T13:24:35.940Z,38.829834,-122.8563309,2.37,0.58,md,11,95,0.01397,0.03,nc,nc73823676,2022-12-23T13:43:13.433Z,"10km NW of The Geysers, CA",earthquake,0.35,0.6,0.38,9,automatic,nc,nc
-2022-12-23T13:16:41.230Z,38.8406677,-122.8779984,2.61,0.42,md,8,113,0.01793,0.01,nc,nc73823671,2022-12-23T13:33:13.370Z,"13km NW of The Geysers, CA",earthquake,0.34,0.77,0.3,9,automatic,nc,nc
-2022-12-23T13:12:07.410Z,46.634166666666665,-122.39283333333333,18.39,1.22,ml,39,59,0.1432,0.18,uw,uw61891167,2022-12-23T18:51:33.460Z,"Washington",earthquake,0.24,0.81,0.12399879468578168,22,reviewed,uw,uw
