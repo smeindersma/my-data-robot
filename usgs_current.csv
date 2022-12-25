@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-25T10:54:40.103Z,61.0606,-150.3718,64,1.6,ml,,,,0.2,ak,ak022ghw7l3e,2022-12-25T10:56:31.346Z,"23 km NE of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-25T10:46:57.808Z,58.1735,-155.3834,1.2,0.9,ml,,,,0.16,ak,ak022ghw5wqc,2022-12-25T10:48:57.162Z,"Alaska Peninsula",earthquake,,2.2,,,automatic,ak,ak
 2022-12-25T10:39:58.260Z,33.4428333,-116.629,5.5,0.59,ml,14,103,0.05637,0.14,ci,ci40149671,2022-12-25T10:43:36.528Z,"13km SSE of Anza, CA",earthquake,0.39,0.76,0.172,10,automatic,ci,ci
-2022-12-25T10:32:52.750Z,36.2551651,-120.8388367,8.4,1.2,md,5,197,0.04958,0.01,nc,nc73824571,2022-12-25T10:50:11.808Z,"21km NE of San Lucas, CA",earthquake,1.49,0.68,0.16,3,automatic,nc,nc
+2022-12-25T10:32:52.750Z,36.2551651,-120.8388367,8.4,1.2,md,5,197,0.04958,0.01,nc,nc73824571,2022-12-25T11:05:10.929Z,"21km NE of San Lucas, CA",earthquake,1.49,0.68,0.16,3,automatic,nc,nc
 2022-12-25T10:10:06.255Z,63.4307,-147.3299,63.8,2.2,ml,,,,0.27,ak,ak022ghvy2z5,2022-12-25T10:11:34.033Z,"81 km E of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-25T10:02:52.615Z,56.4746,-156.998,107.8,2.9,ml,,,,0.83,ak,ak022ghvwgtp,2022-12-25T10:15:39.040Z,"89 km ENE of Chignik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-12-25T09:50:46.190Z,33.2351667,-116.0445,6.04,0.76,ml,18,146,0.08316,0.23,ci,ci40149663,2022-12-25T09:54:13.651Z,"11km SW of Salton City, CA",earthquake,0.57,1.85,0.167,9,automatic,ci,ci
@@ -184,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-24T11:22:52.750Z,33.3206667,-116.3193333,10.21,0.96,ml,26,122,0.09722,0.16,ci,ci40149391,2022-12-24T11:33:53.430Z,"9km NE of Borrego Springs, CA",earthquake,0.32,0.66,0.155,22,automatic,ci,ci
 2022-12-24T11:22:38.020Z,17.9723333333333,-66.87,10.09,2.05,md,5,201,0.009218,0.07,pr,pr71388833,2022-12-24T11:35:50.430Z,"Puerto Rico",earthquake,0.61,0.46,0.0219326277391754,4,reviewed,pr,pr
 2022-12-24T11:08:30.010Z,40.5395012,-124.3993301,17.67,2.31,md,8,307,0.07939,0.07,nc,nc73824116,2022-12-24T11:40:12.395Z,"12km WSW of Ferndale, CA",earthquake,4.21,0.95,0.04,4,automatic,nc,nc
-2022-12-24T11:03:18.810Z,34.1921667,-117.6201667,4.69,0.86,ml,18,95,0.05637,0.13,ci,ci40149383,2022-12-24T11:06:59.740Z,"8km NNW of Rancho Cucamonga, CA",earthquake,0.32,0.44,0.268,23,automatic,ci,ci
