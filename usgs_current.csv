@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-27T07:29:12.130Z,38.8186684,-122.7896652,1.93,0.71,md,8,153,0.01156,0.02,nc,nc73825576,2022-12-27T07:30:48.111Z,"5km NNW of The Geysers, CA",earthquake,0.57,0.88,0.34,8,automatic,nc,nc
 2022-12-27T07:10:02.630Z,33.1643333,-115.932,6.6,1.6,ml,44,53,0.03944,0.27,ci,ci40150495,2022-12-27T07:20:52.480Z,"15km S of Salton City, CA",earthquake,0.36,0.96,0.159,28,automatic,ci,ci
 2022-12-27T07:01:27.580Z,19.2573337554932,-155.397506713867,31.5400009155273,1.90999997,md,38,129,,0.150000006,hv,hv73284417,2022-12-27T07:04:46.980Z,"Hawaii region, Hawaii",earthquake,0.67,0.959999979,0.709999979,17,automatic,hv,hv
 2022-12-27T06:45:47.970Z,38.6049995,-122.3199997,-0.37,1.77,md,8,89,0.06248,0.39,nc,nc73825566,2022-12-27T07:02:12.449Z,"12km ENE of Angwin, CA",earthquake,1.53,7.44,0.16,7,automatic,nc,nc
 2022-12-27T06:26:22.960Z,35.675,-117.5618333,7.16,1.36,ml,21,143,0.1199,0.13,ci,ci40150487,2022-12-27T06:29:54.559Z,"12km ENE of Ridgecrest, CA",earthquake,0.29,0.8,0.149,19,automatic,ci,ci
-2022-12-27T06:25:21.480Z,36.9188347,-121.4296646,7.64,1.69,md,26,48,0.06025,0.05,nc,nc73825561,2022-12-27T06:47:15.363Z,"8km NNW of Hollister, CA",earthquake,0.21,0.8,0.17,26,automatic,nc,nc
+2022-12-27T06:25:21.480Z,36.9188347,-121.4296646,7.64,1.69,md,26,48,0.06025,0.05,nc,nc73825561,2022-12-27T07:33:10.628Z,"8km NNW of Hollister, CA",earthquake,0.21,0.8,0.17,26,automatic,nc,nc
 2022-12-27T06:15:33.175Z,61.4073,-146.4177,27.4,1.9,ml,,,,0.57,ak,ak022gl4o679,2022-12-27T06:17:21.762Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-27T06:07:56.720Z,38.8333321,-122.8141632,1.79,1.19,md,13,147,0.01042,0.02,nc,nc73825551,2022-12-27T06:47:15.487Z,"8km W of Cobb, CA",earthquake,0.34,0.7,0.24,15,automatic,nc,nc
 2022-12-27T06:04:20.258Z,58.2287,-155.1195,1.1,0.7,ml,,,,0.11,ak,ak022gl4lsbt,2022-12-27T06:06:33.582Z,"Alaska Peninsula",earthquake,,3.3,,,automatic,ak,ak
