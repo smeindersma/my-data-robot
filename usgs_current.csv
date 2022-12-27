@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-26T05:16:46.272Z,58.1634,-155.2649,0.1,1,ml,,,,0.45,ak,ak022gjgjmtv,2022-12-26T22:43:16.640Z,"81 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-26T05:07:49.410Z,38.8393326,-122.8085022,1.56,0.72,md,12,64,0.01421,0.03,nc,nc73825091,2022-12-26T05:24:13.267Z,"8km WNW of Cobb, CA",earthquake,0.29,0.51,0.14,11,automatic,nc,nc
 2022-12-26T04:57:20.310Z,17.8961666666667,-66.881,15.12,2.81,md,13,238,0.07848,0.08,pr,pr71389078,2022-12-26T05:15:12.090Z,"8 km SSE of Guánica, Puerto Rico",earthquake,0.54,0.42,0.10406589407565,6,reviewed,pr,pr
-2022-12-26T04:47:22.120Z,35.83,-117.6828333,4.69,1.28,ml,20,100,0.07003,0.19,ci,ci40150095,2022-12-26T04:50:52.831Z,"23km N of Ridgecrest, CA",earthquake,0.32,0.57,0.165,18,automatic,ci,ci
