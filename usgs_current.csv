@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-29T14:35:53.950Z,19.2316665649414,-155.393661499023,31.7999992370605,1.70000005,md,36,144,,0.119999997,hv,hv73286512,2022-12-29T14:39:06.050Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.64,0.569999993,1.76999998,4,automatic,hv,hv
 2022-12-29T14:21:56.457Z,39.2098,-120.0477,5.2,1.4,ml,14,111.55,0.061,0.2115,nn,nn00854313,2022-12-29T14:24:20.225Z,"3 km S of Tahoe Vista, California",earthquake,,0.6,0.27,9,automatic,nn,nn
 2022-12-29T14:21:56.220Z,38.8413315,-122.8218307,1.26,0.61,md,11,88,0.01101,0.03,nc,nc73826386,2022-12-29T14:23:31.492Z,"9km WNW of Cobb, CA",earthquake,0.27,0.72,0.39,11,automatic,nc,nc
 2022-12-29T14:20:40.020Z,19.156665802002,-155.494995117188,30.5499992370605,2.13000011,md,39,154,,0.129999995,hv,hv73286487,2022-12-29T14:24:05.800Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.62,0.870000005,1.98000002,14,automatic,hv,hv
