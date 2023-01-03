@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-03T13:50:47.910Z,38.8296661,-122.8024979,1.8,2.01,md,37,34,,0.04,nc,nc73828371,2023-01-03T14:55:11.408Z,"7km W of Cobb, CA",earthquake,0.17,0.28,0.18,36,automatic,nc,nc
 2023-01-03T13:37:43.350Z,40.4458351,-124.004837,24.12,1.87,md,8,204,0.093,0.08,nc,nc73828361,2023-01-03T14:13:11.331Z,"10km SE of Rio Dell, CA",earthquake,1.7,3.06,0.1,4,automatic,nc,nc
 2023-01-03T13:33:45.021Z,61.7405,-148.1636,6.7,2.1,ml,,,,0.58,ak,ak02356jug6,2023-01-03T13:35:42.933Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-03T13:31:20.660Z,19.4895,-155.267166666667,18.8,4,ml,48,70,,0.12,hv,hv73293392,2023-01-03T19:59:05.212Z,"6 km NW of Volcano, Hawaii",earthquake,0.26,0.54,0.198371752900075,40,reviewed,hv,hv
+2023-01-03T13:31:20.660Z,19.4895,-155.267166666667,18.8,4,ml,48,70,,0.12,hv,hv73293392,2023-01-03T20:35:10.968Z,"6 km NW of Volcano, Hawaii",earthquake,0.26,0.54,0.198371752900075,40,reviewed,hv,hv
 2023-01-03T13:09:08.196Z,-65.1655,179.3145,10,5.5,mww,40,41,13.295,0.43,us,us7000j1tt,2023-01-03T16:41:53.300Z,"Balleny Islands region",earthquake,14.04,1.836,0.073,18,reviewed,us,us
 2023-01-03T13:00:07.930Z,19.2308330535889,-155.391006469727,30.5400009155273,2.13,ml,43,150,,0.150000006,hv,hv73293367,2023-01-03T16:09:00.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.629999995,2.85,15,automatic,hv,hv
 2023-01-03T12:55:32.361Z,-2.4701,140.9095,24.294,5.1,mww,50,49,8.663,0.86,us,us7000j1tl,2023-01-03T14:11:26.497Z,"22 km ENE of Jayapura, Indonesia",earthquake,10.56,5.838,0.089,12,reviewed,us,us
@@ -222,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T20:45:43.720Z,19.244499206543,-155.40950012207,33.8300018310547,2.92,ml,42,129,,0.159999996,hv,hv73292287,2023-01-03T17:11:11.707Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.54,0.699999988,3.77,30,automatic,hv,hv
 2023-01-02T20:42:52.334Z,61.921,-150.1065,29.8,1.8,ml,,,,0.76,ak,ak0233n8h5k,2023-01-02T20:46:02.419Z,"19 km N of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-02T20:36:25.232Z,31.6733,-104.3698,5,2.6,ml,23,101,0.112,1.03,us,us7000j1ns,2023-01-02T21:29:00.040Z,"55 km S of Whites City, New Mexico",earthquake,1.63,1.529,0.048,56,reviewed,us,us
-2023-01-02T20:34:18.979Z,60.0407,-151.2873,33,2.7,ml,,,,1.15,ak,ak0233n6prn,2023-01-02T20:38:34.412Z,"21 km E of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-01-02T20:34:02.710Z,59.9664,-153.3003,128.4,2.2,ml,,,,0.23,ak,ak0233n6nn3,2023-01-02T21:23:21.040Z,"49 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
