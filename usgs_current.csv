@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-05T22:47:40.240Z,38.8101654,-122.8966675,5.4,1.16,md,9,176,0.02942,0.02,nc,nc73829051,2023-01-05T22:49:14.368Z,"10km E of Cloverdale, CA",earthquake,1.02,1.71,0.06,10,automatic,nc,nc
+2023-01-05T22:42:41.160Z,64.5882,-149.4817,23,1.1,ml,,,,0.32,ak,ak0238n1d10,2023-01-05T22:45:19.502Z,"17 km W of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-05T22:30:23.520Z,19.2476673126221,-155.398330688477,32.1300010681152,2.47,ml,39,133,,0.159999996,hv,hv73297112,2023-01-05T22:39:25.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.66,0.910000026,3.24,20,automatic,hv,hv
 2023-01-05T22:23:20.220Z,19.4090003967285,-155.280502319336,1.22000002861023,1.96,ml,14,101,,0.119999997,hv,hv73297097,2023-01-05T22:28:50.280Z,"6 km SW of Volcano, Hawaii",earthquake,0.26,0.370000005,2.53,8,automatic,hv,hv
 2023-01-05T22:09:04.750Z,19.4096660614014,-155.27766418457,0.46000000834465,1.79999995,md,14,98,,0.159999996,hv,hv73297062,2023-01-05T22:11:58.630Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.319999993,0.99000001,11,automatic,hv,hv
