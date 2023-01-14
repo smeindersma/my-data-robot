@@ -177,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T12:01:19.860Z,38.536335,-122.6081696,6.37,1.7,md,14,125,,0.04,nc,nc73831571,2023-01-13T15:55:46.070Z,"5km SSW of Calistoga, CA",earthquake,0.28,1.26,0.24,14,automatic,nc,nc
 2023-01-13T11:56:29.416Z,36.7654,-115.8889,6.8,0.4,ml,7,283.28,0.055,0.1878,nn,nn00854814,2023-01-13T21:28:50.857Z,"29 km NW of Indian Springs, Nevada",earthquake,,3.3,0.11,2,reviewed,nn,nn
 2023-01-13T11:48:51.790Z,39.1218333,-110.8431667,9.45,1.56,md,10,140,0.2487,0.14,uu,uu60529632,2023-01-13T15:34:24.280Z,"Utah",earthquake,0.57,2.65,0.239,7,reviewed,uu,uu
-2023-01-13T11:31:25.413Z,60.9904,-152.0315,89.5,1.8,ml,,,,0.34,ak,ak023lopz8d,2023-01-13T11:33:30.493Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
