@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-17T18:46:52.570Z,38.8203316,-122.7961655,3.36,0.39,md,11,61,0.01129,0.02,nc,nc73833251,2023-01-17T18:48:29.546Z,"6km NW of The Geysers, CA",earthquake,0.43,0.93,0.24,13,automatic,nc,nc
+2023-01-17T18:42:34.190Z,38.8238335,-122.7978363,2.98,0.26,md,7,105,0.01597,0.01,nc,nc73833246,2023-01-17T18:44:08.097Z,"6km NW of The Geysers, CA",earthquake,0.48,1.46,0.14,8,automatic,nc,nc
 2023-01-17T18:28:06.338Z,59.744,-153.1116,106.5,2.7,ml,,,,0.31,ak,ak023sf0ptj,2023-01-17T18:29:51.482Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-17T18:11:33.870Z,19.099666595459,-155.422836303711,29.1599998474121,1.98000002,md,29,187,,0.129999995,hv,hv73306017,2023-01-17T18:14:50.780Z,"Island of Hawaii, Hawaii",earthquake,0.66,0.970000029,1.79999995,10,automatic,hv,hv
 2023-01-17T18:05:42.309Z,-24.614,-70.0847,60.489,4.4,mb,44,70,0.291,0.9,us,us7000j4y9,2023-01-17T18:35:52.040Z,"Antofagasta, Chile",earthquake,7.24,6.497,0.096,34,reviewed,us,us
@@ -66,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T09:39:21.110Z,63.2,-148.8997,0,1.3,ml,,,,0.88,ak,ak023s9q7bw,2023-01-17T09:41:24.962Z,"21 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-17T09:38:48.034Z,-15.3297,-172.8909,10,4.9,mb,34,119,2.495,0.38,us,us7000j4v1,2023-01-17T10:09:24.040Z,"119 km NE of Hihifo, Tonga",earthquake,11.08,1.72,0.074,61,reviewed,us,us
 2023-01-17T09:22:17.850Z,19.0155,-67.8471666666667,4.89,3.25,md,10,249,0.7101,0.45,pr,pr71393038,2023-01-17T17:19:52.350Z,"75 km NE of Punta Cana, Dominican Republic",earthquake,2.49,31.61,0.0781913774094782,9,reviewed,pr,pr
-2023-01-17T09:08:03.980Z,40.4625015,-125.2178345,4.46,3.29,ml,26,292,,0.46,nc,nc73833076,2023-01-17T16:08:54.620Z,"80km WNW of Petrolia, CA",earthquake,11.37,31.94,0.155,4,automatic,nc,nc
+2023-01-17T09:08:03.980Z,40.4625015,-125.2178345,4.46,3.29,ml,26,292,,0.46,nc,nc73833076,2023-01-17T18:47:56.717Z,"80km WNW of Petrolia, CA",earthquake,11.37,31.94,0.155,4,automatic,nc,nc
 2023-01-17T08:53:10.360Z,38.822834,-122.8073349,2.92,0.26,md,7,84,0.002212,0.01,nc,nc73833071,2023-01-17T09:10:11.832Z,"7km NW of The Geysers, CA",earthquake,0.54,1.89,0.14,9,automatic,nc,nc
 2023-01-17T08:49:03.272Z,63.8533,-150.0107,3.8,1.6,ml,,,,0.57,ak,ak023s96vkn,2023-01-17T08:51:30.734Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-17T08:39:57.190Z,37.427166,-121.8125,0.15,1.38,md,6,150,0.06437,0.05,nc,nc73833066,2023-01-17T08:56:10.748Z,"7km N of Alum Rock, CA",earthquake,0.85,6.76,0.17,4,automatic,nc,nc
