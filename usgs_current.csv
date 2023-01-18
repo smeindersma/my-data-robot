@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-18T05:44:08.780Z,33.0583344,-116.5370026,14.19,1.18,ml,36,57,0.05563,0.2,ci,ci40403536,2023-01-18T05:46:14.115Z,"6km ESE of Julian, CA",earthquake,0.31,0.64,0.294,6,automatic,ci,ci
 2023-01-18T05:25:02.581Z,63.0252,-149.316,68.8,1.9,ml,,,,0.52,ak,ak023tuss0i,2023-01-18T05:26:52.667Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-18T05:23:05.430Z,33.203,-115.9778333,4.24,1.23,ml,23,126,0.02943,0.33,ci,ci40403528,2023-01-18T05:26:35.942Z,"11km S of Salton City, CA",earthquake,0.71,0.99,0.113,23,automatic,ci,ci
 2023-01-18T05:15:26.930Z,33.722,-116.7588333,17.58,0.97,ml,24,57,0.03877,0.17,ci,ci40403520,2023-01-18T05:18:58.912Z,"4km WSW of Idyllwild, CA",earthquake,0.33,0.47,0.219,20,automatic,ci,ci
