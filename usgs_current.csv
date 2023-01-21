@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-21T23:02:31.180Z,36.8016663,-121.5286636,5.62,2.18,md,39,52,0.02631,0.15,nc,nc73835506,2023-01-21T23:22:28.290Z,"5km S of San Juan Bautista, CA",earthquake,0.31,0.53,0.17,37,automatic,nc,nc
-2023-01-21T22:58:24.400Z,38.8373337,-122.836998,1.25,0.77,md,20,80,0.001722,0.02,nc,nc73835501,2023-01-21T22:59:57.467Z,"10km NW of The Geysers, CA",earthquake,0.19,0.41,0.17,20,automatic,nc,nc
+2023-01-21T23:26:11.568Z,62.2411,-150.2796,19.9,1.3,ml,,,,0.39,ak,ak023z44usv,2023-01-21T23:28:19.982Z,"8 km SSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-21T23:22:07.493Z,38.5801,-117.9126,4.5,1.8,ml,14,152.53,0.24,0.165,nn,nn00855131,2023-01-21T23:24:05.889Z,"27 km NE of Mina, Nevada",earthquake,,1,0.21,8,automatic,nn,nn
+2023-01-21T23:02:31.180Z,36.8016663,-121.5286636,5.62,2.18,md,39,52,0.02631,0.15,nc,nc73835506,2023-01-21T23:24:10.184Z,"5km S of San Juan Bautista, CA",earthquake,0.31,0.53,0.17,37,automatic,nc,nc
+2023-01-21T22:58:24.400Z,38.8373337,-122.836998,1.25,0.77,md,20,80,0.001722,0.02,nc,nc73835501,2023-01-21T23:23:14.344Z,"10km NW of The Geysers, CA",earthquake,0.19,0.41,0.17,20,automatic,nc,nc
 2023-01-21T22:56:35.171Z,58.108,-155.5566,22.4,1,ml,,,,0.61,ak,ak023z3pwhp,2023-01-21T22:58:01.364Z,"88 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-21T22:55:49.590Z,38.8181648,-122.8218307,2.71,0.98,md,9,119,0.01056,0.02,nc,nc73835496,2023-01-21T23:12:12.109Z,"7km NW of The Geysers, CA",earthquake,0.4,0.83,0.22,12,automatic,nc,nc
 2023-01-21T22:35:30.944Z,57.3688,-33.423,10,5.3,mww,145,44,8.516,0.59,us,us7000j64n,2023-01-21T22:53:34.040Z,"Reykjanes Ridge",earthquake,9.33,1.843,0.062,25,reviewed,us,us
@@ -55,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T14:59:14.245Z,5.984,125.7852,80.12,4.5,mb,30,128,1.098,0.62,us,us7000j631,2023-01-21T20:01:22.111Z,"11 km E of Mangili, Philippines",earthquake,7.51,8.055,0.111,24,reviewed,us,us
 2023-01-21T14:54:14.030Z,34.2678333,-116.6916667,7.97,1.42,ml,23,83,0.1179,0.21,ci,ci40404664,2023-01-21T14:57:51.793Z,"14km E of Big Bear City, CA",earthquake,0.31,1.2,0.151,28,automatic,ci,ci
 2023-01-21T14:40:43.775Z,58.2581,-155.1717,0,2.5,ml,,,,0.53,ak,ak023yyv0ux,2023-01-21T16:51:13.040Z,"87 km NNW of Karluk, Alaska",earthquake,,26.7,,,automatic,ak,ak
-2023-01-21T14:37:52.364Z,-21.599,-68.4633,144.798,4.1,ml,23,76,0.75,0.78,us,us7000j62w,2023-01-21T16:47:30.040Z,"106 km NNE of Calama, Chile",earthquake,7.03,9.659,,,reviewed,us,guc
+2023-01-21T14:37:52.364Z,-21.599,-68.4633,144.798,4.1,ml,23,76,0.75,0.78,us,us7000j62w,2023-01-21T16:47:30.040Z,"Chile-Bolivia border region",earthquake,7.03,9.659,,,reviewed,us,guc
 2023-01-21T14:26:00.200Z,38.8111649,-122.8296661,1.35,0.75,md,10,95,0.002325,0.01,nc,nc73835346,2023-01-21T14:43:13.209Z,"7km WNW of The Geysers, CA",earthquake,0.3,0.78,0.14,10,automatic,nc,nc
 2023-01-21T14:10:00.690Z,19.1765003204346,-155.498336791992,37.2200012207031,1.88999999,md,39,152,,0.119999997,hv,hv73309302,2023-01-21T14:13:19.980Z,"3 km SW of Pāhala, Hawaii",earthquake,0.61,0.949999988,0.939999998,3,automatic,hv,hv
 2023-01-21T14:00:23.172Z,38.2144,-116.6784,8,1.9,ml,11,150.82,0.822,0.2929,nn,nn00855121,2023-01-21T14:02:12.732Z,"Nevada",earthquake,,2,0.75,9,automatic,nn,nn
@@ -162,10 +164,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T05:01:09.840Z,33.466,-116.3831667,4.76,0.6,ml,15,133,0.1536,0.19,ci,ci40404560,2023-01-21T05:04:34.935Z,"23km SSW of La Quinta, CA",earthquake,0.51,1.43,0.126,15,automatic,ci,ci
 2023-01-21T04:57:58.920Z,37.3056679,-122.1006699,5.93,2.19,md,35,83,0.02884,0.09,nc,nc73835051,2023-01-21T05:51:13.916Z,"5km S of Loyola, CA",earthquake,0.19,0.37,0.18,35,automatic,nc,nc
 2023-01-21T04:51:03.300Z,19.3615,-64.852,20.84,3.42,md,10,300,1.009,0.2,pr,pr71393458,2023-01-21T05:31:01.530Z,"113 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.26,17.85,0.0881846564683388,10,reviewed,pr,pr
-2023-01-21T04:32:50.070Z,19.2530002593994,-155.385330200195,31.1399993896484,2.55,ml,44,174,,0.109999999,hv,hv73308912,2023-01-21T04:38:21.680Z,"Island of Hawaii, Hawaii",earthquake,0.61,0.629999995,3.32,24,automatic,hv,hv
+2023-01-21T04:32:50.070Z,19.2530002593994,-155.385330200195,31.1399993896484,2.55,ml,44,174,,0.109999999,hv,hv73308912,2023-01-21T23:25:59.040Z,"Island of Hawaii, Hawaii",earthquake,0.61,0.629999995,3.32,24,automatic,hv,hv
 2023-01-21T04:28:46.530Z,19.2983333333333,-64.8355,44.29,3.37,md,7,299,0.9479,0.13,pr,pr71393453,2023-01-21T23:13:23.040Z,"106 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.56,11.72,0.136788043084669,8,reviewed,pr,pr
 2023-01-21T04:24:47.009Z,63.8067,-149.3495,110.6,1.8,ml,,,,0.38,ak,ak023yst9lo,2023-01-21T04:26:46.748Z,"19 km WSW of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-01-21T04:07:07.830Z,53.3002,-163.5332,23.807,4.6,mb,58,211,1.387,0.75,us,us7000j606,2023-01-21T18:03:54.389Z,"173 km S of False Pass, Alaska",earthquake,7.53,8.311,0.116,25,reviewed,us,us
+2023-01-21T04:07:07.830Z,53.3002,-163.5332,23.807,4.6,mb,58,211,1.387,0.75,us,us7000j606,2023-01-21T18:06:59.358Z,"173 km S of False Pass, Alaska",earthquake,7.53,8.311,0.116,25,reviewed,us,us
 2023-01-21T04:05:37.070Z,19.3403,-64.8281,34,3.69,md,11,294,0.996,0.38,pr,pr2023021000,2023-01-21T22:59:53.040Z,"111 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.3,25.5,0.11,7,reviewed,pr,pr
 2023-01-21T04:05:28.745Z,-18.2573,-70.8206,40.232,4.3,mwr,24,148,0.469,0.52,us,us7000j605,2023-01-21T22:57:27.040Z,"51 km SSW of Las Yaras, Peru",earthquake,6.38,10.148,,,reviewed,us,guc
 2023-01-21T03:58:09.663Z,2.7788,127.0784,47.107,5.1,mb,66,111,2.014,1.06,us,us7000j603,2023-01-21T04:14:23.040Z,"155 km NW of Tobelo, Indonesia",earthquake,7.67,7.156,0.077,54,reviewed,us,us
@@ -213,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T23:40:45.770Z,19.5,-65.744,116,4.01,md,14,279,1.2385,0.51,pr,pr2023020000,2023-01-21T00:45:16.616Z,"118 km N of Suárez, Puerto Rico",earthquake,8.47,10.5,0.08,10,reviewed,pr,pr
 2023-01-20T23:33:28.418Z,36.37739182,-97.64870453,5.969925404,1.77,ml,16,70.24499512,0.1463580728,0.3732225448,ok,ok2023bkne,2023-01-20T23:36:49.349Z,"5 km ENE of Fairmont, Oklahoma",earthquake,3.239607321,4.759280048,,12,automatic,ok,ok
 2023-01-20T23:32:42.210Z,38.7895012,-122.760498,1.51,1.34,md,21,64,,0.03,nc,nc73834831,2023-01-21T00:34:16.207Z,"1km NNW of The Geysers, CA",earthquake,0.22,0.37,0.15,20,automatic,nc,nc
-2023-01-20T23:28:42.750Z,38.8214989,-122.7829971,8.22,1.34,md,5,158,0.01359,0.03,nc,nc73834826,2023-01-21T00:24:13.037Z,"5km W of Cobb, CA",earthquake,2.32,8.13,0.08,8,automatic,nc,nc
-2023-01-20T23:24:15.570Z,58.1778333333333,-155.368333333333,2.47,0.6,ml,8,176,,0.06,av,av91750046,2023-01-21T04:12:58.250Z,"Alaska Peninsula",earthquake,0.29,0.3,0.291297164582778,8,reviewed,av,av
