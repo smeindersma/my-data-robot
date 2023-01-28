@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-28T04:40:53.810Z,36.7556648,-121.3046646,4.94,1.13,md,8,192,0.05869,0.05,nc,nc73838666,2023-01-28T04:42:29.177Z,"4km SSE of Tres Pinos, CA",earthquake,1.01,0.92,0.2,7,automatic,nc,nc
 2023-01-28T04:31:59.870Z,35.6988333,-117.5456667,2.17,1.14,ml,14,92,0.124,0.2,ci,ci40162967,2023-01-28T04:35:31.209Z,"15km NE of Ridgecrest, CA",earthquake,0.37,0.72,0.128,11,automatic,ci,ci
-2023-01-28T04:31:20.400Z,35.7006667,-117.5438333,6.22,1.51,ml,22,92,0.1228,0.18,ci,ci40162959,2023-01-28T04:41:36.920Z,"15km WSW of Searles Valley, CA",earthquake,0.32,1.27,0.14,20,automatic,ci,ci
+2023-01-28T04:31:20.400Z,35.7006667,-117.5438333,6.22,1.51,ml,22,92,0.1228,0.18,ci,ci40162959,2023-01-28T04:42:27.600Z,"15km WSW of Searles Valley, CA",earthquake,0.32,1.27,0.14,20,automatic,ci,ci
 2023-01-28T04:12:47.600Z,34.2696667,-117.1423333,0.88,1.41,ml,41,68,0.08517,0.27,ci,ci40162951,2023-01-28T04:23:23.680Z,"5km ENE of Lake Arrowhead, CA",earthquake,0.43,0.68,0.132,27,automatic,ci,ci
 2023-01-28T04:04:11.550Z,38.8393326,-122.8215027,10.04,0.23,md,7,117,0.01095,0.05,nc,nc73838661,2023-01-28T04:21:12.925Z,"9km WNW of Cobb, CA",earthquake,1.86,8.5,0.11,8,automatic,nc,nc
 2023-01-28T03:58:06.768Z,61.5491,-152.0667,118.4,1.8,ml,,,,0.43,ak,ak0231ad6gp0,2023-01-28T04:00:05.983Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -274,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T05:14:44.893Z,38.068,-118.793,7.2,1,ml,13,196.61,0.292,0.1528,nn,nn00855398,2023-01-27T21:54:49.965Z,"31 km E of Mono City, California",earthquake,,4.9,0.23,3,reviewed,nn,nn
 2023-01-27T05:07:01.300Z,33.5488333,-116.4068333,7.01,0.56,ml,17,102,0.075,0.09,ci,ci40162375,2023-01-27T18:23:31.768Z,"16km SW of La Quinta, CA",earthquake,0.21,0.43,0.138,11,reviewed,ci,ci
 2023-01-27T04:52:17.807Z,40.0449,-119.6746,12.8,0.3,ml,3,248.28,0.133,0.0693,nn,nn00855393,2023-01-27T21:11:12.916Z,"12 km NNW of Sutcliffe, Nevada",earthquake,,4.3,0.03,2,reviewed,nn,nn
-2023-01-27T04:47:14.290Z,31.73685144,-104.1109004,6.915661621,2.9,ml,52,34,0.03873218515,0.2,tx,tx2023bvwo,2023-01-27T21:16:39.307Z,"48 km W of Mentone, Texas",earthquake,0.3662815036,0.5114704917,0,7,reviewed,tx,tx
