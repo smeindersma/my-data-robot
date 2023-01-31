@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-31T04:39:53.460Z,19.2038326263428,-155.417007446289,31.7399997711182,2.17000008,md,26,155,,0.129999995,hv,hv73316192,2023-01-31T04:42:58.840Z,"6 km E of Pāhala, Hawaii",earthquake,0.78,0.779999971,1.08000004,3,automatic,hv,hv
+2023-01-31T04:34:50.750Z,5.9324,126.0209,86.301,4.6,mb,57,109,1.212,0.6,us,us6000jkgx,2023-01-31T04:51:54.040Z,"38 km ESE of Mangili, Philippines",earthquake,8.69,7.382,0.085,42,reviewed,us,us
 2023-01-31T04:13:05.026Z,38.5545,44.889,10,4,mb,26,82,1.458,0.47,us,us6000jkgv,2023-01-31T04:40:58.040Z,"5 km W of Khowy, Iran",earthquake,4.76,1.766,0.156,11,reviewed,us,us
 2023-01-31T03:57:50.540Z,41.4863333,-112.1823333,-2.76,2.87,ml,38,59,0.1161,0.36,uu,uu60530617,2023-01-31T04:38:40.761Z,"9 km SW of Corinne, Utah",earthquake,0.53,7.3,0.088,19,reviewed,uu,uu
 2023-01-31T03:54:21.320Z,19.195499420166,-155.38883972168,30.4599990844727,1.92999995,md,30,170,,0.119999997,hv,hv73316177,2023-01-31T03:57:26.690Z,"9 km E of Pāhala, Hawaii",earthquake,0.78,1.26999998,1.13,10,automatic,hv,hv
@@ -215,8 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T05:12:42.400Z,58.4233333333333,-154.366,1.03,0.27,ml,7,281,,0.2,av,av91086113,2023-01-31T00:30:13.100Z,"Alaska Peninsula",earthquake,1.07,2.01,0.340691760408967,7,reviewed,av,av
 2023-01-30T05:06:14.940Z,33.4798333,-116.4471667,14.06,0.67,ml,17,111,0.04701,0.17,ci,ci40163975,2023-01-30T05:09:45.142Z,"23km ESE of Anza, CA",earthquake,0.36,0.74,0.11,14,automatic,ci,ci
 2023-01-30T05:00:34.680Z,38.8361664,-122.7996674,2.25,0.71,md,13,64,0.007618,0.01,nc,nc73839651,2023-01-30T07:47:19.048Z,"7km WNW of Cobb, CA",earthquake,0.29,0.91,0.07,13,automatic,nc,nc
-2023-01-30T04:56:59.541Z,65.108,-152.3171,8,1.5,ml,,,,0.41,ak,ak0231doud6t,2023-01-30T05:00:16.326Z,"13 km WSW of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-30T04:56:10.891Z,36.849,-116.2578,10,-0.2,ml,24,50.27,0.042,0.1203,nn,nn00855457,2023-01-30T21:37:35.266Z,"Nevada",earthquake,,0.9,0.84,9,reviewed,nn,nn
-2023-01-30T04:54:41.550Z,33.5876667,-116.6075,14.77,0.66,ml,22,44,0.01421,0.2,ci,ci40163967,2023-01-30T04:58:07.083Z,"7km ENE of Anza, CA",earthquake,0.42,0.52,0.179,16,automatic,ci,ci
-2023-01-30T04:54:35.333Z,36.8482,-116.2557,9.8,-0.5,ml,18,50.24,0.044,0.1123,nn,nn00855456,2023-01-30T21:12:45.477Z,"45 km E of Beatty, Nevada",earthquake,,1,1.54,6,reviewed,nn,nn
-2023-01-30T04:53:57.087Z,60.7719,-151.9583,90.7,2,ml,,,,0.51,ak,ak0231dotml8,2023-01-30T04:56:37.795Z,"37 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
