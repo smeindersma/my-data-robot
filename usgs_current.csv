@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-10T15:20:57.440Z,44.7993333,-110.9618333,8.82,0.81,md,13,168,0.05096,0.11,uu,uu60530871,2023-02-10T19:52:17.480Z,"Wyoming",earthquake,0.53,0.93,0.279,7,reviewed,uu,uu
 2023-02-10T15:20:39.520Z,58.1905,-155.316666666667,2.31,0.62,ml,8,152,,0.08,av,av91758591,2023-02-11T05:13:07.490Z,"86 km NW of Karluk, Alaska",earthquake,0.25,0.34,0.299337422891702,8,reviewed,av,av
 2023-02-10T15:16:18.520Z,58.187,-155.3275,1.6,-0.13,ml,4,157,,0.02,av,av91758586,2023-02-11T05:05:13.420Z,"86 km NW of Karluk, Alaska",earthquake,0.23,0.65,0.251405186788062,4,reviewed,av,av
-2023-02-10T14:59:16.290Z,33.6888333,-116.7305,15.94,0.96,ml,32,39,0.02611,0.24,ci,ci40413080,2023-02-10T15:02:54.966Z,"6km S of Idyllwild, CA",earthquake,0.36,0.66,0.161,27,automatic,ci,ci
