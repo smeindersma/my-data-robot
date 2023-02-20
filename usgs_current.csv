@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T12:16:58.020Z,38.8236656,-122.8123322,29.53,1.12,md,7,186,0.01774,0.24,nc,nc73848541,2023-02-19T12:52:13.211Z,"7km NW of The Geysers, CA",earthquake,6.17,20.77,0.11,3,automatic,nc,nc
 2023-02-19T12:04:33.973Z,38.2418,38.1842,5.478,4.6,mwr,76,49,0.858,0.52,us,us6000jq3c,2023-02-19T12:23:56.040Z,"eastern Turkey",earthquake,4.08,3.971,0.044,49,reviewed,us,us
 2023-02-19T11:59:33.320Z,62.3973,-152.0513,99.4,1.4,ml,,,,0.57,ak,ak0232avrt08,2023-02-19T19:45:33.511Z,"56 km NW of Skwentna, Alaska",earthquake,,1,,,reviewed,ak,ak
-2023-02-19T11:41:42.408Z,32.7456665,-100.6658489,7.996704102,2.9,ml,26,70,0.089394826,0.3,tx,tx2023dmku,2023-02-20T05:54:01.663Z,"15 km NE of Hermleigh, Texas",earthquake,1.165498798,1.6901858940000003,0.2,19,reviewed,tx,tx
