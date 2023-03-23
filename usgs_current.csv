@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-23T05:16:42.990Z,33.175,-116.047,3.83,1.63,ml,49,35,0.0581,0.25,ci,ci40188495,2023-03-23T05:20:15.788Z,"9km ENE of Ocotillo Wells, CA",earthquake,0.29,0.96,0.098,27,automatic,ci,ci
-2023-03-23T05:13:47.200Z,38.8396683,-122.8420029,0.71,0.96,md,18,85,0.005202,0.04,nc,nc73860890,2023-03-23T05:15:21.786Z,"10km NW of The Geysers, CA",earthquake,0.21,0.42,0.26,19,automatic,nc,nc
+2023-03-23T05:28:36.351Z,36.7293,-116.1082,3.3,0.5,ml,18,53.78,0.018,0.1987,nn,nn00857390,2023-03-23T05:29:20.379Z,"42 km WNW of Indian Springs, Nevada",earthquake,,0.3,0.43,10,automatic,nn,nn
+2023-03-23T05:16:42.990Z,33.175,-116.047,3.83,1.63,ml,49,35,0.0581,0.25,ci,ci40188495,2023-03-23T05:27:36.760Z,"9km ENE of Ocotillo Wells, CA",earthquake,0.29,0.96,0.098,27,automatic,ci,ci
+2023-03-23T05:14:30.440Z,17.951,-66.9575,7.13,2.53,md,12,209,0.05106,0.09,pr,pr71401208,2023-03-23T05:27:00.970Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.43,0.18,0.0750244181606154,5,reviewed,pr,pr
+2023-03-23T05:13:47.200Z,38.8396683,-122.8420029,0.71,0.96,md,18,85,0.005202,0.04,nc,nc73860890,2023-03-23T05:31:14.920Z,"10km NW of The Geysers, CA",earthquake,0.21,0.42,0.26,19,automatic,nc,nc
 2023-03-23T05:03:06.640Z,36.7296677,-120.9445038,1.96,1.95,md,13,116,0.1388,0.23,nc,nc73860885,2023-03-23T05:19:15.859Z,"28km NE of Pinnacles, CA",earthquake,0.66,16.24,0.14,12,automatic,nc,nc
 2023-03-23T05:00:38.660Z,34.007,-117.2161667,6.11,1.25,ml,33,43,0.06954,0.2,ci,ci40188487,2023-03-23T05:04:13.742Z,"6km SE of Loma Linda, CA",earthquake,0.24,0.82,0.157,28,automatic,ci,ci
 2023-03-23T04:53:38.490Z,35.5088333,-118.3573333,0.04,1.86,ml,28,62,0.1792,0.18,ci,ci40188479,2023-03-23T05:04:19.230Z,"15km SE of Bodfish, CA",earthquake,0.24,31.61,0.224,26,automatic,ci,ci
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T03:38:53.860Z,36.6928329,-121.3496704,5.14,3.36,ml,56,47,0.01482,0.27,nc,nc73860860,2023-03-23T05:18:32.892Z,"11km SSW of Tres Pinos, CA",earthquake,0.34,0.91,0.239,29,automatic,nc,nc
 2023-03-23T03:37:56.556Z,-42.5401,-82.6549,10,4.7,mb,31,188,7.107,1.03,us,us7000jm3l,2023-03-23T04:10:37.040Z,"West Chile Rise",earthquake,12.6,1.96,0.113,24,reviewed,us,us
 2023-03-23T03:30:41.177Z,40.3901,20.736,10,4.4,mb,21,69,0.76,0.79,us,us7000jm3h,2023-03-23T03:50:32.040Z,"7 km NE of Ersekë, Albania",earthquake,4.42,1.934,0.38,2,reviewed,us,us
-2023-03-23T03:24:54.750Z,38.8346672,-122.8014984,1.75,1.22,md,16,63,0.009479,0.01,nc,nc73860855,2023-03-23T04:41:12.653Z,"7km WNW of Cobb, CA",earthquake,0.22,0.46,0.23,15,automatic,nc,nc
+2023-03-23T03:24:54.750Z,38.8346672,-122.8014984,1.75,1.22,md,16,63,0.009479,0.01,nc,nc73860855,2023-03-23T05:31:15.919Z,"7km WNW of Cobb, CA",earthquake,0.22,0.46,0.23,15,automatic,nc,nc
 2023-03-23T03:05:45.601Z,65.9202,-148.1489,9.9,1.6,ml,,,,0.59,ak,ak0233rnvxeo,2023-03-23T03:08:56.233Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-23T03:02:11.390Z,34.0098333,-117.2216667,10.16,1.07,ml,21,68,0.07437,0.2,ci,ci40188455,2023-03-23T03:27:25.884Z,"6km SE of Loma Linda, CA",earthquake,0.32,0.78,0.184,24,automatic,ci,ci
 2023-03-23T02:56:55.088Z,-42.7973,-82.4791,10,5.1,mww,43,188,6.841,0.84,us,us7000jm3e,2023-03-23T03:22:19.040Z,"West Chile Rise",earthquake,10.96,1.927,0.093,11,reviewed,us,us
