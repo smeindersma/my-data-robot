@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-24T13:11:27.410Z,36.7616653,-121.3243332,6.96,1.69,md,18,168,0.05696,0.09,nc,nc73861560,2023-03-24T13:13:02.021Z,"3km S of Tres Pinos, CA",earthquake,0.44,0.78,0.17,18,automatic,nc,nc
+2023-03-24T13:11:27.410Z,36.7616653,-121.3243332,6.96,1.69,md,18,168,0.05696,0.09,nc,nc73861560,2023-03-24T13:27:18.357Z,"3km S of Tres Pinos, CA",earthquake,0.44,0.78,0.17,18,automatic,nc,nc
 2023-03-24T13:10:48.977Z,59.5409,-152.8341,23.5,1.5,ml,,,,0.39,ak,ak0233theosh,2023-03-24T13:12:12.180Z,"55 km WNW of Nanwalek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-24T13:10:34.997Z,37.9773,37.526,10,4.4,mb,51,67,0.684,0.53,us,us7000jme6,2023-03-24T13:28:35.040Z,"7 km ENE of Nurhak, Turkey",earthquake,2.76,1.869,0.096,31,reviewed,us,us
 2023-03-24T13:06:13.310Z,34.0905,-117.0336667,20.15,1.21,ml,13,104,0.2215,0.22,ci,ci40189103,2023-03-24T13:09:57.515Z,"6km N of Yucaipa, CA",earthquake,1.11,3.07,0.2,23,automatic,ci,ci
 2023-03-24T13:02:01.640Z,38.4264984,-122.637001,9.57,2.07,md,33,51,0.04245,0.1,nc,nc73861555,2023-03-24T13:08:12.340Z,"6km ESE of Santa Rosa, CA",earthquake,0.23,0.52,0.1,35,automatic,nc,nc
+2023-03-24T13:01:34.953Z,-20.2857,-176.5702,281.147,5.6,mww,88,36,1.552,1.1,us,us7000jme4,2023-03-24T13:25:39.599Z,"170 km NW of Haveluloto, Tonga",earthquake,9.48,5.107,0.073,18,reviewed,us,us
 2023-03-24T12:44:35.250Z,19.1898326873779,-155.466827392578,33.6599998474121,2.05999994,md,33,104,,0.0900000036,hv,hv73348127,2023-03-24T12:47:53.210Z,"1 km SE of Pāhala, Hawaii",earthquake,0.67,0.899999976,1.35000002,12,automatic,hv,hv
 2023-03-24T12:26:27.350Z,38.8343315,-122.8150024,1.93,1.33,md,13,57,0.01158,0.01,nc,nc73861545,2023-03-24T12:42:15.049Z,"8km W of Cobb, CA",earthquake,0.28,0.82,0.19,16,automatic,nc,nc
 2023-03-24T12:21:12.378Z,62.418,-151.1977,78.5,1,ml,,,,0.22,ak,ak0233tgvj8l,2023-03-24T12:22:55.233Z,"23 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -249,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T13:49:58.510Z,38.8361664,-122.8160019,1.46,0.28,md,8,67,0.01357,0.01,nc,nc73861030,2023-03-23T14:08:13.903Z,"8km W of Cobb, CA",earthquake,0.35,1.82,0.2,8,automatic,nc,nc
 2023-03-23T13:43:31.791Z,38.1847,-117.7944,11.2,2.6,ml,10,90.75,0.128,0.1965,nn,nn00857392,2023-03-24T02:02:45.009Z,"35 km SE of Mina, Nevada",earthquake,,1.3,0.32,6,reviewed,nn,nn
 2023-03-23T13:41:15.330Z,38.8376656,-122.7945023,1.86,0.38,md,7,122,0.003331,0.01,nc,nc73861020,2023-03-23T16:20:14.713Z,"6km WNW of Cobb, CA",earthquake,0.61,1.49,0.3,8,automatic,nc,nc
-2023-03-23T13:27:35.560Z,19.1428333333333,-155.448333333333,31.36,1.7,md,28,219,,0.15,hv,hv73347247,2023-03-23T21:18:03.340Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.55,0.66,0.13816902244641,13,reviewed,hv,hv
