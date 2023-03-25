@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-25T16:52:19.250Z,35.5056648,-120.0431671,12.15,1.56,ml,13,130,0.1829,0.23,ci,ci40189791,2023-03-25T16:54:23.220Z,"18km NNW of Simmler, CA",earthquake,0.69,2.24,0.189,5,automatic,ci,ci
 2023-03-25T16:39:09.768Z,35.85469437,-97.18718719,5.847485065,1.83,ml,19,85.89547729,0.08523370326,0.4326772311,ok,ok2023fwxs,2023-03-25T16:41:46.834Z,"5 km ENE of Meridian, Oklahoma",earthquake,2.666723726,3.86936059,,15,automatic,ok,ok
 2023-03-25T16:27:08.260Z,38.8268318,-122.7925034,1.14,1.11,md,19,63,0.01168,0.02,nc,nc73862120,2023-03-25T16:43:14.199Z,"6km W of Cobb, CA",earthquake,0.2,0.36,0.15,20,automatic,nc,nc
 2023-03-25T16:21:13.589Z,59.6007,-154.9131,227.6,2.8,ml,,,,1.05,ak,ak0233v6sm8u,2023-03-25T16:24:50.124Z,"13 km S of Newhalen, Alaska",earthquake,,3,,,automatic,ak,ak
@@ -213,8 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T17:10:19.085Z,61.4665,-152.1281,106.6,0.6,ml,,,,0.38,ak,ak0233tjscr9,2023-03-24T17:12:59.788Z,"66 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-24T17:09:23.920Z,38.7874985,-122.7681656,1.2,0.8,md,8,84,0.01468,0.02,nc,nc73861655,2023-03-24T19:15:15.429Z,"2km NW of The Geysers, CA",earthquake,0.3,0.46,0.12,9,automatic,nc,nc
 2023-03-24T17:05:03.462Z,61.487,-150.0102,25.1,1.6,ml,,,,0.45,ak,ak0233tjr94a,2023-03-24T17:07:30.868Z,"4 km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-24T16:53:26.800Z,45.320166666666665,-121.83233333333334,5.8,-0.09,md,6,232,0.04175,0.07,uw,uw61904652,2023-03-24T20:57:22.940Z,"6 km WNW of Government Camp, Oregon",earthquake,0.5,0.88,0.3144447312298879,5,reviewed,uw,uw
-2023-03-24T16:50:36.063Z,32.13409424,-102.6530345,9.757446289,2,ml,16,86,0.08914933537,0.2,tx,tx2023fvcp,2023-03-24T17:38:07.846Z,"17 km NNW of Goldsmith, Texas",earthquake,1.020059219,1.728926534,0.2,10,reviewed,tx,tx
-2023-03-24T16:47:34.440Z,33.1836667,-116.4108333,10.33,1.46,ml,50,44,0.08447,0.24,ci,ci40189439,2023-03-24T16:51:11.796Z,"9km SSW of Borrego Springs, CA",earthquake,0.27,0.73,0.164,27,automatic,ci,ci
-2023-03-24T16:47:28.350Z,32.9845,-116.7245,28.72,1.21,ml,15,115,0.1382,0.32,ci,ci40189431,2023-03-24T16:50:59.162Z,"6km ESE of San Diego Country Estates, CA",earthquake,1.24,1.07,0.043,4,automatic,ci,ci
-2023-03-24T16:47:10.100Z,32.859,-116.8038333,28.64,1.15,ml,7,156,0.3335,0.12,ci,ci40189423,2023-03-24T16:50:53.268Z,"4km NW of Alpine, CA",earthquake,0.83,2.29,0.042,5,automatic,ci,ci
