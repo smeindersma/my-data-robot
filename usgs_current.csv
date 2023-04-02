@@ -160,5 +160,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T15:59:12.400Z,37.498,-118.8545,4.06,1.04,md,22,124,0.09406,0.05,nc,nc73865480,2023-04-02T05:22:13.192Z,"17km WSW of Toms Place, CA",earthquake,0.23,0.96,0.203,15,reviewed,nc,nc
 2023-04-01T15:57:39.935Z,27.3325,53.0705,19.044,5.1,mb,38,79,3.686,0.58,us,us6000k1d6,2023-04-01T22:46:24.367Z,"30 km SE of Mohr, Iran",earthquake,8.22,4.609,0.064,79,reviewed,us,us
 2023-04-01T15:55:45.110Z,35.696,-117.5156667,10.22,1.23,ml,12,87,0.1912,0.19,ci,ci39508746,2023-04-01T15:59:23.423Z,"13km SW of Searles Valley, CA",earthquake,0.57,1.37,0.147,7,automatic,ci,ci
-2023-04-01T15:53:02.480Z,58.318,-154.901833333333,17.35,0.7,ml,10,146,,0.33,av,av91829341,2023-04-01T20:26:05.860Z,"Alaska Peninsula",earthquake,1.05,1.44,0.40406214508724,10,reviewed,av,av
-2023-04-01T15:49:39.220Z,34.8875,-119.203,20.59,1.16,ml,11,112,0.08854,0.26,ci,ci39508730,2023-04-01T15:53:13.806Z,"7km NW of Pine Mountain Club, CA",earthquake,0.72,1.25,0.185,4,automatic,ci,ci
