@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-02T08:48:58.790Z,38.8661652,-122.7971649,1.72,1.02,md,13,161,0.01129,0.03,nc,nc73865770,2023-04-02T08:50:32.496Z,"8km NW of Cobb, CA",earthquake,0.39,0.39,0.31,12,automatic,nc,nc
 2023-04-02T08:41:59.364Z,64.7783,-149.028,11.2,1,ml,,,,0.82,ak,ak02348agb75,2023-04-02T08:44:23.392Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-02T08:40:18.033Z,60.1739,-153.2564,147.9,0.7,ml,,,,0.3,ak,ak02348ag0h5,2023-04-02T08:41:43.690Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-02T08:31:27.727Z,61.0466,-152.3666,108.6,0.9,ml,,,,0.17,ak,ak02348ae3lw,2023-04-02T08:32:57.830Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-02T08:26:34.520Z,38.831665,-122.819664,2.12,0.75,md,12,75,0.01473,0.01,nc,nc73865765,2023-04-02T08:46:11.387Z,"8km NW of The Geysers, CA",earthquake,0.29,1.13,0.14,12,automatic,nc,nc
-2023-04-02T08:26:01.620Z,38.8310013,-122.8160019,1.52,1.94,md,23,50,0.01682,0.04,nc,nc73865755,2023-04-02T08:27:39.014Z,"8km NW of The Geysers, CA",earthquake,0.17,0.3,0.15,25,automatic,nc,nc
+2023-04-02T08:26:01.620Z,38.8310013,-122.8160019,1.52,1.94,md,23,50,0.01682,0.04,nc,nc73865755,2023-04-02T08:54:11.429Z,"8km NW of The Geysers, CA",earthquake,0.17,0.3,0.15,25,automatic,nc,nc
 2023-04-02T08:16:16.050Z,38.8400002,-122.8366699,1.48,0.93,md,12,113,0.001685,0.01,nc,nc73865750,2023-04-02T08:41:18.358Z,"10km NW of The Geysers, CA",earthquake,0.27,0.45,0.21,12,automatic,nc,nc
 2023-04-02T08:14:35.210Z,38.8648338,-122.7979965,1.33,0.6,md,8,156,0.009984,0.04,nc,nc73865745,2023-04-02T08:31:16.301Z,"8km NW of Cobb, CA",earthquake,0.42,0.64,0.39,7,automatic,nc,nc
 2023-04-02T07:57:39.040Z,33.3893333,-116.8988333,14.96,0.91,ml,32,40,0.1113,0.2,ci,ci39509010,2023-04-02T08:01:21.651Z,"5km NW of Palomar Observatory, CA",earthquake,0.27,0.7,0.225,22,automatic,ci,ci
