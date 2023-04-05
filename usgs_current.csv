@@ -1,9 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-05T10:37:38.413Z,36.53373718,-98.95856476,4.524304867,1.71,ml,10,87.54628944,0.04160938784,0.09088552618,ok,ok2023gqoi,2023-04-05T10:38:57.691Z,"8 km SW of Waynoka, Oklahoma",earthquake,4.392595868,3.483035418,0.24,8,automatic,ok,ok
+2023-04-05T10:35:41.910Z,33.8643333,-116.8193333,14.38,0.88,ml,26,81,0.0357,0.13,ci,ci39509898,2023-04-05T10:39:14.908Z,"7km SSW of Cabazon, CA",earthquake,0.22,0.49,0.188,27,automatic,ci,ci
+2023-04-05T10:31:49.800Z,38.8195,-122.7728348,-0.27,0.86,md,9,83,0.008743,0.04,nc,nc73867240,2023-04-05T10:33:23.776Z,"4km W of Cobb, CA",earthquake,0.24,0.59,0.2,11,automatic,nc,nc
+2023-04-05T10:30:16.730Z,38.8346672,-122.8054962,1.97,1.68,md,33,31,0.01181,0.03,nc,nc73867235,2023-04-05T10:33:38.000Z,"7km W of Cobb, CA",earthquake,0.16,0.29,0.23,34,automatic,nc,nc
 2023-04-05T10:10:20.710Z,32.7936667,-115.4395,6.59,1.11,ml,9,165,0.01314,0.24,ci,ci39509890,2023-04-05T10:13:50.774Z,"6km WSW of Holtville, CA",earthquake,0.99,1.15,0.166,8,automatic,ci,ci
 2023-04-05T09:57:05.172Z,60.7121,-154.2451,36.3,1.6,ml,,,,1.53,ak,ak0234d9r3kl,2023-04-05T09:58:54.261Z,"56 km N of Port Alsworth, Alaska",earthquake,,6.3,,,automatic,ak,ak
 2023-04-05T09:56:52.970Z,38.7874985,-122.7665024,1.7,1.31,md,25,77,0.01414,0.03,nc,nc73867230,2023-04-05T10:17:11.721Z,"1km NW of The Geysers, CA",earthquake,0.22,0.37,0.19,25,automatic,nc,nc
 2023-04-05T09:50:01.500Z,38.8296661,-122.7921677,1.44,1.08,md,15,51,0.008846,0.03,nc,nc73867220,2023-04-05T10:05:12.655Z,"6km W of Cobb, CA",earthquake,0.23,0.46,0.33,15,automatic,nc,nc
-2023-04-05T09:49:50.650Z,38.8306656,-122.7931671,1.26,0.46,md,8,95,0.00804,0.01,nc,nc73867215,2023-04-05T10:01:10.630Z,"6km W of Cobb, CA",earthquake,0.34,1.07,0.31,10,automatic,nc,nc
+2023-04-05T09:49:50.650Z,38.8306656,-122.7931671,1.26,0.46,md,8,95,0.00804,0.01,nc,nc73867215,2023-04-05T10:40:13.854Z,"6km W of Cobb, CA",earthquake,0.34,1.07,0.31,10,automatic,nc,nc
 2023-04-05T09:43:40.222Z,61.5823,-149.7257,32.1,1.4,ml,,,,0.79,ak,ak0234d9o692,2023-04-05T09:45:45.664Z,"7 km SE of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-05T09:35:17.650Z,33.3311667,-116.3726667,13.58,0.7,ml,16,170,0.07302,0.19,ci,ci39509882,2023-04-05T09:38:51.610Z,"8km N of Borrego Springs, CA",earthquake,0.57,0.89,0.169,8,automatic,ci,ci
 2023-04-05T09:34:43.000Z,61.3474,-146.7414,24.2,1.5,ml,,,,0.75,ak,ak02317oo6his,2023-04-05T09:36:47.676Z,"32 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -245,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T11:00:28.257Z,62.4649,-151.7456,7.6,1.4,ml,,,,0.58,ak,ak0234bn2g95,2023-04-04T11:02:27.060Z,"50 km W of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-04T10:56:23.680Z,18.007,-66.8243333333333,7.3,2.23,md,4,187,0.2126,0.13,pr,pr71402508,2023-04-04T12:48:45.690Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.75,1.6,0.0129592784144628,4,reviewed,pr,pr
 2023-04-04T10:48:06.180Z,33.385,-116.9008333,14.15,1.2,ml,46,33,0.09695,0.16,ci,ci39509578,2023-04-04T16:45:36.096Z,"5km NW of Palomar Observatory, CA",earthquake,0.18,0.49,0.097,13,reviewed,ci,ci
-2023-04-04T10:40:47.619Z,36.2968,-116.4839,5.7,1.4,ml,26,94.52,0.187,0.1207,nn,nn00857813,2023-04-04T16:44:44.889Z,"37 km ESE of Furnace Creek, California",earthquake,,2.3,1.03,12,reviewed,nn,nn
