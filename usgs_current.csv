@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-09T05:54:29.572Z,35.79449081,-96.98230743,3.139010429,1.84,ml,27,40.79318237,0.1776148975,0.4117537914,ok,ok2023gxmz,2023-04-09T05:56:07.513Z,"3 km ESE of Carney, Oklahoma",earthquake,2.170215001,1.965385808,0.26,13,automatic,ok,ok
 2023-04-09T05:28:31.980Z,33.5771667,-116.8051667,7.63,1.44,ml,59,23,0.03804,0.21,ci,ci40438624,2023-04-09T05:39:22.370Z,"12km WNW of Anza, CA",earthquake,0.2,0.5,0.145,27,automatic,ci,ci
 2023-04-09T05:26:36.680Z,60.0425,-153.024833333333,1.24,-0.39,ml,4,225,,0.06,av,av91840716,2023-04-09T05:47:00.210Z,"66 km ENE of Pedro Bay, Alaska",earthquake,0.85,0.22,0.128866793966579,4,reviewed,av,av
 2023-04-09T05:20:34.061Z,-9.5,117.7326,64.708,4.6,mb,54,86,0.67,0.82,us,us6000k2yt,2023-04-09T05:49:03.040Z,"116 km SSE of Sumbawa Besar, Indonesia",earthquake,6.05,5.912,0.091,42,reviewed,us,us
