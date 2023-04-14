@@ -101,6 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T12:24:38.778Z,39.9611,-120.8259,0,0.4,ml,3,333.18,0.37,0.0697,nn,nn00858237,2023-04-14T17:40:37.643Z,"6 km ENE of East Quincy, California",earthquake,,0,0,1,reviewed,nn,nn
 2023-04-14T12:07:16.470Z,19.219165802002,-155.385665893555,31.2099990844727,2.19,ml,37,170,,0.109999999,hv,hv73363617,2023-04-14T12:12:46.840Z,"9 km E of Pāhala, Hawaii",earthquake,0.66,0.75,4.53,4,automatic,hv,hv
 2023-04-14T12:04:08.970Z,51.8508333333333,-178.008166666667,-1.8,1.27,ml,5,90,,0.17,av,av91848101,2023-04-14T17:49:19.920Z,"94 km W of Adak, Alaska",earthquake,0.35,1.39,0.201549477499209,5,reviewed,av,av
+2023-04-14T11:57:00.200Z,19.2418333333333,-155.395333333333,30.34,1.57,md,24,150,,0.13,hv,hv73363607,2023-04-14T21:59:50.890Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.68,0.149733203642719,12,reviewed,hv,hv
 2023-04-14T11:53:51.690Z,37.3123322,-122.1015015,6.68,0.83,md,8,116,0.02262,0.08,nc,nc73873555,2023-04-14T12:29:14.232Z,"4km S of Loyola, CA",earthquake,0.68,0.49,0.09,4,automatic,nc,nc
 2023-04-14T11:51:31.177Z,59.8264,-152.5341,73.7,1.5,ml,,,,0.34,ak,ak0234s6quxp,2023-04-14T11:53:18.268Z,"39 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-14T11:50:44.148Z,60.0027,-152.0605,82.8,1.6,ml,,,,0.15,ak,ak0234s6qo8g,2023-04-14T11:53:23.677Z,"19 km WNW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -123,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T10:08:24.040Z,17.9171666666667,-66.9695,16.04,1.49,md,5,237,0.0881,0.12,pr,pr71404898,2023-04-14T10:50:27.030Z,"8 km SW of Guánica, Puerto Rico",earthquake,1.07,0.73,0.0919700298879966,3,reviewed,pr,pr
 2023-04-14T10:00:10.334Z,38.1448,-118.3378,6.7,1.1,ml,6,158.56,0.169,0.1543,nn,nn00858235,2023-04-14T17:31:16.231Z,"California-Nevada border region",earthquake,,2.1,0.66,5,reviewed,nn,nn
 2023-04-14T09:56:10.770Z,38.8013344,-122.7761688,1.13,0.75,md,10,137,0.01227,0.02,nc,nc73873530,2023-04-14T10:29:14.551Z,"3km NNW of The Geysers, CA",earthquake,0.47,0.61,0.18,11,automatic,nc,nc
-2023-04-14T09:55:45.265Z,-6.0255,112.0332,594.028,7,mww,131,31,1.881,0.83,us,us6000k49j,2023-04-14T21:53:13.097Z,"96 km N of Tuban, Indonesia",earthquake,9.53,5.723,0.055,32,reviewed,us,us
+2023-04-14T09:55:45.265Z,-6.0255,112.0332,594.028,7,mww,131,31,1.881,0.83,us,us6000k49j,2023-04-14T22:09:15.605Z,"96 km N of Tuban, Indonesia",earthquake,9.53,5.723,0.055,32,reviewed,us,us
 2023-04-14T09:50:08.100Z,51.8653333333333,-178.084666666667,-1.77,0.83,ml,5,197,,0.21,av,av91847911,2023-04-14T19:55:03.120Z,"99 km W of Adak, Alaska",earthquake,0.64,1.65,0.221571296001198,5,reviewed,av,av
 2023-04-14T09:50:04.780Z,36.928,-113.6288333,19.66,1.1,md,10,233,0.1205,0.09,uu,uu60537091,2023-04-14T14:19:32.980Z,"19 km SSW of Saint George, Utah",earthquake,0.82,0.63,0.283,6,reviewed,uu,uu
 2023-04-14T09:42:51.672Z,62.1553,-149.4659,48.7,1.1,ml,,,,0.68,ak,ak0234s5i3v3,2023-04-14T09:45:47.459Z,"20 km E of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
