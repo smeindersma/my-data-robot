@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-24T23:38:15.730Z,58.2591,-155.1349,2.1,1.1,ml,,,,0.25,ak,ak02358x6pmt,2023-04-24T23:39:36.559Z,"86 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-04-24T23:38:15.730Z,58.2591,-155.1349,2.1,1.1,ml,,,,0.25,ak,ak02358x6pmt,2023-04-24T23:53:54.990Z,"86 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-24T23:34:42.367Z,64.9776,-147.4226,4.1,1.5,ml,,,,1.14,ak,ak02358x5wto,2023-04-24T23:36:53.852Z,"9 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-24T23:24:24.250Z,63.6973,-149.7274,5.3,1.2,ml,,,,0.69,ak,ak02358x3q9l,2023-04-24T23:26:24.238Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-24T23:23:11.180Z,34.1228333,-117.472,6.43,1.08,ml,19,98,0.07879,0.18,ci,ci40445072,2023-04-24T23:32:03.312Z,"3km NNW of Fontana, CA",earthquake,0.35,1.01,0.146,24,automatic,ci,ci
@@ -243,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T00:04:31.644Z,61.0762,-145.7375,24.8,1.8,ml,,,,0.97,ak,ak02358jahlo,2023-04-24T00:07:23.881Z,"33 km E of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-24T00:01:41.790Z,38.8380013,-122.7833328,1.71,0.74,md,8,82,0.005491,0.01,nc,nc73877145,2023-04-24T00:18:14.226Z,"6km WNW of Cobb, CA",earthquake,0.6,1.39,0.17,10,automatic,nc,nc
 2023-04-24T00:00:13.930Z,33.9156667,-117.8008333,4.66,1.01,ml,26,114,0.01246,0.17,ci,ci40444656,2023-04-24T18:21:42.149Z,"3km NNE of Yorba Linda, CA",earthquake,0.29,0.41,0.115,13,reviewed,ci,ci
-2023-04-23T23:49:37.800Z,33.4016667,-116.9108333,6.45,0.81,ml,34,55,0.06263,0.19,ci,ci40444648,2023-04-24T18:05:40.540Z,"6km SW of Aguanga, CA",earthquake,0.22,0.56,0.12,12,reviewed,ci,ci
