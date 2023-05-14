@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-14T16:52:24.960Z,38.8181648,-122.8246689,1.91,0.44,md,7,122,0.009929,0.01,nc,nc73888051,2023-05-14T16:54:00.364Z,"8km NW of The Geysers, CA",earthquake,0.52,0.91,0.28,8,automatic,nc,nc
 2023-05-14T16:34:54.954Z,61.5674,-151.4724,72.6,1.1,ml,,,,0.42,ak,ak02365vqufr,2023-05-14T16:36:54.663Z,"47 km S of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-14T16:22:52.585Z,33.3737,139.1763,10,5.1,mww,63,66,0.593,0.69,us,us6000kbvu,2023-05-14T16:42:14.040Z,"146 km S of Shimoda, Japan",earthquake,6.18,1.874,0.069,20,reviewed,us,us
 2023-05-14T16:15:26.559Z,63.0635,-151.0914,18.3,2,ml,,,,0.98,ak,ak02365vmpma,2023-05-14T16:18:19.896Z,"61 km SSE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
