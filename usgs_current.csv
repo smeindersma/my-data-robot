@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-17T18:43:19.230Z,35.5046654,-118.3893356,8.37,1.95,ml,36,40,0.1722,0.13,ci,ci40226871,2023-05-17T18:45:26.677Z,"13km SE of Bodfish, CA",earthquake,0.22,1,0.286,30,automatic,ci,ci
+2023-05-17T18:41:07.626Z,59.7401,-152.8004,90.3,2,ml,,,,0.23,ak,ak0236avl5fq,2023-05-17T18:42:45.656Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-17T18:29:56.440Z,38.8016663,-122.8239975,10.33,0.82,md,7,157,0.008252,0.02,nc,nc73889256,2023-05-17T18:31:33.221Z,"6km WNW of The Geysers, CA",earthquake,1.7,6.39,0.09,8,automatic,nc,nc
-2023-05-17T18:25:23.780Z,38.8450012,-122.8146667,1.45,1.45,md,23,50,0.01179,0.03,nc,nc73889251,2023-05-17T18:26:59.008Z,"8km WNW of Cobb, CA",earthquake,0.19,0.36,0.15,27,automatic,nc,nc
+2023-05-17T18:25:23.780Z,38.8450012,-122.8146667,1.45,1.45,md,23,50,0.01179,0.03,nc,nc73889251,2023-05-17T18:45:12.603Z,"8km WNW of Cobb, CA",earthquake,0.19,0.36,0.15,27,automatic,nc,nc
 2023-05-17T18:22:23.400Z,36.6473351,-121.2816696,4.65,2.34,md,35,92,0.04505,0.18,nc,nc73889246,2023-05-17T18:35:15.503Z,"16km SSE of Tres Pinos, CA",earthquake,0.34,0.93,0.15,32,automatic,nc,nc
 2023-05-17T18:18:52.510Z,38.8349991,-122.8098297,2.13,0.76,md,17,51,0.01159,0.01,nc,nc73889241,2023-05-17T18:35:14.502Z,"8km W of Cobb, CA",earthquake,0.28,0.63,0.2,18,automatic,nc,nc
 2023-05-17T18:16:25.250Z,35.53666667,-96.75766667,7.85,1.32,ml,70,44,0.1178768685,0.26,ok,ok2023jpwp,2023-05-17T18:25:50.129Z,"8 km NW of Prague, Oklahoma",earthquake,,0.7,0.23,24,reviewed,ok,ok
