@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T14:52:16.605Z,63.9564,-148.8075,116.7,1.6,ml,,,,0.4,ak,ak0236pp3x30,2023-05-26T14:54:29.347Z,"13 km NE of Healy, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-05-26T14:51:25.399Z,31.60714072,-103.9870824,6.157275391,3.1,ml,17,81,0.05720403715,0.2,tx,tx2023kgbj,2023-05-26T15:14:57.357Z,"37 km NNW of Toyah, Texas",earthquake,1.485262049,1.544476779,0.2,11,reviewed,tx,tx
 2023-05-26T14:50:18.087Z,65.431,-144.7772,0,1.4,ml,,,,0.82,ak,ak0236pp3hrk,2023-05-26T14:52:05.794Z,"15 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-26T14:45:38.240Z,33.94816667,-97.26683333,15.21,1.8,ml,53,96,0.08458340185,0.32,ok,ok2023kgbe,2023-05-26T14:54:47.111Z,"13 km W of Marietta, Oklahoma",earthquake,,1,0.15,17,reviewed,ok,ok
