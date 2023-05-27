@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T14:16:06.020Z,38.8296661,-122.815834,1.75,1,md,19,53,0.007711,0.02,nc,nc73890205,2023-05-26T14:51:12.769Z,"8km NW of The Geysers, CA",earthquake,0.21,0.5,0.14,19,automatic,nc,nc
 2023-05-26T14:04:00.210Z,33.72,-116.8411667,15.98,1.36,ml,43,63,0.07633,0.15,ci,ci40234167,2023-05-26T21:38:12.920Z,"6km ESE of Valle Vista, CA",earthquake,0.2,0.38,0.157,24,reviewed,ci,ci
 2023-05-26T14:03:57.208Z,58.1958,-155.2792,0,2,ml,,,,0.37,ak,ak0236poti4o,2023-05-26T18:33:26.960Z,"85 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-26T13:45:38.120Z,37.2878333,-121.6516667,6.24,0.92,md,18,52,0.0335,0.06,nc,nc73890195,2023-05-26T17:57:10.853Z,"16km E of Seven Trees, CA",earthquake,0.21,0.39,0.138,13,reviewed,nc,nc
