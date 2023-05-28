@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-28T10:08:17.148Z,31.6415,-104.269,7.712,3,ml,27,110,0.2,0.26,us,us7000k4lj,2023-05-28T10:16:26.040Z,"western Texas",earthquake,1.86,4.146,0.071,84,reviewed,us,us
+2023-05-28T10:08:16.930Z,31.64729159,-104.2638828,6.157275391,3,ml,18,67,0.1090813934,0.3,tx,tx2023kjja,2023-05-28T10:32:02.272Z,"57 km NW of Toyah, Texas",earthquake,1.424237981,1.905734149,0.2,12,reviewed,tx,tx
 2023-05-28T09:54:04.203Z,61.4052,-150.0657,32.1,1.5,ml,,,,0.25,ak,ak0236sx7uis,2023-05-28T09:55:18.941Z,"6 km NW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-28T09:36:02.915Z,19.004,-65.0598,21.748,2.6,ml,15,272,0.655,0.39,us,us7000k4lg,2023-05-28T09:46:27.040Z,"74 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,6.01,14.935,0.066,30,reviewed,us,us
 2023-05-28T09:32:13.090Z,19.0926,-64.8685,23,3.61,md,20,280,0.7452,0.36,pr,pr2023148005,2023-05-28T10:19:13.537Z,"83 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.42,24.56,0.08,8,reviewed,pr,pr
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T05:53:21.540Z,19.5456,-65.6766,111,3.78,md,7,283,1.2993,0.26,pr,pr2023148002,2023-05-28T06:36:29.154Z,"124 km N of Suárez, Puerto Rico",earthquake,6.23,9.37,0.01,3,reviewed,pr,pr
 2023-05-28T05:51:10.899Z,60.2365,-150.9456,51,2.5,ml,,,,0.39,ak,ak0236suthgx,2023-05-28T06:50:22.040Z,"21 km ESE of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-28T05:50:54.770Z,19.2455005645752,-155.391662597656,31.3799991607666,1.87,ml,49,137,,0.119999997,hv,hv73425852,2023-05-28T05:56:26.140Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.620000005,3.24,7,automatic,hv,hv
-2023-05-28T05:49:56.136Z,36.6111,71.076,223.835,5.2,mww,106,45,2.621,0.65,us,us7000k4kr,2023-05-28T09:46:44.022Z,"35 km SE of Jurm, Afghanistan",earthquake,6.55,6.018,0.083,14,reviewed,us,us
+2023-05-28T05:49:56.136Z,36.6111,71.076,223.835,5.2,mww,106,45,2.621,0.65,us,us7000k4kr,2023-05-28T10:34:38.647Z,"35 km SE of Jurm, Afghanistan",earthquake,6.55,6.018,0.083,14,reviewed,us,us
 2023-05-28T05:37:57.630Z,19.4046669006348,-155.26350402832,1.47000002861023,2.06,ml,22,59,,0.100000001,hv,hv73425837,2023-05-28T05:43:29.660Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.209999993,0.39,11,automatic,hv,hv
 2023-05-28T05:33:39.638Z,57.074,-156.2038,11.9,2.5,ml,,,,0.85,ak,ak0236suposr,2023-05-28T06:21:12.040Z,"87 km SE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-28T05:33:05.790Z,19.555,-65.6766,93,3.64,md,10,279,1.3082,0.53,pr,pr2023148001,2023-05-28T06:05:39.852Z,"125 km N of Suárez, Puerto Rico",earthquake,9.14,17.11,0.17,5,reviewed,pr,pr
