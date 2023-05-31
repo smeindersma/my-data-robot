@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-31T06:57:10.090Z,38.8230019,-122.8001633,1.51,0.8,md,9,96,0.007752,0.02,nc,nc73891930,2023-05-31T06:58:47.504Z,"6km NW of The Geysers, CA",earthquake,0.46,0.68,0.2,9,automatic,nc,nc
+2023-05-31T07:14:03.829Z,64.8684,-147.5452,14.3,1.2,ml,,,,0.19,ak,ak0236xueg4e,2023-05-31T07:15:23.500Z,"7 km N of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-31T06:57:10.090Z,38.8230019,-122.8001633,1.51,0.8,md,9,96,0.007752,0.02,nc,nc73891930,2023-05-31T07:13:09.694Z,"6km NW of The Geysers, CA",earthquake,0.46,0.68,0.2,9,automatic,nc,nc
 2023-05-31T06:54:10.760Z,33.4436667,-116.6338333,4.04,0.56,ml,20,65,0.05736,0.13,ci,ci40238583,2023-05-31T06:57:42.880Z,"13km SSE of Anza, CA",earthquake,0.26,0.52,0.111,15,automatic,ci,ci
 2023-05-31T06:42:19.250Z,34.0278333,-116.8498333,18.88,0.99,ml,20,97,0.09695,0.18,ci,ci40238575,2023-05-31T06:46:03.811Z,"12km NNE of Banning, CA",earthquake,0.35,1.02,0.18,20,automatic,ci,ci
 2023-05-31T06:31:53.149Z,58.263,-155.1134,31.4,0.3,ml,,,,0.34,ak,ak0236xtwrhu,2023-05-31T06:34:05.926Z,"86 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T07:34:59.570Z,19.4923333333333,-155.933333333333,8.1,2.62,ml,47,169,,0.36,hv,hv73429802,2023-05-30T20:18:15.783Z,"1 km WSW of Captain Cook, Hawaii",earthquake,0.65,0.46,0.149361109633129,20,reviewed,hv,hv
 2023-05-30T07:32:03.790Z,34.1606667,-116.4248333,9.28,0.98,ml,20,71,0.03931,0.16,ci,ci40237359,2023-05-30T13:31:48.340Z,"5km N of Yucca Valley, CA",earthquake,0.25,0.64,0.19,20,reviewed,ci,ci
 2023-05-30T07:31:28.680Z,34.1545,-116.428,9.69,0.94,ml,14,78,0.046,0.17,ci,ci40237351,2023-05-30T07:35:00.730Z,"4km N of Yucca Valley, CA",earthquake,0.47,0.84,0.184,13,automatic,ci,ci
-2023-05-30T07:20:47.248Z,59.7831,-152.7506,90.5,1.3,ml,,,,0.22,ak,ak0236w6wh9w,2023-05-30T07:22:39.629Z,"51 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
