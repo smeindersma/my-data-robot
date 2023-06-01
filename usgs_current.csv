@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-01T18:06:29.960Z,38.8219986,-122.8021698,2.6,1.08,md,26,32,0.00633,0.02,nc,nc73895126,2023-06-01T18:09:46.363Z,"6km NW of The Geysers, CA",earthquake,0.21,0.42,0.19,27,automatic,nc,nc
 2023-06-01T17:37:28.264Z,61.6677,-150.7936,48,1.7,ml,,,,0.44,ak,ak0236zo140q,2023-06-01T17:39:35.677Z,"20 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-01T17:06:36.490Z,33.0366667,-116.4163333,9.17,0.74,ml,21,70,0.06486,0.22,ci,ci40474960,2023-06-01T17:10:19.257Z,"18km ESE of Julian, CA",earthquake,0.38,1.01,0.17,7,automatic,ci,ci
 2023-06-01T16:58:11.630Z,35.6443333,-118.3206667,7.47,2.23,ml,32,64,0.05668,0.13,ci,ci40474936,2023-06-01T17:09:11.000Z,"14km ESE of Wofford Heights, CA",earthquake,0.18,0.56,0.179,26,automatic,ci,ci
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T16:49:59.845Z,57.3714,-155.5164,66.3,1.6,ml,,,,0.17,ak,ak0236znibg0,2023-06-01T16:52:22.995Z,"67 km WSW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-06-01T16:33:28.143Z,61.6874,-151.8393,89,1.4,ml,,,,0.17,ak,ak0236znetji,2023-06-01T16:35:00.627Z,"40 km SW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-01T16:31:30.360Z,36.134,-117.9203333,4.35,1.41,ml,14,126,0.05548,0.17,ci,ci40474864,2023-06-01T16:35:26.131Z,"10km NNE of Coso Junction, CA",earthquake,0.45,1.14,0.122,10,automatic,ci,ci
-2023-06-01T16:31:14.540Z,36.5410004,-120.8801651,5.63,2.05,md,16,167,0.1337,0.18,nc,nc73895106,2023-06-01T17:50:14.278Z,"23km NW of New Idria, CA",earthquake,0.52,3.39,0.17,12,automatic,nc,nc
+2023-06-01T16:31:14.540Z,36.5410004,-120.8801651,5.63,2.05,md,16,167,0.1337,0.18,nc,nc73895106,2023-06-01T17:54:10.300Z,"23km NW of New Idria, CA",earthquake,0.52,3.39,0.17,12,automatic,nc,nc
 2023-06-01T16:30:11.030Z,33.9918333,-116.8928333,9.32,1.15,ml,35,53,0.08281,0.18,ci,ci40474856,2023-06-01T17:03:02.928Z,"8km NNW of Banning, CA",earthquake,0.24,0.7,0.187,27,reviewed,ci,ci
 2023-06-01T16:23:01.020Z,38.8308334,-122.8143311,1.74,1.09,md,22,48,0.008138,0.02,nc,nc73895101,2023-06-01T17:25:14.121Z,"8km NW of The Geysers, CA",earthquake,0.19,0.42,0.15,24,automatic,nc,nc
 2023-06-01T15:54:09.730Z,33.4541667,-116.5796667,10.3,-0.01,ml,10,138,0.0446,0.06,ci,ci40474816,2023-06-01T16:34:08.414Z,"14km SE of Anza, CA",earthquake,0.27,0.54,0.174,7,reviewed,ci,ci
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T18:36:19.610Z,38.8323326,-122.819664,1.42,0.85,md,11,57,0.01165,0.02,nc,nc73894781,2023-05-31T19:04:13.907Z,"8km NW of The Geysers, CA",earthquake,0.31,0.8,0.22,11,automatic,nc,nc
 2023-05-31T18:32:23.210Z,19.4146666666667,-155.295,1.51,0.8,md,14,82,,0.1,hv,hv73432632,2023-05-31T19:01:25.410Z,"7 km WSW of Volcano, Hawaii",earthquake,0.21,0.21,0.168466911457096,2,reviewed,hv,hv
 2023-05-31T18:16:52.600Z,37.5691667,-118.781,6.15,0.37,md,10,218,0.04353,0.03,nc,nc73894776,2023-05-31T20:06:10.290Z,"9km W of Toms Place, CA",earthquake,2.13,1.75,0.258,10,reviewed,nc,nc
-2023-05-31T17:55:06.223Z,65.3586,-144.518,12.1,1.6,ml,,,,0.87,ak,ak0236y0lkpq,2023-05-31T18:06:55.482Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
