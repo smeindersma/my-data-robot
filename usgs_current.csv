@@ -1,10 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-05T15:49:03.970Z,38.8188324,-122.7929993,3.07,1.02,md,16,63,0.011,0.03,nc,nc73897306,2023-06-05T15:50:41.019Z,"6km NW of The Geysers, CA",earthquake,0.28,0.65,0.19,17,automatic,nc,nc
+2023-06-05T16:05:39.890Z,19.4791660308838,-155.728668212891,-2.21000003814697,1.86,ml,25,122,,0.340000004,hv,hv73440857,2023-06-05T16:11:09.740Z,"14 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.64,0.389999986,0.66,5,automatic,hv,hv
+2023-06-05T15:49:08.807Z,-5.7546,152.1683,10,4.8,mb,32,128,1.553,0.94,us,us7000k6fx,2023-06-05T16:17:13.040Z,"New Britain region, Papua New Guinea",earthquake,10.41,1.912,0.068,67,reviewed,us,us
+2023-06-05T15:49:03.970Z,38.8188324,-122.7929993,3.07,1.02,md,16,63,0.011,0.03,nc,nc73897306,2023-06-05T16:06:11.798Z,"6km NW of The Geysers, CA",earthquake,0.28,0.65,0.19,17,automatic,nc,nc
+2023-06-05T15:41:40.926Z,-5.6879,151.9926,10,5.2,mww,69,88,1.497,0.99,us,us7000k6fw,2023-06-05T16:09:01.040Z,"151 km SSW of Kokopo, Papua New Guinea",earthquake,7.27,1.864,0.078,16,reviewed,us,us
 2023-06-05T15:30:45.420Z,33.3458333,-116.3473333,13.71,0.74,ml,19,99,0.09703,0.28,ci,ci40478784,2023-06-05T15:34:20.430Z,"10km NNE of Borrego Springs, CA",earthquake,0.65,1.38,0.134,9,automatic,ci,ci
-2023-06-05T15:12:11.140Z,38.7996674,-122.7491684,0.7,1.22,md,19,100,0.02812,0.03,nc,nc73897296,2023-06-05T15:38:11.656Z,"3km NNE of The Geysers, CA",earthquake,0.32,0.48,0.16,19,automatic,nc,nc
+2023-06-05T15:12:11.140Z,38.7996674,-122.7491684,0.7,1.22,md,19,100,0.02812,0.03,nc,nc73897296,2023-06-05T16:12:10.832Z,"3km NNE of The Geysers, CA",earthquake,0.32,0.48,0.16,19,automatic,nc,nc
 2023-06-05T15:11:59.870Z,38.8255005,-122.7969971,2.48,1.33,md,26,33,0.01043,0.02,nc,nc73897291,2023-06-05T15:44:10.684Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.4,0.15,26,automatic,nc,nc
 2023-06-05T15:00:04.130Z,33.6455,-117.0526667,0.02,1.28,ml,9,153,0.2298,0.26,ci,ci40478744,2023-06-05T15:03:36.927Z,"7km SSE of Winchester, CA",earthquake,0.98,31.61,0.449,9,automatic,ci,ci
 2023-06-05T14:59:55.440Z,38.8358345,-122.7904968,2,1.06,md,17,66,0.002574,0.02,nc,nc73897286,2023-06-05T15:15:13.533Z,"6km WNW of Cobb, CA",earthquake,0.25,0.43,0.09,17,automatic,nc,nc
+2023-06-05T14:53:28.310Z,47.6086666666667,-113.918,16.39,0.72,ml,15,91,0.1135,0.17,mb,mb90016818,2023-06-05T16:04:25.250Z,"13 km ESE of Turtle Lake, Montana",earthquake,0.5,0.63,0.115861894288427,4,reviewed,mb,mb
 2023-06-05T14:40:31.090Z,38.8358345,-122.795166,2.08,0.73,md,12,67,0.00456,0.01,nc,nc73897281,2023-06-05T14:57:13.407Z,"6km WNW of Cobb, CA",earthquake,0.32,0.94,0.18,12,automatic,nc,nc
 2023-06-05T14:35:55.140Z,33.9948333,-117.167,6.38,0.97,ml,27,77,0.04758,0.22,ci,ci40478728,2023-06-05T14:39:26.015Z,"7km SSE of Redlands, CA",earthquake,0.41,1.01,0.17,26,automatic,ci,ci
 2023-06-05T14:15:59.644Z,65.5481,-144.8339,15.6,1.2,ml,,,,0.75,ak,ak0237689juk,2023-06-05T14:17:37.777Z,"northern Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -48,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T09:56:57.097Z,65.4128,-144.7922,0,1.3,ml,,,,0.69,ak,ak023765j5zh,2023-06-05T09:59:31.984Z,"17 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-05T09:44:44.080Z,19.6218,-65.7411,94,3.75,md,7,246,1.3899,0.4,pr,pr2023156000,2023-06-05T10:43:55.364Z,"Puerto Rico region",earthquake,5.26,10.34,0.09,5,reviewed,pr,pr
 2023-06-05T09:41:35.010Z,-15.1165,-173.5061,10,4.7,mb,42,109,2.975,0.36,us,us7000k6df,2023-06-05T10:07:07.040Z,"Tonga",earthquake,10.26,1.882,0.056,98,reviewed,us,us
-2023-06-05T09:35:51.969Z,39.6242,-119.9573,5.1,1.6,ml,12,88.93,0.017,0.2452,nn,nn00860859,2023-06-05T09:37:42.332Z,"6 km SSE of Cold Springs, Nevada",earthquake,,0.5,0.19,7,automatic,nn,nn
+2023-06-05T09:35:52.670Z,39.615,-119.9607,6.6,1.7,ml,25,67.97,0.008,0.1845,nn,nn00860859,2023-06-05T16:14:17.029Z,"7 km S of Cold Springs, Nevada",earthquake,,0.9,0.17,8,reviewed,nn,nn
 2023-06-05T09:19:56.503Z,64.8993,-151.0333,15.9,2.1,ml,,,,0.32,ak,ak023765b8g2,2023-06-05T09:21:38.920Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-05T09:10:44.830Z,37.8769989,-122.2470016,9.41,1.21,md,19,69,0.001587,0.03,nc,nc73897196,2023-06-05T11:23:15.029Z,"2km ENE of Berkeley, CA",earthquake,0.39,0.51,0.39,10,automatic,nc,nc
 2023-06-05T08:36:19.320Z,38.791832,-122.7553329,3.53,0.78,md,10,84,0.009423,0.02,nc,nc73897191,2023-06-05T09:02:14.203Z,"2km N of The Geysers, CA",earthquake,0.47,1.96,0.18,10,automatic,nc,nc
@@ -181,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T16:41:44.370Z,34.239,-119.7366667,-0.05,3.08,ml,40,122,0.1945,0.27,ci,ci40478144,2023-06-05T15:32:28.988Z,"21km S of Santa Barbara, CA",earthquake,0.34,0.71,0.146,50,reviewed,ci,ci
 2023-06-04T16:41:43.011Z,36.7782,-115.9496,9.3,-0.2,ml,12,214.03,0.058,0.1024,nn,nn00860849,2023-06-04T22:32:57.487Z,"34 km NW of Indian Springs, Nevada",earthquake,,1.5,0.09,4,reviewed,nn,nn
 2023-06-04T16:37:35.950Z,34.274,-119.7498333,1,1.72,ml,19,149,0.1688,0.23,ci,ci40478136,2023-06-04T17:01:07.144Z,"17km SSW of Santa Barbara, CA",earthquake,0.61,31.61,0.19,28,automatic,ci,ci
-2023-06-04T16:13:49.830Z,38.8376656,-122.8073349,1.82,0.73,md,9,60,0.01329,0.03,nc,nc73896951,2023-06-04T16:48:15.249Z,"8km WNW of Cobb, CA",earthquake,0.42,1.48,0.44,9,automatic,nc,nc
