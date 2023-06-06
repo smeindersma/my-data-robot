@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-06T19:48:47.850Z,38.8170013,-122.7953339,2.21,0.84,md,12,52,0.00902,0.03,nc,nc73897836,2023-06-06T19:50:20.732Z,"6km NW of The Geysers, CA",earthquake,0.33,0.99,0.26,12,automatic,nc,nc
 2023-06-06T19:43:23.740Z,19.3341674804688,-155.121505737305,1.72000002861023,1.83000004,md,37,131,,0.170000002,hv,hv73442817,2023-06-06T19:46:37.840Z,"Island of Hawaii, Hawaii",earthquake,0.36,0.430000007,0.949999988,22,automatic,hv,hv
 2023-06-06T19:36:23.530Z,38.8061676,-122.7523346,0.56,0.75,md,7,116,0.007991,0.03,nc,nc73897831,2023-06-06T19:38:00.519Z,"3km SW of Cobb, CA",earthquake,0.32,0.85,0.04,8,automatic,nc,nc
 2023-06-06T19:28:56.320Z,38.8206673,-122.8033371,2.58,0.77,md,13,84,0.005926,0.01,nc,nc73897826,2023-06-06T19:30:30.528Z,"6km NW of The Geysers, CA",earthquake,0.31,0.91,0.27,15,automatic,nc,nc
@@ -126,6 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T05:37:03.296Z,66.1085,-143.245,21.6,1.9,ml,,,,1.33,ak,ak02377qklax,2023-06-06T05:41:54.655Z,"northern Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-06-06T05:36:07.230Z,37.3754,-117.8787,6.9,0.8,ml,6,199.4,0.075,0.0763,nn,nn00860893,2023-06-06T17:11:39.883Z,"36 km SSE of Dyer, Nevada",earthquake,,4.3,0.82,5,reviewed,nn,nn
 2023-06-06T05:35:57.004Z,58.1846,-155.3182,0.7,0.8,ml,,,,2.32,ak,ak02377qka0k,2023-06-06T05:41:44.235Z,"Alaska Peninsula",earthquake,,6.9,,,automatic,ak,ak
+2023-06-06T05:35:34.060Z,45.3701666666667,-112.601833333333,5.83,1.86,ml,26,88,0.008571,0.08,mb,mb90016858,2023-06-06T19:47:09.230Z,"17 km N of Dillon, Montana",earthquake,0.27,0.32,0.167256080527435,23,reviewed,mb,mb
 2023-06-06T05:20:22.620Z,37.3693333,-122.151,3.71,0.53,md,11,92,0.0322,0.1,nc,nc73897606,2023-06-06T07:44:25.401Z,"2km SW of Los Altos Hills, CA",earthquake,0.3,0.7,0.295,8,reviewed,nc,nc
 2023-06-06T05:13:08.064Z,66.0732,-143.3461,12.6,1.4,ml,,,,1.1,ak,ak02377qfghi,2023-06-06T05:15:32.553Z,"northern Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-06-06T05:05:19.490Z,35.8651667,-117.6911667,8.49,1.29,ml,12,118,0.08233,0.15,ci,ci40479224,2023-06-06T05:09:11.218Z,"21km ESE of Little Lake, CA",earthquake,0.36,1.09,0.155,9,automatic,ci,ci
@@ -183,10 +185,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T23:55:20.110Z,60.0465,-153.054166666667,4.51,0.94,ml,4,172,,0.17,av,av91913341,2023-06-06T01:37:01.580Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.99,1.19,0.154701219409749,4,reviewed,av,av
 2023-06-05T23:53:32.990Z,38.7568333,-122.727,1.98,0.26,md,16,66,0.005038,0.02,nc,nc73897496,2023-06-06T19:21:16.038Z,"3km SE of The Geysers, CA",earthquake,0.24,0.35,0.248,10,reviewed,nc,nc
 2023-06-05T23:53:16.858Z,63.495,-150.9009,0,1.1,ml,,,,1.13,ak,ak02376dui7h,2023-06-05T23:55:44.254Z,"41 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-05T23:53:09.080Z,38.7568333,-122.7293333,1.83,1.13,md,42,67,0.0059,0.04,nc,nc73897491,2023-06-06T17:20:11.436Z,"3km SE of The Geysers, CA",earthquake,0.15,0.18,0.16,34,reviewed,nc,nc
+2023-06-05T23:53:09.080Z,38.7568333,-122.7293333,1.83,1.13,md,42,67,0.0059,0.04,nc,nc73897491,2023-06-06T19:49:14.201Z,"3km SE of The Geysers, CA",earthquake,0.15,0.18,0.16,34,reviewed,nc,nc
 2023-06-05T23:49:48.480Z,39.455,-123.1558333,3.1,1.69,md,18,80,0.08416,0.09,nc,nc73897486,2023-06-06T12:17:19.371Z,"18km WNW of Lake Pillsbury, CA",earthquake,0.29,1.14,0.113,17,reviewed,nc,nc
 2023-06-05T23:46:35.747Z,64.6303,-149.3811,19.1,1.1,ml,,,,0.44,ak,ak02376dt1na,2023-06-05T23:48:05.965Z,"12 km WNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-05T23:38:54.420Z,35.22116667,-98.05916667,7.75,1.16,ml,22,55,0.01349735136,0.14,ok,ok2023kyzu,2023-06-06T16:44:53.192Z,"Oklahoma",earthquake,,0.3,0.19,5,reviewed,ok,ok
+2023-06-05T23:38:54.420Z,35.22116667,-98.05916667,7.75,1.16,ml,22,55,0.01349735136,0.14,ok,ok2023kyzu,2023-06-06T16:44:53.192Z,"10 km WNW of Pocasset, Oklahoma",earthquake,,0.3,0.19,5,reviewed,ok,ok
 2023-06-05T23:29:13.930Z,35.0465,-117.6663333,-0.79,1.74,ml,26,60,0.1145,0.15,ci,ci40479160,2023-06-06T19:15:38.579Z,"5km NNW of Boron, CA",quarry blast,0.32,31.61,0.114,23,reviewed,ci,ci
 2023-06-05T23:24:33.770Z,59.946,-151.7714,49.1,3.3,ml,,,,0.71,ak,ak02376doboy,2023-06-06T18:07:33.391Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-06-05T23:23:58.170Z,38.8238335,-122.7945023,2.72,0.93,md,24,33,0.01217,0.02,nc,nc73897481,2023-06-05T23:25:31.208Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.47,0.21,24,automatic,nc,nc
