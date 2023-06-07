@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-07T11:40:41.010Z,19.4088325500488,-155.283172607422,1.41999995708466,1.70000005,md,7,159,,0.140000001,hv,hv73444442,2023-06-07T11:46:11.710Z,"6 km SW of Volcano, Hawaii",earthquake,0.64,1.02999997,0.119999997,5,automatic,hv,hv
+2023-06-07T11:40:14.300Z,19.4484996795654,-155.242660522461,0.150000005960464,1.8,ml,8,285,,0.280000001,hv,hv73444437,2023-06-07T11:45:46.420Z,"1 km NW of Volcano, Hawaii",earthquake,1.59,2.18000007,0.28,4,automatic,hv,hv
 2023-06-07T11:33:52.540Z,38.8479996,-122.8150024,1.1,0.63,md,11,76,0.009312,0.03,nc,nc73898121,2023-06-07T11:35:29.126Z,"8km WNW of Cobb, CA",earthquake,0.27,0.69,0.45,12,automatic,nc,nc
 2023-06-07T11:19:44.681Z,61.6804,-150.883,69.3,1.5,ml,,,,0.67,ak,ak02379hkrqc,2023-06-07T11:23:59.079Z,"24 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-07T11:16:05.290Z,19.404167175293,-155.288330078125,0.560000002384186,1.92999995,md,21,46,,0.340000004,hv,hv73444347,2023-06-07T11:19:17.100Z,"7 km SW of Volcano, Hawaii",earthquake,0.3,0.289999992,0.810000002,12,automatic,hv,hv
@@ -274,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T11:51:39.388Z,36.8891,-115.9612,8.5,0.4,ml,10,229.79,0.027,0.1532,nn,nn00860918,2023-06-07T02:04:02.393Z,"Nevada",earthquake,,3.2,0.28,3,reviewed,nn,nn
 2023-06-06T11:51:25.938Z,63.5531,-147.7698,0,1.4,ml,,,,0.7,ak,ak02377u88pd,2023-06-06T11:53:53.720Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-06T11:48:57.660Z,38.8083344,-122.7613297,0.03,1.07,md,16,100,0.007801,0.04,nc,nc73897676,2023-06-06T14:25:14.165Z,"4km N of The Geysers, CA",earthquake,0.28,0.44,0.08,15,automatic,nc,nc
-2023-06-06T11:45:18.020Z,38.8068352,-122.777832,-0.02,0.79,md,8,99,0.006791,0.02,nc,nc73897671,2023-06-06T12:01:15.257Z,"4km NNW of The Geysers, CA",earthquake,0.29,0.87,0.23,9,automatic,nc,nc
-2023-06-06T11:41:35.690Z,38.2653333,-112.632,12.57,0.84,md,8,220,0.2643,0.13,uu,uu60541711,2023-06-06T14:46:45.620Z,"Utah",earthquake,0.69,3.38,0.147,5,reviewed,uu,uu
