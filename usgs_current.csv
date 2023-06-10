@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-10T23:24:56.847Z,60.83,-151.6066,71.4,2.2,ml,,,,0.27,ak,ak0237end3zo,2023-06-10T23:26:29.654Z,"23 km NW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-06-10T23:35:02.710Z,61.1938,-147.1055,23.8,1.2,ml,,,,0.46,ak,ak0237enfcov,2023-06-10T23:37:32.346Z,"41 km W of Valdez, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-06-10T23:24:56.847Z,60.83,-151.6066,71.4,2.2,ml,,,,0.27,ak,ak0237end3zo,2023-06-10T23:43:38.040Z,"23 km NW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-10T23:21:52.972Z,35.38788223,-98.07123566,4.529907227,1.97,ml,21,91.78559875,0.04994164407,0.8237379781,ok,ok2023lict,2023-06-10T23:24:50.263Z,"11 km W of Union City, Oklahoma",earthquake,2.943896204,2.082823453,0.19,17,automatic,ok,ok
 2023-06-10T22:55:48.430Z,38.7796669,-122.7695007,5.4,0.79,md,5,153,0.009402,0.03,nc,nc73899716,2023-06-10T22:57:25.379Z,"1km WNW of The Geysers, CA",earthquake,3.47,5.84,0.08,8,automatic,nc,nc
 2023-06-10T22:44:41.337Z,60.2415,-149.8915,28.3,1.7,ml,,,,0.86,ak,ak0237emvxid,2023-06-10T22:46:27.618Z,"27 km S of Cooper Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
