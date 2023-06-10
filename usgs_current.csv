@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-10T08:37:35.140Z,33.8176667,-117.0003333,12.78,0.67,ml,14,86,0.1674,0.16,ci,ci40482392,2023-06-10T08:41:13.060Z,"5km NW of San Jacinto, CA",earthquake,0.37,1.17,0.196,11,automatic,ci,ci
 2023-06-10T08:30:05.460Z,62.5354,-152.1754,0,1.7,ml,,,,0.62,ak,ak0237eegs8y,2023-06-10T08:31:33.597Z,"72 km W of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-10T08:12:52.450Z,35.8895,-117.7108333,7.92,1.26,ml,11,114,0.09193,0.18,ci,ci40482384,2023-06-10T08:16:29.397Z,"18km ESE of Little Lake, CA",earthquake,0.48,1.23,0.216,10,automatic,ci,ci
 2023-06-10T07:54:53.140Z,19.253833770752,-155.394668579102,31.5799999237061,2.16,ml,44,132,,0.129999995,hv,hv73447922,2023-06-10T08:00:24.500Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.51,0.649999976,0.01,3,automatic,hv,hv
@@ -204,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T09:24:38.997Z,44.1688,149.4259,53.013,4.6,mb,83,135,4.918,0.54,us,us7000k7bd,2023-06-09T10:39:36.040Z,"169 km SE of Kuril’sk, Russia",earthquake,10.47,7.284,0.042,171,reviewed,us,us
 2023-06-09T09:00:00.820Z,38.8333321,-122.8246689,3.62,0.73,md,9,84,0.009947,0.03,nc,nc73899036,2023-06-09T09:16:12.189Z,"9km NW of The Geysers, CA",earthquake,0.82,2.35,0.29,10,automatic,nc,nc
 2023-06-09T08:53:40.655Z,36.9284,-116.0908,5.3,-0.1,ml,11,109.02,0.014,0.109,nn,nn00861063,2023-06-09T22:01:09.621Z,"54 km NW of Indian Springs, Nevada",earthquake,,1.8,0.62,4,reviewed,nn,nn
-2023-06-09T08:35:26.813Z,-10.889,162.5666,46.809,4.3,mb,20,148,2.954,0.87,us,us7000k7b9,2023-06-09T09:22:14.040Z,"Solomon Islands",earthquake,12.29,8.034,0.138,15,reviewed,us,us
-2023-06-09T08:35:15.378Z,36.6027,-116.003,4.8,-0.3,ml,10,272.47,0.068,0.0666,nn,nn00861062,2023-06-09T21:58:00.180Z,"29 km W of Indian Springs, Nevada",earthquake,,2.9,0.1,4,reviewed,nn,nn
