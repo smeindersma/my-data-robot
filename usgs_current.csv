@@ -128,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T08:10:39.210Z,35.111,-95.38316667,7.01,2.07,ml,62,71,0.1151773983,0.26,ok,ok2023mkes,2023-06-26T12:44:34.645Z,"1 km SW of Quinton, Oklahoma",earthquake,,0.5,0.25,12,reviewed,ok,ok
 2023-06-26T08:01:30.821Z,66.3141,-154.8144,0,3.4,ml,,,,0.77,ak,ak02384uw6ca,2023-06-26T18:31:03.040Z,"38 km NW of Hughes, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-26T07:40:15.310Z,33.4738333,-116.4921667,13.72,0.66,ml,24,97,0.09428,0.17,ci,ci40495504,2023-06-26T07:43:54.911Z,"19km ESE of Anza, CA",earthquake,0.29,0.69,0.092,19,automatic,ci,ci
-2023-06-26T07:39:35.680Z,33.476,-116.5006667,12.39,1.11,ml,43,76,0.07848,0.18,ci,ci40495496,2023-06-26T07:50:27.600Z,"18km ESE of Anza, CA",earthquake,0.23,0.53,0.147,27,automatic,ci,ci
+2023-06-26T07:39:35.530Z,33.472,-116.5038333,13.41,1.08,ml,50,77,0.08301,0.15,ci,ci40495496,2023-06-26T20:57:48.919Z,"18km ESE of Anza, CA",earthquake,0.19,0.38,0.128,34,reviewed,ci,ci
 2023-06-26T07:35:18.322Z,51.6077,-176.9157,56.025,4.6,mb,126,175,0.286,0.6,us,us7000kb3f,2023-06-26T15:21:15.396Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,4.75,6.456,0.034,263,reviewed,us,us
 2023-06-26T07:21:36.266Z,64.8528,-149.0558,24.7,1.9,ml,,,,0.82,ak,ak02384uf1h6,2023-06-26T07:23:55.895Z,"28 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-26T07:00:16.250Z,38.8078346,-122.8213348,2.96,1.06,md,14,64,0.006214,0.02,nc,nc73905471,2023-06-26T07:17:19.960Z,"7km WNW of The Geysers, CA",earthquake,0.33,0.84,0.22,14,automatic,nc,nc
@@ -217,8 +217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T21:55:18.710Z,38.8121681,-122.8236694,2.61,0.95,md,14,73,0.00542,0.07,nc,nc73905291,2023-06-26T00:06:15.483Z,"7km WNW of The Geysers, CA",earthquake,0.37,0.78,0.19,14,automatic,nc,nc
 2023-06-25T21:40:27.887Z,-21.6407,-68.5109,147.95,4.3,mb,19,62,1.087,0.7,us,us7000kb1c,2023-06-25T21:59:57.040Z,"Antofagasta, Chile",earthquake,7.78,7.184,0.237,5,reviewed,us,us
 2023-06-25T21:33:38.710Z,38.7809982,-122.7666702,1.33,0.53,md,8,110,0.01029,0.02,nc,nc73905286,2023-06-25T23:33:13.437Z,"1km WNW of The Geysers, CA",earthquake,0.42,1,0.23,8,automatic,nc,nc
+2023-06-25T21:25:14.467Z,37.4951,72.227,198.136,4.2,mb,18,129,2.008,0.36,us,us7000kb1b,2023-06-26T20:53:45.040Z,"59 km E of Khorugh, Tajikistan",earthquake,7.72,11.799,0.373,2,reviewed,us,us
 2023-06-25T21:21:42.110Z,33.521,-116.7971667,27.38,0.91,ml,16,59,0.1464,0.29,ci,ci40495192,2023-06-25T21:25:19.975Z,"11km NE of Aguanga, CA",earthquake,1,0.99,0.254,16,automatic,ci,ci
 2023-06-25T21:18:53.390Z,38.8291664,-122.8270035,11.53,0.77,md,10,165,0.008707,0.04,nc,nc73905281,2023-06-25T23:07:12.172Z,"8km NW of The Geysers, CA",earthquake,1.9,7.52,0.35,11,automatic,nc,nc
 2023-06-25T21:15:30.462Z,61.2221,-150.0037,41,2,ml,,,,0.45,ak,ak02383f6gpi,2023-06-26T12:01:00.142Z,"5 km W of Anchorage, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-06-25T20:51:16.470Z,33.7168333,-116.7545,16.39,0.69,ml,19,136,0.03409,0.13,ci,ci40495176,2023-06-26T12:57:37.836Z,"4km SW of Idyllwild, CA",earthquake,0.39,0.46,0.178,10,reviewed,ci,ci
-2023-06-25T20:50:48.950Z,19.3635005950928,-155.242172241211,28.0499992370605,1.78999996,md,28,127,,0.109999999,hv,hv73461582,2023-06-25T20:54:07.540Z,"8 km S of Volcano, Hawaii",earthquake,0.82,0.560000002,0.550000012,7,automatic,hv,hv
