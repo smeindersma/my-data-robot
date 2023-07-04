@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-04T15:11:13.734Z,61.2609,-149.6097,32.6,1.2,ml,,,,0.53,ak,ak0238i7f3d9,2023-07-04T15:13:10.067Z,"1 km ENE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-04T15:03:41.850Z,35.7801667,-117.6013333,11.98,0.96,ml,10,133,0.1359,0.23,ci,ci40503264,2023-07-04T15:07:25.236Z,"18km W of Searles Valley, CA",earthquake,0.74,1.98,0.049,5,automatic,ci,ci
-2023-07-04T15:03:04.730Z,37.8040009,-122.591835,4.9,1.65,md,18,159,0.08619,0.04,nc,nc73908751,2023-07-04T15:05:54.724Z,"7km S of Muir Beach, CA",earthquake,0.4,0.82,0.11,11,automatic,nc,nc
-2023-07-04T14:58:49.940Z,40.4025002,-124.3813324,27.44,3.93,mw,24,236,0.08029,0.11,nc,nc73908746,2023-07-04T15:12:18.615Z,"12km NW of Petrolia, CA",earthquake,1.44,1.2,,3,reviewed,nc,nc
+2023-07-04T15:03:04.730Z,37.8040009,-122.591835,4.9,1.65,md,18,159,0.08619,0.04,nc,nc73908751,2023-07-04T15:15:11.632Z,"7km S of Muir Beach, CA",earthquake,0.4,0.82,0.11,11,automatic,nc,nc
+2023-07-04T14:58:49.940Z,40.4025002,-124.3813324,27.44,3.93,mw,24,236,0.08029,0.11,nc,nc73908746,2023-07-04T15:25:32.156Z,"12km NW of Petrolia, CA",earthquake,1.44,1.2,,3,reviewed,nc,nc
 2023-07-04T14:55:45.500Z,38.8221664,-122.8046646,2.88,0.81,md,12,81,0.0044,0.01,nc,nc73908741,2023-07-04T15:12:18.763Z,"6km NW of The Geysers, CA",earthquake,0.37,1.26,0.15,12,automatic,nc,nc
 2023-07-04T14:54:23.492Z,57.7467,-155.9396,0,1.5,ml,,,,0.5,ak,ak0238i72wb1,2023-07-04T14:56:02.003Z,"Alaska Peninsula",earthquake,,28.4,,,automatic,ak,ak
 2023-07-04T14:42:31.578Z,37.2705,-117.6141,6.6,1,ml,11,98.22,0.045,0.3092,nn,nn00862112,2023-07-04T14:44:49.466Z,"53 km S of Silver Peak, Nevada",earthquake,,1.2,0.74,7,automatic,nn,nn
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-04T14:01:30.343Z,63.0044,-151.566,0,1.2,ml,,,,0.76,ak,ak0238i6rjxz,2023-07-04T14:03:57.397Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-04T13:54:14.865Z,63.7515,-149.2497,26,1.1,ml,,,,1.32,ak,ak0238i6hg1a,2023-07-04T13:56:19.651Z,"16 km W of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-04T13:38:57.719Z,63.0679,-148.5092,70.1,2.5,ml,,,,0.5,ak,ak0238i6e3v7,2023-07-04T13:40:35.862Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-04T13:22:11.920Z,38.8088341,-122.8131638,3.23,1.29,md,21,56,0.01251,0.06,nc,nc73908736,2023-07-04T13:55:10.165Z,"6km NW of The Geysers, CA",earthquake,0.3,0.54,0.22,18,automatic,nc,nc
+2023-07-04T13:22:11.920Z,38.8088341,-122.8131638,3.23,1.29,md,21,56,0.01251,0.06,nc,nc73908736,2023-07-04T15:21:14.666Z,"6km NW of The Geysers, CA",earthquake,0.3,0.54,0.22,18,automatic,nc,nc
 2023-07-04T13:01:59.770Z,38.8330002,-122.8143311,1.45,1.04,md,15,69,0.01015,0.06,nc,nc73908731,2023-07-04T14:49:15.486Z,"8km NW of The Geysers, CA",earthquake,0.28,0.66,0.15,16,automatic,nc,nc
 2023-07-04T12:58:48.213Z,57.7698,-155.9816,7.1,2,ml,,,,0.52,ak,ak0238i5wxv9,2023-07-04T13:00:56.720Z,"89 km ENE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-04T12:39:05.780Z,39.3353348,-123.2891693,2.63,1.78,md,12,74,0.1297,0.05,nc,nc73908726,2023-07-04T14:22:14.329Z,"10km SE of Willits, CA",earthquake,0.31,8.32,0.11,10,automatic,nc,nc
