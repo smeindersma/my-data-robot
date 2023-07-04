@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-04T23:55:47.116Z,58.2036,-155.2477,0,1.9,ml,,,,0.59,ak,ak0238icg2af,2023-07-04T23:57:28.942Z,"84 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-04T23:52:34.392Z,35.45983505,-98.0290451,1.795522809,1.79,ml,18,70.51791382,0.03545571119,1.033012994,ok,ok2023mzzt,2023-07-04T23:55:59.146Z,"10 km SW of El Reno, Oklahoma",earthquake,2.982743533,2.259915646,0.16,11,automatic,ok,ok
 2023-07-04T23:37:35.598Z,63.2689,-150.5547,141.7,1.8,ml,,,,0.31,ak,ak0238icc6if,2023-07-04T23:39:56.248Z,"65 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-04T23:35:10.212Z,57.0916,-156.3512,34.9,2.1,ml,,,,0.89,ak,ak0238icbp4d,2023-07-04T23:39:23.124Z,"Alaska Peninsula",earthquake,,4.5,,,automatic,ak,ak
 2023-07-04T23:31:12.390Z,58.615,-154.3653,130.7,1.5,ml,,,,0.19,ak,ak0238icaufb,2023-07-04T23:33:13.524Z,"94 km SSE of Kokhanok, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -149,4 +151,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-04T00:13:43.983Z,56.4182,-156.6847,5.2,2,ml,,,,0.25,ak,ak0238hyi3pv,2023-07-04T03:31:39.344Z,"107 km E of Chignik, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2023-07-04T00:06:48.930Z,39.01,-123.5818333,5.44,2.03,md,25,151,0.04681,0.09,nc,nc73908546,2023-07-04T09:16:13.556Z,"15km NE of Point Arena, CA",earthquake,0.18,0.34,0.151,29,reviewed,nc,nc
 2023-07-04T00:06:36.150Z,38.7799988,-122.7570038,1.06,1.08,md,8,123,0.01618,0.03,nc,nc73908541,2023-07-04T00:09:18.316Z,"0km N of The Geysers, CA",earthquake,0.36,0.76,0.1,6,automatic,nc,nc
-2023-07-03T23:50:08.633Z,57.4823,-149.5297,6.4,2.8,ml,,,,0.61,ak,ak0238govk5s,2023-07-04T23:27:50.040Z,"165 km E of Chiniak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
