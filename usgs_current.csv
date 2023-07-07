@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-07T09:26:46.135Z,58.2732,-155.1075,30.2,0.7,ml,,,,0.59,ak,ak0238n2jtgl,2023-07-07T09:29:12.516Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
+2023-07-07T09:17:23.173Z,-32.7523,-71.9165,26.188,4.5,mb,35,147,0.352,0.53,us,us6000kqp1,2023-07-07T09:40:00.040Z,"41 km NW of Valparaíso, Chile",earthquake,3.37,6.134,0.151,14,reviewed,us,us
 2023-07-07T09:12:34.506Z,48.3497,-123.0033,38.098,2.5,ml,32,59,0.373,0.26,us,us6000kqnz,2023-07-07T09:24:06.040Z,"20 km S of Friday Harbor, Washington",earthquake,2.1,11.55,0.043,72,reviewed,us,us
 2023-07-07T08:56:08.050Z,18.2128333333333,-66.6995,8.66,2.12,md,8,161,0.04433,0.13,pr,pr71416648,2023-07-07T09:07:10.550Z,"5 km S of Utuado, Puerto Rico",earthquake,0.35,0.71,0.150082992076371,5,reviewed,pr,pr
 2023-07-07T08:41:43.975Z,65.4313,-148.0036,14.4,1.4,ml,,,,0.31,ak,ak0238n21lfh,2023-07-07T08:43:52.344Z,"27 km ESE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
