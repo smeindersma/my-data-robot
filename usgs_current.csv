@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-08T09:41:20.679Z,61.1644,-151.1283,62.5,2.6,ml,,,,0.2,ak,ak0238oq6bqb,2023-07-08T09:42:38.755Z,"3 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-07-08T09:40:37.546Z,65.082,-150.1722,14.4,1,ml,,,,0.89,ak,ak0238oq65be,2023-07-08T09:42:32.965Z,"23 km ENE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-08T09:27:42.982Z,61.6897,-150.6872,34.1,1,ml,,,,0.19,ak,ak0238oq3dfe,2023-07-08T09:29:26.834Z,"18 km NNW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-08T08:59:46.272Z,61.8354,-151.9131,108.7,2.3,ml,,,,0.58,ak,ak0238oposyz,2023-07-08T09:01:41.290Z,"32 km WSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-08T08:42:12.750Z,33.4888333,-116.4696667,13.48,0.49,ml,18,102,0.05038,0.15,ci,ci39607498,2023-07-08T08:45:44.353Z,"20km ESE of Anza, CA",earthquake,0.36,0.98,0.115,11,automatic,ci,ci
@@ -214,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T09:58:25.680Z,37.743,-122.5523333,4.43,1.65,md,45,159,0.08052,0.08,nc,nc73909851,2023-07-07T17:33:14.916Z,"4km WNW of San Francisco Zoo, CA",earthquake,0.22,0.51,0.242,37,reviewed,nc,nc
 2023-07-07T09:54:24.630Z,38.831665,-122.8111649,1.77,0.76,md,13,89,0.008302,0.01,nc,nc73909846,2023-07-07T10:23:14.369Z,"8km NW of The Geysers, CA",earthquake,0.33,0.79,0.11,13,automatic,nc,nc
 2023-07-07T09:52:47.079Z,38.5344,-118.1444,7,0.8,ml,5,206.57,0.4,0.1309,nn,nn00862313,2023-07-08T02:22:46.552Z,"Nevada",earthquake,,2,0.25,2,reviewed,nn,nn
-2023-07-07T09:41:09.920Z,33.25,-116.3033333,10.49,0.79,ml,35,68,0.07055,0.23,ci,ci39606330,2023-07-07T20:01:54.591Z,"7km E of Borrego Springs, CA",earthquake,0.31,0.51,0.138,16,reviewed,ci,ci
