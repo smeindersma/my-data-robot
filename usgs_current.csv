@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-16T18:03:13.190Z,66.3115,-154.718,0,1.8,ml,,,,1,ak,ak023923luc3,2023-07-16T18:06:50.346Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-16T17:59:52.820Z,35.6238333,-117.5765,2.18,0.98,ml,14,95,0.1003,0.15,ci,ci39614282,2023-07-16T18:03:21.147Z,"9km E of Ridgecrest, CA",earthquake,0.33,0.66,0.15,5,automatic,ci,ci
 2023-07-16T17:17:47.779Z,63.5567,-150.6128,1.6,1.1,ml,,,,0.61,ak,ak0239233hfd,2023-07-16T17:20:06.185Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-16T17:08:52.719Z,58.1798,-155.3706,2.7,0.6,ml,,,,0.18,ak,ak0239231kd3,2023-07-16T17:10:41.367Z,"87 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-16T16:54:52.380Z,36.2369995,-121.5213318,13.07,1.67,md,18,115,,0.09,nc,nc73913691,2023-07-16T17:40:12.709Z,"24 km N of Lopez Point, CA",earthquake,0.43,0.81,0.15,17,automatic,nc,nc
@@ -86,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T10:37:12.520Z,31.5388333,-115.6795,5.82,4.18,ml,18,67,0.172,0.25,ci,ci39614090,2023-07-16T15:54:35.858Z,"86km ESE of Maneadero, B.C., MX",earthquake,0.37,2.15,0.125,62,reviewed,ci,ci
 2023-07-16T10:26:31.410Z,33.2235,-116.0645,9.64,0.91,ml,27,58,0.08677,0.25,ci,ci39614074,2023-07-16T10:30:03.604Z,"11km NE of Ocotillo Wells, CA",earthquake,0.39,1.08,0.113,14,automatic,ci,ci
 2023-07-16T10:24:27.940Z,31.5345,-115.6675,0.53,1.97,ml,5,119,0.174,0.15,ci,ci39614066,2023-07-16T10:28:13.700Z,"88km ESE of Maneadero, B.C., MX",earthquake,0.39,31.61,0.051,6,automatic,ci,ci
-2023-07-16T10:16:03.504Z,54.6475,-159.6762,35,3.8,mb,40,169,0.841,0.59,us,us7000kg40,2023-07-16T10:29:13.040Z,"south of Alaska",earthquake,6.59,1.996,0.191,7,reviewed,us,us
+2023-07-16T10:16:03.504Z,54.6475,-159.6762,35,3.8,mb,40,169,0.841,0.59,us,us7000kg40,2023-07-16T17:57:40.266Z,"south of Alaska",earthquake,6.59,1.996,0.191,7,reviewed,us,us
 2023-07-16T10:02:44.850Z,36.8391685,-121.4103317,8.42,1.86,md,34,77,,0.1,nc,nc73913596,2023-07-16T12:24:18.882Z,"1 km SW of Hollister, CA",earthquake,0.26,0.57,0.24,25,automatic,nc,nc
 2023-07-16T09:47:33.533Z,38.5348,-118.1605,6.3,1.3,ml,7,73.8,0.392,0.2037,nn,nn00862790,2023-07-16T17:00:22.252Z,"16 km NNW of Mina, Nevada",earthquake,,1.8,0.06,2,reviewed,nn,nn
 2023-07-16T09:34:22.049Z,38.1415,-118.2346,12.5,1.2,ml,5,132.51,0.205,0.102,nn,nn00862744,2023-07-16T16:57:13.710Z,"29 km SSW of Mina, Nevada",earthquake,,2.8,0.17,3,reviewed,nn,nn
@@ -117,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T07:02:00.040Z,54.5192,-160.9962,6.8,3.8,ml,,,,0.78,ak,ak02391x1ua6,2023-07-16T07:41:15.805Z,"96 km SSW of Sand Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-07-16T07:00:22.912Z,54.5021,-161.0341,8.136,3.4,ml,31,203,0.908,0.49,us,us7000kg34,2023-07-16T07:40:41.193Z,"98 km SSW of Sand Point, Alaska",earthquake,2.9,8.8,0.128,8,reviewed,us,us
 2023-07-16T06:51:19.871Z,54.6974,-160.7965,49.476,5.7,mb,26,150,0.679,0.58,us,us7000kg31,2023-07-16T08:59:59.764Z,"73 km SSW of Sand Point, Alaska",earthquake,6.19,10.67,0.173,12,reviewed,us,us
-2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-16T17:16:35.429Z,"98 km S of Sand Point, Alaska",earthquake,4.08,3.279,0.025,156,reviewed,us,us
+2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-16T18:03:34.869Z,"98 km S of Sand Point, Alaska",earthquake,4.08,3.279,0.025,156,reviewed,us,us
 2023-07-16T06:46:57.440Z,61.6357,-147.7284,28.6,1.5,ml,,,,0.67,ak,ak02391wpya8,2023-07-16T06:48:46.536Z,"19 km SSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-16T06:35:49.628Z,55.7086,-158.4637,86,3,ml,,,,1,ak,ak02391wnksy,2023-07-16T07:02:44.361Z,"48 km ESE of Perryville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-16T06:28:21.268Z,57.8003,-155.9341,5.4,2.5,ml,,,,0.33,ak,ak02391wm0lq,2023-07-16T06:47:33.040Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
@@ -228,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T18:22:09.145Z,58.2415,-155.1605,1.2,0.8,ml,,,,0.15,ak,ak02390g6k4y,2023-07-15T18:24:38.527Z,"85 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-15T18:12:32.926Z,40.0807,-119.6816,16,0.3,ml,4,171.71,0.098,0.0417,nn,nn00862676,2023-07-15T19:58:37.713Z,"Nevada",earthquake,,2.4,0.28,3,reviewed,nn,nn
 2023-07-15T18:10:56.003Z,63.2367,-151.5777,7.3,1.3,ml,,,,0.47,ak,ak02390g435s,2023-07-15T18:13:04.330Z,"34 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-15T18:04:03.132Z,-40.5671,176.9079,17.131,4.4,mb,24,203,0.516,0.58,us,us7000kg06,2023-07-15T19:29:04.040Z,"69 km ENE of Castlepoint, New Zealand",earthquake,5.35,5.619,0.22,6,reviewed,us,us
-2023-07-15T17:52:27.900Z,39.3801651,-123.1248322,8.02,1.68,md,6,130,0.007039,0.03,nc,nc73913351,2023-07-15T20:52:13.176Z,"14 km NNE of Redwood Valley, CA",earthquake,0.71,0.56,,1,automatic,nc,nc
-2023-07-15T17:52:10.320Z,34.1395,-117.4168333,6.27,0.95,ml,25,119,0.04379,0.14,ci,ci39613746,2023-07-16T16:07:57.949Z,"6km NW of Rialto, CA",earthquake,0.25,0.4,0.082,5,reviewed,ci,ci
