@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-20T19:27:37.930Z,33.2878333,-116.1955,7.49,1.32,ml,45,42,0.1068,0.26,ci,ci39617834,2023-07-20T19:38:17.000Z,"17km ENE of Borrego Springs, CA",earthquake,0.31,1.02,0.14,25,automatic,ci,ci
-2023-07-20T19:22:20.030Z,38.8428345,-122.8253326,1.71,0.94,md,14,95,0.008992,0.01,nc,nc73915021,2023-07-20T19:23:55.537Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.6,0.26,17,automatic,nc,nc
+2023-07-20T19:22:20.030Z,38.8428345,-122.8253326,1.71,0.94,md,14,95,0.008992,0.01,nc,nc73915021,2023-07-20T19:50:20.095Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.6,0.26,17,automatic,nc,nc
 2023-07-20T19:08:25.758Z,60.1936,-141.3576,14.3,1.6,ml,,,,0.39,ak,ak02398qdrgv,2023-07-20T19:10:14.914Z,"116 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-20T18:58:32.195Z,58.7204,-153.5989,13.4,2.2,ml,,,,0.34,ak,ak02398q325v,2023-07-20T18:59:55.301Z,"83 km NNW of Aleneva, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-20T18:58:15.013Z,58.717,-153.65,6.5,2.1,ml,,,,0.47,ak,ak02398q30u5,2023-07-20T18:59:47.195Z,"85 km NNW of Aleneva, Alaska",earthquake,,2.6,,,automatic,ak,ak
@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T12:47:43.615Z,58.4769,-156.9021,38,1.7,ml,,,,1.4,ak,ak02398mg5me,2023-07-20T12:50:59.602Z,"Alaska Peninsula",earthquake,,8.4,,,automatic,ak,ak
 2023-07-20T12:42:45.390Z,38.8190002,-122.8219986,2.35,1.1,md,24,47,0.0103,0.02,nc,nc73914961,2023-07-20T15:58:12.708Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.37,0.13,23,automatic,nc,nc
 2023-07-20T12:40:33.430Z,35.7018333,-121.0501667,9.24,1.27,md,15,78,0.08648,0.04,nc,nc73914956,2023-07-20T19:40:19.160Z,"14 km ENE of San Simeon, CA",earthquake,0.2,0.56,0.12,10,reviewed,nc,nc
-2023-07-20T12:37:21.470Z,38.8175,-122.8208333,2.4,1.63,md,52,45,0.01026,0.05,nc,nc73914951,2023-07-20T19:29:28.974Z,"7 km NW of The Geysers, CA",earthquake,0.15,0.22,0.182,44,reviewed,nc,nc
+2023-07-20T12:37:21.470Z,38.8175,-122.8208333,2.4,1.63,md,52,45,0.01026,0.05,nc,nc73914951,2023-07-20T19:42:18.046Z,"7 km NW of The Geysers, CA",earthquake,0.15,0.22,0.182,44,reviewed,nc,nc
 2023-07-20T12:36:18.790Z,36.0903333,-117.9001667,5,1.39,ml,23,115,0.04567,0.13,ci,ci39617362,2023-07-20T15:36:26.890Z,"7km NE of Coso Junction, CA",earthquake,0.24,0.52,0.204,9,reviewed,ci,ci
 2023-07-20T12:31:03.760Z,44.6158333333333,-112.573666666667,7.21,1.18,ml,8,98,0.05024,0.04,mb,mb90021828,2023-07-20T14:06:13.850Z,"2 km SSE of Lima, Montana",earthquake,0.38,0.61,0.154544973245878,14,reviewed,mb,mb
 2023-07-20T12:29:10.880Z,38.8354988,-122.8059998,1.8,0.7,md,15,64,0.0125,0.02,nc,nc73914946,2023-07-20T14:40:12.215Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.67,0.11,14,automatic,nc,nc
@@ -224,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T20:12:21.760Z,36.0235,-117.8985,5.38,0.76,ml,12,151,0.01704,0.14,ci,ci39616850,2023-07-20T17:23:56.968Z,"5km ESE of Coso Junction, CA",earthquake,0.3,0.51,0.192,4,reviewed,ci,ci
 2023-07-19T19:58:03.725Z,63.9137,-148.7124,112.6,1.4,ml,,,,0.29,ak,ak023973532s,2023-07-19T20:00:18.804Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-19T19:55:15.210Z,19.3746666666667,-155.291666666667,1.86,2,ml,23,95,,0.1,hv,hv73488702,2023-07-19T21:51:45.930Z,"9 km SW of Volcano, Hawaii",earthquake,0.18,0.24,0.190295531411755,6,reviewed,hv,hv
-2023-07-19T19:44:20.305Z,61.0349,-148.1895,13.4,0.8,ml,,,,0.38,ak,ak02397324by,2023-07-19T19:46:17.788Z,"39 km NE of Whittier, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-07-19T19:44:05.730Z,38.7888336,-122.7666702,1.81,1.08,md,17,79,0.01297,0.03,nc,nc73914641,2023-07-19T22:23:15.134Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.53,0.11,14,automatic,nc,nc
