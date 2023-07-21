@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-21T08:33:05.314Z,37.3503,-114.6496,16,1.7,ml,17,100.42,0.324,0.3919,nn,nn00863052,2023-07-21T08:35:37.646Z,"31 km SSW of Caliente, Nevada",earthquake,,0.5,0.31,13,automatic,nn,nn
 2023-07-21T08:17:38.829Z,58.1924,-155.4114,20.5,0,ml,,,,0.5,ak,ak0239a7faxr,2023-07-21T08:20:33.904Z,"89 km NW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-21T08:14:53.740Z,58.2187,-155.3741,35.2,-0.2,ml,,,,1.43,ak,ak0239a7ep3t,2023-07-21T08:17:22.745Z,"90 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-21T08:14:06.477Z,64.9877,-151.2869,0,1.3,ml,,,,0.99,ak,ak0239a7el47,2023-07-21T08:16:41.032Z,"30 km W of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -218,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T08:57:08.075Z,56.3863,-35.1794,10,4.6,mb,76,63,7.154,0.53,us,us7000kh2y,2023-07-20T09:26:40.040Z,"Reykjanes Ridge",earthquake,9.15,1.874,0.035,239,reviewed,us,us
 2023-07-20T08:55:24.280Z,38.8251648,-122.7959976,2.8,0.76,md,14,53,0.01114,0.01,nc,nc73914876,2023-07-20T10:48:14.723Z,"6 km W of Cobb, CA",earthquake,0.36,0.56,0.17,14,automatic,nc,nc
 2023-07-20T08:44:30.157Z,58.1833,-155.365,1.2,1.3,ml,,,,0.51,ak,ak02398k1pxm,2023-07-20T08:46:48.739Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
-2023-07-20T08:43:13.314Z,58.1695,-155.3985,1.4,0.8,ml,,,,0.84,ak,ak02398k1gwz,2023-07-20T08:44:26.821Z,"Alaska Peninsula",earthquake,,1.7,,,automatic,ak,ak
-2023-07-20T08:39:11.110Z,38.8011665,-122.8181686,2.95,1.18,md,26,63,0.01154,0.03,nc,nc73914871,2023-07-20T10:20:14.564Z,"6 km WNW of The Geysers, CA",earthquake,0.22,0.43,0.13,26,automatic,nc,nc
