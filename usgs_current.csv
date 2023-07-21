@@ -53,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T16:07:47.580Z,38.8481674,-122.8168335,1.83,0.68,md,7,85,0.008241,0.01,nc,nc73915241,2023-07-21T17:07:16.893Z,"9 km WNW of Cobb, CA",earthquake,0.54,1.15,0.31,10,automatic,nc,nc
 2023-07-21T16:02:55.845Z,60.4057,-147.416,13.5,1.6,ml,,,,0.98,ak,ak0239ac3l68,2023-07-21T16:04:57.902Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-21T15:46:31.840Z,33.2403333,-116.2958333,5.31,0.7,ml,18,133,0.05906,0.13,ci,ci39618522,2023-07-21T17:34:13.891Z,"8km ESE of Borrego Springs, CA",earthquake,0.23,0.43,0.189,14,reviewed,ci,ci
-2023-07-21T15:43:48.120Z,40.2236667,-121.1721667,3.46,2.06,md,16,71,0.03156,0.15,nc,nc73915226,2023-07-21T19:33:14.741Z,"1 km NNE of Almanor, CA",earthquake,0.37,0.47,0.238,21,reviewed,nc,nc
+2023-07-21T15:43:48.120Z,40.2236667,-121.1721667,3.46,2.06,md,16,71,0.03156,0.15,nc,nc73915226,2023-07-21T21:37:12.496Z,"1 km NNE of Almanor, CA",earthquake,0.37,0.47,0.238,21,reviewed,nc,nc
 2023-07-21T15:42:36.450Z,37.7716667,-122.0405,1.14,0.72,md,8,136,0.03888,0.07,nc,nc73915221,2023-07-21T19:06:12.563Z,"6 km W of San Ramon, CA",earthquake,0.3,1.17,0.209,6,reviewed,nc,nc
 2023-07-21T15:40:24.400Z,19.183666229248,-155.509506225586,34.7999992370605,1.84,ml,42,80,,0.100000001,hv,hv73491312,2023-07-21T15:45:54.350Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.44,0.670000017,3.93,5,automatic,hv,hv
 2023-07-21T15:23:08.809Z,2.5305,-84.6001,10,4.3,mb,24,172,5.554,0.78,us,us7000khft,2023-07-21T16:56:56.040Z,"off the coast of Central America",earthquake,5.56,1.954,0.133,16,reviewed,us,us
@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T22:16:00.658Z,66.4442,-154.4964,0,1.9,ml,,,,1.01,ak,ak02398s7q2p,2023-07-20T22:18:17.588Z,"45 km NNW of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-20T21:53:04.860Z,38.8363342,-122.8078308,2.04,0.23,md,11,78,0.01304,0.01,nc,nc73915041,2023-07-21T00:31:12.904Z,"8 km WNW of Cobb, CA",earthquake,0.32,0.89,0.14,11,automatic,nc,nc
 2023-07-20T21:41:09.143Z,46.9723,152.9214,35,4.2,mb,36,161,6.868,0.49,us,us7000kh8f,2023-07-20T22:11:26.040Z,"Kuril Islands",earthquake,4.45,1.977,0.093,32,reviewed,us,us
-2023-07-20T21:30:17.720Z,43.309333333333335,-123.345,-0.39,1.04,md,8,108,0.02076,0.23,uw,uw61942466,2023-07-21T00:26:03.010Z,"6 km NW of Roseburg North, Oregon",explosion,0.56,31.61,0.19211074662509975,6,reviewed,uw,uw
