@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-28T07:52:55.178Z,60.1675,-152.3272,77.6,1.5,ml,,,,0.43,ak,ak0239lrstxp,2023-07-28T07:55:01.763Z,"38 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-28T07:33:55.470Z,33.6736667,-116.7446667,19.53,0.38,ml,13,114,0.04523,0.21,ci,ci39624146,2023-07-28T07:37:30.376Z,"8 km SSW of Idyllwild, CA",earthquake,0.88,1.37,0.08,7,automatic,ci,ci
 2023-07-28T07:26:18.880Z,38.8256683,-122.8178329,1.12,0.71,md,7,105,0.006472,0.01,nc,nc73917541,2023-07-28T07:27:55.756Z,"8 km NW of The Geysers, CA",earthquake,0.46,1.09,0.47,8,automatic,nc,nc
 2023-07-28T07:24:51.290Z,38.8256683,-122.817337,1.64,1.89,md,31,39,0.006111,0.05,nc,nc73917531,2023-07-28T07:35:11.836Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.29,0.15,33,automatic,nc,nc
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T08:02:39.140Z,60.5153333333333,-152.688166666667,7.23,0.59,ml,6,187,,0.08,av,av91978996,2023-07-27T23:58:08.080Z,"75 km W of Salamatof, Alaska",earthquake,0.46,0.6,0.169963299851492,6,reviewed,av,av
 2023-07-27T08:01:39.977Z,58.1909,-155.3101,1.1,0.1,ml,,,,0.26,ak,ak0239k4jyct,2023-07-27T23:53:00.710Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2023-07-27T07:56:52.823Z,61.5761,-149.8365,32.7,2,ml,,,,0.5,ak,ak0239k4ac4i,2023-07-27T07:58:36.500Z,"6 km S of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-27T07:53:57.508Z,62.8421,-150.3147,76.5,1.1,ml,,,,1.37,ak,ak0239k49pc6,2023-07-27T07:56:29.113Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
