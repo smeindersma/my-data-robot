@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T07:35:38.118Z,60.285,-152.1772,89.1,2.5,ml,,,,0.4,ak,ak0239nf8gim,2023-07-29T22:28:19.674Z,"38 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-29T07:26:24.828Z,61.9782,-149.5393,34.7,1.4,ml,,,,0.5,ak,ak0239nf6jgy,2023-07-29T07:28:24.548Z,"26 km SE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-29T07:17:44.246Z,32.88848877,-100.9638196,5.208862305000001,3.1,ml,29,71,0.04056548942,0.3,tx,tx2023oskp,2023-07-29T08:13:04.977Z,"19 km NNW of Snyder, Texas",earthquake,0.7086380616,1.21379569,0.1,33,reviewed,tx,tx
-2023-07-29T07:13:24.520Z,17.9655,-66.9536666666667,6.21,2.46,md,12,191,0.04337,0.15,pr,pr71419593,2023-07-29T07:32:02.210Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.45,0.32,0.0594819880423745,3,reviewed,pr,pr
