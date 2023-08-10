@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-10T06:58:38.277Z,-5.6413,133.8409,10,5.1,mb,45,109,3.136,0.94,us,us6000kz0u,2023-08-10T07:12:55.040Z,"120 km E of Tual, Indonesia",earthquake,5.32,1.859,0.085,45,reviewed,us,us
 2023-08-10T06:57:32.033Z,57.2033,-155.1314,0,1.7,ml,,,,0.53,ak,ak023a797xjn,2023-08-10T06:59:07.123Z,"57 km SW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-10T06:53:10.080Z,36.8736649,-121.6139984,5.25,2.7,md,57,42,,0.15,nc,nc73922426,2023-08-10T07:13:48.344Z,"3 km ESE of Aromas, CA",earthquake,0.23,0.43,0.1,70,automatic,nc,nc
+2023-08-10T06:53:10.080Z,36.8736649,-121.6139984,5.25,2.7,md,57,42,,0.15,nc,nc73922426,2023-08-10T07:19:04.115Z,"3 km ESE of Aromas, CA",earthquake,0.23,0.43,0.1,70,automatic,nc,nc
 2023-08-10T06:48:51.816Z,6.4872,126.3356,68.234,4.9,mb,56,96,0.948,0.9,us,us6000kz0s,2023-08-10T07:03:19.040Z,"22 km NE of Pondaguitan, Philippines",earthquake,8.89,7.427,0.084,45,reviewed,us,us
 2023-08-10T06:46:37.720Z,34.4731667,-118.7443333,14.7,1.2,ml,18,55,0.08384,0.37,ci,ci40533016,2023-08-10T06:50:16.398Z,"8 km NE of Piru, CA",earthquake,0.8,1.44,0.285,26,automatic,ci,ci
 2023-08-10T06:39:17.990Z,38.8433342,-122.8769989,2.74,1.2,md,22,91,0.007173,0.02,nc,nc73922421,2023-08-10T07:11:11.472Z,"13 km NW of The Geysers, CA",earthquake,0.29,0.49,0.15,24,automatic,nc,nc
@@ -256,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T07:32:57.270Z,38.8230019,-122.8106689,1.29,0.82,md,14,77,0.0006083,0.01,nc,nc73922086,2023-08-09T08:21:13.490Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.65,0.17,16,automatic,nc,nc
 2023-08-09T07:31:02.683Z,62.0741,-149.7621,45.4,1.2,ml,,,,0.6,ak,ak023a5m4drz,2023-08-09T07:33:17.166Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-09T07:27:31.300Z,36.761,-121.2783333,8.18,0.87,md,16,170,0.05779,0.06,nc,nc73922081,2023-08-09T18:07:14.939Z,"5 km SE of Tres Pinos, CA",earthquake,0.35,0.83,0.279,13,reviewed,nc,nc
-2023-08-09T07:15:24.660Z,33.4135,-116.42,14.95,0.86,ml,35,107,0.09719,0.17,ci,ci40532304,2023-08-10T00:22:01.639Z,"18 km NNW of Borrego Springs, CA",earthquake,0.27,0.64,0.175,21,reviewed,ci,ci
