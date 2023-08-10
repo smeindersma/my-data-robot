@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-10T19:17:18.350Z,35.9333344,-120.4816666,9.48,4.31,mw,57,54,,0.11,nc,nc73922596,2023-08-10T19:25:33.844Z,"6 km NW of Parkfield, CA",earthquake,0.19,0.27,,4,reviewed,nc,nc
+2023-08-10T19:17:18.000Z,35.813,-120.552,6,4.4,Ml,38,165.59998675200106,0.1320523,0.91,at,at00rz6w8u,2023-08-10T19:22:18.121Z,"14 km SW of Parkfield, California",earthquake,0,0,,25,reviewed,at,at
 2023-08-10T19:14:52.650Z,38.8146667,-122.8184967,2.54,1.1,md,25,51,0.01016,0.02,nc,nc73922591,2023-08-10T19:16:26.551Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.14,25,automatic,nc,nc
 2023-08-10T19:08:59.425Z,61.3867,-151.9144,88.1,1.2,ml,,,,0.57,ak,ak023a7go4fq,2023-08-10T19:10:48.026Z,"52 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-10T19:00:40.760Z,34.8415,-118.7836667,0.07,1.19,ml,20,74,0.06496,0.25,ci,ci40533520,2023-08-10T19:04:33.906Z,"7 km E of Lebec, CA",earthquake,0.53,31.61,0.169,21,automatic,ci,ci
@@ -153,7 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T01:29:27.277Z,4.2738,126.0738,137.466,4.5,mb,40,93,2.821,0.49,us,us6000kyzh,2023-08-10T01:49:09.040Z,"142 km SSE of Sarangani, Philippines",earthquake,9.35,7.659,0.098,30,reviewed,us,us
 2023-08-10T01:27:28.101Z,65.0538,-148.972,5.9,1.1,ml,,,,0.57,ak,ak023a762bqi,2023-08-10T01:29:17.023Z,"20 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-10T01:23:12.510Z,39.1860008,-120.4633331,-1.22,1.91,md,7,165,0.1619,0.07,nc,nc73922371,2023-08-10T16:03:50.284Z,"26 km W of Sunnyside-Tahoe City, CA",earthquake,0.51,8.03,0.36,5,automatic,nc,nc
-2023-08-10T01:19:26.160Z,44.7591667,-111.0276667,3.71,0.67,md,9,132,0.01532,0.1,uu,uu60547297,2023-08-10T16:12:50.890Z,"12 km NNE of West Yellowstone, Montana",earthquake,0.32,0.63,0.184,7,reviewed,uu,uu
+2023-08-10T01:19:26.160Z,44.7591667,-111.0276667,3.71,0.67,md,9,132,0.01532,0.1,uu,uu60547297,2023-08-10T16:12:50.890Z,"Idaho-Montana border region",earthquake,0.32,0.63,0.184,7,reviewed,uu,uu
 2023-08-10T01:06:30.719Z,58.2858,-155.2435,21.8,0.5,ml,,,,0.91,ak,ak023a75xtwf,2023-08-10T01:09:24.821Z,"92 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-10T01:06:22.490Z,37.5275002,-118.8258362,9.1,1.51,md,20,176,0.06247,0.03,nc,nc73922366,2023-08-10T04:25:12.508Z,"13 km WSW of Toms Place, CA",earthquake,0.78,0.74,0.1,17,automatic,nc,nc
 2023-08-10T01:01:48.256Z,59.7292,-152.842,81.7,1.2,ml,,,,0.42,ak,ak023a75wso9,2023-08-10T01:09:06.302Z,"57 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
