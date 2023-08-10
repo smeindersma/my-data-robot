@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-10T05:33:52.690Z,34.0595,-117.1846667,9.72,0.93,ml,27,102,0.06461,0.2,ci,ci40532992,2023-08-10T05:37:30.547Z,"0 km NNW of Redlands, CA",earthquake,0.33,0.69,0.157,24,automatic,ci,ci
 2023-08-10T05:30:47.880Z,58.6172,-150.7696,22.6,2.3,ml,,,,0.46,ak,ak023a78gqs1,2023-08-10T05:32:58.597Z,"Gulf of Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-10T05:28:42.870Z,35.9868333,-117.7488333,6.83,1.03,ml,9,164,0.0672,0.07,ci,ci40532976,2023-08-10T05:32:15.194Z,"15 km ENE of Little Lake, CA",earthquake,0.28,0.48,0.266,6,automatic,ci,ci
 2023-08-10T05:23:14.201Z,57.8926,-155.7276,250,1.1,ml,,,,0.97,ak,ak023a78f67w,2023-08-10T05:25:42.495Z,"83 km WNW of Karluk, Alaska",earthquake,,4.1,,,automatic,ak,ak
@@ -263,4 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T06:08:01.060Z,58.245,-155.143,2.57,-0.29,ml,7,147,,0.08,av,av91995701,2023-08-09T21:24:38.730Z,"85 km NNW of Karluk, Alaska",earthquake,0.25,0.42,0.216601941054481,8,reviewed,av,av
 2023-08-09T06:00:27.080Z,17.8585,-66.8743333333333,13.87,2.22,md,8,250,0.116,0.08,pr,pr71420973,2023-08-09T06:20:54.260Z,"13 km SSE of Guánica, Puerto Rico",earthquake,0.81,0.38,0.137486012430009,7,reviewed,pr,pr
 2023-08-09T05:58:35.370Z,38.8311653,-122.7921677,1.87,1.92,md,40,38,0.007372,0.05,nc,nc73922041,2023-08-09T07:14:13.295Z,"6 km W of Cobb, CA",earthquake,0.16,0.26,0.13,38,automatic,nc,nc
-2023-08-09T05:44:51.760Z,19.1611671447754,-155.489837646484,31.9200000762939,2.17000008,md,32,116,,0.0900000036,hv,hv73516462,2023-08-09T05:48:10.400Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.67,1.27999997,0.730000019,17,automatic,hv,hv
