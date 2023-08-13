@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-13T03:18:57.680Z,38.8260002,-122.7945023,1.01,1.08,md,15,54,0.01668,0.03,nc,nc73923541,2023-08-13T03:20:34.194Z,"6 km W of Cobb, CA",earthquake,0.23,0.52,0.15,16,automatic,nc,nc
-2023-08-13T03:17:19.520Z,34.1315,-117.4173333,2.67,0.96,ml,26,66,0.06152,0.26,ci,ci40535680,2023-08-13T03:21:13.112Z,"5 km WNW of Rialto, CA",earthquake,0.43,0.62,0.218,23,automatic,ci,ci
+2023-08-13T03:17:19.520Z,34.1315,-117.4173333,2.67,0.96,ml,26,66,0.06152,0.26,ci,ci40535680,2023-08-13T03:32:32.566Z,"5 km WNW of Rialto, CA",earthquake,0.43,0.62,0.218,23,automatic,ci,ci
 2023-08-13T03:11:19.825Z,58.2516,-154.7689,36.5,1,ml,,,,0.55,ak,ak023ac5rsby,2023-08-13T03:13:17.705Z,"78 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-13T03:10:33.460Z,32.6758333,-115.6621667,8.19,1.48,ml,17,60,0.06027,0.2,ci,ci40535672,2023-08-13T03:14:23.209Z,"13 km NW of Progreso, B.C., MX",earthquake,0.42,0.84,0.269,18,automatic,ci,ci
 2023-08-13T03:10:16.830Z,38.8310013,-122.8161697,1.74,0.66,md,8,95,0.008964,0.01,nc,nc73923536,2023-08-13T03:11:52.873Z,"8 km NW of The Geysers, CA",earthquake,0.44,0.7,0.18,8,automatic,nc,nc
@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T00:08:35.090Z,34.2873333,-119.349,0.89,2.01,ml,25,130,0.1352,0.27,ci,ci40535608,2023-08-13T00:12:25.209Z,"11 km W of Ventura, CA",earthquake,0.48,31.61,0.139,27,automatic,ci,ci
 2023-08-12T23:56:04.670Z,33.3143333,-116.387,8.23,0.66,ml,21,83,0.05249,0.19,ci,ci40535592,2023-08-12T23:59:32.328Z,"7 km N of Borrego Springs, CA",earthquake,0.33,0.75,0.132,11,automatic,ci,ci
 2023-08-12T23:55:31.240Z,38.8313332,-122.8181686,1.48,0.89,md,17,64,0.01014,0.01,nc,nc73923461,2023-08-13T00:29:18.876Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.45,0.19,16,automatic,nc,nc
-2023-08-12T23:52:59.895Z,-17.2425,-68.8545,183.826,4.8,mb,53,74,0.69,0.8,us,us6000kzm9,2023-08-13T00:14:11.040Z,"La Paz, Bolivia",earthquake,7.9,5.864,0.028,389,reviewed,us,us
+2023-08-12T23:52:59.895Z,-17.2425,-68.8545,183.826,4.8,mb,53,74,0.69,0.8,us,us6000kzm9,2023-08-13T00:14:11.040Z,"77 km SSE of Desaguadero, Peru",earthquake,7.9,5.864,0.028,389,reviewed,us,us
 2023-08-12T23:46:23.186Z,63.0633,-148.1142,66.7,1.8,ml,,,,0.61,ak,ak023aaucm9a,2023-08-12T23:48:23.961Z,"55 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-12T23:44:07.615Z,62.566,-149.9619,18.5,1.6,ml,,,,0.68,ak,ak023aauc5mg,2023-08-12T23:46:58.761Z,"14 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-12T23:43:24.298Z,-30.0388,-176.3347,10,4.9,mb,33,77,1.583,0.88,us,us6000kzm7,2023-08-13T00:05:42.040Z,"Kermadec Islands region",earthquake,7.71,1.769,0.101,31,reviewed,us,us
@@ -163,5 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T03:52:38.945Z,61.5664,-146.3566,32.2,1.2,ml,,,,0.42,ak,ak023aaih9o6,2023-08-12T03:54:05.096Z,"48 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-12T03:50:38.140Z,37.3141,-114.8595,16,1.3,ml,14,292.53,0.178,0.3733,nn,nn00864360,2023-08-12T03:53:05.469Z,"Nevada",earthquake,,0.8,0.45,11,automatic,nn,nn
 2023-08-12T03:45:36.030Z,33.4851667,-116.5495,7.57,0.66,ml,20,98,0.04506,0.16,ci,ci40534976,2023-08-12T03:49:05.758Z,"14 km SE of Anza, CA",earthquake,0.3,0.5,0.164,20,automatic,ci,ci
-2023-08-12T03:36:03.870Z,34.7853333,-118.8533333,12.09,0.77,ml,11,86,0.06637,0.19,ci,ci40534968,2023-08-12T03:39:41.270Z,"1 km S of Gorman, CA",earthquake,0.46,1.04,0.013,4,automatic,ci,ci
-2023-08-12T03:35:31.720Z,36.3395,-89.5318333333333,9.47,1.96,md,30,45,0.03187,0.07,nm,nm60544331,2023-08-12T13:16:33.219Z,"southeastern Missouri",earthquake,0.16,0.31,0.155058225001699,25,reviewed,nm,nm
