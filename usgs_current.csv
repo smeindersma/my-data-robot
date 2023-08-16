@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-16T11:09:14.970Z,33.3408318,-116.2703323,10.49,1.12,ml,28,141,0.1427,0.2,ci,ci40537984,2023-08-16T11:11:44.409Z,"14 km NE of Borrego Springs, CA",earthquake,0.45,0.77,0.301,3,automatic,ci,ci
+2023-08-16T11:03:39.590Z,33.7686667,-116.1496667,2.79,1.13,ml,33,70,0.06609,0.23,ci,ci40537976,2023-08-16T11:07:12.612Z,"8 km NE of Indio, CA",earthquake,0.36,0.66,0.116,27,automatic,ci,ci
 2023-08-16T10:52:43.750Z,35.4811667,-118.2921667,2.91,1.13,ml,15,110,0.2166,0.1,ci,ci40537968,2023-08-16T10:56:20.789Z,"22 km ESE of Bodfish, CA",earthquake,0.21,0.81,0.17,11,automatic,ci,ci
 2023-08-16T10:49:39.510Z,19.2070007324219,-155.406829833984,32.4900016784668,2.22,ml,33,167,,0.100000001,hv,hv73529272,2023-08-16T10:55:11.230Z,"7 km E of Pāhala, Hawaii",earthquake,1.01,0.790000021,0.18,6,automatic,hv,hv
 2023-08-16T10:32:06.846Z,-41.193,-83.7423,10,4.8,mb,51,210,7.966,0.55,us,us7000knnp,2023-08-16T10:51:29.040Z,"West Chile Rise",earthquake,12.03,1.965,0.09,38,reviewed,us,us
@@ -84,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T00:45:55.420Z,19.3936666666667,-155.278,1.37,0.36,md,14,53,,0.09,hv,hv73528582,2023-08-16T01:29:45.100Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.26,0.096381317420238,3,reviewed,hv,hv
 2023-08-16T00:38:30.850Z,19.3831666666667,-155.280833333333,1.17,0.54,md,17,72,,0.08,hv,hv73528572,2023-08-16T01:33:56.230Z,"8 km SW of Volcano, Hawaii",earthquake,0.29,0.19,0.00316785361220207,3,reviewed,hv,hv
 2023-08-16T00:35:42.690Z,38.8365,-122.8181667,1.63,0.47,md,26,69,0.01369,0.02,nc,nc73924536,2023-08-16T06:21:12.478Z,"8 km W of Cobb, CA",earthquake,0.16,0.35,0.131,25,reviewed,nc,nc
-2023-08-16T00:12:25.370Z,19.3861666666667,-155.280333333333,1.07,0.84,md,13,76,,0.07,hv,hv73528522,2023-08-16T00:23:36.380Z,"7 km SW of Volcano, Hawaii",earthquake,0.3,0.24,0.101969491813911,3,reviewed,hv,hv
+2023-08-16T00:12:25.370Z,19.3861666666667,-155.280333333333,1.07,0.84,md,13,76,,0.07,hv,hv73528522,2023-08-16T00:23:36.380Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.24,0.101969491813911,3,reviewed,hv,hv
 2023-08-16T00:10:18.300Z,35.03,-117.6821667,2.37,1.69,ml,26,69,0.09609,0.16,ci,ci40537784,2023-08-16T00:19:26.482Z,"4 km NW of Boron, CA",quarry blast,0.33,0.62,0.152,30,reviewed,ci,ci
 2023-08-16T00:01:59.433Z,31.6623,-104.385,6.094,2.7,ml,23,63,0.099,0.25,us,us7000knkg,2023-08-16T00:18:02.040Z,"56 km S of Whites City, New Mexico",earthquake,4.1,6.563,0.069,36,reviewed,us,us
 2023-08-15T23:57:08.870Z,19.3838333333333,-155.281833333333,0.73,0.57,md,12,85,,0.07,hv,hv73528487,2023-08-16T00:26:58.780Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.22,0.357142655456283,2,reviewed,hv,hv
@@ -238,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T11:24:00.497Z,63.1786,-150.1318,78.5,1.9,ml,,,,0.5,ak,ak023aflooz5,2023-08-15T11:26:38.506Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-15T11:22:51.938Z,58.2438,-155.0739,0,1.9,ml,,,,0.57,ak,ak023aflodih,2023-08-15T11:24:41.876Z,"83 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-15T11:13:34.589Z,60.3504,-152.5066,78.6,1.4,ml,,,,1,ak,ak023aflmeqa,2023-08-15T11:15:00.653Z,"57 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-08-15T11:01:36.960Z,44.0591667,-110.3011667,13.22,1.32,md,16,134,0.165,0.13,uu,uu60547632,2023-08-15T13:02:35.810Z,"54 km NNE of Kelly, Wyoming",earthquake,0.42,1.54,0.078,9,reviewed,uu,uu
