@@ -170,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T07:37:05.641Z,61.2931,-152.4339,0.8,1.3,ml,,,,0.82,ak,ak023ah6x3r8,2023-08-16T07:39:01.950Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-16T07:34:35.699Z,49.2796,156.0542,33.703,4.7,mb,53,165,3.971,1.03,us,us7000knm1,2023-08-16T07:55:59.040Z,"155 km S of Severo-Kuril’sk, Russia",earthquake,10.97,6.746,0.065,71,reviewed,us,us
 2023-08-16T07:34:28.000Z,38.8400002,-122.8089981,1.85,0.67,md,7,87,0.01465,0.01,nc,nc73924661,2023-08-16T07:54:13.050Z,"8 km WNW of Cobb, CA",earthquake,0.63,1.38,0.27,10,automatic,nc,nc
-2023-08-16T07:25:31.370Z,35.5058333,-118.3936667,7.51,1.05,ml,15,102,0.1698,0.15,ci,ci40537888,2023-08-16T12:46:24.063Z,"13 km SE of Bodfish, CA",earthquake,0.33,2.31,0.114,11,reviewed,ci,ci
