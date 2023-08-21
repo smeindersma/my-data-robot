@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-21T09:19:34.930Z,34.4263344,-119.1778336,1.62,1.77,ml,13,133,0.03497,0.24,ci,ci39646338,2023-08-21T09:21:46.702Z,"6 km ESE of Ojai, CA",earthquake,0.45,0.82,0.215,11,automatic,ci,ci
 2023-08-21T09:06:11.618Z,62.712,-149.4539,53.1,0.9,ml,,,,0.74,ak,ak023aphm2p5,2023-08-21T09:08:47.290Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-21T08:48:01.640Z,59.8685,-151.486,48.3,1.7,ml,,,,0.61,ak,ak023aph9mec,2023-08-21T08:50:24.042Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-21T08:26:25.360Z,34.4126667,-119.1925,0.82,2.13,ml,36,73,0.0515,0.32,ci,ci39646314,2023-08-21T08:37:23.640Z,"6 km SE of Ojai, CA",earthquake,0.4,31.61,0.124,29,automatic,ci,ci
@@ -115,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T00:10:37.720Z,34.4161667,-119.2091667,0.78,1.61,ml,18,109,0.06275,0.27,ci,ci39645826,2023-08-21T00:14:15.307Z,"5 km SE of Ojai, CA",earthquake,0.52,31.61,0.112,28,automatic,ci,ci
 2023-08-21T00:06:45.030Z,52.0036666666667,178.4185,0.02,1.05,ml,3,343,,0.02,av,av92011411,2023-08-21T00:36:12.570Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.4,31.61,0.314450678497446,4,reviewed,av,av
 2023-08-20T23:59:39.430Z,34.4186667,-119.197,4.6,2.34,ml,46,54,0.05245,0.34,ci,ci39645810,2023-08-21T01:17:33.278Z,"5 km SE of Ojai, CA",earthquake,0.45,1.03,0.203,26,automatic,ci,ci
-2023-08-20T23:57:19.302Z,31.6607,-104.3749,10.342,2.9,ml,33,63,0.108,0.56,us,us7000kpra,2023-08-21T00:05:40.040Z,"57 km S of Whites City, New Mexico",earthquake,1.82,7.907,0.059,60,reviewed,us,us
+2023-08-20T23:57:19.156Z,31.66845374,-104.3773531,4.897583008,2.7,ml,17,57,0.0430526129,0.1,tx,tx2023qhws,2023-08-21T09:17:32.460Z,"56 km S of Whites City, New Mexico",earthquake,0.8250244904,1.0852325979999997,0.1,21,reviewed,tx,tx
 2023-08-20T23:52:13.570Z,58.2138333333333,-155.0545,38.48,0.23,ml,14,96,,0.26,av,av92011396,2023-08-21T00:33:09.480Z,"80 km NNW of Karluk, Alaska",earthquake,0.8,1.09,0.337525106982144,14,reviewed,av,av
 2023-08-20T23:49:28.590Z,34.4191667,-119.1953333,1.14,2.29,ml,45,80,0.05098,0.32,ci,ci39645802,2023-08-21T02:38:01.570Z,"5 km SE of Ojai, CA",earthquake,0.39,0.76,0.224,26,automatic,ci,ci
 2023-08-20T23:29:33.180Z,37.9643326,-122.0563354,15.51,1.82,md,23,127,0.07013,0.06,nc,nc73926516,2023-08-20T23:55:13.148Z,"2 km NNE of Pleasant Hill, CA",earthquake,0.32,0.68,0.12,18,automatic,nc,nc
@@ -179,7 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T21:43:06.750Z,34.4245,-119.1943333,2.12,3.04,ml,35,41,0.04858,0.35,ci,ci39645394,2023-08-21T04:55:23.537Z,"5 km ESE of Ojai, CA",earthquake,0.4,0.7,0.136,7,reviewed,ci,ci
 2023-08-20T21:42:46.530Z,34.443,-119.1996667,0.81,2.73,ml,14,77,0.05174,0.27,ci,ci37565916,2023-08-21T05:00:07.641Z,"4 km E of Ojai, CA",earthquake,0.41,0.97,0.12,3,reviewed,ci,ci
 2023-08-20T21:41:41.780Z,19.1846675872803,-155.492828369141,33.189998626709,2.00999999,md,38,75,,0.100000001,hv,hv73535157,2023-08-20T21:44:57.990Z,"2 km SW of Pāhala, Hawaii",earthquake,0.56,0.589999974,0.25999999,17,automatic,hv,hv
-2023-08-20T21:41:00.970Z,34.4085,-119.1883333,4.84,5.08,mw,115,27,0.05069,0.35,ci,ci39645386,2023-08-21T09:12:10.996Z,"7 km SE of Ojai, CA",earthquake,0.25,0.69,,6,reviewed,ci,ci
+2023-08-20T21:41:00.970Z,34.4085,-119.1883333,4.84,5.08,mw,115,27,0.05069,0.35,ci,ci39645386,2023-08-21T09:17:24.578Z,"7 km SE of Ojai, CA",earthquake,0.25,0.69,,6,reviewed,ci,ci
 2023-08-20T21:39:27.861Z,45.0774,23.1933,9.25,4.2,mb,45,67,1.222,1,us,us7000kpq7,2023-08-21T05:04:17.440Z,"2 km SSW of Leleşti, Romania",earthquake,4.88,5.157,0.103,26,reviewed,us,us
 2023-08-20T21:38:03.220Z,34.2161667,-116.5648333,0.22,1.65,ml,30,67,0.1332,0.19,ci,ci39645378,2023-08-21T00:48:20.685Z,"17 km NW of Yucca Valley, CA",earthquake,0.26,0.6,0.125,27,automatic,ci,ci
 2023-08-20T21:32:56.970Z,61.2891,-152.5013,4,1.4,ml,,,,0.37,ak,ak023ao1dlkx,2023-08-21T01:45:26.740Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -290,4 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T09:38:33.787Z,-17.4388,-178.4956,550.269,4.3,mb,32,92,4.443,0.6,us,us7000kple,2023-08-20T10:09:55.040Z,"242 km ENE of Levuka, Fiji",earthquake,14.38,11.525,0.105,26,reviewed,us,us
 2023-08-20T09:35:35.000Z,53.8535,-166.7925,5.08,-0.44,ml,4,141,,0.05,av,av92010631,2023-08-20T23:01:25.490Z,"16 km WSW of Dutch Harbor, Alaska",earthquake,0.5,1.4,0.245167599658186,4,reviewed,av,av
 2023-08-20T09:34:48.690Z,52.0683333333333,-176.1595,2.17,0.26,ml,5,152,,0.21,av,av92010626,2023-08-20T22:59:09.590Z,"39 km ENE of Adak, Alaska",earthquake,0.78,1.25,0.36566295333512,5,reviewed,av,av
-2023-08-20T09:19:41.220Z,34.3435,-116.8708333,1.72,1.47,ml,33,40,0.03617,0.16,ci,ci39645226,2023-08-20T09:30:20.010Z,"10 km NNW of Big Bear City, CA",earthquake,0.21,0.33,0.156,27,automatic,ci,ci
