@@ -1,11 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-22T15:21:22.340Z,33.0038338,-116.2286682,8.74,0.96,ml,17,106,0.07971,0.14,ci,ci39647522,2023-08-22T15:23:44.231Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.4,1.48,0.196,3,automatic,ci,ci
+2023-08-22T15:30:41.540Z,19.3778324127197,-155.283004760742,1.5,1.92999995,md,15,95,,0.0900000036,hv,hv73537842,2023-08-22T15:33:35.770Z,"8 km SW of Volcano, Hawaii",earthquake,0.3,0.389999986,0.25999999,11,automatic,hv,hv
+2023-08-22T15:28:57.300Z,56.2966,-159.3618,145.1,2.3,ml,,,,0.26,ak,ak023ar8uu3m,2023-08-22T15:30:53.003Z,"37 km W of Chignik Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-22T15:23:34.062Z,60.4137,-147.7763,12.8,1.5,ml,,,,0.63,ak,ak023ar8tpq6,2023-08-22T15:26:14.688Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-08-22T15:21:22.500Z,33.0038333,-116.2316667,4.1,0.86,ml,19,68,0.07774,0.24,ci,ci39647522,2023-08-22T15:24:56.394Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.44,1.46,0.172,15,automatic,ci,ci
 2023-08-22T15:09:57.270Z,32.998,-116.2275,5.51,0.96,ml,24,50,0.07708,0.22,ci,ci39647506,2023-08-22T15:13:32.688Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.34,1.06,0.142,14,automatic,ci,ci
 2023-08-22T15:02:25.640Z,34.4396667,-119.1631667,2.46,1.43,ml,12,79,0.02139,0.18,ci,ci39647498,2023-08-22T15:05:59.068Z,"7 km E of Ojai, CA",earthquake,0.41,0.44,0.188,21,automatic,ci,ci
 2023-08-22T14:48:30.910Z,38.7976685,-122.7336655,0.66,1,md,12,107,0.01461,0.05,nc,nc73927106,2023-08-22T15:06:12.499Z,"3 km SSW of Cobb, CA",earthquake,0.28,0.56,0.25,11,automatic,nc,nc
 2023-08-22T14:47:15.554Z,58.1805,-155.389,0,-0.2,ml,,,,0.59,ak,ak023ar8ddvn,2023-08-22T14:48:39.883Z,"87 km NW of Karluk, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2023-08-22T14:41:40.630Z,19.195499420166,-155.392837524414,29.1499996185303,1.96000004,md,44,161,,0.109999999,hv,hv73537827,2023-08-22T14:44:58.280Z,"9 km E of Pāhala, Hawaii",earthquake,0.63,0.899999976,0.75999999,11,automatic,hv,hv
-2023-08-22T14:36:30.930Z,38.8243332,-122.8030014,2.89,0.27,md,7,83,0.005603,0.01,nc,nc73927101,2023-08-22T14:53:14.429Z,"7 km NW of The Geysers, CA",earthquake,0.6,1.88,0.15,8,automatic,nc,nc
+2023-08-22T14:36:30.930Z,38.8243332,-122.8030014,2.89,0.27,md,7,83,0.005603,0.01,nc,nc73927101,2023-08-22T15:27:15.612Z,"7 km NW of The Geysers, CA",earthquake,0.6,1.88,0.15,8,automatic,nc,nc
 2023-08-22T14:31:07.143Z,51.2509,179.8409,70.231,3.8,mb,58,191,0.77,0.65,us,us7000kq4g,2023-08-22T14:57:38.079Z,"254 km WSW of Adak, Alaska",earthquake,11.52,11.553,0.073,48,reviewed,us,us
 2023-08-22T14:09:28.630Z,34.0488333,-117.2521667,15.99,2.41,ml,86,16,0.06937,0.19,ci,ci39647442,2023-08-22T14:20:24.120Z,"1 km E of Loma Linda, CA",earthquake,0.17,0.38,0.147,25,automatic,ci,ci
 2023-08-22T13:49:48.220Z,33.0595,-116.6191667,0.25,1.53,ml,9,157,0.3907,0.24,ci,ci39647418,2023-08-22T13:53:32.666Z,"3 km SW of Julian, CA",earthquake,0.84,31.61,0.461,17,automatic,ci,ci
@@ -47,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T11:44:46.800Z,34.427,-119.171,1.36,2.12,ml,44,65,0.02941,0.27,ci,ci39647218,2023-08-22T12:54:53.908Z,"7 km ESE of Ojai, CA",earthquake,0.33,0.51,0.118,26,automatic,ci,ci
 2023-08-22T11:44:18.659Z,63.0041,-150.6913,105.7,1.2,ml,,,,0.35,ak,ak023ar6kg5l,2023-08-22T11:46:27.925Z,"56 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-22T11:41:19.580Z,19.3799991607666,-155.281494140625,1.12000000476837,1.7,ml,15,81,,0.0900000036,hv,hv73537692,2023-08-22T11:46:51.120Z,"8 km SW of Volcano, Hawaii",earthquake,0.22,0.25,0.24,7,automatic,hv,hv
-2023-08-22T11:39:19.080Z,34.4191667,-119.1645,4.89,3.89,mw,117,23,0.02849,0.36,ci,ci39647202,2023-08-22T15:19:36.482Z,"8 km ESE of Ojai, CA",earthquake,0.23,0.53,,6,reviewed,ci,ci
+2023-08-22T11:39:19.080Z,34.4191667,-119.1645,4.89,3.89,mw,117,23,0.02849,0.36,ci,ci39647202,2023-08-22T15:29:44.947Z,"8 km ESE of Ojai, CA",earthquake,0.23,0.53,,6,reviewed,ci,ci
 2023-08-22T11:37:42.380Z,33.7626667,-116.908,8.94,0.75,ml,23,83,0.07654,0.18,ci,ci39647194,2023-08-22T13:08:42.129Z,"2 km NW of Valle Vista, CA",earthquake,0.29,0.69,0.07,18,reviewed,ci,ci
 2023-08-22T11:34:00.330Z,35.9258333,-117.684,2.37,1.4,ml,18,133,0.111,0.17,ci,ci39647186,2023-08-22T11:44:58.090Z,"20 km E of Little Lake, CA",earthquake,0.37,0.53,0.15,11,automatic,ci,ci
 2023-08-22T11:22:36.657Z,62.3247,-149.5307,52,1,ml,,,,0.39,ak,ak023ar6frsh,2023-08-22T11:23:59.470Z,"24 km NE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -255,5 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T15:46:43.823Z,53.6242,-162.8262,10,2.8,ml,18,230,1.156,0.52,us,us7000kpx9,2023-08-21T16:39:35.040Z,"142 km SSE of False Pass, Alaska",earthquake,4.3,2.007,0.128,8,reviewed,us,us
 2023-08-21T15:45:57.469Z,36.741,28.1537,73.476,4.3,mb,63,58,0.527,0.69,us,us7000kpx5,2023-08-22T09:59:37.701Z,"9 km SW of İçmeler, Turkey",earthquake,4.68,6.284,0.094,32,reviewed,us,us
 2023-08-21T15:45:46.838Z,61.667,-150.1398,29.6,1.2,ml,,,,0.59,ak,ak023aplf3yz,2023-08-21T15:47:59.522Z,"10 km SSW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-21T15:32:02.661Z,60.2483,-152.8304,97.3,1.3,ml,,,,0.32,ak,ak023aplc4e8,2023-08-21T15:51:38.050Z,"Southern Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2023-08-21T15:26:59.090Z,34.4331667,-119.2073333,5.97,1.75,ml,18,153,0.05784,0.31,ci,ci39646514,2023-08-22T00:08:08.480Z,"4 km ESE of Ojai, CA",earthquake,0.76,1.61,0.206,28,automatic,ci,ci
