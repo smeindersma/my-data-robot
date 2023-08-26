@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-26T03:33:09.120Z,40.2286682,-121.1350021,1.51,2.1,md,5,132,0.224,0.04,nc,nc73929286,2023-08-26T03:54:09.864Z,"3 km NE of Prattville, CA",earthquake,0.7,7.75,0.09,3,automatic,nc,nc
 2023-08-26T03:32:36.007Z,60.4954,-143.0576,7,1.1,ml,,,,0.48,ak,ak023axnvu2o,2023-08-26T03:34:37.412Z,"104 km S of McCarthy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-26T03:29:45.630Z,38.7766685,-122.7669983,0.07,0.95,md,11,101,0.006019,0.07,nc,nc73929281,2023-08-26T03:48:13.829Z,"1 km W of The Geysers, CA",earthquake,0.33,0.54,0.21,12,automatic,nc,nc
-2023-08-26T03:21:10.680Z,37.6326675,-119.0488358,-0.04,0.98,md,8,126,0.01869,0.01,nc,nc73929276,2023-08-26T03:37:14.765Z,"6 km W of Mammoth Lakes, CA",earthquake,0.36,1.15,0.11,8,automatic,nc,nc
+2023-08-26T03:21:10.680Z,37.6326675,-119.0488358,-0.04,0.98,md,8,126,0.01869,0.01,nc,nc73929276,2023-08-26T04:33:12.083Z,"6 km W of Mammoth Lakes, CA",earthquake,0.36,1.15,0.11,8,automatic,nc,nc
 2023-08-26T03:17:41.367Z,64.8399,-148.9809,18.8,0.7,ml,,,,0.55,ak,ak023axnsmpk,2023-08-26T03:19:37.319Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-26T03:15:06.373Z,59.9754,-139.5778,2.5,1.9,ml,,,,1.11,ak,ak023axns4kt,2023-08-26T03:17:21.882Z,"48 km N of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-26T03:04:29.071Z,61.5773,-148.2778,22.1,0.8,ml,,,,0.31,ak,ak023axnptgb,2023-08-26T03:06:28.808Z,"26 km SSE of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -16,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-26T03:00:47.633Z,37.144,-115.5443,4.6,1.2,ml,24,236.33,0.35,0.2849,nn,nn00865064,2023-08-26T03:03:12.113Z,"41 km SW of Alamo, Nevada",earthquake,,1.3,0.89,18,automatic,nn,nn
 2023-08-26T02:47:33.460Z,19.3783340454102,-155.282165527344,1.07000005245209,1.80999994,md,16,86,,0.180000007,hv,hv73544922,2023-08-26T02:50:30.960Z,"Island of Hawaii, Hawaii",earthquake,0.23,0.300000012,0.209999993,13,automatic,hv,hv
 2023-08-26T02:45:19.720Z,38.8204994,-122.8156662,2.86,0.76,md,7,185,0.005239,0.01,nc,nc73929256,2023-08-26T03:02:13.556Z,"7 km NW of The Geysers, CA",earthquake,0.82,1.92,0.04,8,automatic,nc,nc
+2023-08-26T02:30:17.510Z,46.188833333333335,-122.1615,3.71,0.14,ml,5,244,0.01978,0.11,uw,uw61953416,2023-08-26T04:26:52.090Z,"Mount St. Helens area, Washington",earthquake,1.12,0.9,0.10874054508057929,3,reviewed,uw,uw
 2023-08-26T02:26:54.170Z,46.236333333333334,-122.07283333333334,6.29,0.09,ml,11,212,0.06705,0.15,uw,uw61953411,2023-08-26T04:09:33.000Z,"39 km SSE of Morton, Washington",earthquake,0.75,2.27,0.1772937228400447,8,reviewed,uw,uw
 2023-08-26T02:26:19.020Z,33.1788333,-116.0118333,4.68,1.02,ml,21,55,0.02908,0.3,ci,ci39651474,2023-08-26T02:29:47.330Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.52,1.12,0.115,18,automatic,ci,ci
 2023-08-26T02:18:04.634Z,59.6447,-153.3347,19.5,1.1,ml,,,,0.33,ak,ak023axn7bzj,2023-08-26T02:19:24.920Z,"46 km ESE of Pedro Bay, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -329,4 +330,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T04:40:45.510Z,61.7325,-150.016,34.4,2.1,ml,,,,0.27,ak,ak023aw0znlz,2023-08-25T04:42:05.431Z,"1 km SE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-25T04:39:46.210Z,19.3888333333333,-155.279,1.19,0.3,md,13,63,,0.07,hv,hv73543272,2023-08-25T04:53:35.870Z,"Island of Hawaii, Hawaii",earthquake,0.24,0.2,0.0447923722692739,2,reviewed,hv,hv
 2023-08-25T04:34:22.070Z,60.4841666666667,-152.767166666667,0.87,0.04,ml,6,115,,0.09,av,av91114068,2023-08-25T20:15:09.950Z,"77 km NW of Ninilchik, Alaska",earthquake,0.45,0.46,0.260165785346765,5,reviewed,av,av
-2023-08-25T04:33:27.559Z,60.4228,-150.6322,40.5,1.8,ml,,,,0.42,ak,ak023aw0y47e,2023-08-25T04:42:26.081Z,"11 km SE of Funny River, Alaska",earthquake,,0.7,,,automatic,ak,ak
