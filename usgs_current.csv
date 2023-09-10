@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-10T04:46:04.240Z,19.3953342437744,-155.276336669922,1.00999999046326,2.24,ml,32,50,,0.219999999,hv,hv73573477,2023-09-10T04:51:35.690Z,"6 km SW of Volcano, Hawaii",earthquake,0.26,0.200000003,0.44,19,automatic,hv,hv
+2023-09-10T04:45:50.830Z,19.3931674957275,-155.27799987793,1.01999998092651,2.24,ml,16,93,,0.109999999,hv,hv73573472,2023-09-10T04:51:22.010Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.230000004,0.44,17,automatic,hv,hv
+2023-09-10T04:26:29.200Z,18.0065,-66.7733333333333,12.58,2.74,md,24,160,0.02191,0.2,pr,pr71424388,2023-09-10T04:46:48.480Z,"1 km SSW of Magas Arriba, Puerto Rico",earthquake,0.36,0.35,0.0247913265340305,5,reviewed,pr,pr
 2023-09-10T04:17:24.104Z,37.0424,-104.956,5,2.9,ml,17,63,0.16,0.47,us,us7000kuqz,2023-09-10T04:29:35.040Z,"13 km SW of Weston, Colorado",earthquake,2.83,1.982,0.048,56,reviewed,us,us
-2023-09-10T04:11:00.960Z,38.5896666666667,-87.9396666666667,21.13,2.54,md,19,92,0.1905,0.27,nm,nm60550471,2023-09-10T04:42:37.014Z,"9 km NE of West Salem, Illinois",earthquake,0.59,0.95,0.205751013528544,12,reviewed,nm,nm
+2023-09-10T04:11:00.960Z,38.5896666666667,-87.9396666666667,21.13,2.54,md,19,92,0.1905,0.27,nm,nm60550471,2023-09-10T04:47:44.457Z,"9 km NE of West Salem, Illinois",earthquake,0.59,0.95,0.205751013528544,12,reviewed,nm,nm
 2023-09-10T04:10:13.552Z,61.6328,-149.4753,30.8,2.1,ml,,,,0.51,ak,ak023bmhepkb,2023-09-10T04:12:10.069Z,"2 km WNW of Tanaina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-10T04:08:28.710Z,19.3811664581299,-155.490829467773,8.61999988555908,2.24,ml,18,107,,0.270000011,hv,hv73573387,2023-09-10T04:13:58.390Z,"Island of Hawaii, Hawaii",earthquake,0.66,1.49000001,0.52,6,automatic,hv,hv
 2023-09-10T04:01:10.781Z,30.304,94.8188,10,4.4,mb,41,94,3.258,0.97,us,us7000kuqr,2023-09-10T04:43:09.040Z,"201 km NNE of Shi Yomi, India",earthquake,10.78,1.948,0.093,33,reviewed,us,us
@@ -195,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T05:12:22.597Z,8.4316,-82.9299,10,4.5,mb,39,109,0.386,1.07,us,us7000kuiz,2023-09-09T05:28:02.040Z,"8 km NW of Finca Blanco, Panama",earthquake,8.37,1.939,0.11,24,reviewed,us,us
 2023-09-09T05:02:51.052Z,-7.3768,128.5164,152.659,4.8,mb,64,87,4.821,0.6,us,us7000kuiy,2023-09-09T05:21:12.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,8.58,7.564,0.074,57,reviewed,us,us
 2023-09-09T05:00:44.960Z,36.7716667,-121.3233333,3.76,0.85,md,10,169,0.06673,0.06,nc,nc73934931,2023-09-09T10:39:47.969Z,"2 km S of Tres Pinos, CA",earthquake,0.36,1.11,0.123,8,reviewed,nc,nc
-2023-09-09T04:44:09.870Z,38.7915001,-122.9031677,4.98,0.79,md,13,212,0.0248,0.03,nc,nc73934926,2023-09-09T04:45:46.748Z,"10 km E of Cloverdale, CA",earthquake,0.64,1.12,0.18,13,automatic,nc,nc
