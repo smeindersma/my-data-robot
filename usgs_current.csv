@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-16T21:46:17.160Z,38.5378342,-119.5613327,1.26,2.25,md,7,119,0.058,0.02,nc,nc73937641,2023-09-16T21:48:59.708Z,"8 km WNW of Walker, CA",earthquake,0.47,1.73,0.42,5,automatic,nc,nc
 2023-09-16T21:25:28.200Z,38.8214989,-122.7881699,0.74,1.15,md,21,38,0.01009,0.04,nc,nc73937631,2023-09-16T21:27:05.370Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.36,0.21,20,automatic,nc,nc
 2023-09-16T21:22:36.260Z,38.8238335,-122.7946701,2.6,1.26,md,27,34,0.01204,0.02,nc,nc73937626,2023-09-16T21:41:14.959Z,"6 km NNW of The Geysers, CA",earthquake,0.21,0.4,0.2,28,automatic,nc,nc
 2023-09-16T21:21:22.121Z,37.3957,-117.1026,0,1,ml,17,138.44,0.394,0.2339,nn,nn00865915,2023-09-16T21:23:51.628Z,"36 km SSE of Goldfield, Nevada",earthquake,,36.2,0.88,10,automatic,nn,nn
@@ -175,5 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T22:23:02.490Z,54.7466666666667,-164.13,0.96,1.58,ml,4,190,,0.14,av,av91115978,2023-09-16T03:16:15.320Z,"Unimak Island region, Alaska",earthquake,0.61,0.34,0.172257008509803,5,reviewed,av,av
 2023-09-15T22:03:05.220Z,52.1025,-176.113833333333,7.73,0.62,ml,5,210,,0.23,av,av92046456,2023-09-16T03:06:43.340Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1,1.28,0.207088856897016,5,reviewed,av,av
 2023-09-15T21:54:08.550Z,38.7970009,-122.7720032,3.13,1.84,md,34,79,0.01026,0.06,nc,nc73937231,2023-09-15T22:24:12.610Z,"3 km NNW of The Geysers, CA",earthquake,0.24,0.38,0.16,34,automatic,nc,nc
-2023-09-15T21:48:43.580Z,38.7763329,-122.7176666,1.82,1.24,md,14,84,0.01576,0.02,nc,nc73937226,2023-09-15T22:11:14.517Z,"2 km W of Anderson Springs, CA",earthquake,0.29,0.56,0.18,16,automatic,nc,nc
-2023-09-15T21:46:23.220Z,38.7763329,-122.7194977,1.59,1.52,md,19,70,0.01513,0.04,nc,nc73937216,2023-09-15T22:03:13.463Z,"2 km W of Anderson Springs, CA",earthquake,0.26,0.43,0.15,19,automatic,nc,nc
