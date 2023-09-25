@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-25T13:25:49.336Z,34.0771637,-97.42514038,1.201835275,2.27,ml,13,98.32907104,0.1761922985,0.9223341557,ok,ok2023suvx,2023-09-25T13:30:19.708Z,"Oklahoma",earthquake,3.738157592,2.440927444,0.59,4,automatic,ok,ok
+2023-09-25T13:19:18.940Z,17.9008333333333,-66.842,11.93,2.26,md,5,233,0.0819,0.1,pr,pr71425828,2023-09-25T13:33:24.870Z,"Puerto Rico region",earthquake,2.03,1.22,0.120564466574902,5,reviewed,pr,pr
 2023-09-25T12:47:00.004Z,63.0918,-149.5799,80.8,1.2,ml,,,,0.34,ak,ak023cbfga9c,2023-09-25T12:48:29.882Z,"46 km SW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-25T12:46:25.860Z,35.0435,-119.0615,6.45,1.43,ml,17,137,0.1573,0.22,ci,ci40572144,2023-09-25T12:49:54.908Z,"16 km NW of Grapevine, CA",earthquake,0.46,1.48,0.164,24,automatic,ci,ci
 2023-09-25T12:31:57.109Z,34.06883333,-97.42833333,5.95,2.05,ml,76,46,0.1772652145,0.43,ok,ok2023suud,2023-09-25T12:51:16.113Z,"Oklahoma",earthquake,,1,0.24,21,reviewed,ok,ok
@@ -202,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T13:40:10.070Z,33.9021683,-117.8255005,3.12,1.22,ml,19,110,0.1183,0.43,ci,ci40571576,2023-09-24T13:43:43.449Z,"2 km NW of Yorba Linda, CA",earthquake,1.12,4.76,0.339,17,automatic,ci,ci
 2023-09-24T13:40:08.540Z,63.2555,-151.5367,10,1,ml,,,,0.83,ak,ak023c9sgw0m,2023-09-24T13:41:47.936Z,"33 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-24T13:36:03.240Z,38.8271675,-122.7998352,3.77,0.7,md,8,148,0.00884,0.02,nc,nc73941236,2023-09-24T13:37:37.489Z,"7 km W of Cobb, CA",earthquake,0.7,2.46,0.41,9,automatic,nc,nc
-2023-09-24T13:27:21.660Z,33.019,-116.3446667,9.82,1.01,ml,38,76,0.07272,0.21,ci,ci40571568,2023-09-24T14:09:01.480Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.29,0.63,0.2,23,reviewed,ci,ci
