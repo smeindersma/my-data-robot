@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-01T02:53:29.740Z,61.5755,-146.5685,19.9,1.8,ml,,,,0.69,ak,ak023cl6rdri,2023-10-01T02:55:29.892Z,"47 km SSE of Nelchina, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-10-01T02:48:15.030Z,38.8056679,-122.7825012,1.09,0.76,md,11,64,0.007712,0.02,nc,nc73943991,2023-10-01T02:49:49.096Z,"4 km NW of The Geysers, CA",earthquake,0.29,0.63,0.05,10,automatic,nc,nc
 2023-10-01T02:32:42.140Z,17.9053333333333,-66.8511666666667,12.27,2.86,md,22,218,0.07432,0.11,pr,pr71426768,2023-10-01T02:47:17.620Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.47,0.34,0.180819631003882,8,reviewed,pr,pr
+2023-10-01T02:29:28.020Z,17.9178333333333,-66.8506666666667,13.03,2.68,md,7,225,0.06308,0.08,pr,pr71426763,2023-10-01T02:55:47.480Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.75,0.32,0.139678002009046,7,reviewed,pr,pr
 2023-10-01T02:22:42.640Z,17.8898333333333,-66.8501666666667,11.68,3.18,md,23,223,0.08917,0.15,pr,pr71426748,2023-10-01T02:47:49.520Z,"Puerto Rico region",earthquake,0.49,0.36,0.117185937478606,15,reviewed,pr,pr
 2023-10-01T02:19:33.290Z,17.9241666666667,-66.852,13.78,2.25,md,8,221,0.05687,0.15,pr,pr71426743,2023-10-01T02:47:24.720Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.96,0.43,0.0993646079011654,3,reviewed,pr,pr
 2023-10-01T02:17:09.335Z,61.2827,-146.8229,29.1,1.6,ml,,,,0.24,ak,ak023cl6jmet,2023-10-01T02:18:21.678Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -24,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T22:44:33.230Z,17.9155,-66.8465,9.6,2.99,md,12,226,0.06694,0.19,pr,pr71426643,2023-09-30T23:17:03.770Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.79,1.24,0.0600194796863334,8,reviewed,pr,pr
 2023-09-30T22:24:45.954Z,59.6398,-152.7484,103.5,2.6,ml,,,,0.35,ak,ak023cjuyiud,2023-09-30T22:50:24.040Z,"53 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-30T21:51:17.380Z,34.2088333,-117.5778333,6.69,1.9,ml,61,30,0.07325,0.22,ci,ci40574976,2023-09-30T21:54:54.070Z,"9 km SW of Lytle Creek, CA",earthquake,0.22,0.61,0.156,25,automatic,ci,ci
-2023-09-30T21:30:09.059Z,42.1177,77.1432,10,4.1,mb,27,125,0.039,0.64,us,us6000lbys,2023-10-01T02:44:58.946Z,"3 km SW of Kadzhi-Say, Kyrgyzstan",earthquake,3.53,1.961,0.213,6,reviewed,us,us
+2023-09-30T21:30:09.059Z,42.1177,77.1432,10,4.1,mb,27,125,0.039,0.64,us,us6000lbys,2023-10-01T02:50:17.274Z,"3 km SW of Kadzhi-Say, Kyrgyzstan",earthquake,3.53,1.961,0.213,6,reviewed,us,us
 2023-09-30T21:28:39.382Z,-20.6131,-67.9389,171.431,4.4,mb,21,122,1.508,0.75,us,us6000lbyr,2023-09-30T21:49:50.040Z,"75 km NNE of Ollagüe, Chile",earthquake,5.81,9.302,0.24,5,reviewed,us,us
 2023-09-30T20:56:33.240Z,33.0188333,-116.3481667,9.92,0.97,ml,16,143,0.07039,0.18,ci,ci40574960,2023-09-30T21:00:09.681Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.4,0.66,0.258,15,automatic,ci,ci
 2023-09-30T20:56:07.800Z,38.6850014,-122.4941635,1.88,1.12,md,6,111,0.09117,0.07,nc,nc73943916,2023-09-30T20:57:44.668Z,"13 km NNW of Angwin, CA",earthquake,0.52,8.23,0.2,6,automatic,nc,nc
@@ -161,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T03:11:16.620Z,38.8190002,-122.82267,2.07,0.62,md,9,119,0.01049,0.02,nc,nc73943596,2023-09-30T03:12:53.509Z,"7 km NW of The Geysers, CA",earthquake,0.53,1.02,0.19,10,automatic,nc,nc
 2023-09-30T03:07:24.541Z,43.3862,143.8979,10,4.4,mb,36,144,1.196,0.67,us,us6000lbui,2023-09-30T04:02:45.040Z,"15 km SE of Rikubetsu, Japan",earthquake,7.52,1.888,0.114,22,reviewed,us,us
 2023-09-30T03:05:58.010Z,44.3553333333333,-115.198,6.36,1.34,ml,10,63,0.7863,0.15,mb,mb90028908,2023-09-30T14:19:10.370Z,"southern Idaho",earthquake,0.39,1.46,0.21430665374929,10,reviewed,mb,mb
-2023-09-30T02:57:50.850Z,61.5416,-150.5898,44.5,1.9,ml,,,,0.65,ak,ak023cjj8xqa,2023-09-30T02:59:32.102Z,"4 km W of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
