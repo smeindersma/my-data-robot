@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T08:30:45.480Z,60.0755,-151.9218,52.6,1.4,ml,,,,0.64,ak,ak023cmxqfms,2023-10-02T08:32:09.136Z,"14 km W of Ninilchik, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-10-02T08:30:13.546Z,30.3649,140.0024,105.451,4.4,mb,77,248,2.747,0.44,us,us6000lc7w,2023-10-02T13:14:18.040Z,"Izu Islands, Japan region",earthquake,13.92,9.791,0.069,61,reviewed,us,us
 2023-10-02T08:29:45.005Z,43.3474,17.388,10,4.5,mb,70,25,1.409,0.52,us,us6000lc7v,2023-10-02T16:30:05.464Z,"3 km SW of Grude, Bosnia and Herzegovina",earthquake,4.23,1.809,0.089,37,reviewed,us,us
-2023-10-02T08:14:22.300Z,46.47716666666667,-122.27816666666666,14.93,1.17,ml,43,77,0.09304,0.16,uw,uw61963476,2023-10-02T17:15:30.810Z,"9 km S of Morton, Washington",earthquake,0.31,0.66,0.10920735177643981,22,reviewed,uw,uw
