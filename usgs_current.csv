@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-05T10:51:32.030Z,33.4921667,-116.7545,6.61,0.67,ml,21,74,0.04638,0.17,ci,ci40577496,2023-10-05T10:55:06.031Z,"10 km SW of Anza, CA",earthquake,0.23,0.54,0.142,19,automatic,ci,ci
 2023-10-05T10:28:39.055Z,38.1704,-117.8736,10.7,1.9,ml,12,105.98,0.092,0.1503,nn,nn00866805,2023-10-05T10:31:17.445Z,"31 km SE of Mina, Nevada",earthquake,,0.5,0.38,8,automatic,nn,nn
 2023-10-05T10:20:29.650Z,19.3698333333333,-155.289333333333,1.71,0.48,md,14,113,,0.08,hv,hv73592887,2023-10-05T10:44:48.590Z,"9 km SW of Volcano, Hawaii",earthquake,0.27,0.25,0.204144552457432,3,reviewed,hv,hv
 2023-10-05T10:20:13.988Z,38.4585,-119.3968,1.3,1.4,ml,8,125.71,0.115,0.2241,nn,nn00866804,2023-10-05T10:24:36.892Z,"9 km SE of Walker, California",earthquake,,6.6,0.15,5,automatic,nn,nn
