@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T01:13:10.374Z,34.4476,61.9699,10,4.1,mb,27,150,5.842,0.52,us,us6000lenq,2023-10-11T02:22:02.040Z,"23 km ENE of Zindah Jān, Afghanistan",earthquake,5.45,1.984,0.174,9,reviewed,us,us
 2023-10-11T01:02:36.060Z,19.2465000152588,-155.393325805664,27.1900005340576,1.94000006,md,37,135,,0.109999999,hv,hv73604187,2023-10-11T01:05:46.140Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.949999988,0.239999995,17,automatic,hv,hv
 2023-10-11T00:52:45.254Z,34.5956,62.1231,10,5,mb,54,93,5.71,0.84,us,us6000leng,2023-10-11T01:33:47.258Z,"28 km NNW of Herāt, Afghanistan",earthquake,8.31,1.666,0.082,47,reviewed,us,us
-2023-10-11T00:41:56.307Z,34.5798,62.0717,10,6.3,mww,83,43,5.753,0.98,us,us6000len8,2023-10-11T02:28:27.395Z,"28 km NNW of Herāt, Afghanistan",earthquake,9.09,1.87,0.047,44,reviewed,us,us
+2023-10-11T00:41:56.307Z,34.5798,62.0717,10,6.3,mww,83,43,5.753,0.98,us,us6000len8,2023-10-11T02:44:28.742Z,"28 km NNW of Herāt, Afghanistan",earthquake,9.09,1.87,0.047,44,reviewed,us,us
 2023-10-11T00:25:17.634Z,60.73,-151.3546,64.1,1.7,ml,,,,0.49,ak,ak023d1oryib,2023-10-11T00:27:09.770Z,"5 km NW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-11T00:13:33.148Z,73.2469,6.8387,10,4.7,mb,74,33,5.829,0.76,us,us6000len5,2023-10-11T00:30:26.040Z,"Greenland Sea",earthquake,8.63,1.87,0.067,68,reviewed,us,us
 2023-10-11T00:07:44.820Z,37.8793335,-122.2109985,7.27,1.94,md,30,56,0.0197,0.07,nc,nc73948711,2023-10-11T02:32:15.930Z,"3 km W of Orinda, CA",earthquake,0.22,0.31,0.19,23,automatic,nc,nc
