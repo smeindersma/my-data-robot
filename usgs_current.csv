@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-12T17:44:03.736Z,64.7488,-149.1076,18.5,1.1,ml,,,,1.95,ak,ak023d3mjptr,2023-10-12T17:47:24.840Z,"16 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-12T17:42:38.005Z,61.4975,-151.9024,20.5,0.7,ml,,,,0.56,ak,ak023d3mjd0j,2023-10-12T17:44:51.565Z,"59 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-12T17:13:06.330Z,18.6443333333333,-65.939,49.62,3.02,md,7,213,0.3606,0.2,pr,pr71428323,2023-10-12T17:33:03.700Z,"24 km NNW of Loíza, Puerto Rico",earthquake,1.4,2.53,0.0976637780454195,4,reviewed,pr,pr
 2023-10-12T16:45:52.950Z,60.6428,-151.8208,79.7,1.3,ml,,,,0.13,ak,ak023d3lylel,2023-10-12T16:49:59.011Z,"27 km W of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -134,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T01:23:23.126Z,39.1782,-120.433,8.4,1.1,ml,9,123.67,0.135,0.0993,nn,nn00867176,2023-10-12T16:59:19.000Z,"15 km S of Kingvale, California",earthquake,,3.2,0.45,4,reviewed,nn,nn
 2023-10-12T01:20:51.150Z,38.6866684,-122.49617,7.14,1.56,md,10,110,0.09342,0.06,nc,nc73946250,2023-10-12T05:12:16.342Z,"13 km SE of Middletown, CA",earthquake,0.45,1.78,0.11,10,automatic,nc,nc
 2023-10-12T01:14:51.607Z,31.601,-104.395,6.7743,1.9,ml(texnet),18,76,0.1,0.1,tx,tx2023tyzi,2023-10-12T13:57:39.636Z,"63 km S of Whites City, New Mexico",earthquake,1.868922984,1.876270187,0.1,6,reviewed,tx,tx
-2023-10-12T01:01:56.710Z,33.4953346,-116.4293365,9.42,1.3,ml,25,130,0.02816,0.17,ci,ci40581448,2023-10-12T01:04:01.487Z,"22 km SSW of La Quinta, CA",earthquake,0.5,1.05,0.196,8,automatic,ci,ci
+2023-10-12T01:01:56.560Z,33.4851667,-116.4311667,9.01,0.99,ml,35,56,0.0384,0.16,ci,ci40581448,2023-10-12T17:54:35.454Z,"23 km SSW of La Quinta, CA",earthquake,0.19,0.47,0.137,21,reviewed,ci,ci
 2023-10-12T01:01:12.530Z,37.8003349,-121.9749985,10.09,1.97,md,35,61,0.06005,0.05,nc,nc73946245,2023-10-12T04:45:14.212Z,"2 km N of San Ramon, CA",earthquake,0.2,0.32,0.2,29,automatic,nc,nc
 2023-10-12T00:48:01.346Z,65.4424,-153.4164,14,1.1,ml,,,,0.41,ak,ak023d3cg77q,2023-10-12T00:50:10.946Z,"69 km WNW of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-12T00:45:31.030Z,38.8224983,-122.7655029,2.28,0.71,md,7,136,0.008674,0.01,nc,nc73946240,2023-10-12T01:03:11.798Z,"4 km W of Cobb, CA",earthquake,0.64,0.92,0.44,9,automatic,nc,nc
