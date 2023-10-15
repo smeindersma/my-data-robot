@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T19:50:16.520Z,34.5670013,-119.1326675,10.48,3.73,mlr,114,16,0.1295,0.33,ci,ci40582816,2023-10-15T19:52:38.390Z,"17 km NE of Ojai, CA",earthquake,0.27,0.81,0.236,17,automatic,ci,ci
 2023-10-15T19:30:16.370Z,34.3366667,-117.0088333,2.5,1.09,ml,23,68,0.07968,0.24,ci,ci40582808,2023-10-15T19:34:15.449Z,"12 km SSW of Lucerne Valley, CA",earthquake,0.41,1.77,0.198,22,automatic,ci,ci
 2023-10-15T19:30:05.840Z,34.1686667,-117.4311667,6.38,0.92,ml,18,50,0.1024,0.22,ci,ci40582800,2023-10-15T19:33:55.324Z,"6 km SSW of Devore, CA",earthquake,0.48,1.53,0.246,18,automatic,ci,ci
 2023-10-15T19:28:27.410Z,34.3363333,-117.0093333,2.45,1.38,ml,42,40,0.07936,0.18,ci,ci40582792,2023-10-15T19:39:01.320Z,"13 km SSW of Lucerne Valley, CA",earthquake,0.26,0.88,0.189,28,automatic,ci,ci
@@ -101,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T04:17:20.490Z,37.3835,-119.0205,1.02,0.89,md,22,148,0.2259,0.05,nc,nc73947405,2023-10-15T18:36:15.974Z,"28 km S of Mammoth Lakes, CA",earthquake,0.39,3.15,0.189,17,reviewed,nc,nc
 2023-10-15T04:12:37.050Z,34.0418333,-117.239,15.22,1.13,ml,44,34,0.1091,0.2,ci,ci40582672,2023-10-15T04:16:18.168Z,"2 km ESE of Loma Linda, CA",earthquake,0.21,0.41,0.206,29,automatic,ci,ci
 2023-10-15T04:10:33.375Z,60.5061,-147.3846,19.3,1.9,ml,,,,0.5,ak,ak023d8d7wdl,2023-10-15T04:12:07.753Z,"55 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-15T04:07:46.360Z,36.437,-120.9811667,7.39,0.14,md,3,226,0.03298,0,nc,nc73947365,2023-10-15T19:43:14.375Z,"18 km SE of Pinnacles, CA",earthquake,1.13,2.52,0.204,6,reviewed,nc,nc
+2023-10-15T04:07:46.360Z,36.437,-120.9811667,7.39,0.14,md,3,226,0.03298,0,nc,nc73947365,2023-10-15T19:47:12.405Z,"18 km SE of Pinnacles, CA",earthquake,1.13,2.52,0.204,6,reviewed,nc,nc
 2023-10-15T03:56:28.863Z,34.5926,62.1483,10,5.4,mww,116,22,5.689,1,us,us6000lfng,2023-10-15T06:03:18.043Z,"27 km N of Herāt, Afghanistan",earthquake,7.23,1.79,0.093,11,reviewed,us,us
 2023-10-15T03:46:53.680Z,17.964,-66.9538333333333,13.21,2.72,md,4,193,0.07183,0.1,pr,pr71428613,2023-10-15T04:27:47.380Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.66,1.01,0.0201491434223553,4,reviewed,pr,pr
 2023-10-15T03:45:47.839Z,62.9316,-149.9091,70.7,1.9,ml,,,,0.34,ak,ak023d8ctzy7,2023-10-15T03:47:33.252Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
