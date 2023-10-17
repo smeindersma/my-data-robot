@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-17T07:27:51.210Z,38.7958336,-122.7656631,3.73,0.79,md,11,85,0.006672,0.02,nc,nc73948170,2023-10-17T07:29:30.345Z,"2 km NNW of The Geysers, CA",earthquake,0.45,0.93,0.15,14,automatic,nc,nc
-2023-10-17T07:25:07.750Z,35.6235,-117.471,8.4,1.99,ml,28,61,0.05663,0.17,ci,ci40583280,2023-10-17T07:28:40.594Z,"17 km SSW of Searles Valley, CA",earthquake,0.28,0.77,0.136,25,automatic,ci,ci
+2023-10-17T07:41:56.110Z,34.1408348,-117.4218369,6.92,1.43,ml,49,36,0.05184,0.18,ci,ci40583296,2023-10-17T07:44:01.687Z,"6 km NE of Fontana, CA",earthquake,0.26,0.63,0.256,10,automatic,ci,ci
+2023-10-17T07:40:36.950Z,34.1303333,-118.5021667,5.41,1.86,ml,52,119,0.0928,0.22,ci,ci40583288,2023-10-17T07:44:10.555Z,"3 km S of Encino, CA",earthquake,0.33,0.68,0.194,27,automatic,ci,ci
+2023-10-17T07:27:51.210Z,38.7958336,-122.7656631,3.73,0.79,md,11,85,0.006672,0.02,nc,nc73948170,2023-10-17T07:37:10.744Z,"2 km NNW of The Geysers, CA",earthquake,0.45,0.93,0.15,14,automatic,nc,nc
+2023-10-17T07:25:07.750Z,35.6235,-117.471,8.4,1.99,ml,28,61,0.05663,0.17,ci,ci40583280,2023-10-17T07:36:08.090Z,"17 km SSW of Searles Valley, CA",earthquake,0.28,0.77,0.136,25,automatic,ci,ci
 2023-10-17T07:11:48.270Z,38.795166,-122.7366638,-0.79,0.75,md,8,139,0.01191,0.03,nc,nc73948160,2023-10-17T07:34:12.732Z,"3 km NE of The Geysers, CA",earthquake,0.29,3.09,0.37,8,automatic,nc,nc
 2023-10-17T06:59:50.600Z,17.9061666666667,-66.8323333333333,11.26,2.4,md,10,231,0.08179,0.1,pr,pr71428923,2023-10-17T07:09:25.630Z,"9 km S of Indios, Puerto Rico",earthquake,0.85,0.6,0.102466536226647,7,reviewed,pr,pr
 2023-10-17T06:52:27.580Z,19.1668338775635,-155.484329223633,33.5299987792969,2.22000003,md,36,160,,0.109999999,hv,hv73611312,2023-10-17T06:55:32.620Z,"Island of Hawaii, Hawaii",earthquake,0.62,1.07000005,1.13,15,automatic,hv,hv
