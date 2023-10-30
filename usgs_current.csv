@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-30T20:51:06.900Z,38.8223343,-122.7600021,1.92,0.77,md,12,129,0.01122,0.02,nc,nc73953865,2023-10-30T20:52:42.120Z,"3 km W of Cobb, CA",earthquake,0.34,0.63,0.1,12,automatic,nc,nc
 2023-10-30T20:32:42.150Z,33.2263333,-117.1826667,2.15,1.11,ml,26,126,0.06392,0.25,ci,ci40591952,2023-10-30T20:38:47.620Z,"6 km ENE of Vista, CA",earthquake,0.41,0.61,0.176,17,automatic,ci,ci
 2023-10-30T20:25:27.070Z,19.3601665496826,-155.076995849609,3.63000011444092,2.4,ml,47,138,,0.319999993,hv,hv73633382,2023-10-30T20:30:58.550Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.65,1.01999998,2.97,22,automatic,hv,hv
 2023-10-30T20:25:17.330Z,19.3533325195312,-155.162673950195,4.23999977111816,2.22,ml,21,103,,0.230000004,hv,hv73633377,2023-10-30T20:30:47.920Z,"12 km SE of Volcano, Hawaii",earthquake,0.77,1.99000001,3.35,23,automatic,hv,hv
@@ -216,3 +217,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T21:04:40.560Z,38.8019981,-122.8150024,3.3,1.08,md,24,64,0.01303,0.02,nc,nc73953430,2023-10-29T21:16:10.084Z,"6 km WNW of The Geysers, CA",earthquake,0.25,0.46,0.12,24,automatic,nc,nc
 2023-10-29T20:59:39.300Z,38.8023338,-122.8144989,3.32,1.5,md,30,64,0.0132,0.02,nc,nc73953425,2023-10-29T22:39:11.519Z,"6 km WNW of The Geysers, CA",earthquake,0.22,0.41,0.13,30,automatic,nc,nc
 2023-10-29T20:58:00.240Z,53.9018333333333,-167.9025,2.36,1.66,ml,6,168,,0.09,av,av92100376,2023-10-29T21:52:54.400Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.97,2.26,0.248883484362893,5,reviewed,av,av
+2023-10-29T20:56:12.430Z,33.5973333,-116.6455,14.49,0.18,ml,9,156,0.04132,0.1,ci,ci40590912,2023-10-30T20:46:08.831Z,"5 km NNE of Anza, CA",earthquake,0.51,0.69,0.102,3,reviewed,ci,ci
