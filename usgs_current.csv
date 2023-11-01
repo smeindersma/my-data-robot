@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T02:11:35.452Z,31.643,-104.174,6.093,1.7,ml(texnet),28,63,0.1,0.2,tx,tx2023vjph,2023-11-01T14:31:40.332Z,"51 km NW of Toyah, Texas",earthquake,0.5100645988,0.5908678393,0.2,30,reviewed,tx,tx
 2023-11-01T02:07:34.220Z,33.4811667,-116.4548333,11.64,0.9,ml,21,136,0.04865,0.18,ci,ci40593344,2023-11-01T16:06:16.171Z,"22 km ESE of Anza, CA",earthquake,0.39,0.64,0.182,20,reviewed,ci,ci
 2023-11-01T02:06:54.196Z,31.634,-104.178,5.4117,1.9,ml(texnet),21,78,0.1,0.1,tx,tx2023vjpd,2023-11-01T16:46:21.785Z,"50 km NW of Toyah, Texas",earthquake,0.9320184532,1.569278599,0.1,7,reviewed,tx,tx
-2023-11-01T02:06:24.663Z,31.559,-104.159,2.1107,1.7,ml(texnet),7,188,0,0.5,tx,tx2023vjpc,2023-11-01T02:30:25.035Z,"44 km NW of Toyah, Texas",earthquake,0,2.115631883,0.5,7,automatic,tx,tx
+2023-11-01T02:06:23.410Z,31.563,-104.16,7.2627,1.1,ml(texnet),12,69,0,0.2,tx,tx2023vjpc,2023-11-01T18:53:34.116Z,"western Texas",earthquake,1.034587081,1.134837473,0.6,9,reviewed,tx,tx
 2023-11-01T02:00:34.458Z,39.1876,-120.4561,9,1.4,ml,17,127.31,0.15,0.1368,nn,nn00868241,2023-11-01T17:46:06.751Z,"14 km S of Kingvale, California",earthquake,,1.6,0.26,8,reviewed,nn,nn
 2023-11-01T01:41:05.963Z,59.8086,-153.4803,119.4,2,ml,,,,0.4,ak,ak023e0fr31g,2023-11-01T01:43:48.486Z,"35 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-01T01:38:00.031Z,61.6011,-149.8586,27.2,2.3,ml,,,,0.68,ak,ak023e0fqcc6,2023-11-01T01:39:23.798Z,"3 km SSW of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
