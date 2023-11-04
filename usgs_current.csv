@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-04T06:40:58.769Z,59.7778,-153.0698,101.2,2.3,ml,,,,0.26,ak,ak023e5hc6u0,2023-11-04T06:42:34.453Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-04T06:47:53.213Z,61.3648,-146.0996,27,1.6,ml,,,,0.69,ak,ak023e5hdohl,2023-11-04T06:49:34.324Z,"29 km NNE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-11-04T06:40:58.769Z,59.7778,-153.0698,101.2,2.3,ml,,,,0.26,ak,ak023e5hc6u0,2023-11-04T06:47:52.040Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-04T06:29:24.507Z,64.6205,-146.5083,18.2,1.1,ml,,,,0.53,ak,ak023e5h9rec,2023-11-04T06:32:24.848Z,"21 km ENE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-04T06:28:29.950Z,38.8120003,-122.8199997,4.87,0.54,md,8,148,0.007823,0.01,nc,nc73955840,2023-11-04T06:39:10.950Z,"7 km NW of The Geysers, CA",earthquake,1.11,5.2,0.24,8,automatic,nc,nc
+2023-11-04T06:28:29.950Z,38.8120003,-122.8199997,4.87,0.54,md,8,148,0.007823,0.01,nc,nc73955840,2023-11-04T06:47:19.000Z,"7 km NW of The Geysers, CA",earthquake,1.11,5.2,0.24,8,automatic,nc,nc
 2023-11-04T05:57:12.820Z,19.3143329620361,-155.218994140625,-0.25,1.74000001,md,35,128,,0.159999996,hv,hv73638752,2023-11-04T06:00:17.520Z,"Island of Hawaii, Hawaii",earthquake,0.27,0.310000002,0.349999994,19,automatic,hv,hv
 2023-11-04T05:54:01.598Z,39.6303,-119.6384,0,1.8,ml,12,75.05,0.195,0.2143,nn,nn00868427,2023-11-04T06:36:43.040Z,"Nevada",earthquake,,4,0.33,6,automatic,nn,nn
 2023-11-04T05:52:37.050Z,38.831501,-122.8180008,1.68,0.4,md,9,81,0.01019,0.01,nc,nc73955820,2023-11-04T06:11:17.783Z,"8 km NW of The Geysers, CA",earthquake,0.43,0.75,0.24,9,automatic,nc,nc
@@ -43,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T00:42:10.087Z,61.6349,-146.9027,34,1.3,ml,,,,0.61,ak,ak023e5drwxk,2023-11-04T00:44:30.522Z,"36 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-04T00:25:40.565Z,-4.0444,128.9644,138.919,4.5,mb,45,52,1.051,0.73,us,us7000l8s5,2023-11-04T00:51:30.040Z,"78 km S of Amahai, Indonesia",earthquake,8.55,7.076,0.096,32,reviewed,us,us
 2023-11-04T00:18:29.503Z,1.0637,125.6396,65.088,4.5,mb,24,82,1.751,0.87,us,us7000l8s4,2023-11-04T02:48:07.009Z,"70 km SE of Bitung, Indonesia",earthquake,10.4,10.919,0.125,19,reviewed,us,us
-2023-11-03T23:57:40.980Z,17.9926666666667,-67.1596666666667,14.43,2.36,md,10,262,0.04957,0.12,pr,pr71430703,2023-11-04T00:12:14.800Z,"Puerto Rico",earthquake,0.73,0.46,0.0396154304194565,4,reviewed,pr,pr
+2023-11-03T23:57:40.980Z,17.9926666666667,-67.1596666666667,14.43,2.36,md,10,262,0.04957,0.12,pr,pr71430703,2023-11-04T00:12:14.800Z,"3 km NE of Pole Ojea, Puerto Rico",earthquake,0.73,0.46,0.0396154304194565,4,reviewed,pr,pr
 2023-11-03T23:52:03.161Z,41.9493,-119.6282,1.3,1.6,ml,4,128.04,0.504,0.13,nn,nn00868423,2023-11-04T00:28:10.466Z,"44 km ENE of Fort Bidwell, California",earthquake,,4.8,0.57,4,reviewed,nn,nn
 2023-11-03T23:40:43.376Z,31.669,-104.19,4.3412,1.7,ml(texnet),19,105,0.1,0.2,tx,tx2023vowu,2023-11-04T00:04:23.085Z,"54 km NW of Toyah, Texas",earthquake,0,1.404898948,0.2,14,automatic,tx,tx
 2023-11-03T23:34:20.270Z,38.7808342,-122.7453308,-0.16,0.96,md,8,110,0.007141,0.02,nc,nc73955720,2023-11-03T23:51:10.652Z,"1 km ENE of The Geysers, CA",earthquake,0.34,0.48,0.14,7,automatic,nc,nc
@@ -233,7 +234,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T08:35:03.799Z,34.53833333,-97.4825,4.06,1.05,ml,26,84,0.09718092979,0.38,ok,ok2023vnsx,2023-11-03T12:36:56.817Z,"Oklahoma",earthquake,,1.3,0.26,11,reviewed,ok,ok
 2023-11-03T08:33:26.899Z,34.53366667,-97.485,5.63,1.5,ml,70,58,0.09898057663,0.42,ok,ok2023vnsw,2023-11-03T12:01:56.333Z,"6 km NNW of Tatums, Oklahoma",earthquake,,0.9,0.23,23,reviewed,ok,ok
 2023-11-03T08:32:53.280Z,38.8088341,-122.7701645,1.21,0.75,md,8,134,0.009332,0.01,nc,nc73955425,2023-11-03T11:10:15.102Z,"4 km NNW of The Geysers, CA",earthquake,0.38,1.1,0.04,10,automatic,nc,nc
-2023-11-03T08:32:27.028Z,31.657,-104.416,4.0749,1.5,ml(texnet),19,71,0,0.2,tx,tx2023vnsw,2023-11-03T20:05:42.679Z,"57 km S of Whites City, New Mexico",earthquake,0.8187155079,0.6499607575,0.1,14,reviewed,tx,tx
+2023-11-03T08:32:27.028Z,31.657,-104.416,4.0749,1.5,ml(texnet),19,71,0,0.2,tx,tx2023vnsw,2023-11-03T20:05:42.679Z,"western Texas",earthquake,0.8187155079,0.6499607575,0.1,14,reviewed,tx,tx
 2023-11-03T08:32:13.960Z,19.4678333333333,-155.603666666667,4.93,0.58,md,15,85,,0.12,hv,hv73637827,2023-11-03T08:59:58.380Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.35,0.54,0.126767897559944,7,reviewed,hv,hv
 2023-11-03T08:30:06.887Z,63.421,-151.3326,1.2,1.3,ml,,,,0.75,ak,ak023e3uxggc,2023-11-03T08:55:34.334Z,"23 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-03T08:22:03.290Z,19.4736666666667,-155.5935,6.55,0.64,md,14,77,,0.16,hv,hv73637812,2023-11-03T09:06:41.110Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.68,0.0307069596158377,5,reviewed,hv,hv
@@ -257,5 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T07:07:06.570Z,38.7856674,-122.7353363,1.62,0.91,md,9,106,0.002658,0.02,nc,nc73955405,2023-11-03T09:43:12.593Z,"2 km ENE of The Geysers, CA",earthquake,0.3,1.08,0.29,10,automatic,nc,nc
 2023-11-03T07:05:31.490Z,33.764,-116.9353333,14.18,0.46,ml,21,92,0.07732,0.12,ci,ci39706122,2023-11-03T16:25:35.589Z,"3 km SE of San Jacinto, CA",earthquake,0.22,0.52,0.053,6,reviewed,ci,ci
 2023-11-03T06:58:28.260Z,19.4641666666667,-155.612666666667,8.16,0.72,md,9,134,,0.14,hv,hv73637742,2023-11-03T07:16:44.180Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.53,0.81,0.247984533190353,3,reviewed,hv,hv
-2023-11-03T06:50:23.669Z,61.4796,-151.5738,75.6,1.1,ml,,,,0.95,ak,ak023e3tuwvu,2023-11-03T06:52:31.237Z,"45 km NW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-11-03T06:47:27.439Z,51.9066,-172.3685,10.726,5,mww,143,126,1.167,0.95,us,us7000l8in,2023-11-04T00:57:33.410Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,7.95,4.284,0.062,25,reviewed,us,us
