@@ -43,9 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T08:25:38.640Z,38.8395004,-122.810997,1.57,0.71,md,14,55,0.0161,0.03,nc,nc73956735,2023-11-06T08:52:11.760Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.71,0.09,13,automatic,nc,nc
 2023-11-06T08:17:22.063Z,38.645,-118.7772,4,1.5,ml,8,139.18,0.448,0.192,nn,nn00868497,2023-11-06T08:20:37.673Z,"1 km W of Walker Lake, Nevada",earthquake,,10.8,0.27,6,automatic,nn,nn
 2023-11-06T08:07:22.410Z,33.0663333,-116.1421667,11.65,1.14,ml,29,59,0.09169,0.25,ci,ci39709098,2023-11-06T08:11:00.296Z,"9 km S of Ocotillo Wells, CA",earthquake,0.37,0.9,0.182,24,automatic,ci,ci
-2023-11-06T07:52:19.102Z,62.7892,-150.2477,0,1.4,ml,,,,1.2,ak,ak023e8t2v1d,2023-11-06T08:04:35.239Z,"Central Alaska",earthquake,,4.4,,,automatic,ak,ak
 2023-11-06T07:51:46.777Z,60.4335,-152.7319,120.7,2.5,ml,,,,0.58,ak,ak023e8t2ng5,2023-11-06T07:54:31.684Z,"72 km NW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-06T07:51:23.607Z,61.1635,-146.7895,23.4,1.4,ml,,,,0.81,ak,ak023e8t2lns,2023-11-06T07:52:39.884Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-06T06:53:38.464Z,62.1633,-145.653,20.1,1.5,ml,,,,0.77,ak,ak023e8shmmu,2023-11-06T07:22:53.206Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T06:53:27.420Z,35.840168,-121.3404999,3.72,2.16,md,32,175,,0.17,nc,nc73956720,2023-11-06T10:05:13.177Z,"26 km NNW of San Simeon, CA",earthquake,0.75,2.51,0.14,27,automatic,nc,nc
 2023-11-06T06:45:45.049Z,64.4889,-146.9582,8.2,0.9,ml,,,,0.53,ak,ak023e8sfxfi,2023-11-06T06:47:55.064Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
