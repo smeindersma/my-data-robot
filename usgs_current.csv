@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T04:56:54.970Z,17.8538333333333,-66.853,7.52,2.39,md,7,251,0.1231,0.08,pr,pr71431113,2023-11-09T05:05:16.610Z,"14 km SSE of Guánica, Puerto Rico",earthquake,0.6,0.34,0.0314283619921156,6,reviewed,pr,pr
 2023-11-09T04:43:33.500Z,35.7498322,-120.3041687,1.75,1.38,md,18,143,0.04815,0.06,nc,nc73960286,2023-11-09T07:23:11.800Z,"3 km NNW of Cholame, CA",earthquake,0.52,2.53,0.17,7,automatic,nc,nc
 2023-11-09T04:38:50.584Z,59.3643,-152.9681,76.7,2.1,ml,,,,0.13,ak,ak023edptm3m,2023-11-09T04:40:47.928Z,"59 km W of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-11-09T04:23:24.711Z,61.6654,-149.6195,35.7,1.9,ml,,,,0.68,ak,ak023edpqcd3,2023-11-09T04:25:13.105Z,"4 km NNW of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-11-09T04:23:24.711Z,61.6654,-149.6195,35.7,1.9,ml,,,,0.68,ak,ak023edpqcd3,2023-11-09T04:25:13.105Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-09T04:13:23.126Z,-24.3375,-67.2001,183.697,4.3,mb,33,70,1.645,0.74,us,us7000l9rl,2023-11-09T04:38:00.040Z,"90 km W of San Antonio de los Cobres, Argentina",earthquake,9.67,12.693,0.189,8,reviewed,us,us
 2023-11-09T04:12:30.548Z,31.642,-104.006,5.5869,2.1,ml(texnet),16,44,0,0.1,tx,tx2023vyji,2023-11-09T04:33:37.349Z,"39 km W of Mentone, Texas",earthquake,0,2.057643954,0.2,12,automatic,tx,tx
 2023-11-09T03:41:33.390Z,31.629,-103.996,5.9821,1.7,ml(texnet),15,82,0,0.2,tx,tx2023vyil,2023-11-09T04:33:24.061Z,"western Texas",earthquake,0,2.100478109,0.2,12,automatic,tx,tx
@@ -257,7 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T11:25:31.170Z,38.8404999,-122.8261642,1.28,0.65,md,9,98,0.007527,0.02,nc,nc73957710,2023-11-08T13:45:11.008Z,"9 km WNW of Cobb, CA",earthquake,0.41,0.84,0.29,9,automatic,nc,nc
 2023-11-08T11:24:53.177Z,31.633,-103.989,4.8847,2.3,ml(texnet),12,47,0,0.1,tx,tx2023vxck,2023-11-08T23:42:07.996Z,"37 km WSW of Mentone, Texas",earthquake,0.3489963111,0.5565666874,0.2,13,reviewed,tx,tx
 2023-11-08T11:21:48.425Z,31.644,-103.982,4.4219,2,ml(texnet),12,96,0,0.4,tx,tx2023vxcf,2023-11-08T12:10:38.051Z,"36 km W of Mentone, Texas",earthquake,0,1.4631477,0.1,6,automatic,tx,tx
-2023-11-08T11:19:28.302Z,31.614,-103.995,7.4684,2,ml(texnet),13,57,0,0.1,tx,tx2023vxcc,2023-11-08T13:18:02.072Z,"38 km NNW of Toyah, Texas",earthquake,0.974223886,1.313409481,0.1,25,reviewed,tx,tx
-2023-11-08T11:15:42.510Z,38.8221664,-122.7876663,1.54,0.46,md,10,75,0.01043,0.02,nc,nc73957705,2023-11-08T13:37:12.843Z,"6 km W of Cobb, CA",earthquake,0.4,0.95,0.29,12,automatic,nc,nc
-2023-11-08T11:14:00.331Z,31.644,-104.02,6.3886,2.2,ml(texnet),11,118,0,0.2,tx,tx2023vxbx,2023-11-08T19:04:32.281Z,"40 km W of Mentone, Texas",earthquake,0.9561698355,0.8617389118,0.2,9,reviewed,tx,tx
-2023-11-08T11:12:36.290Z,31.645,-103.991,7.6064,1.6,ml(texnet),9,71,0,0.6,tx,tx2023vxbv,2023-11-08T12:00:06.972Z,"37 km W of Mentone, Texas",earthquake,0,3.323674625,0.3,5,automatic,tx,tx
