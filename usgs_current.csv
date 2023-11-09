@@ -54,6 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T10:57:29.442Z,31.594,-104.28,0.6259,1.6,ml(texnet),16,75,0.1,1,tx,tx2023vywq,2023-11-09T11:34:08.303Z,"western Texas",earthquake,0,1.495303511,0.3,13,automatic,tx,tx
 2023-11-09T10:52:11.000Z,38.8203316,-122.7988358,0.59,1.32,md,22,31,0.01265,0.02,nc,nc73960406,2023-11-09T13:20:10.795Z,"6 km NW of The Geysers, CA",earthquake,0.17,0.38,0.1,23,automatic,nc,nc
 2023-11-09T10:39:22.419Z,-11.2877,162.2896,10,4.7,mb,30,138,2.947,0.82,us,us7000l9tf,2023-11-09T11:29:51.040Z,"100 km SSE of Kirakira, Solomon Islands",earthquake,7.76,1.914,0.12,21,reviewed,us,us
+2023-11-09T10:25:21.181Z,38.2996,-119.3044,8.5,2.8,ml,7,145.66,0.23,0.1722,nn,nn00868657,2023-11-09T17:36:24.417Z,"8 km NW of Bridgeport, California",earthquake,,10.1,0.25,2,reviewed,nn,nn
 2023-11-09T10:25:02.270Z,38.2996667,-119.31,5.57,2.59,ml,47,115,0.2278,0.15,nc,nc73960401,2023-11-09T17:16:48.837Z,"8 km NW of Bridgeport, CA",earthquake,0.25,3.44,0.237,19,reviewed,nc,nc
 2023-11-09T10:20:33.123Z,31.649,-104.023,4.8543,2,ml(texnet),20,51,0,0.2,tx,tx2023vyvl,2023-11-09T10:48:49.944Z,"40 km W of Mentone, Texas",earthquake,0,1.16684171,0.2,15,automatic,tx,tx
 2023-11-09T10:12:56.695Z,-6.3633,129.501,10,4.6,mb,37,92,4.382,0.91,us,us7000l9tb,2023-11-09T11:39:36.040Z,"Banda Sea",earthquake,5.5,1.766,0.111,24,reviewed,us,us
