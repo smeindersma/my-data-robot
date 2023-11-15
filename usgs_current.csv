@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-15T07:44:53.035Z,61.6382,-149.7828,32.9,1.9,ml,,,,0.31,ak,ak023enovad3,2023-11-15T07:46:10.981Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-15T07:34:33.060Z,38.7883339,-122.7623367,0.69,0.77,md,8,95,0.01244,0.01,nc,nc73963096,2023-11-15T07:44:10.076Z,"1 km NNW of The Geysers, CA",earthquake,0.37,1.11,0.06,7,automatic,nc,nc
 2023-11-15T07:19:44.540Z,18.9721660614014,-155.45166015625,34.7599983215332,1.87,md,37,236,,0.119999997,hv,hv73648502,2023-11-15T07:22:58.830Z,"17 km SE of Naalehu, Hawaii",earthquake,0.71,0.889999986,0.879999995,5,automatic,hv,hv
 2023-11-15T07:08:13.420Z,36.4596672,-121.0231705,7.93,1.27,md,10,204,0.0284,0.02,nc,nc73963091,2023-11-15T07:19:09.930Z,"13 km SE of Pinnacles, CA",earthquake,0.55,0.56,0.23,8,automatic,nc,nc
@@ -232,7 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T07:59:27.630Z,19.5513,-66.144,42,3.66,md,12,282,1.1413,0.25,pr,pr2023318000,2023-11-15T07:35:00.040Z,"120 km N of San Juan, Puerto Rico",earthquake,1.81,10.63,0.03,5,reviewed,pr,pr
 2023-11-14T07:55:07.010Z,32.2508333,-115.3216667,0.1,2.36,ml,29,70,0.1198,0.21,ci,ci39712922,2023-11-14T15:57:12.892Z,"14 km W of Alberto Oviedo Mota, B.C., MX",earthquake,0.22,0.55,0.144,16,reviewed,ci,ci
 2023-11-14T07:53:52.980Z,38.8308334,-122.7903366,6.85,0.82,md,7,205,0.01596,0.03,nc,nc73962746,2023-11-14T08:03:11.085Z,"6 km W of Cobb, CA",earthquake,1.42,4.15,0.13,8,automatic,nc,nc
-2023-11-14T07:50:52.635Z,11.6,-87.3548,40.094,4.4,mb,31,154,1.213,0.7,us,us6000lna3,2023-11-15T07:41:25.040Z,"near the coast of Nicaragua",earthquake,7.32,8.674,0.081,46,reviewed,us,us
-2023-11-14T07:46:55.085Z,31.728,-104.372,6.9671,1.6,ml(texnet),17,81,0,0.3,tx,tx2023whtw,2023-11-14T21:45:16.073Z,"49 km S of Whites City, New Mexico",earthquake,0.5973600443,0.8882706209,0.1,13,reviewed,tx,tx
-2023-11-14T07:46:45.801Z,62.1734,-150.1065,15.3,1.7,ml,,,,0.21,ak,ak023em1ccqs,2023-11-14T07:48:46.887Z,"13 km W of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-14T07:46:02.312Z,-32.6034,-179.415,77.073,5.4,mww,68,53,3.57,0.95,us,usd00103y7,2023-11-14T09:49:20.952Z,"south of the Kermadec Islands",earthquake,5.66,5.924,0.083,14,reviewed,us,us
