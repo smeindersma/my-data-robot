@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-16T07:32:46.760Z,37.4363327,-121.7863312,5.83,1.4,md,9,115,0.0179,0.02,nc,nc73963401,2023-11-16T07:34:24.494Z,"9 km NNE of Alum Rock, CA",earthquake,0.54,0.47,0.06,6,automatic,nc,nc
+2023-11-16T07:32:46.760Z,37.4363327,-121.7863312,5.83,1.4,md,9,115,0.0179,0.02,nc,nc73963401,2023-11-16T07:44:10.224Z,"9 km NNE of Alum Rock, CA",earthquake,0.54,0.47,0.06,6,automatic,nc,nc
 2023-11-16T07:13:50.940Z,33.8828333,-116.919,-0.88,0.75,ml,15,311,0.2174,0.38,ci,ci39713626,2023-11-16T07:20:23.010Z,"6 km SW of Banning, CA",earthquake,11.67,16.22,0.195,8,automatic,ci,ci
 2023-11-16T07:10:24.420Z,32.5858333,-115.665,10.23,1.52,ml,31,50,0.08181,0.26,ci,ci39713618,2023-11-16T07:17:05.339Z,"8 km W of Progreso, B.C., MX",earthquake,0.32,0.56,0.18,16,automatic,ci,ci
 2023-11-16T06:54:44.273Z,36.5033,71.1359,239.519,4.2,mb,36,75,2.598,0.68,us,us6000lnrx,2023-11-16T07:15:20.040Z,"40 km WSW of Ashkāsham, Afghanistan",earthquake,8,8.776,0.141,14,reviewed,us,us
