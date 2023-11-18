@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-18T13:29:41.960Z,38.8185005,-122.7616653,1.83,1.15,md,8,121,0.01358,0.03,nc,nc73964186,2023-11-18T13:31:18.796Z,"3 km W of Cobb, CA",earthquake,0.5,0.9,0.13,8,automatic,nc,nc
+2023-11-18T13:29:41.960Z,38.8185005,-122.7616653,1.83,1.15,md,8,121,0.01358,0.03,nc,nc73964186,2023-11-18T13:38:11.416Z,"3 km W of Cobb, CA",earthquake,0.5,0.9,0.13,8,automatic,nc,nc
 2023-11-18T13:23:33.697Z,60.1599,-152.5191,105.2,1.4,ml,,,,0.18,ak,ak023esqxdy1,2023-11-18T13:24:45.740Z,"48 km WNW of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-18T13:18:52.930Z,19.2894992828369,-155.382171630859,1.66999995708466,2.23,ml,43,117,,0.219999999,hv,hv73651532,2023-11-18T13:24:23.530Z,"13 km NE of Pāhala, Hawaii",earthquake,0.35,0.610000014,0.29,8,automatic,hv,hv
 2023-11-18T13:06:20.349Z,36.6564,-116.3935,6.8,0.8,ml,21,92.43,0.045,0.2264,nn,nn00869037,2023-11-18T13:08:19.024Z,"42 km SE of Beatty, Nevada",earthquake,,0.5,0.29,16,automatic,nn,nn
@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T14:10:14.010Z,19.4221666666667,-155.272333333333,6.55,1.25,md,13,187,,0.11,hv,hv73650582,2023-11-17T22:16:22.510Z,"4 km WSW of Volcano, Hawaii",earthquake,0.54,0.66,0.225934673224588,3,reviewed,hv,hv
 2023-11-17T13:52:07.950Z,40.2496667,-121.3911667,8.81,1.81,md,13,187,0.1496,0.12,nc,nc73963836,2023-11-17T23:58:10.650Z,"15 km WSW of Chester, CA",earthquake,0.6,1.39,0.178,16,reviewed,nc,nc
 2023-11-17T13:49:22.135Z,36.6516,-116.2716,6,-0.4,ml,5,199.44,0.054,0.0392,nn,nn00869026,2023-11-17T15:53:44.382Z,"52 km ESE of Beatty, Nevada",earthquake,,3.9,0.2,2,reviewed,nn,nn
-2023-11-17T13:46:25.990Z,58.1705,-155.380166666667,2.56,0.31,ml,10,74,,0.08,av,av92121521,2023-11-17T21:56:10.790Z,"86 km NW of Karluk, Alaska",earthquake,0.21,0.32,0.165624986516486,10,reviewed,av,av
