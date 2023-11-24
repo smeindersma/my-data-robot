@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-24T11:00:31.090Z,20.1844,145.3878,10,5,mb,61,119,4.931,0.87,us,us6000lqg4,2023-11-24T11:26:18.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,12.02,1.883,0.043,174,reviewed,us,us
+2023-11-24T10:57:21.080Z,17.9465,-66.9255,16.32,,,7,210,0.05238,0.15,pr,pr71432023,2023-11-24T11:28:53.450Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.97,0.83,,,reviewed,pr,pr
 2023-11-24T10:56:48.170Z,17.9856666666667,-66.9285,9.58,1.87,md,5,183,0.1113,0.07,pr,pr71432008,2023-11-24T11:16:19.860Z,"1 km W of Fuig, Puerto Rico",earthquake,0.74,1.19,0.325509467077854,4,reviewed,pr,pr
 2023-11-24T10:50:57.580Z,38.769165,-122.7259979,0.73,1,md,8,111,0.007613,0.04,nc,nc73966746,2023-11-24T11:14:14.014Z,"3 km ESE of The Geysers, CA",earthquake,0.37,0.65,0.12,8,automatic,nc,nc
 2023-11-24T10:41:17.031Z,20.1012,145.5536,10,5.1,mb,59,79,4.839,0.95,us,us6000lqg3,2023-11-24T11:15:21.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,4.75,1.874,0.045,159,reviewed,us,us
