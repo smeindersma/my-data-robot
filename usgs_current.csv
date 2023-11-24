@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-24T14:38:14.900Z,35.2485008,-118.6228333,8.06,1.35,ml,17,75,0.05671,0.12,ci,ci39717402,2023-11-24T14:40:24.142Z,"19 km ENE of Arvin, CA",earthquake,0.37,1.06,0.065,3,automatic,ci,ci
+2023-11-24T14:23:16.943Z,6.1843,-82.4716,10,4.5,mb,21,172,2.602,1.05,us,us6000lqi1,2023-11-24T14:38:13.040Z,"209 km SSE of Burica, Panama",earthquake,3.28,1.95,0.135,16,reviewed,us,us
 2023-11-24T14:11:26.508Z,20.1501,145.2685,10,4.8,mb,19,143,4.908,1.1,us,us6000lqhz,2023-11-24T14:30:31.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,14.78,1.938,0.092,37,reviewed,us,us
 2023-11-24T14:06:10.193Z,58.2771,-155.0288,0,1,ml,,,,0.29,ak,ak023f2on7iz,2023-11-24T14:07:43.610Z,"Alaska Peninsula",earthquake,,1.6,,,automatic,ak,ak
 2023-11-24T14:05:36.667Z,19.9824,145.3733,10,5.1,mb,32,126,4.732,1.1,us,us6000lqhw,2023-11-24T14:21:56.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,12.95,1.916,0.066,75,reviewed,us,us
@@ -27,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T12:09:17.410Z,19.2866668701172,-155.389663696289,2.28999996185303,1.80999994,md,20,169,,0.189999998,hv,hv73659787,2023-11-24T12:12:25.630Z,"13 km NE of Pāhala, Hawaii",earthquake,0.52,0.939999998,0.899999976,3,automatic,hv,hv
 2023-11-24T12:07:41.592Z,42.0838,-125.4036,10,2.8,ml,32,259,1.167,0.6,us,us6000lqgk,2023-11-24T13:56:02.721Z,"off the coast of Oregon",earthquake,6.39,2.018,0.04,84,reviewed,us,us
 2023-11-24T12:05:36.540Z,33.7496667,-115.9368333,1.82,1.27,ml,50,68,0.09011,0.18,ci,ci39717338,2023-11-24T12:31:29.774Z,"22 km ENE of Thermal, CA",earthquake,0.17,0.35,0.168,25,automatic,ci,ci
-2023-11-24T12:05:23.790Z,36.5491676,-121.1431656,5.79,2.3,md,40,107,0.04077,0.14,nc,nc73966761,2023-11-24T14:32:10.136Z,"2 km N of Pinnacles, CA",earthquake,0.28,0.73,0.19,42,automatic,nc,nc
+2023-11-24T12:05:23.790Z,36.5491676,-121.1431656,5.79,2.3,md,40,107,0.04077,0.14,nc,nc73966761,2023-11-24T14:42:13.199Z,"2 km N of Pinnacles, CA",earthquake,0.28,0.73,0.19,42,automatic,nc,nc
 2023-11-24T11:58:47.906Z,6.1771,-82.4351,10,4.8,mb,63,144,2.612,0.6,us,us6000lqgf,2023-11-24T12:38:10.040Z,"south of Panama",earthquake,8.44,1.904,0.048,133,reviewed,us,us
 2023-11-24T11:53:06.061Z,6.1211,-82.5383,10,4.9,mb,80,148,2.66,0.86,us,us6000lqge,2023-11-24T12:11:20.040Z,"south of Panama",earthquake,7.81,1.902,0.04,195,reviewed,us,us
 2023-11-24T11:40:56.360Z,19.2865009307861,-155.388336181641,1.89999997615814,1.94,ml,31,118,,0.140000001,hv,hv73659757,2023-11-24T11:46:29.080Z,"13 km NE of Pāhala, Hawaii",earthquake,0.38,0.660000026,0.29,4,automatic,hv,hv
@@ -204,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-23T15:07:33.260Z,38.7871666,-122.7486649,-0.19,0.74,md,7,145,0.01012,0.04,nc,nc73966376,2023-11-23T16:59:18.356Z,"1 km NNE of The Geysers, CA",earthquake,0.53,1.9,0.02,5,automatic,nc,nc
 2023-11-23T14:46:09.198Z,38.065,38.5661,10,5.3,mww,57,51,0.655,0.79,us,us6000lq9s,2023-11-24T07:46:34.077Z,"5 km NW of Sincik, Turkey",earthquake,2.31,1.882,0.057,30,reviewed,us,us
 2023-11-23T14:44:14.990Z,35.5718333,-117.6396667,7.32,0.94,ml,22,83,0.05631,0.13,ci,ci39717066,2023-11-23T15:58:45.877Z,"6 km SSE of Ridgecrest, CA",earthquake,0.19,0.44,0.131,8,reviewed,ci,ci
-2023-11-23T14:43:24.194Z,60.9192,-151.0159,43.1,1.4,ml,,,,0.4,ak,ak023f11btlv,2023-11-23T14:44:52.590Z,"Kenai Peninsula, Alaska",earthquake,,4.3,,,automatic,ak,ak
-2023-11-23T14:37:21.260Z,18.0478333333333,-67.1093333333333,20.69,2.28,md,12,109,0.04702,0.11,pr,pr71431908,2023-11-23T15:07:23.990Z,"3 km WNW of Palmarejo, Puerto Rico",earthquake,0.6,0.72,0.111207801357394,8,reviewed,pr,pr
