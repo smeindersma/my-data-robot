@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-23T20:57:17.842Z,62.2528,-149.7632,11.6,1.8,ml,,,,0.73,ak,ak023f14zers,2023-11-23T20:59:15.913Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-23T20:50:28.870Z,38.8231659,-122.856163,2.34,0.76,md,11,98,0.004408,0.02,nc,nc73966476,2023-11-23T21:50:13.043Z,"10 km WNW of The Geysers, CA",earthquake,0.42,0.61,0.31,11,automatic,nc,nc
 2023-11-23T20:45:51.900Z,38.838501,-122.8079987,2.21,0.71,md,8,85,0.01379,0.01,nc,nc73966466,2023-11-23T21:27:16.914Z,"8 km WNW of Cobb, CA",earthquake,0.51,1.86,0.12,10,automatic,nc,nc
-2023-11-23T20:36:35.907Z,31.608,-103.985,6.0096,1.8,ml(texnet),16,43,0,0.2,tx,tx2023wzeu,2023-11-23T21:19:18.943Z,"western Texas",earthquake,0,2.150897916,0.2,12,automatic,tx,tx
