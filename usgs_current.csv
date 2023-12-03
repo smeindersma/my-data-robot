@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-03T22:42:28.850Z,38.7895012,-122.8088303,4.23,0.61,md,13,155,0.004652,0.03,nc,nc73971401,2023-12-03T22:44:05.036Z,"5 km WNW of The Geysers, CA",earthquake,0.52,1.38,0.18,13,automatic,nc,nc
 2023-12-03T22:37:25.927Z,60.2092,-153.5313,167.7,2.4,ml,,,,0.78,ak,ak023fhpfh80,2023-12-03T22:39:37.607Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-03T22:26:52.530Z,38.7976685,-122.7511673,2.47,0.74,md,9,95,0.0073,0.02,nc,nc73971396,2023-12-03T22:36:10.940Z,"2 km NNE of The Geysers, CA",earthquake,0.41,1.08,0.11,10,automatic,nc,nc
 2023-12-03T22:23:16.388Z,19.2249,145.544,171.103,4.8,mb,61,118,3.976,0.78,us,us7000lfzy,2023-12-03T22:35:58.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,10.13,6.382,0.08,48,reviewed,us,us
+2023-12-03T22:20:31.570Z,8.61,126.9187,50.494,4.9,mb,72,119,2.026,0.73,us,us7000lfzx,2023-12-03T22:46:01.040Z,"69 km ENE of Hinatuan, Philippines",earthquake,8.43,6.831,0.06,86,reviewed,us,us
 2023-12-03T22:15:20.610Z,38.8153343,-122.8184967,2.6,0.83,md,13,97,0.0104,0.02,nc,nc73971391,2023-12-03T22:30:10.888Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.82,0.11,14,automatic,nc,nc
 2023-12-03T22:13:23.190Z,38.8170013,-122.8063354,3.11,1.24,md,29,40,0.007021,0.02,nc,nc73971386,2023-12-03T22:26:10.981Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.41,0.18,30,automatic,nc,nc
 2023-12-03T22:10:39.020Z,38.8208351,-122.8033371,2.65,0.76,md,9,85,0.00585,0.01,nc,nc73971381,2023-12-03T22:22:10.836Z,"6 km NW of The Geysers, CA",earthquake,0.44,1.46,0.26,10,automatic,nc,nc
@@ -193,7 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T05:43:03.376Z,63.2725,-151.0792,5.7,1.4,ml,,,,0.68,ak,ak023fhfccht,2023-12-03T05:45:20.549Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-03T05:41:01.900Z,19.3910007476807,-155.251998901367,0.759999990463257,2.64,ml,35,42,,0.319999993,hv,hv73671482,2023-12-03T05:46:33.210Z,"6 km SSW of Volcano, Hawaii",earthquake,0.28,0.209999993,0.31,18,automatic,hv,hv
 2023-12-03T05:38:11.611Z,8.5118,126.8067,54.092,4.7,mb,50,118,1.88,0.53,us,us7000lfrk,2023-12-03T06:47:36.040Z,"Mindanao, Philippines",earthquake,10.22,6.874,0.081,47,reviewed,us,us
-2023-12-03T05:34:11.710Z,37.6121667,-122.3766667,12.13,1.04,md,25,43,0.04561,0.05,nc,nc73971041,2023-12-03T21:48:10.639Z,"2 km NNE of Millbrae, CA",earthquake,0.26,0.36,0.194,17,reviewed,nc,nc
+2023-12-03T05:34:11.710Z,37.6121667,-122.3766667,12.13,1.04,md,25,43,0.04561,0.05,nc,nc73971041,2023-12-03T22:50:13.032Z,"2 km NNE of Millbrae, CA",earthquake,0.26,0.36,0.194,17,reviewed,nc,nc
 2023-12-03T05:27:55.738Z,8.6586,127.0039,54.013,5,mb,62,114,2.118,0.5,us,us7000lfri,2023-12-03T05:45:39.040Z,"Philippine Islands region",earthquake,8.22,7.03,0.072,62,reviewed,us,us
 2023-12-03T05:27:52.080Z,32.7401667,-115.8763333,3.58,1.22,ml,31,47,0.1002,0.24,ci,ci39721962,2023-12-03T05:34:01.646Z,"11 km E of Ocotillo, CA",earthquake,0.24,0.59,0.228,14,automatic,ci,ci
 2023-12-03T05:19:49.440Z,19.1783332824707,-155.61149597168,10.5,2.31,ml,42,68,,0.25999999,hv,hv73671457,2023-12-03T05:25:20.820Z,"11 km N of Wai‘ōhinu, Hawaii",earthquake,0.51,0.569999993,3.7,16,automatic,hv,hv
@@ -269,4 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T23:16:46.194Z,59.8907,-151.9188,75.8,1.8,ml,,,,0.24,ak,ak023fg2d3uz,2023-12-02T23:18:16.763Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-02T23:13:53.780Z,35.3898333333333,-90.7526666666667,4.03,1.88,md,10,287,0.08145,0.14,nm,nm60561601,2023-12-03T14:23:51.490Z,"Arkansas",earthquake,1.71,0.88,0.135670972691853,9,reviewed,nm,nm
 2023-12-02T22:51:54.476Z,63.2161,-150.557,125.1,1.9,ml,,,,0.21,ak,ak023fg1z6yf,2023-12-03T03:51:50.059Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-12-02T22:45:21.071Z,8.4974,126.8487,68.682,5,mb,65,93,1.896,0.61,us,us7000lfnx,2023-12-02T23:30:30.662Z,"58 km ENE of Hinatuan, Philippines",earthquake,9.35,6.932,0.054,107,reviewed,us,us
