@@ -188,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T19:33:49.510Z,35.0511667,-118.3523333,-0.53,1.45,ml,33,38,0.06107,0.18,ci,ci40616424,2023-12-05T19:40:21.159Z,"13 km SE of Tehachapi, CA",earthquake,0.2,0.48,0.129,26,automatic,ci,ci
 2023-12-05T19:15:31.380Z,38.8214989,-122.8528366,2.25,0.76,md,7,129,0.006811,0.01,nc,nc73972226,2023-12-05T19:48:14.363Z,"10 km WNW of The Geysers, CA",earthquake,0.5,1.21,0.18,7,automatic,nc,nc
 2023-12-05T19:10:43.950Z,32.8983333,-116.953,5.34,1.44,ml,47,105,0.06092,0.24,ci,ci40616408,2023-12-05T19:21:16.320Z,"5 km NNW of Lakeside, CA",earthquake,0.28,0.63,0.111,26,automatic,ci,ci
-2023-12-05T18:55:34.882Z,60.5005,-150.8005,35.7,2,ml,,,,0.45,ak,ak023fky8bdc,2023-12-06T01:52:14.867Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-12-05T18:53:37.615Z,-15.303,-173.0775,38.917,4.7,mb,126,68,2.648,0.59,us,us7000lghh,2023-12-05T22:54:11.040Z,"105 km NE of Hihifo, Tonga",earthquake,7.67,6.714,0.051,124,reviewed,us,us
