@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-06T15:04:25.480Z,35.8171667,-116.7958333,0.64,2.47,ml,20,50,0.382,0.2,ci,ci40616856,2023-12-06T15:15:15.990Z,"50 km WSW of Shoshone, CA",earthquake,0.28,1.17,0.131,26,automatic,ci,ci
+2023-12-06T14:52:35.262Z,8.4776,126.7349,20.378,5.4,mb,89,67,1.808,0.79,us,us7000lgnk,2023-12-06T15:15:07.040Z,"45 km ENE of Hinatuan, Philippines",earthquake,8.76,4.241,0.043,183,reviewed,us,us
 2023-12-06T14:46:55.200Z,61.0744,-152.1654,103.9,2.2,ml,,,,0.35,ak,ak023fmjc1kg,2023-12-06T14:48:55.070Z,"55 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-06T14:15:21.800Z,60.6129,-151.981,76.7,2.1,ml,,,,0.75,ak,ak023fmj5bsk,2023-12-06T14:17:28.443Z,"36 km W of Salamatof, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-12-06T13:47:13.099Z,35.11166667,-97.5615,6.52,1.88,ml,90,41,0.05039011174,0.33,ok,ok2023xwkv,2023-12-06T14:00:10.164Z,"Oklahoma",earthquake,,0.5,0.21,38,reviewed,ok,ok
+2023-12-06T13:47:13.099Z,35.11166667,-97.5615,6.52,1.88,ml,90,41,0.05039011174,0.33,ok,ok2023xwkv,2023-12-06T15:13:12.435Z,"Oklahoma",earthquake,,0.5,0.21,38,reviewed,ok,ok
 2023-12-06T13:36:01.530Z,19.2986660003662,-155.385162353516,1.12000000476837,1.71000004,md,21,166,,0.129999995,hv,hv73674622,2023-12-06T13:39:02.520Z,"Hawaii region, Hawaii",earthquake,0.42,0.589999974,0.850000024,3,automatic,hv,hv
 2023-12-06T13:23:05.670Z,17.8818333333333,-66.8466666666667,16.87,2.02,md,14,220,0.09777,0.16,pr,pr71433313,2023-12-06T13:36:22.170Z,"Puerto Rico region",earthquake,0.73,0.58,0.0263226264787773,3,reviewed,pr,pr
 2023-12-06T12:56:23.160Z,37.6098328,-122.3833313,11.86,1.85,md,30,80,0.04012,0.04,nc,nc73972471,2023-12-06T13:15:13.339Z,"1 km NNE of Millbrae, CA",earthquake,0.19,0.37,0.16,23,automatic,nc,nc
@@ -23,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T10:10:10.427Z,61.1624,-152.1015,103.8,2.6,ml,,,,0.68,ak,ak023fmgqhwk,2023-12-06T10:13:59.349Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-06T09:28:04.833Z,12.4981,47.3467,10,4.5,mb,38,104,4.506,0.67,us,us7000lgma,2023-12-06T11:17:01.040Z,"Gulf of Aden",earthquake,9.46,1.894,0.101,29,reviewed,us,us
 2023-12-06T09:26:14.320Z,35.6473333,-121.0663333,6.3,1.47,md,31,120,0.07921,0.06,nc,nc73972446,2023-12-06T14:06:12.829Z,"9 km N of Cambria, CA",earthquake,0.29,0.77,0.22,24,reviewed,nc,nc
+2023-12-06T09:15:24.390Z,35.0855,-97.55883333,8,0.61,ml,8,129,0.03329346669,0.27,ok,ok2023xwbw,2023-12-06T15:16:24.759Z,"2 km SE of Cole, Oklahoma",earthquake,,1.7,0.25,5,reviewed,ok,ok
 2023-12-06T08:59:20.200Z,35.3373333,-120.63,5.54,0.85,md,19,77,0.04208,0.1,nc,nc73972441,2023-12-06T10:42:10.503Z,"6 km SSW of Santa Margarita, CA",earthquake,0.21,0.33,0.323,9,reviewed,nc,nc
 2023-12-06T08:57:35.722Z,62.0432,-149.7962,34.4,2.2,ml,,,,0.29,ak,ak023fmftrb8,2023-12-06T08:59:08.287Z,"13 km SSE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-06T08:54:59.115Z,64.7426,-149.2184,7.7,1.6,ml,,,,0.4,ak,ak023fmft5yv,2023-12-06T08:56:20.826Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -66,6 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T03:16:06.709Z,31.631,-104.135,3.8954,1.8,ml,19,64,0.1,0.4,tx,tx2023xvqa,2023-12-06T03:45:54.649Z,"western Texas",earthquake,0,1.264488746,0.2,14,automatic,tx,tx
 2023-12-06T03:08:31.800Z,32.7673333,-115.8375,2.16,1.31,ml,30,57,0.1238,0.21,ci,ci40616736,2023-12-06T03:14:49.798Z,"15 km ENE of Ocotillo, CA",earthquake,0.2,0.36,0.148,17,automatic,ci,ci
 2023-12-06T03:07:56.427Z,58.5437,-154.4871,0,3.7,ml,,,,0.54,ak,ak023fmcjwt3,2023-12-06T03:15:45.497Z,"101 km S of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-12-06T03:06:49.969Z,35.105,-97.5725,7.41,1.04,ml,41,49,0.05308958201,0.44,ok,ok2023xvps,2023-12-06T15:05:21.819Z,"0 km N of Cole, Oklahoma",earthquake,,0.8,0.21,16,reviewed,ok,ok
 2023-12-06T03:01:16.875Z,31.676,-104.196,4.7948,1.7,ml,25,61,0.1,0.2,tx,tx2023xvpn,2023-12-06T13:42:10.126Z,"55 km NW of Toyah, Texas",earthquake,0.8888447827,1.531067944,0,7,reviewed,tx,tx
 2023-12-06T02:53:19.062Z,31.667,-104.207,6.3629,1.9,ml,20,62,0,0.2,tx,tx2023xvpi,2023-12-06T14:01:05.241Z,"55 km NW of Toyah, Texas",earthquake,0.8878046651,1.581949643,0,6,reviewed,tx,tx
 2023-12-06T02:48:01.270Z,35.9598333,-117.9208333,8.13,2.25,ml,34,43,0.0538,0.12,ci,ci40616728,2023-12-06T09:16:09.587Z,"3 km NNW of Little Lake, CA",earthquake,0.13,0.33,0.211,25,automatic,ci,ci
@@ -186,7 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T15:44:59.239Z,64.4279,-146.1957,22,2,ml,,,,1.43,ak,ak023fkwdt2t,2023-12-05T15:47:38.377Z,"20 km ENE of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-05T15:38:21.280Z,36.9666667,-121.6055,4.62,0.71,md,17,62,0.02195,0.09,nc,nc73972141,2023-12-05T22:00:12.163Z,"6 km SW of Gilroy, CA",earthquake,0.26,0.38,0.256,12,reviewed,nc,nc
 2023-12-05T15:22:26.320Z,38.8366661,-122.8030014,2.29,1.14,md,21,81,0.01004,0.02,nc,nc73972136,2023-12-05T16:54:13.269Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.46,0.11,24,automatic,nc,nc
-2023-12-05T15:16:23.581Z,60.7025,-151.5207,79.7,1.7,ml,,,,0.24,ak,ak023fkw7mra,2023-12-05T15:18:17.963Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-12-05T15:08:05.480Z,38.7806664,-122.7555008,1.33,1.12,md,12,99,0.0149,0.02,nc,nc73972131,2023-12-05T16:23:18.069Z,"0 km NNE of The Geysers, CA",earthquake,0.28,0.54,0.14,10,automatic,nc,nc
-2023-12-05T15:02:32.333Z,59.8909,-152.5276,80.2,2,ml,,,,0.11,ak,ak023fkw4nep,2023-12-05T15:52:35.040Z,"41 km WNW of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-12-05T15:01:04.315Z,31.675,-104.38,4.2594,1.7,ml,14,69,0,0.1,tx,tx2023xurs,2023-12-05T15:25:24.982Z,"55 km S of Whites City, New Mexico",earthquake,0,1.353895566,0.1,12,automatic,tx,tx
