@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-08T11:23:24.910Z,38.8354988,-122.8071671,2.27,0.22,md,7,88,0.0123,0.01,nc,nc73973191,2023-12-08T11:25:01.940Z,"7 km WNW of Cobb, CA",earthquake,0.52,2.44,0.1,8,automatic,nc,nc
+2023-12-08T11:23:14.750Z,38.8366661,-122.8056641,1.68,0.27,md,9,109,0.01209,0.02,nc,nc73973186,2023-12-08T11:24:52.035Z,"7 km WNW of Cobb, CA",earthquake,0.39,1.17,0.16,11,automatic,nc,nc
+2023-12-08T11:22:53.296Z,63.4729,-146.0071,9.4,1.3,ml,,,,0.83,ak,ak023fpshaep,2023-12-08T11:24:37.065Z,"47 km NNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-08T11:13:19.590Z,19.3718338012695,-155.279159545898,1.89999997615814,2.1,ml,29,109,,0.189999998,hv,hv73678162,2023-12-08T11:18:50.770Z,"9 km SSW of Volcano, Hawaii",earthquake,0.27,0.289999992,0.41,9,automatic,hv,hv
 2023-12-08T10:49:09.250Z,38.8231659,-122.8105011,2.57,0.68,md,7,117,0.0004045,0.01,nc,nc73973176,2023-12-08T11:20:14.782Z,"7 km NW of The Geysers, CA",earthquake,0.59,1.19,0.26,8,automatic,nc,nc
 2023-12-08T10:46:58.158Z,63.2697,-148.8683,2.1,1.4,ml,,,,0.5,ak,ak023fps10d3,2023-12-08T10:48:49.411Z,"14 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -234,7 +237,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T15:38:05.751Z,4.1846,127.8335,116.281,4.5,mb,31,83,3.422,0.49,us,us7000lgxv,2023-12-07T18:02:07.040Z,"272 km N of Tobelo, Indonesia",earthquake,9.53,8.907,0.108,29,reviewed,us,us
 2023-12-07T15:23:35.923Z,10.6797,-65.0735,10,4.6,mb,46,64,5.591,0.73,us,us7000lgxw,2023-12-07T21:07:48.401Z,"68 km NW of Lecherías, Venezuela",earthquake,9.28,1.92,0.097,36,reviewed,us,us
 2023-12-07T15:20:40.315Z,31.646,-104.333,4.4392,1.6,ml,19,70,0.1,0.2,tx,tx2023xyjk,2023-12-07T15:44:43.017Z,"western Texas",earthquake,0,1.233561429,0.2,15,automatic,tx,tx
-2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
+2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"109 km ENE of Angoram, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
 2023-12-07T15:08:38.582Z,8.5387,126.7696,52.726,4.9,mb,123,81,1.877,0.88,us,us7000lgxq,2023-12-07T15:56:37.040Z,"51 km ENE of Hinatuan, Philippines",earthquake,8.59,6.574,0.047,147,reviewed,us,us
 2023-12-07T15:07:16.810Z,19.2905,-155.384833333333,2.2,2.3,ml,12,108,,0.09,hv,hv73675837,2023-12-07T17:39:00.790Z,"13 km NE of Pāhala, Hawaii",earthquake,0.3,0.6,0.265732610999115,11,reviewed,hv,hv
 2023-12-07T15:06:58.620Z,19.2875,-155.385833333333,1.61,1.63,ml,10,129,,0.09,hv,hv73675832,2023-12-07T17:47:13.070Z,"13 km NE of Pāhala, Hawaii",earthquake,0.38,0.65,0.00638374230567051,1,reviewed,hv,hv
@@ -272,6 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T11:50:17.661Z,31.674,-104.366,5.566,1.6,ml,19,68,0.1,0.2,tx,tx2023xycm,2023-12-07T18:47:18.110Z,"55 km S of Whites City, New Mexico",earthquake,0.9335600974,1.261927852,0.1,7,reviewed,tx,tx
 2023-12-07T11:42:51.910Z,32.7233333,-115.5253333,10.27,1.24,ml,17,115,0.0653,0.19,ci,ci40617144,2023-12-07T18:29:36.949Z,"1 km SSE of Heber, CA",earthquake,0.36,0.64,0.256,8,reviewed,ci,ci
 2023-12-07T11:41:36.736Z,65.8576,-155.9035,0,2.2,ml,,,,0.75,ak,ak023fo51z8p,2023-12-07T11:49:00.815Z,"28 km NE of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-12-07T11:26:05.180Z,31.672,-104.417,7.0056,2.3,ml,43,66,0,0.3,tx,tx2023xybs,2023-12-07T16:43:58.293Z,"55 km S of Whites City, New Mexico",earthquake,0.9858794874,0.7454988089,0.1,44,reviewed,tx,tx
-2023-12-07T11:23:22.820Z,32.707,-100.702,1.6874,1.8,ml,13,50,0,0.2,tx,tx2023xybp,2023-12-07T20:28:00.631Z,"9 km NE of Hermleigh, Texas",earthquake,1.085934094,1.49987021,0.1,6,reviewed,tx,tx
-2023-12-07T11:22:16.550Z,60.0553333333333,-153.0545,2.32,-0.68,ml,4,220,,0.09,av,av92147261,2023-12-08T02:23:00.920Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.72,0.76,0.291344853210498,4,reviewed,av,av
