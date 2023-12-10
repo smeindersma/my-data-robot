@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-10T05:33:08.790Z,33.1588333,-115.6535,1.89,1.87,ml,31,47,0.0355,0.21,ci,ci40618520,2023-12-10T05:39:35.468Z,"14 km WNW of Calipatria, CA",earthquake,0.33,0.65,0.218,27,automatic,ci,ci
+2023-12-10T05:23:43.060Z,19.0416666666667,-66.1275,45.24,3.16,md,12,296,0.7299,0.27,pr,pr71433643,2023-12-10T05:44:11.840Z,"63 km N of San Juan, Puerto Rico",earthquake,2.12,6.41,0.0806459779962503,7,reviewed,pr,pr
 2023-12-10T05:21:22.620Z,19.2779998779297,-155.380004882812,-0.109999999403954,1.88999999,md,17,187,,0.119999997,hv,hv73680287,2023-12-10T05:24:31.640Z,"13 km NE of Pāhala, Hawaii",earthquake,0.59,0.409999996,0.939999998,3,automatic,hv,hv
 2023-12-10T05:16:34.540Z,38.7813339,-122.723999,1.01,0.78,md,6,108,0.01013,0.02,nc,nc73974051,2023-12-10T05:33:14.082Z,"3 km E of The Geysers, CA",earthquake,1.99,4.89,0.32,7,automatic,nc,nc
 2023-12-10T05:15:54.550Z,35.6426667,-117.453,7.49,1.05,ml,23,62,0.03272,0.13,ci,ci40618512,2023-12-10T05:21:55.376Z,"15 km SSW of Searles Valley, CA",earthquake,0.23,0.36,0.112,3,automatic,ci,ci
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T06:03:30.390Z,34.675,-118.4631667,8.72,1,ml,21,83,0.0417,0.14,ci,ci40617848,2023-12-09T06:09:37.669Z,"2 km W of Lake Hughes, CA",earthquake,0.26,0.41,0.15,9,automatic,ci,ci
 2023-12-09T05:55:11.830Z,36.5625,-121.1606667,6.04,1.54,md,34,125,0.02193,0.06,nc,nc73973531,2023-12-09T19:26:11.298Z,"4 km NNW of Pinnacles, CA",earthquake,0.18,0.24,0.191,32,reviewed,nc,nc
 2023-12-09T05:54:13.686Z,-29.7112,-176.5571,10,5,mb,25,163,1.27,0.67,us,us7000lhp0,2023-12-09T06:15:25.040Z,"Kermadec Islands region",earthquake,7.7,1.927,0.126,20,reviewed,us,us
-2023-12-09T05:50:03.270Z,36.5366667,-121.127,3.66,1.1,md,22,104,0.01501,0.11,nc,nc73973526,2023-12-09T19:54:11.454Z,"2 km ENE of Pinnacles, CA",earthquake,0.24,0.4,0.136,18,reviewed,nc,nc
