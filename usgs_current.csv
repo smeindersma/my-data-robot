@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-21T15:31:44.709Z,61.0854,-147.3394,34.2,1.9,ml,,,,0.83,ak,ak023gbcwg12,2023-12-21T15:33:03.349Z,"43 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-12-21T15:29:36.450Z,38.7859993,-122.7723312,1.26,1.45,md,22,83,0.01413,0.03,nc,nc73979021,2023-12-21T15:31:12.602Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.48,0.15,22,automatic,nc,nc
+2023-12-21T15:29:36.450Z,38.7859993,-122.7723312,1.26,1.45,md,22,83,0.01413,0.03,nc,nc73979021,2023-12-21T15:42:10.372Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.48,0.15,22,automatic,nc,nc
 2023-12-21T15:12:32.430Z,38.5553322,-119.5175018,5.31,2.14,md,6,113,0.03061,0.04,nc,nc73979011,2023-12-21T15:30:11.185Z,"6 km NW of Walker, CA",earthquake,0.47,0.75,0.44,2,automatic,nc,nc
-2023-12-21T14:55:58.991Z,51.3344,-175.3583,33.229,6.3,mww,90,88,0.742,0.91,us,usd0010b4f,2023-12-21T15:24:07.451Z,"106 km SE of Adak, Alaska",earthquake,4.74,4.188,0.047,44,reviewed,us,us
+2023-12-21T14:55:58.991Z,51.3344,-175.3583,33.229,6.3,mww,90,88,0.742,0.91,us,usd0010b4f,2023-12-21T15:36:06.322Z,"106 km SE of Adak, Alaska",earthquake,4.74,4.188,0.047,44,reviewed,us,us
 2023-12-21T14:53:50.240Z,38.8424988,-122.840332,1.73,0.72,md,15,91,0.01798,0.02,nc,nc73978991,2023-12-21T15:30:12.196Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.45,0.44,15,automatic,nc,nc
 2023-12-21T14:41:31.064Z,61.3224,-150.0812,35.8,1.9,ml,,,,0.42,ak,ak023gbcd4j6,2023-12-21T14:43:12.892Z,"6 km SW of Point MacKenzie, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-12-21T14:37:35.810Z,38.8346672,-122.8066635,2.25,0.44,md,8,66,0.01157,0.01,nc,nc73978971,2023-12-21T15:19:12.122Z,"7 km W of Cobb, CA",earthquake,0.42,2.12,0.29,10,automatic,nc,nc
@@ -79,6 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-21T05:13:18.160Z,18.034,-66.7961666666667,18.29,2.1,md,11,75,0.01461,0.17,pr,pr71434628,2023-12-21T05:20:12.620Z,"1 km NNW of Guayanilla, Puerto Rico",earthquake,0.51,0.88,0.23045291618419,6,reviewed,pr,pr
 2023-12-21T04:58:25.820Z,38.8411674,-122.8115005,1.66,0.66,md,10,86,0.01634,0.04,nc,nc73978836,2023-12-21T05:58:10.712Z,"8 km WNW of Cobb, CA",earthquake,0.41,0.79,0.06,10,automatic,nc,nc
 2023-12-21T04:55:56.330Z,38.8358345,-122.80233,1.71,1.12,md,19,62,0.009707,0.03,nc,nc73978831,2023-12-21T05:32:10.566Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.4,0.1,19,automatic,nc,nc
+2023-12-21T04:51:18.192Z,59.7852,-153.5665,123.7,1.7,ml,,,,0.51,ak,ak023gb6gxwo,2023-12-21T15:43:06.967Z,"30 km E of Pedro Bay, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2023-12-21T04:37:17.354Z,63.606,-149.8172,114.3,1.7,ml,,,,0.47,ak,ak023gb6dwk7,2023-12-21T04:39:53.261Z,"46 km WSW of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-21T04:34:43.635Z,31.653,-104.329,3.7158,1.9,ml,17,69,0.1,0.3,tx,tx2023yxdd,2023-12-21T05:07:41.506Z,"58 km S of Whites City, New Mexico",earthquake,0,1.526472306,0.2,13,automatic,tx,tx
 2023-12-21T04:30:46.370Z,39.7480011,-122.0861664,29.16,2.7,ml,21,75,0.1443,0.16,nc,nc73978826,2023-12-21T05:06:10.410Z,"6 km W of Hamilton City, CA",earthquake,0.49,0.87,0.116,4,automatic,nc,nc
