@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-04T05:53:01.870Z,38.6446648,-122.7106705,5.31,1.7,md,24,78,0.06419,0.08,nc,nc73984966,2024-01-04T05:54:36.860Z,"14 km WNW of Calistoga, CA",earthquake,0.35,0.75,0.11,20,automatic,nc,nc
 2024-01-04T05:33:19.280Z,35.7761667,-117.6203333,8.67,1.24,ml,28,63,0.1219,0.19,ci,ci40454959,2024-01-04T05:39:29.454Z,"18 km NNE of Ridgecrest, CA",earthquake,0.29,0.8,0.152,11,automatic,ci,ci
 2024-01-04T05:31:15.950Z,19.2086658477783,-155.255828857422,43.5,2.24000001,md,39,198,,0.150000006,hv,hv73709497,2024-01-04T05:34:40.060Z,"23 km E of Pāhala, Hawaii",earthquake,0.64,0.730000019,1.98000002,14,automatic,hv,hv
 2024-01-04T05:31:11.635Z,60.6163,-147.426,14.2,2.1,ml,,,,0.77,ak,ak0246pb83f,2024-01-04T05:33:11.766Z,"49 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -111,6 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-03T14:53:35.860Z,44.6663333333333,-114.373,8.82,1.74,ml,11,84,0.5528,0.13,mb,mb90037918,2024-01-03T19:10:58.120Z,"21 km NNW of Challis, Idaho",earthquake,0.35,0.79,0.30346464026257,14,reviewed,mb,mb
 2024-01-03T14:42:15.820Z,33.2151667,-115.5626667,2.81,2.53,ml,39,93,0.05819,0.16,ci,ci40454551,2024-01-03T20:45:20.687Z,"5 km SW of Niland, CA",earthquake,0.18,0.24,0.167,26,reviewed,ci,ci
 2024-01-03T14:40:30.210Z,33.2196667,-115.56,2.2,2.31,ml,34,94,0.0611,0.17,ci,ci40454543,2024-01-03T20:58:20.365Z,"4 km WSW of Niland, CA",earthquake,0.25,0.35,0.141,25,reviewed,ci,ci
+2024-01-03T14:40:30.020Z,47.566833333333335,-122.297,16.39,1.87,ml,17,80,0.008307,0.72,uw,uw61978781,2024-01-04T05:46:57.790Z,"5 km SSE of Seattle, Washington",earthquake,2.54,1.25,0.16663625520280223,10,reviewed,uw,uw
 2024-01-03T14:40:12.600Z,33.2178333,-115.5625,3.05,1.96,ml,29,116,0.06005,0.18,ci,ci40454535,2024-01-03T21:18:48.486Z,"5 km WSW of Niland, CA",earthquake,0.25,0.23,0.185,25,reviewed,ci,ci
 2024-01-03T14:37:39.980Z,33.5596667,-116.671,10.2,0.92,ml,38,51,0.03448,0.11,ci,ci40454527,2024-01-03T23:09:49.792Z,"1 km NNE of Anza, CA",earthquake,0.12,0.25,0.136,19,reviewed,ci,ci
 2024-01-03T14:26:56.440Z,38.8173332,-122.7638321,1.76,0.77,md,12,111,0.01378,0.02,nc,nc73984781,2024-01-03T16:48:10.762Z,"4 km W of Cobb, CA",earthquake,0.32,0.68,0.18,12,automatic,nc,nc
