@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-02T02:07:31.238Z,64.4887,-146.9225,0.2,1.4,ml,,,,0.47,ak,ak0242ukjy8z,2024-03-02T02:09:14.297Z,"4 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-02T02:06:09.430Z,34.3816681,-116.958168,4.7,1.44,ml,21,90,0.1132,0.29,ci,ci40679936,2024-03-02T02:08:22.138Z,"7 km S of Lucerne Valley, CA",earthquake,0.71,1.98,0.039,4,automatic,ci,ci
+2024-03-02T02:06:10.160Z,34.3443333,-116.8901667,-0.72,1.36,ml,33,140,0.08566,0.18,ci,ci40679936,2024-03-02T02:12:32.218Z,"10 km NNW of Big Bear City, CA",earthquake,0.28,0.46,0.168,29,automatic,ci,ci
 2024-03-02T01:43:24.190Z,34.3433333,-116.8875,-1.15,1.33,ml,41,40,0.08539,0.19,ci,ci40679920,2024-03-02T01:49:57.840Z,"10 km NNW of Big Bear City, CA",earthquake,0.19,0.42,0.201,28,automatic,ci,ci
 2024-03-02T01:19:13.160Z,19.1725006103516,-155.484664916992,33.7000007629395,2.20000005,md,36,88,0.02727,0.150000006,hv,hv74125931,2024-03-02T01:21:10.390Z,"3 km S of Pāhala, Hawaii",earthquake,0.75,0.699999988,0.200000003,13,automatic,hv,hv
 2024-03-02T00:49:22.364Z,-7.0078,129.5103,156.256,4.5,mb,27,87,2.5,0.28,us,us6000mg8l,2024-03-02T01:40:23.040Z,"Kepulauan Babar, Indonesia",earthquake,9.55,8.374,0.116,22,reviewed,us,us
