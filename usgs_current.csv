@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T15:22:13.950Z,33.518,-116.7323333,2.42,0.31,ml,20,54,0.04746,0.12,ci,ci40682952,2024-03-07T18:34:21.534Z,"7 km SW of Anza, CA",earthquake,0.17,0.21,0.093,9,reviewed,ci,ci
 2024-03-07T15:12:02.870Z,38.8113327,-122.8310013,0.98,0.75,md,11,82,0.00944,0.08,nc,nc74013201,2024-03-07T15:13:38.738Z,"8 km WNW of The Geysers, CA",earthquake,0.3,0.89,0.24,12,automatic,nc,nc
 2024-03-07T15:10:07.480Z,37.9165,-122.6748333,5.31,0.87,md,7,196,0.03454,0.05,nc,nc74013206,2024-03-07T17:32:50.725Z,"1 km NE of Bolinas, CA",earthquake,0.39,0.7,0.284,7,reviewed,nc,nc
-2024-03-07T15:07:35.960Z,33.9468333,-117.1626667,0.45,1.99,ml,15,165,0.2385,0.29,ci,ci40682936,2024-03-07T18:45:24.603Z,"6 km ENE of Moreno Valley, CA",earthquake,0.71,1.83,0.214,26,automatic,ci,ci
+2024-03-07T15:07:35.960Z,33.9468333,-117.1626667,0.45,1.99,ml,15,165,0.2385,0.29,ci,ci40682936,2024-03-07T19:47:23.995Z,"6 km ENE of Moreno Valley, CA",earthquake,0.71,1.83,0.214,26,automatic,ci,ci
 2024-03-07T15:06:07.760Z,40.922,-111.667,9.6,1.25,md,15,91,0.1241,0.09,uu,uu80062176,2024-03-07T16:12:19.670Z,"12 km S of Morgan, Utah",earthquake,0.25,0.95,0.259027803202087,9,reviewed,uu,uu
 2024-03-07T15:00:52.356Z,40.306,142.1848,57.745,4.4,mb,35,179,0.981,0.63,us,us7000m3w0,2024-03-07T16:18:06.040Z,"37 km ENE of Kuji, Japan",earthquake,7.39,8.321,0.092,34,reviewed,us,us
 2024-03-07T14:50:17.280Z,35.7108333,-117.5215,3.24,1.07,ml,26,64,0.09175,0.15,ci,ci40682920,2024-03-07T19:32:10.491Z,"12 km WSW of Searles Valley, CA",earthquake,0.23,0.71,0.155,9,reviewed,ci,ci
@@ -170,7 +170,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T01:03:01.280Z,33.9428333,-116.7258333,14.84,1.05,ml,44,32,0.1145,0.13,ci,ci40682712,2024-03-07T14:24:50.240Z,"6 km ENE of Cabazon, CA",earthquake,0.15,0.43,0.168,28,reviewed,ci,ci
 2024-03-07T01:02:15.630Z,18.3023,-67.9621,99,3.58,md,12,189,0.4697,0.35,pr,pr2024067000,2024-03-07T01:53:47.040Z,"56 km ESE of Punta Cana, Dominican Republic",earthquake,3.89,1.93,0.07,10,reviewed,pr,pr
 2024-03-07T00:58:24.426Z,45.824,16.0451,5,2.9,ml,26,51,0.822,0.86,us,us7000m3ta,2024-03-07T14:21:00.225Z,"1 km SW of Dubrava, Croatia",earthquake,3.8,2.002,0.052,48,reviewed,us,us
-2024-03-07T00:55:55.547Z,38.6589,-117.0895,6.5,1.4,ml,8,215.44,0.758,0.3576,nn,nn00874295,2024-03-07T00:58:42.309Z,"61 km S of Kingston, Nevada",earthquake,,2.9,0.66,6,automatic,nn,nn
 2024-03-07T00:44:25.990Z,38.7685013,-122.7021637,1.88,1.1,md,10,115,0.002277,0.04,nc,nc74012916,2024-03-07T00:46:00.202Z,"1 km SW of Anderson Springs, CA",earthquake,0.39,0.5,0.16,10,automatic,nc,nc
 2024-03-07T00:41:49.110Z,19.3501663208008,-155.287170410156,24.5499992370605,2.01,ml,45,61,0.01953,0.150000006,hv,hv74130476,2024-03-07T00:44:26.880Z,"11 km SSW of Volcano, Hawaii",earthquake,0.38,0.370000005,0.35,11,automatic,hv,hv
 2024-03-07T00:31:58.520Z,63.994,-148.7809,0,1.5,ml,,,,0.99,ak,ak02432t70o5,2024-03-07T00:33:52.857Z,"16 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -230,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T20:06:30.760Z,59.365,-153.436333333333,-1.11,-0.04,ml,7,147,,0.18,av,av91135568,2024-03-07T00:46:01.490Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.19,0.77,0.440366104104759,7,reviewed,av,av
 2024-03-06T20:04:56.986Z,31.738,-104.113,6.51,2.3,ml,21,53,0,0.2,tx,tx2024eqhl,2024-03-07T16:58:34.771Z,"48 km W of Mentone, Texas",earthquake,0.6835018473191607,1.427244936162236,0.1,7,reviewed,tx,tx
 2024-03-06T20:00:53.290Z,58.2921666666667,-154.991166666667,3.11,-0.06,ml,7,130,,0.11,av,av91135563,2024-03-07T00:42:18.570Z,"86 km NNW of Karluk, Alaska",earthquake,0.35,0.77,0.16899379300447,7,reviewed,av,av
-2024-03-06T19:48:34.600Z,36.6739998,-121.3466644,2.73,1.57,md,10,62,0.0334,0.15,nc,nc74012766,2024-03-06T19:50:08.182Z,"13 km S of Tres Pinos, CA",earthquake,0.54,1.18,0.26,8,automatic,nc,nc
