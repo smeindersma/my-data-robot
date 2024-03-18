@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-18T07:44:21.470Z,38.8391685,-122.8379974,1.63,0.76,md,11,92,0.002044,0.02,nc,nc74019216,2024-03-18T07:45:56.977Z,"10 km NW of The Geysers, CA",earthquake,0.33,0.72,0.18,12,automatic,nc,nc
+2024-03-18T07:43:18.598Z,63.2769,-151.0907,0,1.5,ml,,,,0.79,ak,ak0243l4ccz7,2024-03-18T07:45:18.092Z,"43 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-18T07:29:27.500Z,36.7449,-116.2822,10.9,0.4,ml,19,80.34,0.056,0.0744,nn,nn00874943,2024-03-18T07:31:03.157Z,"46 km ESE of Beatty, Nevada",earthquake,,0.7,0.14,13,automatic,nn,nn
 2024-03-18T07:23:36.673Z,36.7504,-116.2764,8.6,0.2,ml,14,87.06,0.058,0.1286,nn,nn00874942,2024-03-18T07:25:32.315Z,"46 km ESE of Beatty, Nevada",earthquake,,0.8,0.14,9,automatic,nn,nn
 2024-03-18T07:22:04.929Z,36.7574,-116.2724,9.1,-0.1,ml,12,112.61,0.051,0.0313,nn,nn00874941,2024-03-18T07:23:52.462Z,"46 km ESE of Beatty, Nevada",earthquake,,1.2,0.23,7,automatic,nn,nn
