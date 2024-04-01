@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-31T04:00:55.770Z,34.0813333,-116.6963333,1.52,0.91,ml,11,109,0.05863,0.11,ci,ci40702544,2024-03-31T04:07:21.602Z,"11 km WNW of Morongo Valley, CA",earthquake,0.59,0.48,0.202,17,automatic,ci,ci
 2024-03-31T03:53:04.353Z,-6.9211,129.8287,110.387,4.5,mb,24,99,2.384,0.63,us,us7000m90x,2024-03-31T04:15:40.040Z,"Banda Sea",earthquake,10.52,7.664,0.136,18,reviewed,us,us
 2024-03-31T03:46:14.635Z,10.6938,-86.2353,35,4.9,mb,43,175,0.91,1.01,us,us7000m90w,2024-03-31T16:07:27.629Z,"61 km NW of Tamarindo, Costa Rica",earthquake,6.38,1.948,0.034,265,reviewed,us,us
-2024-03-31T03:33:06.340Z,38.8269997,-122.7968369,2.64,0.28,md,10,76,0.01095,0.01,nc,nc74026691,2024-03-31T03:34:39.633Z,"6 km W of Cobb, CA",earthquake,0.44,1.06,0.16,11,automatic,nc,nc
