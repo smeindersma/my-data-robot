@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-24T15:46:13.743Z,60.1727,-152.9787,125.4,1.7,ml,,,,0.31,ak,ak0245ag0av2,2024-04-24T15:48:05.863Z,"73 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-24T15:35:11.250Z,32.0321667,-116.1838333,14.99,2.19,ml,17,67,0.2022,0.21,ci,ci40556983,2024-04-24T15:41:56.412Z,"45 km ENE of Ensenada, B.C., MX",earthquake,0.41,1.09,0.275,28,automatic,ci,ci
 2024-04-24T15:33:44.451Z,61.3165,-150.6484,53.8,1.5,ml,,,,0.23,ak,ak0245afxkx9,2024-04-24T15:35:44.938Z,"26 km SSW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-24T15:26:11.107Z,61.8827,-152.0535,114.7,2.3,ml,,,,0.43,ak,ak0245afw0be,2024-04-24T15:28:08.036Z,"36 km WSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-24T15:24:46.428Z,-11.6807,166.4712,144.837,4.8,mb,82,44,6.79,0.64,us,us6000mth4,2024-04-24T15:44:14.040Z,"128 km SE of Lata, Solomon Islands",earthquake,10.11,6.66,0.055,102,reviewed,us,us
 2024-04-24T15:20:00.250Z,38.8370018,-122.8075027,1.95,0.74,md,7,110,0.01373,0.01,nc,nc74040351,2024-04-24T15:21:38.039Z,"8 km WNW of Cobb, CA",earthquake,0.42,1.69,0.47,8,automatic,nc,nc
+2024-04-24T15:12:56.940Z,19.3835,-155.2405,1.85,1.24,md,10,109,0.009881,0.06,hv,hv74183697,2024-04-24T15:48:58.300Z,"6 km S of Volcano, Hawaii",earthquake,0.27,0.36,0.196474418556012,15,reviewed,hv,hv
 2024-04-24T15:07:55.650Z,38.8358345,-122.8036652,2.46,0.99,md,14,78,0.01072,0.01,nc,nc74040341,2024-04-24T15:09:31.887Z,"7 km WNW of Cobb, CA",earthquake,0.32,1.06,0.23,15,automatic,nc,nc
 2024-04-24T15:07:26.170Z,33.6433334,-117.5361633,24.67,1.53,ml,16,111,0.1267,0.22,ci,ci40556967,2024-04-24T15:14:04.077Z,"5 km ESE of Trabuco Canyon, CA",earthquake,0.84,1.75,0.336,16,automatic,ci,ci
 2024-04-24T15:03:03.985Z,61.2803,-150.5363,34.5,1.4,ml,,,,0.63,ak,ak0245afr2bi,2024-04-24T15:05:39.619Z,"29 km S of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -25,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T13:47:34.070Z,17.9951666666667,-67.0463333333333,15.22,1.44,md,4,108,0.02568,0.07,pr,pr71446373,2024-04-24T14:38:20.200Z,"2 km N of La Parguera, Puerto Rico",earthquake,0.73,0.92,0.0276747329480007,4,reviewed,pr,pr
 2024-04-24T13:35:34.690Z,40.4469986,-124.7646637,21.49,3.34,ml,45,232,0.3272,0.14,nc,nc74040296,2024-04-24T15:34:54.443Z,"43 km WNW of Petrolia, CA",earthquake,1.21,0.76,0.151,9,automatic,nc,nc
 2024-04-24T13:28:45.294Z,58.5865,-155.2373,131.3,2.2,ml,,,,0.33,ak,ak0245aepn5t,2024-04-24T13:30:46.327Z,"83 km E of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-04-24T13:20:48.072Z,60.1756,-152.4027,88.5,1.2,ml,,,,0.55,ak,ak0245aeo5wj,2024-04-24T15:53:04.576Z,"43 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-04-24T13:20:34.890Z,60.8329,-152.9913,200,1.9,ml,,,,1.1,ak,ak0245aenwo1,2024-04-24T13:23:24.943Z,"94 km W of Nikiski, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2024-04-24T13:15:48.960Z,38.8338318,-122.8036652,1.2,0.44,md,7,102,0.01136,0.01,nc,nc74040291,2024-04-24T13:17:25.500Z,"7 km W of Cobb, CA",earthquake,0.51,0.99,0.28,8,automatic,nc,nc
 2024-04-24T13:13:05.955Z,36.776,-116.251,9,-0.3,ml,11,98.06,0.041,0.0495,nn,nn00876790,2024-04-24T14:02:31.563Z,"47 km ESE of Beatty, Nevada",earthquake,,1.5,0.33,8,reviewed,nn,nn
