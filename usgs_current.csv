@@ -260,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T08:14:36.612Z,64.4302,-147.4469,11.6,0.7,ml,,,,0.53,ak,ak0245abngh9,2024-04-24T08:16:28.593Z,"28 km WSW of Salcha, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-24T08:03:58.960Z,37.5196667,-118.7918333,5.8,0.89,md,19,109,0.0587,0.02,nc,nc74040181,2024-04-24T11:05:24.739Z,"11 km WSW of Toms Place, CA",earthquake,0.59,0.41,0.094,14,reviewed,nc,nc
 2024-04-24T08:01:10.657Z,60.2116,-152.2351,74.5,1.2,ml,,,,0.2,ak,ak0245abkm61,2024-04-24T08:02:33.343Z,"36 km WNW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-04-24T07:46:17.760Z,33.9523333,-116.7523333,17.11,0.52,ml,25,82,0.09458,0.15,ci,ci40556791,2024-04-24T07:52:22.503Z,"5 km NE of Cabazon, CA",earthquake,0.24,0.53,0.078,7,automatic,ci,ci
