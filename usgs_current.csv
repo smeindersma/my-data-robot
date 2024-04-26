@@ -260,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T05:57:54.520Z,34.0346667,-116.7456667,11.23,1.5,ml,61,41,0.05158,0.14,ci,ci40557719,2024-04-25T13:52:02.160Z,"14 km NNE of Cabazon, CA",earthquake,0.13,0.41,0.173,27,reviewed,ci,ci
 2024-04-25T05:37:55.348Z,61.2948,-150.5244,45.1,1.1,ml,,,,0.47,ak,ak0245bxjh2c,2024-04-25T05:41:19.109Z,"27 km S of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-04-25T05:35:19.705Z,28.98,-97.985,6.059,2.4,ml,30,95,0,1.1,tx,tx2024icny,2024-04-25T06:11:46.078Z,"3 km E of Falls City, Texas",earthquake,0,1.479900321439,0.1,23,automatic,tx,tx
-2024-04-25T05:25:30.840Z,19.3903331756592,-155.276336669922,1.26999998092651,1.73,ml,18,86,0.005617,0.150000006,hv,hv74184852,2024-04-25T05:28:06.830Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.189999998,0.34,8,automatic,hv,hv
