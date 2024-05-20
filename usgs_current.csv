@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-20T22:16:57.000Z,38.8388328552246,-122.82266998291,1.9099999666214,0.95,md,11,140,0.01581,0.02,nc,nc75009876,2024-05-20T22:18:32.825Z,"9 km WNW of Cobb, CA",earthquake,0.38,0.910000026,0.19,11,automatic,nc,nc
 2024-05-20T21:42:00.856Z,-21.4529,-179.2851,613.106,4.6,mb,55,118,4.461,0.89,us,us6000mzx0,2024-05-20T21:56:40.040Z,"Fiji region",earthquake,13.25,9.226,0.041,179,reviewed,us,us
 2024-05-20T21:27:00.841Z,33.4994,81.7677,10,4.7,mb,67,76,6.435,1.01,us,us6000mzwy,2024-05-20T22:04:04.040Z,"western Xizang",earthquake,8.18,1.862,0.048,134,reviewed,us,us
 2024-05-20T21:22:59.220Z,38.7723350524902,-122.7431640625,1.38999998569489,1.75,md,27,74,0.01199,0.05,nc,nc75009871,2024-05-20T21:26:14.030Z,"1 km SE of The Geysers, CA",earthquake,0.25,0.379999995,0.14,30,automatic,nc,nc
