@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-20T08:41:51.029Z,63.0856,-151.4006,0,1.6,ml,,,,0.58,ak,ak0246hbsari,2024-05-20T08:43:40.378Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-05-20T08:33:19.219Z,62.3498,-149.1387,9.1,1.7,ml,,,,0.35,ak,ak0246hbqikx,2024-05-20T08:35:12.696Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-20T08:13:13.729Z,60.395,-141.2668,5.2,1.7,ml,,,,0.42,ak,ak0246hbm7u4,2024-05-20T08:14:59.125Z,"127 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-20T08:03:23.900Z,19.3988342285156,-155.281997680664,-0.25,1.77,ml,14,55,0.008607,0.129999995,hv,hv74241597,2024-05-20T08:06:00.040Z,"7 km SW of Volcano, Hawaii",earthquake,0.13,0.300000012,0.19,5,automatic,hv,hv
+2024-05-20T07:56:02.080Z,23.9204,122.3737,26.417,4.4,mwr,96,73,0.797,0.78,us,us6000mzs3,2024-05-20T08:44:12.040Z,"78 km E of Hualien City, Taiwan",earthquake,3.34,4.796,0.068,21,reviewed,us,us
 2024-05-20T07:39:15.690Z,38.8186683654785,-122.820999145508,2.30999994277954,1.52,md,27,47,0.009752,0.02,nc,nc75009591,2024-05-20T07:42:36.900Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.340000004,0.11,28,automatic,nc,nc
 2024-05-20T07:38:34.160Z,32.9585,-115.5425,5.89,1.31,ml,22,95,0.0589,0.21,ci,ci40593335,2024-05-20T07:44:44.232Z,"2 km SSW of Brawley, CA",earthquake,0.27,0.57,0.246,3,automatic,ci,ci
 2024-05-20T07:28:23.360Z,32.9315,-115.5303333,5.61,1.37,ml,25,56,0.03937,0.25,ci,ci40593327,2024-05-20T07:34:47.866Z,"5 km S of Brawley, CA",earthquake,0.3,0.55,0.253,26,automatic,ci,ci
