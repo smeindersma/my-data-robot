@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-07-15T23:33:07.950Z,38.8196678161621,-122.809501647949,1.00999999046326,0.76,md,11,73,0.003749,0.02,nc,nc75035362,2024-07-15T23:34:43.307Z,"7 km NNW of The Geysers, CA",earthquake,0.29,0.689999998,0.18,14,automatic,nc,nc
 2024-07-15T23:32:51.690Z,19.4025001525879,-155.264663696289,-0.189999997615814,1.71,ml,11,95,0.004428,0.140000001,hv,hv74336022,2024-07-15T23:35:31.470Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.209999993,0.24,5,automatic,hv,hv
-2024-07-15T23:19:27.977Z,17.5071,122.4234,10.661,4.7,mb,74,106,5.432,0.73,us,us7000mzgh,2024-07-15T23:35:34.040Z,"47 km N of Dicabisagan, Philippines",earthquake,9.59,4.263,0.059,86,reviewed,us,us
+2024-07-15T23:19:27.977Z,17.5071,122.4234,10.661,4.7,mb,74,106,5.432,0.73,us,us7000mzgh,2024-07-15T23:36:39.770Z,"47 km N of Dicabisagan, Philippines",earthquake,9.59,4.263,0.059,86,reviewed,us,us
 2024-07-15T23:05:13.850Z,38.7886657714844,-122.768669128418,1.8400000333786,0.87,md,9,98,0.01384,0.03,nc,nc75035357,2024-07-15T23:06:47.959Z,"2 km NNW of The Geysers, CA",earthquake,0.39,0.839999974,0.15,10,automatic,nc,nc
 2024-07-15T22:55:06.200Z,19.3863334655762,-155.232162475586,-0.419999986886978,1.79,ml,9,249,0.01499,0.230000004,hv,hv74335997,2024-07-15T22:57:45.120Z,"6 km S of Volcano, Hawaii",earthquake,1.51,0.460000008,0.31,4,automatic,hv,hv
 2024-07-15T22:55:05.800Z,19.3941669464111,-155.251327514648,0.990000009536743,1.86,ml,16,70,0.008612,0.159999996,hv,hv74335992,2024-07-15T22:57:42.040Z,"5 km SSW of Volcano, Hawaii",earthquake,0.2,0.280000001,0.33,4,automatic,hv,hv
@@ -53,6 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T17:43:55.590Z,35.491,-118.5273333,3.1,1.67,ml,36,40,0.1768,0.15,ci,ci40660095,2024-07-15T17:53:09.274Z,"11 km SSW of Bodfish, CA",earthquake,0.16,0.61,0.204,27,automatic,ci,ci
 2024-07-15T17:41:55.781Z,63.089,-151.3504,0,1.4,ml,,,,0.42,ak,ak0249238n8f,2024-07-15T17:45:33.200Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-15T17:40:18.477Z,-16.2694,-172.4985,10,5.8,mww,28,94,2.447,0.96,us,us7000mzel,2024-07-15T18:01:07.131Z,"143 km ESE of Hihifo, Tonga",earthquake,6.73,1.745,0.086,13,reviewed,us,us
+2024-07-15T17:30:48.150Z,33.6503333,-116.7128333,15.5,0.76,ml,17,88,0.03746,0.11,ci,ci40660063,2024-07-15T23:43:05.515Z,"10 km S of Idyllwild, CA",earthquake,0.29,0.46,0.135,21,reviewed,ci,ci
 2024-07-15T17:14:18.425Z,-21.097,-68.7592,120.825,4.7,mb,34,69,0.682,0.82,us,us7000mzeg,2024-07-15T19:03:03.543Z,"54 km WNW of Ollagüe, Chile",earthquake,6.62,5.5,0.106,27,reviewed,us,us
 2024-07-15T17:03:58.170Z,19.391,-155.248666666667,1.13,2,ml,19,67,0.006004,0.09,hv,hv74335532,2024-07-15T18:23:49.990Z,"5 km SSW of Volcano, Hawaii",earthquake,0.14,0.15,0.14053208433217,8,reviewed,hv,hv
 2024-07-15T17:01:52.970Z,18.235,-66.4478333333333,36.03,1.96,md,8,102,0.116,0.25,pr,pr71455488,2024-07-15T17:52:29.500Z,"6 km W of Orocovis, Puerto Rico",earthquake,1.03,1.67,0.00953176515459209,3,reviewed,pr,pr
