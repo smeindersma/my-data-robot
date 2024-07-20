@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-20T18:36:01.834Z,37.2552,-116.0023,3.7,0.6,ml,9,272.46999999999997,0.11,0.1622,nn,nn00881207,2024-07-20T18:37:54.212Z,"48 km SSW of Rachel, Nevada",earthquake,,1,0.48,5,automatic,nn,nn
 2024-07-20T18:00:16.452Z,59.4172,-153.4202,119.2,1.7,ml,,,,0.09,ak,ak0249ad9xwt,2024-07-20T18:01:30.603Z,"56 km SE of Pedro Bay, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-07-20T17:58:45.370Z,36.707332611084,-121.216835021973,10.539999961853,2.19,md,41,91,0.034,0.16,nc,nc75037317,2024-07-20T18:27:14.677Z,"13 km SE of Tres Pinos, CA",earthquake,0.3,0.709999979,0.16,39,automatic,nc,nc
 2024-07-20T17:45:57.626Z,61.2287,-147.6272,0,1.7,ml,,,,0.89,ak,ak0249acy8s8,2024-07-20T17:54:59.140Z,"64 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -11,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T16:39:48.210Z,33.6543333,-116.7245,14.96,0.92,ml,44,55,0.04471,0.13,ci,ci40665823,2024-07-20T16:50:30.703Z,"10 km S of Idyllwild, CA",earthquake,0.16,0.25,0.18,27,automatic,ci,ci
 2024-07-20T16:00:48.969Z,39.1281,-120.0373,9.2,0.1,ml,7,89.44,0.105,0.1409,nn,nn00881206,2024-07-20T18:23:06.684Z,"8 km SE of Dollar Point, California",earthquake,,2.9,0.25,4,reviewed,nn,nn
 2024-07-20T15:39:33.884Z,65.4951,-149.3607,0,0.9,ml,,,,0.33,ak,ak0249abq1d8,2024-07-20T15:41:06.958Z,"37 km E of Rampart, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-20T15:38:06.809Z,34.9116,23.3821,8.102,4.5,mb,146,58,1.292,0.84,us,us7000n0hk,2024-07-20T18:43:44.040Z,"44 km SW of Palaióchora, Greece",earthquake,7.43,4.765,0.05,124,reviewed,us,us
 2024-07-20T15:08:50.234Z,39.1269,-120.0448,11.1,0.5,ml,7,178.31000000000003,0.103,0.1645,nn,nn00881199,2024-07-20T15:59:31.119Z,"8 km SE of Dollar Point, California",earthquake,,2.3,0.42,5,reviewed,nn,nn
 2024-07-20T15:08:33.224Z,65.0416,-149.8279,0,0.7,ml,,,,0.54,ak,ak0249abje4a,2024-07-20T15:10:24.928Z,"25 km WSW of Minto, Alaska",earthquake,,24.6,,,automatic,ak,ak
 2024-07-20T14:59:45.727Z,39.132,-120.0244,7.7,-0.2,ml,5,100.58999999999997,0.109,0.0719,nn,nn00881200,2024-07-20T16:02:36.396Z,"8 km WNW of Glenbrook, Nevada",earthquake,,4,0.25,3,reviewed,nn,nn
@@ -131,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T23:51:53.075Z,61.2997,-152.2457,11.9,0.9,ml,,,,0.2,ak,ak02498t0rsb,2024-07-20T04:17:22.060Z,"64 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-19T23:44:20.580Z,37.627498626709,-118.866668701172,7.46000003814697,1.76,md,20,108,0.02446,0.04,nc,nc75037087,2024-07-20T01:47:15.789Z,"10 km ESE of Mammoth Lakes, CA",earthquake,0.44,0.620000005,0.15,20,automatic,nc,nc
 2024-07-19T23:43:36.017Z,64.9767,-147.3585,3.4,1.3,ml,,,,1.04,ak,ak02498sz0qp,2024-07-19T23:45:21.315Z,"12 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-07-19T23:36:15.005Z,44.3706,-69.5424,2.463,2.1,mb_lg,27,125,0.212,0.49,us,us7000n0e3,2024-07-20T18:01:28.798Z,"6 km SW of Palermo, Maine",earthquake,2.14,5.284,0.228,6,reviewed,us,us
+2024-07-19T23:36:15.005Z,44.3706,-69.5424,2.463,2.1,mb_lg,27,125,0.212,0.49,us,us7000n0e3,2024-07-20T18:35:58.898Z,"6 km SW of Palermo, Maine",earthquake,2.14,5.284,0.228,6,reviewed,us,us
 2024-07-19T23:28:22.790Z,37.3163333333333,-122.092333333333,2.01,0.47,md,5,133,0.01741,0.05,nc,nc75037082,2024-07-20T01:12:14.528Z,"4 km S of Loyola, CA",earthquake,0.43,0.51,0.238,5,reviewed,nc,nc
 2024-07-19T23:21:10.280Z,33.6253333,-116.6905,11.48,0.47,ml,14,64,0.04563,0.08,ci,ci40665183,2024-07-19T23:41:24.904Z,"8 km NNW of Anza, CA",earthquake,0.26,0.42,0.191,7,reviewed,ci,ci
 2024-07-19T23:09:16.070Z,38.8231658935547,-122.769836425781,1.63999998569489,1.52,md,29,49,0.007295,0.03,nc,nc75037077,2024-07-20T01:29:26.657Z,"4 km WNW of Cobb, CA",earthquake,0.2,0.300000012,0.17,29,automatic,nc,nc
@@ -161,6 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T20:23:38.030Z,38.8393325805664,-122.827163696289,2.47000002861023,0.64,md,11,106,0.006542,0.02,nc,nc75037032,2024-07-19T22:39:28.482Z,"9 km WNW of Cobb, CA",earthquake,0.56,1.34000003,0.19,12,automatic,nc,nc
 2024-07-19T20:19:08.972Z,60.2337,-152.7803,14.7,0.4,ml,,,,0.4,ak,ak02498r1inl,2024-07-20T03:36:46.890Z,"65 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-19T20:12:56.360Z,33.7626667,-116.9295,13.76,0.75,ml,23,92,0.07554,0.12,ci,ci40664959,2024-07-19T22:09:51.202Z,"4 km SE of San Jacinto, CA",earthquake,0.22,0.44,0.168,9,reviewed,ci,ci
+2024-07-19T20:12:42.200Z,40.6658333333333,-121.757666666667,8.44,1.13,md,14,64,0.1634,0.14,nc,nc75037022,2024-07-20T18:44:01.003Z,"18 km NNW of Viola, CA",earthquake,0.58,2.94,0.18,10,reviewed,nc,nc
 2024-07-19T20:05:43.805Z,64.9106,-150.3472,13.8,0.9,ml,,,,0.2,ak,ak02498qylbg,2024-07-19T20:07:08.805Z,"16 km SE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-19T20:04:19.730Z,33.2681667,-116.4251667,4.9,0.84,ml,28,44,0.006708,0.19,ci,ci40664943,2024-07-19T21:59:38.257Z,"5 km WNW of Borrego Springs, CA",earthquake,0.25,0.47,0.109,17,reviewed,ci,ci
 2024-07-19T19:53:03.240Z,51.8856666666667,179.541,7.85,0.65,ml,4,320,0.01902,0.25,av,av93203071,2024-07-20T03:22:46.110Z,"263 km W of Adak, Alaska",earthquake,2.05,0.96,0.26361202178348,4,reviewed,av,av
@@ -178,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T18:58:28.210Z,48.594,-123.54533333333333,-0.21,0.76,ml,7,119,0.08334,0.05,uw,uw62026266,2024-07-19T23:24:36.180Z,"9 km W of Saanichton, Canada",explosion,0.54,31.61,0.049293095310556145,3,reviewed,uw,uw
 2024-07-19T18:57:11.530Z,46.452,-122.25333333333333,5.78,0.6900000000000001,ml,14,169,0.08588,0.1,uw,uw62026261,2024-07-19T22:54:37.900Z,"11 km S of Morton, Washington",earthquake,0.46,1.12,0.0756100244807204,7,reviewed,uw,uw
 2024-07-19T18:53:52.906Z,-22.653,-70.6313,18.072,4.2,mwr,49,136,0.98,0.86,us,us7000n0cl,2024-07-19T21:09:32.040Z,"52 km NNW of Mejillones, Chile",earthquake,4.55,4.492,0.055,32,reviewed,us,us
-2024-07-19T18:43:39.230Z,36.9766654968262,-121.6318359375,5.1100001335144,1.23,md,8,117,0.04522,0.06,nc,nc75036987,2024-07-19T20:59:30.765Z,"7 km WSW of Gilroy, CA",earthquake,0.48,0.949999988,0.1,6,automatic,nc,nc
