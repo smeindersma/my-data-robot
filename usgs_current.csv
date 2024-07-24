@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-24T10:43:17.900Z,34.1848333,-116.9413333,8.9,0.97,ml,47,48,0.07913,0.15,ci,ci40669855,2024-07-24T10:49:30.437Z,"7 km SSW of Big Bear Lake, CA",earthquake,0.16,0.3,0.245,17,automatic,ci,ci
 2024-07-24T10:40:26.606Z,65.1031,-148.6212,17.9,0.6,ml,,,,0.37,ak,ak0249guwgh0,2024-07-24T10:42:06.618Z,"34 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-24T10:34:41.850Z,19.3836669921875,-155.184326171875,2.63000011444092,1.80999994,md,19,137,0.03103,0.389999986,hv,hv74359001,2024-07-24T10:36:09.230Z,"8 km SE of Volcano, Hawaii",earthquake,1.17,1.11000001,0.150000006,14,automatic,hv,hv
 2024-07-24T10:31:12.020Z,33.4668333,-116.5598333,10.23,0.48,ml,28,48,0.04501,0.12,ci,ci40669847,2024-07-24T10:37:24.024Z,"14 km SE of Anza, CA",earthquake,0.16,0.32,0.16,13,automatic,ci,ci
@@ -438,4 +439,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-23T11:05:42.910Z,33.355,-116.3736667,10.8,1.13,ml,63,36,0.02872,0.2,ci,ci40668527,2024-07-23T13:36:49.276Z,"11 km N of Borrego Springs, CA",earthquake,0.18,0.31,0.14,27,reviewed,ci,ci
 2024-07-23T11:05:24.290Z,33.9965,-117.1931667,14.66,1.13,ml,54,34,0.05184,0.15,ci,ci40668519,2024-07-23T16:08:16.560Z,"7 km S of Redlands, CA",earthquake,0.14,0.28,0.176,25,reviewed,ci,ci
 2024-07-23T11:03:35.370Z,38.8398323059082,-122.807167053223,2.08999991416931,0.4,md,8,136,0.01657,0.01,nc,nc75038392,2024-07-23T12:49:25.890Z,"8 km WNW of Cobb, CA",earthquake,0.59,1.04999995,0.29,9,automatic,nc,nc
-2024-07-23T10:51:52.865Z,59.7188,-152.3487,76.3,0.7,ml,,,,0.34,ak,ak0249f7fhnx,2024-07-23T10:54:45.036Z,"29 km WSW of Anchor Point, Alaska",earthquake,,1.5,,,automatic,ak,ak
