@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T20:17:29.415Z,62.5626,-149.8255,0,1.5,ml,,,,0.53,ak,ak024a94urnx,2024-08-10T20:19:30.150Z,"19 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-10T20:03:16.676Z,0.5831,98.7843,71.703,4.5,mb,17,199,2.101,0.59,us,us6000njed,2024-08-10T21:35:22.040Z,"103 km SSW of Padangsidempuan, Indonesia",earthquake,8.08,10.998,0.22,6,reviewed,us,us
 2024-08-10T19:57:04.730Z,34.9588333,-119.1248333,12.94,1.38,ml,32,90,0.1229,0.2,ci,ci40696647,2024-08-11T14:53:33.907Z,"13 km N of Pine Mountain Club, CA",earthquake,0.26,0.57,0.338,30,reviewed,ci,ci
-2024-08-10T19:48:03.400Z,38.79,-122.76,3.06,1.1,md,17,63,0.006692,0.02,nc,nc75046812,2024-08-10T20:26:34.601Z,"2 km  of The Geysers, CA",earthquake,0.31,0.620000005,0.15,18,automatic,nc,nc
