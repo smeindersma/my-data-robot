@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-18T23:32:28.960Z,35.767334,-117.5731659,7.2,1.27,ml,11,146,0.1587,0.15,ci,ci40706527,2024-08-18T23:34:41.775Z,"15 km W of Searles Valley, CA",earthquake,0.59,1.27,0.105,6,automatic,ci,ci
+2024-08-18T23:36:28.290Z,38.8321647644043,-122.772003173828,0.870000004768372,0.6,md,7,122,0.002351,0.01,nc,nc75050136,2024-08-18T23:38:07.411Z,"4 km WNW of Cobb, CA",earthquake,0.37,0.610000014,0.18,8,automatic,nc,nc
+2024-08-18T23:32:28.960Z,35.7666667,-117.5725,6.42,1.16,ml,23,145,0.1381,0.15,ci,ci40706527,2024-08-18T23:39:04.561Z,"15 km W of Searles Valley, CA",earthquake,0.24,0.81,0.164,13,automatic,ci,ci
 2024-08-18T23:10:51.270Z,32.9841667,-116.3145,8.04,0.41,ml,19,64,0.03093,0.15,ci,ci40706511,2024-08-18T23:17:14.675Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.23,0.45,0.056,3,automatic,ci,ci
 2024-08-18T23:06:05.850Z,33.911,-116.887,16.21,0.81,ml,37,44,0.1073,0.16,ci,ci40706503,2024-08-18T23:12:29.647Z,"2 km SSW of Banning, CA",earthquake,0.19,0.53,0.273,21,automatic,ci,ci
 2024-08-18T23:04:17.210Z,19.1280002593994,-155.504669189453,34.75,2.01999998,md,43,167,0.0486,0.159999996,hv,hv74409431,2024-08-18T23:06:02.080Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.66,0.810000002,0.409999996,9,automatic,hv,hv
