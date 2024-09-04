@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-04T06:44:44.670Z,38.795166015625,-122.783996582031,3.42000007629395,0.27,md,8,90,0.003651,0.01,nc,nc75057186,2024-09-04T06:46:22.264Z,"3 km NW of The Geysers, CA",earthquake,0.67,1.40999997,0.08,9,automatic,nc,nc
 2024-09-04T06:36:41.751Z,59.9146,-151.7418,83.8,2.4,ml,,,,0.51,ak,ak024be92h36,2024-09-04T06:39:16.919Z,"3 km S of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-04T05:51:18.240Z,35.0834999,-119.1328354,12.54,1.43,ml,17,78,0.04727,0.16,ci,ci40724327,2024-09-04T06:02:24.630Z,"24 km NW of Grapevine, CA",earthquake,0.53,0.85,0.157,29,automatic,ci,ci
 2024-09-04T05:47:16.348Z,31.581,-104.546,3.7789,1.9,ml,8,161,0.1,0.2,tx,tx2024rjss,2024-09-04T05:59:31.379Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.26374983787537,0.1,6,automatic,tx,tx
@@ -146,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T12:25:00.941Z,62.2463,-149.066,34.4,1.5,ml,,,,0.8,ak,ak024bcp1a7i,2024-09-03T12:27:08.382Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-03T12:19:52.320Z,36.69933333,-97.67516667,6.25,1.37,ml,86,50,0.2123583281,0.23,ok,ok2024rike,2024-09-03T15:01:39.693Z,"10 km W of Lamont, Oklahoma",earthquake,,0.5,0.26,31,reviewed,ok,ok
 2024-09-03T12:16:18.710Z,37.4379997253418,-118.740501403809,13.4899997711182,1.86,md,21,133,0.1673,0.03,nc,nc75056886,2024-09-03T13:09:27.469Z,"13 km WNW of Round Valley, CA",earthquake,0.58,2.5,0.09,17,automatic,nc,nc
-2024-09-03T12:11:58.600Z,37.4308333333333,-118.752666666667,9.43,3.46,ml,34,64,0.1385,0.07,nc,nc75056881,2024-09-03T21:40:13.229Z,"14 km WNW of Round Valley, CA",earthquake,0.35,1.21,0.239,50,reviewed,nc,nc
+2024-09-03T12:11:58.600Z,37.4308333333333,-118.752666666667,9.43,3.46,ml,34,64,0.1385,0.07,nc,nc75056881,2024-09-04T06:43:55.040Z,"14 km WNW of Round Valley, CA",earthquake,0.35,1.21,0.239,50,reviewed,nc,nc
 2024-09-03T12:11:45.210Z,37.4271666666667,-118.746,11.05,1.38,md,27,134,0.1423,0.05,nc,nc75056876,2024-09-03T18:38:18.601Z,"13 km WNW of Round Valley, CA",earthquake,0.56,1.43,0.123,15,reviewed,nc,nc
 2024-09-03T11:58:47.256Z,22.9752,-109.717,10,4.4,mb,49,139,4.893,1.26,us,us6000nph0,2024-09-04T04:54:24.341Z,"8 km S of San José del Cabo, Mexico",earthquake,13.1,1.939,0.038,195,reviewed,us,us
 2024-09-03T11:56:05.040Z,47.7918333333333,-114.357333333333,10.39,0.69,ml,7,150,0.06775,0.03,mb,mb90060633,2024-09-03T17:30:03.790Z,"4 km S of Elmo, Montana",earthquake,0.39,0.58,0.0624251845502046,3,reviewed,mb,mb
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T07:11:54.230Z,38.7994995117188,-122.736999511719,0.810000002384186,0.75,md,8,109,0.01624,0.03,nc,nc75056816,2024-09-03T08:09:26.480Z,"3 km SW of Cobb, CA",earthquake,0.29,0.829999983,0.06,8,automatic,nc,nc
 2024-09-03T07:01:11.755Z,-20.7651,-173.8555,10,4.8,mb,29,85,1.195,1.31,us,us6000npfy,2024-09-03T08:06:59.040Z,"117 km SSE of Pangai, Tonga",earthquake,7.65,1.88,0.125,20,reviewed,us,us
 2024-09-03T07:00:18.900Z,38.814998626709,-122.831001281738,1.25999999046326,0.9,md,11,96,0.006285,0.02,nc,nc75056811,2024-09-03T07:34:25.217Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.569999993,0.19,12,automatic,nc,nc
-2024-09-03T06:49:16.590Z,33.4881667,-116.4193333,3.28,0.87,ml,58,40,0.1161,0.18,ci,ci40723231,2024-09-03T12:58:39.180Z,"22 km SSW of La Quinta, CA",earthquake,0.15,0.51,0.177,28,reviewed,ci,ci
