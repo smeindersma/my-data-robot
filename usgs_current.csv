@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-15T13:54:36.520Z,34.1988333,-117.5731667,10.96,0.96,ml,15,222,0.09472,0.09,ci,ci40734239,2024-09-15T14:01:42.763Z,"8 km N of Rancho Cucamonga, CA",earthquake,0.45,0.39,0.194,32,automatic,ci,ci
 2024-09-15T13:52:30.170Z,19.380500793457,-155.21533203125,0.310000002384186,2.06999993,md,12,103,0.006683,0.219999999,hv,hv74461102,2024-09-15T13:55:22.030Z,"7 km SSE of Volcano, Hawaii",earthquake,0.48,0.319999993,0.200000003,6,automatic,hv,hv
 2024-09-15T13:45:45.970Z,19.3806667327881,-155.153671264648,1.1599999666214,2.00999999,md,19,128,0.0148,0.270000011,hv,hv74461092,2024-09-15T13:47:18.370Z,"9 km SSW of Fern Forest, Hawaii",earthquake,1.03,0.519999981,0.25999999,13,automatic,hv,hv
-2024-09-15T13:42:12.530Z,34.055,-118.795,10.63,1.82,ml,70,83,0.01864,0.27,ci,ci40734215,2024-09-15T13:53:02.450Z,"6 km NNE of Malibu, CA",earthquake,0.24,0.34,0.114,26,automatic,ci,ci
+2024-09-15T13:42:12.530Z,34.055,-118.795,10.63,1.82,ml,70,83,0.01864,0.27,ci,ci40734215,2024-09-15T14:38:54.091Z,"6 km NNE of Malibu, CA",earthquake,0.24,0.34,0.114,26,reviewed,ci,ci
 2024-09-15T13:41:27.017Z,64.8169,-148.856,13.9,1.1,ml,,,,0.5,ak,ak024bwk6d7h,2024-09-15T13:43:30.456Z,"26 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-15T13:39:06.440Z,17.9705,-66.9993333333333,7.86,2.92,md,21,169,0.04274,0.16,pr,pr71460108,2024-09-15T13:57:00.470Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.44,0.22,0.310549896947706,8,reviewed,pr,pr
 2024-09-15T13:36:23.600Z,35.9893333,-117.9001667,5.51,0.82,ml,20,79,0.02,0.11,ci,ci40734207,2024-09-15T13:42:13.789Z,"6 km N of Little Lake, CA",earthquake,0.15,0.41,0.183,10,automatic,ci,ci
@@ -328,5 +328,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T14:43:25.540Z,57.5726,-155.519,25.9,2.3,ml,,,,0.64,ak,ak024bux8vmy,2024-09-14T15:08:03.040Z,"63 km W of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-14T14:39:57.530Z,33.5815,-116.8066667,8.91,0.69,ml,34,35,0.03755,0.14,ci,ci40733607,2024-09-14T14:56:26.175Z,"13 km WNW of Anza, CA",earthquake,0.17,0.35,0.19,19,automatic,ci,ci
 2024-09-14T14:39:50.949Z,61.7003,-150.8263,46,1.9,ml,,,,0.18,ak,ak024bux82qe,2024-09-14T14:41:15.664Z,"24 km NW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2024-09-14T14:37:06.590Z,34.0576667,-118.8151667,10.19,1.42,ml,34,103,0.03474,0.24,ci,ci40733599,2024-09-14T14:50:45.698Z,"6 km N of Malibu, CA",earthquake,0.27,0.45,0.276,37,automatic,ci,ci
-2024-09-14T14:33:42.451Z,54.6985,-156.8246,0.9,4.3,ml,,,,0.6,ak,ak024bux6req,2024-09-14T16:25:17.746Z,"199 km SE of Perryville, Alaska",earthquake,,1.6,,,reviewed,ak,ak
