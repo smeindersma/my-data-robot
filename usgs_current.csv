@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-20T19:21:58.930Z,33.8786659,-117.4934998,-0.41,1.22,ml,28,71,0.0732,0.3,ci,ci40740103,2024-09-20T19:24:17.365Z,"2 km E of Home Gardens, CA",earthquake,0.47,1.05,0.312,6,automatic,ci,ci
+2024-09-20T19:27:08.113Z,63.2352,-151.1198,0,1.6,ml,,,,0.63,ak,ak024c4xcntn,2024-09-20T19:29:56.456Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-20T19:21:58.830Z,33.8686667,-117.51,0.2,1.23,ml,40,55,0.07441,0.26,ci,ci40740103,2024-09-20T19:28:32.056Z,"2 km SE of Home Gardens, CA",earthquake,0.33,0.51,0.223,34,automatic,ci,ci
 2024-09-20T19:11:02.793Z,60.124,-153.4105,156.3,1.2,ml,,,,0.5,ak,ak024c4x97ys,2024-09-20T19:14:47.118Z,"51 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-20T18:56:15.250Z,34.9866667,-118.1961667,1.36,1.35,ml,32,52,0.1108,0.18,ci,ci40740095,2024-09-20T19:02:47.323Z,"8 km SSW of Mojave, CA",earthquake,0.24,0.53,0.179,33,automatic,ci,ci
 2024-09-20T18:44:02.520Z,32.984,-116.3098333,8.57,1.36,ml,54,40,0.02982,0.18,ci,ci40740071,2024-09-20T18:50:13.171Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.17,0.4,0.263,30,automatic,ci,ci
@@ -95,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T06:50:09.386Z,60.4676,-147.6595,50.3,1.5,ml,,,,0.97,ak,ak024c4pqyiy,2024-09-20T06:52:02.508Z,"48 km NNE of Chenega, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-09-20T06:40:38.160Z,33.2223333,-116.0491667,3.4,1.36,ml,60,66,0.07719,0.24,ci,ci40739519,2024-09-20T06:55:27.508Z,"12 km NE of Ocotillo Wells, CA",earthquake,0.19,0.38,0.143,27,automatic,ci,ci
 2024-09-20T06:39:29.850Z,19.1924991607666,-155.438507080078,34.1800003051758,1.82000005,md,40,146,0.04311,0.150000006,hv,hv74470832,2024-09-20T06:41:02.520Z,"4 km ESE of Pāhala, Hawaii",earthquake,0.67,0.74000001,0.0900000036,6,automatic,hv,hv
+2024-09-20T06:38:51.700Z,46.20133333333333,-122.19433333333333,-1.78,0.4,ml,17,55,0.002871,0.11,uw,uw62047976,2024-09-20T19:27:34.640Z,"37 km NNE of Amboy, Washington",earthquake,0.19,10.22,0.20653616641612216,8,reviewed,uw,uw
 2024-09-20T06:29:44.109Z,35.07683333,-97.51216667,4.27,1.22,ml,52,45,0.008098410816,0.51,ok,ok2024snae,2024-09-20T12:50:37.403Z,"3 km NW of Washington, Oklahoma",earthquake,,0.8,0.21,25,reviewed,ok,ok
 2024-09-20T06:16:46.620Z,43.5076666666667,-110.356333333333,8.58,1.1,ml,10,164,0.2081,0.11,mb,mb90061948,2024-09-20T14:52:50.940Z,"25 km ESE of Kelly, Wyoming",earthquake,0.66,2.59,0.174555647030823,7,reviewed,mb,mb
 2024-09-20T06:15:55.461Z,52.7833,160.3067,44.646,4.7,mb,64,137,1.032,0.61,us,us6000nt8e,2024-09-20T06:38:50.040Z,"117 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.33,6.534,0.047,138,reviewed,us,us
@@ -147,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T23:50:54.163Z,60.6738,-151.6054,77.6,1,ml,,,,0.16,ak,ak024c3cc1bp,2024-09-20T00:03:14.311Z,"16 km WNW of Salamatof, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-09-19T23:45:58.968Z,-17.9845,-174.4576,104.307,4.6,mb,22,101,4.433,0.59,us,us6000nt6a,2024-09-20T00:06:45.040Z,"89 km NW of Neiafu, Tonga",earthquake,10.26,6.197,0.109,25,reviewed,us,us
 2024-09-19T23:40:50.840Z,34.254,-117.5185,9.21,0.68,ml,16,82,0.03594,0.11,ci,ci40739287,2024-09-20T16:34:30.585Z,"2 km WSW of Lytle Creek, CA",earthquake,0.23,0.36,0.122,7,reviewed,ci,ci
-2024-09-19T23:29:28.880Z,32.7243333,-116.0043333,10.35,1.37,ml,37,55,0.02637,0.16,ci,ci40739271,2024-09-19T23:39:59.860Z,"2 km SW of Ocotillo, CA",earthquake,0.18,0.33,0.184,25,automatic,ci,ci
+2024-09-19T23:29:28.780Z,32.7275,-116.0001667,11.03,1.33,ml,33,55,0.02569,0.17,ci,ci40739271,2024-09-20T19:31:09.040Z,"1 km SW of Ocotillo, CA",earthquake,0.2,0.33,0.139,20,reviewed,ci,ci
 2024-09-19T23:29:22.990Z,19.3576666666667,-155.077333333333,3.89,1.68,ml,29,167,0.04459,0.2,hv,hv74470562,2024-09-20T00:32:44.510Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.62,1.7,0.271355280322746,9,reviewed,hv,hv
 2024-09-19T23:28:44.228Z,38.6627,-117.1217,0,1.1,ml,6,182.79000000000002,0.425,0.0491,nn,nn00884886,2024-09-19T23:41:12.359Z,"60 km S of Kingston, Nevada",explosion,,0,0.28,4,reviewed,nn,nn
 2024-09-19T23:10:10.830Z,33.717,-116.8138333,15.86,0.34,ml,10,199,0.08328,0.11,ci,ci40739215,2024-09-20T17:00:40.070Z,"8 km ESE of Valle Vista, CA",earthquake,0.49,0.57,0.105,6,reviewed,ci,ci
