@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T15:50:35.048Z,60.5703,-150.5103,42.7,2,ml,,,,0.67,ak,ak024d6wgwb4,2024-10-13T15:52:14.989Z,"14 km ENE of Sterling, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-13T15:47:43.200Z,37.553833333333,-118.7845,5.67,0.56,md,15,224,0.0297,0.04,nc,nc75073906,2024-10-13T20:32:32.992Z,"9 km W of Toms Place, CA",earthquake,0.77,0.8,0.156,13,reviewed,nc,nc
 2024-10-13T15:33:36.270Z,38.867500305176,-122.7825012207,2.6300001144409,1.02,md,15,188,0.01703,0.03,nc,nc75073896,2024-10-13T17:09:24.973Z,"7 km NW of Cobb, CA",earthquake,0.41,0.460000008,0.26,17,automatic,nc,nc
-2024-10-13T15:31:38.660Z,36.970001220703,-121.63300323486,4.8400001525879,2.72,md,57,57,0.04337,0.13,nc,nc75073891,2024-10-13T18:07:51.910Z,"7 km WSW of Gilroy, CA",earthquake,0.2,0.360000014,0.12,71,automatic,nc,nc
+2024-10-13T15:31:38.660Z,36.970001220703,-121.63300323486,4.8400001525879,2.72,md,57,57,0.04337,0.13,nc,nc75073891,2024-10-13T21:43:02.644Z,"7 km WSW of Gilroy, CA",earthquake,0.2,0.360000014,0.12,71,automatic,nc,nc
 2024-10-13T15:30:17.654Z,60.1212,-152.4904,91.3,1.9,ml,,,,0.33,ak,ak024d6wckn9,2024-10-13T15:32:15.162Z,"46 km W of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-13T15:23:51.940Z,34.0623333,-117.0593333,13.49,1.15,ml,50,51,0.05158,0.17,ci,ci40953576,2024-10-13T15:30:23.026Z,"4 km NNW of Yucaipa, CA",earthquake,0.16,0.36,0.159,30,automatic,ci,ci
 2024-10-13T15:21:36.372Z,60.0376,-141.1414,3.9,2,ml,,,,0.79,ak,ak024d6waon9,2024-10-13T15:23:30.040Z,"96 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
