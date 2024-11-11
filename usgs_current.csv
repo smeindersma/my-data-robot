@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T20:13:16.630Z,19.123666666667,-64.632833333333,19.39,3.27,md,6,303,0.6999,0.3,pr,pr71465408,2024-11-10T21:03:36.040Z,"89 km N of Cruz Bay, U.S. Virgin Islands",earthquake,8.22,16.02,0.067526132453588,4,reviewed,pr,pr
 2024-11-10T19:55:39.480Z,36.479831695557,-121.05300140381,7.2800002098083,1.25,md,8,172,0.02483,0.05,nc,nc75084981,2024-11-10T20:17:16.973Z,"10 km SE of Pinnacles, CA",earthquake,0.5,0.99000001,0.54,4,automatic,nc,nc
 2024-11-10T19:41:28.750Z,35.2275,-118.3306667,1.8,1.42,ml,50,40,0.1342,0.15,ci,ci40791399,2024-11-10T20:30:38.749Z,"15 km NE of Tehachapi, CA",earthquake,0.13,0.37,0.228,27,reviewed,ci,ci
-2024-11-10T19:16:11.690Z,35.7155,-117.5486667,2.11,0.7,ml,23,66,0.1076,0.14,ci,ci40791391,2024-11-10T20:30:36.526Z,"14 km WSW of Searles Valley, CA",earthquake,0.18,0.32,0.12,6,reviewed,ci,ci
