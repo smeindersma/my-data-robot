@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-12T23:52:55.540Z,38.801834106445,-122.76866912842,3.1500000953674,1.07,md,19,80,0.007102,0.02,nc,nc75085791,2024-11-12T23:54:31.108Z,"3 km  of The Geysers, CA",earthquake,0.31,0.540000021,0.13,22,automatic,nc,nc
 2024-11-12T23:41:27.519Z,62.5124,-149.1666,2.9,1.5,ml,,,,0.63,ak,ak024eknatxr,2024-11-12T23:43:35.936Z,"48 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-12T23:09:50.820Z,34.9865,-118.1865,1.17,1.44,ml,39,38,0.1129,0.18,ci,ci40792167,2024-11-12T23:22:19.352Z,"7 km S of Mojave, CA",earthquake,0.2,0.4,0.116,29,automatic,ci,ci
 2024-11-12T22:23:00.223Z,60.3487,-141.0448,14.4,1.9,ml,,,,0.79,ak,ak024ekmlhc6,2024-11-12T22:24:45.689Z,"115 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -13,6 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T21:06:44.230Z,19.103666305542,-155.40032958984,39.319999694824,2.49000001,md,25,255,0.07786,0.150000006,hv,hv74528997,2024-11-12T21:08:18.510Z,"13 km SE of Pāhala, Hawaii",earthquake,0.79,0.74000001,0.289999992,4,automatic,hv,hv
 2024-11-12T21:03:02.471Z,31.577,-104.404,3.7445,2.3,ml,20,66,0.1,0.3,tx,tx2024wgyq,2024-11-12T21:50:33.233Z,"64 km WNW of Toyah, Texas",earthquake,0,1.4881972074509,0.2,15,automatic,tx,tx
 2024-11-12T21:01:33.330Z,19.148834228516,-155.46282958984,46.610000610352,3,md,30,167,0.006579,0.300000012,hv,hv74528982,2024-11-12T21:03:14.550Z,"6 km SSE of Pāhala, Hawaii",earthquake,1.29,1.39999998,0.319999993,8,automatic,hv,hv
+2024-11-12T20:56:11.140Z,19.281,-155.3745,36.52,1.77,ml,34,118,0.04842,0.2,hv,hv74528977,2024-11-12T23:46:06.300Z,"13 km NE of Pāhala, Hawaii",earthquake,0.81,0.6,0.12912593300561,10,reviewed,hv,hv
 2024-11-12T20:44:51.980Z,38.782501220703,-122.75900268555,2.1900000572205,0.91,md,9,76,0.01289,0.02,nc,nc75085716,2024-11-12T20:46:26.762Z,"1 km  of The Geysers, CA",earthquake,0.41,0.889999986,0.17,10,automatic,nc,nc
 2024-11-12T20:40:51.020Z,34.6341667,-117.1125,-1.31,1.55,ml,32,35,0.2069,0.14,ci,ci40792103,2024-11-12T22:01:30.864Z,"16 km NNE of Apple Valley, CA",quarry blast,0.24,31.61,0.136,32,reviewed,ci,ci
 2024-11-12T20:02:00.890Z,46.011666666667,-112.46716666667,-2,1.76,ml,9,88,0.06238,0.08,mb,mb90065728,2024-11-12T21:45:17.600Z,"5 km E of Butte, Montana",quarry blast,0.35,31.61,0.24521953404305,21,reviewed,mb,mb
@@ -74,6 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T11:43:19.431Z,37.1206,-114.9015,4.2,2.2,ml,9,104.23,0.31,0.1411,nn,nn00887455,2024-11-12T20:47:33.652Z,"35 km SE of Alamo, Nevada",earthquake,,4,0.2,7,reviewed,nn,nn
 2024-11-12T11:22:13.050Z,33.2336667,-116.6218333,16.11,0.85,ml,44,44,0.04049,0.16,ci,ci40791943,2024-11-12T14:27:46.510Z,"6 km SSE of Warner Springs, CA",earthquake,0.19,0.44,0.226,22,reviewed,ci,ci
 2024-11-12T11:10:46.526Z,61.2729,-150.4968,35.9,1.6,ml,,,,0.35,ak,ak024ekfz0y4,2024-11-12T11:12:20.342Z,"29 km WSW of Point MacKenzie, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2024-11-12T11:10:17.390Z,51.751833333333,-178.7345,13.09,1.38,ml,5,305,0.02588,0.09,av,av93361978,2024-11-12T23:45:51.190Z,"145 km W of Adak, Alaska",earthquake,1.92,0.69,0.20712526529993,5,reviewed,av,av
 2024-11-12T11:01:32.390Z,38.78466796875,-122.77500152588,4.0199999809265,1.48,md,31,86,0.0132,0.05,nc,nc75085616,2024-11-12T11:17:20.038Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.430000007,0.12,34,automatic,nc,nc
 2024-11-12T10:58:14.111Z,64.5486,-146.9935,15.4,1.1,ml,,,,0.88,ak,ak024ekfnt7n,2024-11-12T11:00:22.789Z,"5 km WNW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-12T10:46:08.170Z,33.9988333,-116.7325,17.8,1.17,ml,54,74,0.08062,0.16,ci,ci40791935,2024-11-12T14:27:46.138Z,"10 km NNE of Cabazon, CA",earthquake,0.16,0.42,0.153,29,reviewed,ci,ci
@@ -108,6 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T06:06:25.770Z,38.827167510986,-122.85299682617,1.7000000476837,0.7,md,16,83,0.003051,0.02,nc,nc75085571,2024-11-12T06:27:16.099Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.439999998,0.4,16,automatic,nc,nc
 2024-11-12T06:01:37.990Z,47.586,-122.75066666667,16.63,1.14,ml,9,222,0.05416,0.2,uw,uw62051442,2024-11-12T19:31:42.460Z,"3 km WSW of Erlands Point-Kitsap Lake, Washington",earthquake,0.77,1,0.12128959148079,6,reviewed,uw,uw
 2024-11-12T05:59:44.532Z,-3.2606,123.3996,10,4.7,mb,31,68,2.291,0.72,us,us7000nrbk,2024-11-12T08:04:06.040Z,"126 km NE of Kendari, Indonesia",earthquake,3.27,1.897,0.127,19,reviewed,us,us
+2024-11-12T05:45:08.200Z,45.037,-111.82266666667,6.52,1.38,ml,24,49,0.1148,0.11,mb,mb90065798,2024-11-12T23:53:15.620Z,"30 km SSE of Virginia City, Montana",earthquake,0.25,0.87,0.16120937764081,27,reviewed,mb,mb
 2024-11-12T05:32:06.181Z,63.127,-152.4543,7.1,2.2,ml,,,,0.58,ak,ak024ekcj1yi,2024-11-12T05:35:10.000Z,"58 km SW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-12T05:24:19.770Z,47.012666666667,-120.90416666667,0.18,1.22,ml,11,120,0.1375,0.22,uw,uw62051437,2024-11-12T18:09:37.360Z,"14 km ENE of Cliffdell, Washington",earthquake,0.41,31.61,0.12671609212615,7,reviewed,uw,uw
 2024-11-12T05:16:15.970Z,19.5795,-65.2698,42,3.55,md,11,281,1.2641,0.16,pr,pr2024317000,2024-11-12T05:35:04.628Z,"140 km NNE of Vieques, Puerto Rico",earthquake,2.28,12.15,0.04,5,reviewed,pr,pr
