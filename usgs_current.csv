@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T10:31:10.770Z,35.1,-119.1176667,12.84,1.65,ml,45,29,0.04978,0.24,ci,ci40792359,2024-11-13T10:37:56.307Z,"24 km NW of Grapevine, CA",earthquake,0.22,0.63,0.15,26,automatic,ci,ci
 2024-11-13T10:26:49.349Z,62.0828,-149.5074,44.8,1.9,ml,,,,0.28,ak,ak024em30die,2024-11-13T10:39:08.328Z,"19 km ESE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-13T10:22:24.170Z,33.4518333,-116.3981667,8.99,0.74,ml,41,98,0.1274,0.17,ci,ci40792351,2024-11-13T10:30:56.092Z,"22 km N of Borrego Springs, CA",earthquake,0.21,0.62,0.112,17,automatic,ci,ci
-2024-11-13T10:20:35.465Z,13.8815,145.768,76.518,4.6,mb,30,140,0.921,0.81,us,us7000nrir,2024-11-13T10:53:38.040Z,"102 km ENE of Yigo Village, Guam",earthquake,5.93,8.814,0.109,25,reviewed,us,us
+2024-11-13T10:20:35.465Z,13.8815,145.768,76.518,4.6,mb,30,140,0.921,0.81,us,us7000nrir,2024-11-13T10:54:34.608Z,"102 km ENE of Yigo Village, Guam",earthquake,5.93,8.814,0.109,25,reviewed,us,us
 2024-11-13T10:09:09.250Z,33.4828333,-116.584,5.95,0.53,ml,27,100,0.01927,0.11,ci,ci40792343,2024-11-13T10:17:48.727Z,"12 km SE of Anza, CA",earthquake,0.16,0.26,0.146,10,automatic,ci,ci
 2024-11-13T10:06:21.861Z,36.5278,71.2041,125.016,4.1,mb,17,188,2.256,1.03,us,us7000nril,2024-11-13T10:23:40.040Z,"34 km WSW of Ashkāsham, Afghanistan",earthquake,10.62,13.905,0.234,5,reviewed,us,us
 2024-11-13T10:00:48.990Z,63.2167,-150.7526,122.9,2.6,ml,,,,0.52,ak,ak024em2ust9,2024-11-13T10:13:13.040Z,"60 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -166,7 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T11:43:50.360Z,19.356333333333,-155.02883333333,0.69,1.98,ml,46,203,0.06332,0.18,hv,hv74528742,2024-11-12T20:30:06.760Z,"16 km SE of Fern Forest, Hawaii",earthquake,0.48,0.3,0.288968814888,28,reviewed,hv,hv
 2024-11-12T11:43:19.431Z,37.1206,-114.9015,4.2,2.2,ml,9,104.23,0.31,0.1411,nn,nn00887455,2024-11-12T20:47:33.652Z,"35 km SE of Alamo, Nevada",earthquake,,4,0.2,7,reviewed,nn,nn
 2024-11-12T11:22:13.050Z,33.2336667,-116.6218333,16.11,0.85,ml,44,44,0.04049,0.16,ci,ci40791943,2024-11-12T14:27:46.510Z,"6 km SSE of Warner Springs, CA",earthquake,0.19,0.44,0.226,22,reviewed,ci,ci
-2024-11-12T11:10:46.526Z,61.2729,-150.4968,35.9,1.6,ml,,,,0.35,ak,ak024ekfz0y4,2024-11-12T11:12:20.342Z,"29 km WSW of Point MacKenzie, Alaska",earthquake,,2.6,,,automatic,ak,ak
-2024-11-12T11:10:17.390Z,51.751833333333,-178.7345,13.09,1.38,ml,5,305,0.02588,0.09,av,av93361978,2024-11-12T23:45:51.190Z,"145 km W of Adak, Alaska",earthquake,1.92,0.69,0.20712526529993,5,reviewed,av,av
-2024-11-12T11:01:32.390Z,38.78466796875,-122.77500152588,4.0199999809265,1.48,md,31,86,0.0132,0.05,nc,nc75085616,2024-11-12T11:17:20.038Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.430000007,0.12,34,automatic,nc,nc
-2024-11-12T10:58:14.111Z,64.5486,-146.9935,15.4,1.1,ml,,,,0.88,ak,ak024ekfnt7n,2024-11-12T11:00:22.789Z,"5 km WNW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
