@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-02T21:43:04.715Z,65.0352,-148.9958,8.6,1.3,ml,,,,1.53,ak,ak024fhova9z,2024-12-02T21:44:56.887Z,"21 km SE of Minto, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-02T21:42:46.675Z,60.9797,-150.572,46.9,1.3,ml,,,,0.26,ak,ak024fhov5sr,2024-12-02T21:44:54.470Z,"8 km NE of Point Possession, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-12-02T21:32:08.850Z,38.787166595459,-122.74500274658,1,0.58,md,9,122,0.007566,0.02,nc,nc75094201,2024-12-02T21:33:43.977Z,"1 km NE of The Geysers, CA",earthquake,0.44,1.5,0.15,8,automatic,nc,nc
-2024-12-02T21:28:10.000Z,38.519832611084,-112.88483428955,-0.14000000059605,3.07,ml,6,200,0.01828,0.0199999996,uu,uu80092581,2024-12-02T21:30:36.120Z,"17 km NE of Milford, Utah",earthquake,2.19,0.400000006,1.48,4,automatic,uu,uu
+2024-12-02T21:28:09.840Z,38.512166666667,-112.894,2.27,0.28,md,11,111,0.01052,0.08,uu,uu80092581,2024-12-02T21:45:33.130Z,"16 km NE of Milford, Utah",earthquake,0.3,0.43,0.68873115545718,3,reviewed,uu,uu
 2024-12-02T21:27:42.810Z,38.829334259033,-122.80699920654,2.2000000476837,0.6,md,8,81,0.006398,0.01,nc,nc75094196,2024-12-02T21:29:18.794Z,"7 km NNW of The Geysers, CA",earthquake,0.56,1.61000001,0.37,8,automatic,nc,nc
-2024-12-02T21:26:13.054Z,32.143,-101.076,3.7068,1.6,ml,11,134,0.2,0.1,tx,tx2024xrnq,2024-12-02T21:37:00.440Z,"24 km SSW of Westbrook, Texas",earthquake,0,2.4032292366028,0.2,11,automatic,tx,tx
+2024-12-02T21:26:13.054Z,32.143,-101.076,3.7068,1.6,ml,11,134,0.2,0.1,tx,tx2024xrnq,2024-12-02T21:37:40.445Z,"24 km SSW of Westbrook, Texas",earthquake,0,2.4032292366028,0.2,11,automatic,tx,tx
 2024-12-02T21:25:12.930Z,33.6063347,-116.6333313,13.63,1.03,ml,21,70,0.03963,0.16,ci,ci40992200,2024-12-02T21:27:19.370Z,"7 km NNE of Anza, CA",earthquake,0.36,0.58,0.249,10,automatic,ci,ci
 2024-12-02T21:11:57.228Z,57.0042,-154.6328,0,3.1,ml,,,,0.53,ak,ak024fhoojey,2024-12-02T21:13:49.159Z,"28 km WNW of Akhiok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-02T21:11:38.710Z,19.39999961853,-155.2961730957,5.6100001335144,1.70000005,md,12,170,0.01015,0.379999995,hv,hv74552122,2024-12-02T21:12:57.810Z,"8 km SW of Volcano, Hawaii",earthquake,1.44,1.14999998,0.550000012,4,automatic,hv,hv
@@ -21,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T20:19:25.447Z,59.898,-153.3629,120.7,1.9,ml,,,,0.34,ak,ak024fho4r34,2024-12-02T21:04:01.040Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-02T20:18:52.100Z,19.135000228882,-155.3586730957,29.450000762939,2.1500001,md,48,194,0.09987,0.159999996,hv,hv74552042,2024-12-02T20:20:28.530Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.59,0.75999999,0.200000003,16,automatic,hv,hv
 2024-12-02T20:15:12.494Z,62.092,-149.2865,7.3,1.7,ml,,,,0.55,ak,ak024fho3v81,2024-12-02T20:16:53.730Z,"30 km ESE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-12-02T20:14:01.280Z,37.5665,-118.85383333333,5.12,0.56,md,20,170,0.03062,0.05,nc,nc75094171,2024-12-02T21:34:10.359Z,"14 km SE of Mammoth Lakes, CA",earthquake,0.42,0.71,0.191,15,reviewed,nc,nc
+2024-12-02T20:14:01.280Z,37.5665,-118.85383333333,5.12,0.56,md,20,170,0.03062,0.05,nc,nc75094171,2024-12-02T21:39:30.091Z,"14 km SE of Mammoth Lakes, CA",earthquake,0.42,0.71,0.191,15,reviewed,nc,nc
 2024-12-02T20:11:06.860Z,38.834499359131,-122.81549835205,0.87999999523163,0.21,md,11,59,0.01187,0.02,nc,nc75094161,2024-12-02T20:29:28.081Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.75,0.08,11,automatic,nc,nc
 2024-12-02T20:01:33.170Z,46.012666666667,-112.47083333333,-2,1.74,ml,8,90,0.05985,0.1,mb,mb90067308,2024-12-02T20:37:36.710Z,"5 km E of Butte, Montana",quarry blast,0.44,31.61,0.23900060936778,19,reviewed,mb,mb
 2024-12-02T19:49:06.900Z,35.7708333,-117.5786667,7.62,0.91,ml,15,133,0.04736,0.13,ci,ci40992120,2024-12-02T19:56:04.912Z,"16 km W of Searles Valley, CA",earthquake,0.31,0.6,0.154,6,automatic,ci,ci
@@ -188,6 +190,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T00:11:40.110Z,38.775165557861,-122.78583526611,2.9400000572205,1.56,md,22,164,0.01632,0.2,nc,nc75093796,2024-12-02T02:49:29.545Z,"3 km W of The Geysers, CA",earthquake,1.06,1.42999995,0.12,24,automatic,nc,nc
 2024-12-02T00:09:04.619Z,57.4332,-154.3957,24.7,2,ml,,,,0.28,ak,ak024fhc5w3n,2024-12-02T00:22:26.353Z,"15 km SSE of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-02T00:05:15.510Z,38.758335113525,-122.71616363525,0.46000000834465,0.85,md,8,119,0.007538,0.03,nc,nc75093791,2024-12-02T02:24:30.383Z,"3 km WSW of Anderson Springs, CA",earthquake,0.38,0.529999971,0.38,6,automatic,nc,nc
+2024-12-02T00:01:07.040Z,57.067833333333,-135.7165,4.13,0.39,ml,4,162,0.009398,0.08,av,av93386338,2024-12-02T21:44:13.330Z,"23 km W of Sitka, Alaska",earthquake,0.58,0.76,0.34256280182134,4,reviewed,av,av
 2024-12-01T23:48:23.680Z,46.182666666667,-122.19066666667,-0.85,-0.03,mh,3,344,0.01712,0.03,uw,uw62063461,2024-12-02T18:10:21.570Z,"36 km NNE of Amboy, Washington",earthquake,2.18,1.94,,0,reviewed,uw,uw
 2024-12-01T23:44:29.961Z,64.8313,-148.9713,0,1.4,ml,,,,0.59,ak,ak024fg2j2no,2024-12-01T23:46:17.163Z,"26 km NNE of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-01T23:33:17.550Z,35.7210007,-117.5741653,10.88,0.86,ml,16,115,0.09642,0.08,ci,ci40991560,2024-12-02T15:12:32.420Z,"14 km NE of Ridgecrest, CA",earthquake,0.35,0.81,0.084,5,reviewed,ci,ci
