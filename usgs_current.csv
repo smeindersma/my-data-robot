@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T16:49:54.113Z,-39.0628,-72.3137,95.072,4.7,mwr,55,87,0.835,0.67,us,us6000pfgw,2024-12-24T18:25:07.808Z,"25 km NNW of Villarrica, Chile",earthquake,5.46,4.921,0.068,21,reviewed,us,us
 2024-12-24T16:49:48.783Z,32.41,-102.15,5.3094,1.4,ml,35,78,0,0.5,tx,tx2024zfjl,2024-12-24T17:06:26.139Z,"37 km ENE of McKinney Acres, Texas",earthquake,0,1.2805563211441,0.2,21,automatic,tx,tx
 2024-12-24T16:48:01.213Z,62.9473,-149.4036,56.7,2.4,ml,,,,0.69,ak,ak024ghzqteb,2024-12-24T16:49:57.039Z,"54 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-12-24T16:46:57.884Z,39.119,-119.0465,5.5,3.3,ml,33,47.92,0.021,0.176,nn,nn00890496,2024-12-24T17:27:11.191Z,"17 km NE of Yerington, Nevada",earthquake,,0.7,0.13,9,reviewed,nn,nn
+2024-12-24T16:46:57.884Z,39.119,-119.0465,5.5,3.3,ml,33,47.92,0.021,0.176,nn,nn00890496,2024-12-24T18:49:49.964Z,"17 km NE of Yerington, Nevada",earthquake,,0.7,0.13,9,reviewed,nn,nn
 2024-12-24T16:43:47.980Z,38.951332092285,-123.06783294678,7.5799999237061,2.01,md,10,135,0.04224,0.28,nc,nc75107406,2024-12-24T17:27:18.182Z,"17 km WSW of Lakeport, CA",earthquake,0.89,1.74000001,0.06,15,automatic,nc,nc
 2024-12-24T16:40:08.021Z,31.727,-104.092,4.5789,1.9,ml,20,62,0.1,0.2,tx,tx2024zfjc,2024-12-24T16:50:10.883Z,"46 km W of Mentone, Texas",earthquake,0,1.1675018072128,0.2,16,automatic,tx,tx
 2024-12-24T16:39:14.680Z,38.792499542236,-122.80883026123,2.920000076294,1.68,md,34,74,0.006134,0.03,nc,nc75107396,2024-12-24T17:12:17.064Z,"5 km WNW of The Geysers, CA",earthquake,0.21,0.330000013,0.13,35,automatic,nc,nc
@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T06:46:25.237Z,60.2014,-151.2782,31.3,1.9,ml,,,,0.56,ak,ak024ghts3sr,2024-12-24T06:48:26.126Z,"7 km ESE of Clam Gulch, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-24T06:42:41.170Z,38.819000244141,-122.82116699219,1.9500000476837,1.76,md,36,47,0.009713,0.04,nc,nc75107276,2024-12-24T07:17:19.904Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.25,0.11,37,automatic,nc,nc
 2024-12-24T06:38:07.610Z,18.006666666667,-66.835333333333,14.15,2.22,md,10,154,0.04374,0.18,pr,pr71469258,2024-12-24T06:45:16.650Z,"2 km NW of Indios, Puerto Rico",earthquake,0.67,0.64,0.13598623083622,6,reviewed,pr,pr
-2024-12-24T06:36:02.453Z,51.354,178.8817,41.3,3.9,ml,,,,0.39,ak,ak024ghtpwwi,2024-12-24T18:37:21.711Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2024-12-24T06:36:02.453Z,51.354,178.8817,41.3,3.9,ml,,,,0.39,ak,ak024ghtpwwi,2024-12-24T18:41:35.204Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-12-24T06:35:27.160Z,47.809666666667,-122.783,21.77,2.29,ml,25,61,0.05427,0.19,uw,uw61503593,2024-12-24T07:01:19.879Z,"7 km ESE of Quilcene, Washington",earthquake,0.42,0.64,0.14431117225598,8,reviewed,uw,uw
 2024-12-24T06:35:16.060Z,47.809333333333,-122.77266666667,21.38,2.18,ml,63,37,0.06065,0.2,uw,uw62060417,2024-12-24T07:01:43.954Z,"7 km E of Quilcene, Washington",earthquake,0.25,0.35,0.12236734916429,45,reviewed,uw,uw
 2024-12-24T06:24:17.210Z,47.527,-113.93433333333,5,0.3,ml,4,168,0.2872,0.06,mb,mb90069518,2024-12-24T15:28:41.350Z,"12 km E of Ronan, Montana",earthquake,0.45,6.53,0.26214118684162,2,reviewed,mb,mb
@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T19:05:21.473Z,61.4138,-147.5134,19.5,2.4,ml,,,,0.62,ak,ak024ggdqlir,2024-12-23T19:32:42.040Z,"44 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-23T19:00:52.513Z,36.426,-114.998,1.2,1.6,ml,8,335.79,0.15,0.332,nn,nn00890391,2024-12-23T19:03:22.918Z,"20 km NNE of Nellis Air Force Base, Nevada",earthquake,,19.7,0.28,7,automatic,nn,nn
 2024-12-23T18:52:29.290Z,17.9745,-66.9425,10.25,2.25,md,8,179,0.0602,0.13,pr,pr71469203,2024-12-23T19:09:57.260Z,"3 km WSW of Fuig, Puerto Rico",earthquake,0.51,0.68,0.094972845665816,8,reviewed,pr,pr
-2024-12-23T18:47:44.028Z,35.8555,-115.4272,15.8,1.8,ml,16,308.22,0.914,0.3141,nn,nn00890388,2024-12-23T18:51:04.523Z,"2 km NNE of Goodsprings, Nevada",earthquake,,2.6,0.31,9,automatic,nn,nn
