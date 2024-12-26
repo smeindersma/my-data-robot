@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T13:35:33.460Z,35.215,-119.1771667,12.12,1.45,ml,40,76,0.2101,0.21,ci,ci40828479,2024-12-26T13:39:43.970Z,"19 km S of Rosedale, CA",earthquake,0.23,1.29,0.137,26,automatic,ci,ci
 2024-12-26T13:33:14.672Z,59.5434,-150.6737,36.5,2.2,ml,,,,0.27,ak,ak024gl8y0wb,2024-12-26T13:55:43.490Z,"31 km E of Halibut Cove, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-26T13:32:55.130Z,38.787334442139,-122.73066711426,0.10000000149012,1.28,md,16,86,0.0261,0.04,nc,nc75108181,2024-12-26T14:27:18.580Z,"2 km ENE of The Geysers, CA",earthquake,0.22,0.660000026,0.12,15,automatic,nc,nc
-2024-12-26T13:30:25.699Z,39.1341,-119.0895,4.1,1.4,ml,13,84.59,0.031,0.1471,nn,nn00890595,2024-12-26T20:25:33.958Z,"17 km NNE of Yerington, Nevada",earthquake,,1.6,0.24,4,reviewed,nn,nn
+2024-12-26T13:30:25.693Z,39.1335,-119.0873,4.2,1.4,ml,13,84.78,0.029,0.1578,nn,nn00890595,2024-12-26T20:28:46.452Z,"17 km NNE of Yerington, Nevada",earthquake,,1.5,0.24,4,reviewed,nn,nn
 2024-12-26T13:28:16.835Z,36.8072,-113.4754,11.8,1.4,ml,11,165.07,0.276,0.1783,nn,nn00890593,2024-12-26T17:10:09.283Z,"34 km SSE of Saint George, Utah",earthquake,,3.8,0.4,6,reviewed,nn,nn
 2024-12-26T13:26:17.231Z,60.4111,-143.2348,20,1.8,ml,,,,0.29,ak,ak024gl8wj2z,2024-12-26T13:28:09.758Z,"115 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-26T13:21:49.830Z,34.0371667,-117.2156667,4.34,1.07,ml,56,22,0.08395,0.19,ci,ci40828471,2024-12-26T13:26:20.209Z,"4 km SW of Redlands, CA",earthquake,0.16,0.45,0.198,27,automatic,ci,ci
@@ -183,5 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T21:06:36.900Z,51.918833333333,179.61433333333,6.86,1.45,ml,5,133,0.01415,0.17,av,av93426061,2024-12-26T17:14:14.240Z,"258 km W of Adak, Alaska",earthquake,0.68,0.99,0.30114090393597,5,reviewed,av,av
 2024-12-25T21:02:03.260Z,37.542999267578,-118.81316375732,-2.3199999332428,0.51,md,9,209,0.04863,0.19,nc,nc75107941,2024-12-25T21:03:40.162Z,"12 km W of Toms Place, CA",earthquake,1.35,1.41999996,0.09,6,automatic,nc,nc
 2024-12-25T20:48:07.581Z,50.4321,178.8241,1,3.6,ml,,,,0.54,ak,ak024gjpnxra,2024-12-26T00:33:55.591Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.8,,,reviewed,ak,ak
-2024-12-25T20:38:58.050Z,18.056166666667,-66.831166666667,23.21,2.01,md,9,110,0.09051,0.1,pr,pr71469393,2024-12-25T21:05:49.630Z,"3 km NE of Yauco, Puerto Rico",earthquake,0.4,0.92,0.0099834137170065,4,reviewed,pr,pr
-2024-12-25T20:33:13.946Z,39.0981,-119.0129,10.3,2.1,ml,24,63.38,0.052,0.1993,nn,nn00890553,2024-12-26T02:05:24.246Z,"18 km NE of Yerington, Nevada",earthquake,,1,0.29,11,reviewed,nn,nn
