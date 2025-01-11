@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-11T11:27:45.430Z,33.0153333,-116.2373333,6.17,0.7,ml,34,36,0.1516,0.2,ci,ci40837863,2025-01-11T11:31:53.224Z,"17 km SW of Ocotillo Wells, CA",earthquake,0.21,1.44,0.099,9,automatic,ci,ci
 2025-01-11T11:18:11.710Z,38.818832397461,-122.82516479492,2.8900001049042,1.07,md,11,70,0.008814,0.02,nc,nc75115831,2025-01-11T11:19:47.766Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.660000026,0.27,13,automatic,nc,nc
 2025-01-11T11:04:53.470Z,38.829833984375,-122.81800079346,1.6499999761581,1.28,md,20,48,0.008926,0.01,nc,nc75115826,2025-01-11T11:22:14.595Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.49000001,0.18,22,automatic,nc,nc
 2025-01-11T11:02:25.040Z,38.826000213623,-122.84383392334,1.7699999809265,0.76,md,14,96,0.007456,0.02,nc,nc75115821,2025-01-11T11:04:02.595Z,"9 km NW of The Geysers, CA",earthquake,0.27,0.579999983,0.16,14,automatic,nc,nc
