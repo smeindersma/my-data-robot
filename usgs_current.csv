@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-18T16:07:35.000Z,17.925333333333,-66.841,9.9,3.1,md,29,186,0.05354,0.11,pr,pr71471038,2025-01-18T17:33:31.040Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.32,0.3,0.18892277180636,21,reviewed,pr,pr
 2025-01-18T16:07:06.228Z,39.7374,-120.6287,8.3,1.1,ml,8,162.48,0.244,0.1465,nn,nn00892177,2025-01-18T16:09:14.020Z,"3 km SSW of Graeagle, California",earthquake,,3,0.28,3,automatic,nn,nn
 2025-01-18T16:03:33.200Z,47.671501159668,-120.12049865723,2.960000038147,1.943821310997,ml,12,114,0.05146,0.0399999991,uw,uw62062797,2025-01-18T20:28:55.990Z,"4 km NW of Waterville, Washington",earthquake,0.35,1.25999999,0.38247352838516,10,reviewed,uw,uw
-2025-01-18T15:55:24.301Z,-31.2521,-68.8654,122.269,4.2,mb,30,123,0.331,1.01,us,us6000pkya,2025-01-18T16:50:54.040Z,"35 km NNW of Villa Basilio Nievas, Argentina",earthquake,6.43,5.766,0.236,5,reviewed,us,us
