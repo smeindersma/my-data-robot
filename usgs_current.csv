@@ -115,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T04:00:27.640Z,41.863333333333,-112.72,4.87,1.12,md,15,180,0.09316,0.11,uu,uu80099931,2025-01-22T14:15:23.240Z,"11 km S of Snowville, Utah",earthquake,0.41,1.81,0.072030452492214,11,reviewed,uu,uu
 2025-01-22T03:58:00.661Z,60.5094,-151.978,71.1,1.4,ml,,,,0.22,ak,ak02510fyd9e,2025-01-22T03:59:57.202Z,"38 km WSW of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-01-22T03:56:05.630Z,38.4791,-118.4901,8.6,1.7,ml,10,83.79,0.151,0.1522,nn,nn00892366,2025-01-22T20:01:26.651Z,"12 km ESE of Hawthorne, Nevada",earthquake,,1.9,0.38,4,reviewed,nn,nn
-2025-01-22T03:50:06.661Z,39.1602,-119.0435,3.7,1.9,ml,16,44.13,0.01,0.1482,nn,nn00892364,2025-01-22T20:16:49.114Z,"21 km NNE of Yerington, Nevada",earthquake,,1.7,0.22,9,reviewed,nn,nn
+2025-01-22T03:50:06.645Z,39.1591,-119.0425,3.7,1.9,ml,20,44.19,0.01,0.1601,nn,nn00892364,2025-01-22T20:23:01.228Z,"21 km NNE of Yerington, Nevada",earthquake,,1.1,0.34,12,reviewed,nn,nn
 2025-01-22T03:33:20.260Z,35.6861649,-117.5361633,2.68,1.09,ml,16,92,0.09394,0.11,ci,ci40844967,2025-01-22T03:35:46.273Z,"15 km ENE of Ridgecrest, CA",earthquake,0.47,0.64,0.088,4,automatic,ci,ci
 2025-01-22T03:24:23.970Z,48.183333333333,-122.73816666667,23.65,1.09,ml,17,65,0.07722,0.11,uw,uw62071616,2025-01-22T16:55:28.380Z,"5 km SW of Coupeville, Washington",earthquake,0.23,0.51,0.19947627927298,8,reviewed,uw,uw
 2025-01-22T02:47:50.100Z,36.0316667,-117.815,-0.99,1.22,ml,24,91,0.04083,0.2,ci,ci40844943,2025-01-22T02:51:40.840Z,"12 km E of Coso Junction, CA",earthquake,0.23,0.41,0.16,25,automatic,ci,ci
@@ -184,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-21T20:41:54.467Z,38.9828,-119.6884,10.8,2.3,ml,37,32.57,0.084,0.1311,nn,nn00892344,2025-01-22T16:02:56.970Z,"4 km NNE of East Valley, Nevada",earthquake,,0.7,0.27,8,reviewed,nn,nn
 2025-01-21T20:39:15.240Z,38.821166992188,-122.7988357544,1.8300000429153,1.09,md,18,60,0.009056,0.02,nc,nc75120891,2025-01-21T20:40:55.009Z,"6 km NNW of The Geysers, CA",earthquake,0.24,0.409999996,0.14,21,automatic,nc,nc
 2025-01-21T20:38:43.979Z,39.4575,26.2668,10,5,mww,118,22,0.628,0.62,us,us6000plhn,2025-01-22T08:24:57.402Z,"6 km SW of Behram, Turkey",earthquake,5.26,1.844,0.053,34,reviewed,us,us
-2025-01-21T20:28:14.093Z,64.0147,-148.7952,0,1.9,ml,,,,0.83,ak,ak025z2czlt,2025-01-21T20:30:17.242Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-01-21T20:27:45.540Z,35.0871667,-118.305,3.54,1.35,ml,33,41,0.1009,0.19,ci,ci40844599,2025-01-21T23:25:25.090Z,"12 km WNW of Mojave, CA",earthquake,0.2,0.68,0.147,27,reviewed,ci,ci
