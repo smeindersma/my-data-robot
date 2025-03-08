@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-08T12:50:52.190Z,33.4995,-116.4966667,14.49,0.52,ml,27,60,0.1103,0.12,ci,ci41074440,2025-03-08T12:55:37.770Z,"18 km ESE of Anza, CA",earthquake,0.17,0.41,0.054,11,automatic,ci,ci
+2025-03-08T12:37:58.194Z,32.365,-101.922,4.4192,1.2,ml,14,93,0,0.4,tx,tx2025erof,2025-03-08T12:59:59.161Z,"26 km SW of Ackerly, Texas",earthquake,0,1.5912621021271,0.2,12,automatic,tx,tx
 2025-03-08T12:31:09.200Z,38.815498352051,-122.82649993897,2.2999999523163,0.7,md,7,121,0.006943,0.01,nc,nc75144956,2025-03-08T12:47:15.829Z,"7 km NW of The Geysers, CA",earthquake,0.6,0.920000017,0.36,10,automatic,nc,nc
 2025-03-08T12:22:06.900Z,32.6978333,-115.529,3.54,1.25,ml,20,109,0.07744,0.23,ci,ci41074424,2025-03-08T12:25:37.922Z,"4 km NW of Calexico, CA",earthquake,0.27,0.51,0.12,13,automatic,ci,ci
 2025-03-08T12:16:33.783Z,63.5537,-150.7106,8,1.5,ml,,,,0.86,ak,ak0253308yeq,2025-03-08T12:19:52.188Z,"50 km E of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
