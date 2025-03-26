@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-26T11:25:05.450Z,36.564334869385,-121.10666656494,9.0100002288818,1.88,md,35,54,0.05583,0.18,nc,nc75155527,2025-03-26T11:28:23.490Z,"5 km NE of Pinnacles, CA",earthquake,0.32,0.75,0.16,30,automatic,nc,nc
+2025-03-26T11:20:47.530Z,38.793334960938,-122.78316497803,3.2999999523163,0.76,md,15,87,0.003718,0.03,nc,nc75155522,2025-03-26T11:22:25.666Z,"3 km NW of The Geysers, CA",earthquake,0.42,0.779999971,0.07,15,automatic,nc,nc
 2025-03-26T11:04:21.926Z,31.52,-104.012,4.8186,1.9,ml,16,63,0,0.2,tx,tx2025fyig,2025-03-26T11:14:07.493Z,"30 km NW of Toyah, Texas",earthquake,0,1.3734127283096,0.1,13,automatic,tx,tx
 2025-03-26T11:03:24.935Z,65.7389,-155.1615,0.4,1.4,ml,,,,0.61,ak,ak0253wr8yp9,2025-03-26T11:06:23.638Z,"53 km SW of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-26T11:02:33.090Z,19.188833236694,-155.45832824707,30.170000076294,2.03,ml,55,120,0.03344,0.119999997,hv,hv74641742,2025-03-26T11:05:51.290Z,"2 km SE of Pāhala, Hawaii",earthquake,0.42,0.519999981,1.76,9,automatic,hv,hv
