@@ -1,13 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-16T20:39:32.060Z,38.836666107178,-122.83550262451,1.6900000572205,1.09,md,19,54,0.00192,0.02,nc,nc75166466,2025-04-16T20:41:06.564Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.16,19,automatic,nc,nc
+2025-04-16T20:37:19.720Z,38.444332122803,-122.72983551025,15.109999656677,1.72,md,7,131,0.1242,0.26,nc,nc75166456,2025-04-16T20:38:56.736Z,"2 km W of Santa Rosa, CA",earthquake,2.65,2.92000008,0.31,4,automatic,nc,nc
+2025-04-16T20:33:46.370Z,34.2806667,-118.2658333,6.78,1.19,ml,14,63,0.06248,0.1,ci,ci40930463,2025-04-16T20:37:34.972Z,"4 km NE of Sunland, CA",earthquake,0.2,0.54,0.421,33,automatic,ci,ci
 2025-04-16T20:13:44.510Z,36.0215,-117.797,-1.17,1.07,ml,7,121,0.07389,0.14,ci,ci40930423,2025-04-16T20:17:13.845Z,"14 km NE of Little Lake, CA",earthquake,0.44,2.33,0.278,15,automatic,ci,ci
+2025-04-16T20:08:17.767Z,-33.6543,-179.1368,35,4.7,mb,41,176,4.42,0.98,us,us6000q6lc,2025-04-16T20:35:55.040Z,"south of the Kermadec Islands",earthquake,14.25,1.939,0.099,31,reviewed,us,us
 2025-04-16T20:07:52.840Z,33.8703333,-117.5053333,1.72,1.25,ml,41,38,0.04668,0.24,ci,ci40930415,2025-04-16T20:12:04.361Z,"2 km ESE of Home Gardens, CA",earthquake,0.26,0.37,0.289,31,automatic,ci,ci
 2025-04-16T20:03:34.320Z,35.1905,-120.244,-0.1,2.19,ml,35,54,0.1303,0.23,ci,ci40930399,2025-04-16T20:07:12.783Z,"27 km NE of Nipomo, CA",earthquake,0.24,0.53,0.108,27,automatic,ci,ci
 2025-04-16T19:44:39.410Z,46.617832183838,-119.8004989624,6.789999961853,1.5658421516418,ml,11,66,,0.0399999991,uw,uw62092426,2025-04-16T19:46:42.850Z,"11 km SE of Desert Aire, Washington",earthquake,0.35,0.289999992,0.27302312850952,8,automatic,uw,uw
 2025-04-16T19:30:36.660Z,33.8611667,-117.5075,1.35,1.25,ml,41,43,0.04688,0.18,ci,ci40930351,2025-04-16T19:35:11.402Z,"2 km SSE of Home Gardens, CA",earthquake,0.2,0.3,0.289,38,automatic,ci,ci
 2025-04-16T19:21:00.822Z,34.1706,86.4226,10,4.1,mb,36,103,6.426,0.87,us,us6000q6l4,2025-04-16T19:41:06.040Z,"western Xizang",earthquake,8.72,1.927,0.135,15,reviewed,us,us
-2025-04-16T18:59:21.600Z,32.1398333,-116.0521667,16.38,3.65,ml,35,46,0.1611,0.22,ci,ci40930319,2025-04-16T20:32:51.716Z,"61 km ENE of Ensenada, B.C., MX",earthquake,0.27,1.23,0.168,183,reviewed,ci,ci
+2025-04-16T18:59:21.600Z,32.1398333,-116.0521667,16.38,3.65,ml,35,46,0.1611,0.22,ci,ci40930319,2025-04-16T20:43:19.259Z,"61 km ENE of Ensenada, B.C., MX",earthquake,0.27,1.23,0.168,183,reviewed,ci,ci
 2025-04-16T18:57:51.552Z,-0.6994,127.5452,10,4.6,mb,42,62,1.472,1.17,us,us6000q6l0,2025-04-16T19:17:03.040Z,"11 km SE of Labuha, Indonesia",earthquake,6.85,1.903,0.117,22,reviewed,us,us
-2025-04-16T18:34:18.170Z,33.467,-116.5561667,11.44,1.01,ml,39,48,0.04736,0.19,ci,ci40930287,2025-04-16T18:39:24.493Z,"15 km SE of Anza, CA",earthquake,0.21,0.44,0.256,29,automatic,ci,ci
+2025-04-16T18:34:18.170Z,33.467,-116.5561667,11.44,1.01,ml,39,48,0.04736,0.19,ci,ci40930287,2025-04-16T20:42:05.870Z,"15 km SE of Anza, CA",earthquake,0.21,0.44,0.256,29,reviewed,ci,ci
 2025-04-16T18:14:00.081Z,11.7508,141.6119,38.462,4.9,mb,78,68,3.666,0.7,us,us6000q6kv,2025-04-16T18:58:05.040Z,"249 km NNE of Fais, Micronesia",earthquake,9.04,7.329,0.055,103,reviewed,us,us
 2025-04-16T18:06:36.930Z,19.339333333333,-155.17833333333,6.47,2.48,ml,48,80,0.04081,0.12,hv,hv74654562,2025-04-16T19:59:19.710Z,"12 km SSE of Volcano, Hawaii",earthquake,0.3,0.54,0.22818561551044,37,reviewed,hv,hv
 2025-04-16T18:02:11.241Z,62.4338,-148.125,28.2,2.2,ml,,,,0.52,ak,ak0254vlp1j8,2025-04-16T18:03:54.344Z,"73 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -82,7 +86,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T11:48:02.090Z,33.2386667,-116.7781667,15.33,0.29,ml,19,55,0.01648,0.13,ci,ci40929879,2025-04-16T17:04:50.896Z,"1 km WSW of Lake Henshaw, CA",earthquake,0.22,0.49,0.073,12,reviewed,ci,ci
 2025-04-16T11:38:12.970Z,61.519666666667,-152.006,4.75,0.83,ml,9,139,0.08482,0.13,av,av93576946,2025-04-16T20:11:49.650Z,"61 km SSW of Skwentna, Alaska",earthquake,0.44,2.39,0.25119410590409,9,reviewed,av,av
 2025-04-16T11:37:40.490Z,33.5038338,-116.4376678,8.05,0.76,ml,21,74,0.1378,0.15,ci,ci40929871,2025-04-16T13:46:16.059Z,"21 km SSW of La Quinta, CA",earthquake,0.37,2.07,0.117,7,reviewed,ci,ci
-2025-04-16T11:37:04.561Z,64.9495,-147.7709,12.9,1,ml,,,,0.73,ak,ak0254vhqhug,2025-04-16T11:39:19.189Z,"5 km NW of Farmers Loop, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-16T11:31:31.758Z,62.9644,-150.9399,108.6,1.9,ml,,,,0.24,ak,ak0254vhp9nb,2025-04-16T11:33:49.888Z,"52 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-04-16T11:26:44.370Z,33.0595016,-116.591835,13.6,0.85,ml,18,55,0.02195,0.09,ci,ci40929863,2025-04-16T13:46:18.162Z,"2 km SSE of Julian, CA",earthquake,0.36,0.65,0.143,5,reviewed,ci,ci
 2025-04-16T11:26:01.460Z,33.0463333,-116.5746689,13.95,0.81,ml,17,88,0.03954,0.21,ci,ci40929855,2025-04-16T13:46:22.517Z,"4 km SE of Julian, CA",earthquake,0.49,1.05,0.545,2,reviewed,ci,ci
@@ -199,7 +202,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T02:01:53.890Z,32.118,-101.043,7.1533,1.5,ml,20,70,0.2,0.1,tx,tx2025hjzw,2025-04-16T16:05:40.840Z,"26 km S of Westbrook, Texas",earthquake,0.88217744285669,1.556408139013,0.2,22,reviewed,tx,tx
 2025-04-16T01:57:30.393Z,63.026,-149.0562,77,1.7,ml,,,,0.87,ak,ak0254vbwi35,2025-04-16T02:00:39.053Z,"41 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-16T01:50:46.442Z,39.373,-119.7441,5.6,0.3,ml,7,172.32,0.023,0.0759,nn,nn00896310,2025-04-16T15:15:49.909Z,"10 km NW of Virginia City, Nevada",earthquake,,1.3,0.35,3,reviewed,nn,nn
-2025-04-16T01:49:42.768Z,64.9834,-149.1365,21.2,1,ml,,,,1.31,ak,ak0254vbutc4,2025-04-16T01:51:53.503Z,"21 km SSE of Minto, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-04-16T01:48:53.888Z,39.3741,-119.7464,6.2,0.7,ml,8,171.86,0.021,0.1462,nn,nn00896309,2025-04-16T15:12:44.385Z,"10 km NW of Virginia City, Nevada",earthquake,,1.2,0.24,6,reviewed,nn,nn
 2025-04-16T01:47:48.566Z,39.3733,-119.7434,6.9,1,ml,15,84.6,0.024,0.1495,nn,nn00896286,2025-04-16T15:06:35.163Z,"10 km NW of Virginia City, Nevada",earthquake,,0.8,0.32,7,reviewed,nn,nn
 2025-04-16T01:42:59.982Z,-47.8431,99.7581,10,6.6,mww,61,49,19.334,0.65,us,us6000q6cs,2025-04-16T16:55:03.040Z,"southeast Indian Ridge",earthquake,10.95,1.856,0.093,11,reviewed,us,us
@@ -269,5 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-15T21:06:26.660Z,34.0538333,-117.1218333,9.97,0.92,ml,37,50,0.01992,0.2,ci,ci40929167,2025-04-15T21:16:16.232Z,"2 km SSE of Mentone, CA",earthquake,0.23,0.36,0.251,25,automatic,ci,ci
 2025-04-15T21:02:30.790Z,33.1476667,-115.9506667,6.53,1.67,ml,64,36,0.03434,0.2,ci,ci40929143,2025-04-15T21:13:23.400Z,"17 km S of Salton City, CA",earthquake,0.14,0.46,0.159,27,automatic,ci,ci
 2025-04-15T20:46:59.606Z,59.6534,-152.2882,67.3,1.5,ml,,,,0.34,ak,ak0254tzm3hk,2025-04-15T20:48:29.074Z,"29 km WSW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-04-15T20:40:33.240Z,45.067166666667,-111.75333333333,-2,1.58,ml,11,108,0.1046,0.23,mb,mb90078888,2025-04-16T14:19:28.010Z,"29 km SSE of Virginia City, Montana",quarry blast,1.62,31.61,0.16028967790831,23,reviewed,mb,mb
-2025-04-15T20:39:42.314Z,-60.6135,-26.5149,10,4.9,mb,64,100,8.31,1.02,us,us6000q6b9,2025-04-15T21:06:43.040Z,"South Sandwich Islands region",earthquake,12.57,1.852,0.084,45,reviewed,us,us
