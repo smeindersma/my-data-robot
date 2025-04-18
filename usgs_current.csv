@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-18T23:22:02.430Z,38.786998748779,-122.735496521,1.4299999475479,0.86,md,13,105,0.003877,0.02,nc,nc75167786,2025-04-18T23:23:38.637Z,"2 km ENE of The Geysers, CA",earthquake,0.28,0.519999981,0.22,13,automatic,nc,nc
 2025-04-18T23:09:00.919Z,62.3463,-151.2713,7.8,1.3,ml,,,,0.27,ak,ak0254yzsdrf,2025-04-18T23:10:45.512Z,"31 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-18T23:06:51.062Z,60.492,-152.382,105.9,1.3,ml,,,,0.34,ak,ak0254yzruhi,2025-04-18T23:10:42.793Z,"59 km WSW of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-04-18T22:57:28.500Z,33.2975006,-116.4876633,5.27,1.37,ml,11,127,0.3189,0.3,ci,ci40932535,2025-04-18T22:59:31.936Z,"11 km WNW of Borrego Springs, CA",earthquake,0.9,5.72,0.504,15,automatic,ci,ci
@@ -37,6 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-18T19:31:58.400Z,38.80583190918,-122.82633209228,2.2400000095367,0.93,md,22,71,0.00376,0.03,nc,nc75167676,2025-04-18T19:52:18.197Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.460000008,0.21,24,automatic,nc,nc
 2025-04-18T19:18:23.838Z,16.3504,-98.6529,10,4.6,mb,122,173,1.208,0.46,us,us6000q72t,2025-04-18T19:48:53.256Z,"16 km WSW of San Nicolás, Mexico",earthquake,8.22,1.913,0.035,248,reviewed,us,us
 2025-04-18T19:07:18.699Z,61.7508,-146.9948,34.7,1.7,ml,,,,0.72,ak,ak0254yxe9a5,2025-04-18T19:09:30.830Z,"22 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-04-18T19:00:06.930Z,47.822666666667,-121.98116666667,-0.33,1.62,ml,7,125,0.02639,0.13,uw,uw62094206,2025-04-18T23:27:43.830Z,"3 km SSW of Monroe, Washington",explosion,0.52,31.61,0.050320646792662,3,reviewed,uw,uw
 2025-04-18T18:58:44.260Z,46.009166666667,-112.454,-2,1.54,ml,10,132,0.06993,0.11,mb,mb90079283,2025-04-18T19:47:12.120Z,"6 km E of Butte, Montana",quarry blast,0.41,31.61,0.31467572375466,23,reviewed,mb,mb
 2025-04-18T18:41:43.360Z,55.3894,164.403,10,5.4,mww,223,81,4.126,0.7,us,us6000q72m,2025-04-18T21:12:17.599Z,"152 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,7.64,1.823,0.073,18,reviewed,us,us
 2025-04-18T18:40:01.587Z,55.5018,164.3516,10,4.8,mb,152,29,4.164,0.81,us,us6000q72k,2025-04-18T19:17:50.040Z,"142 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,7.58,1.831,0.035,264,reviewed,us,us
@@ -288,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-17T23:49:29.465Z,36.7725,-116.2554,9.9,0.5,ml,32,40.12,0.047,0.0798,nn,nn00896388,2025-04-18T02:05:38.219Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.32,11,reviewed,nn,nn
 2025-04-17T23:46:53.340Z,48.240333333333,-121.65633333333,10.92,1.61,ml,16,62,0.03504,0.22,uw,uw62093701,2025-04-18T19:44:41.570Z,"4 km WSW of Darrington, Washington",earthquake,0.34,0.89,0.12840611310246,10,reviewed,uw,uw
 2025-04-17T23:45:15.600Z,36.746166229248,-121.45133209228,5.1700000762939,2.01,md,44,43,0.01813,0.18,nc,nc75167291,2025-04-18T02:17:18.144Z,"11 km WSW of Ridgemark, CA",earthquake,0.3,0.589999974,0.18,35,automatic,nc,nc
-2025-04-17T23:32:40.140Z,35.9781667,-117.5151667,2.75,0.8,ml,11,92,0.1138,0.16,ci,ci40931623,2025-04-17T23:36:03.435Z,"26 km NNW of Searles Valley, CA",earthquake,0.46,1.48,0.13,8,automatic,ci,ci
