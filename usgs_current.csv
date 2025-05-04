@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-04T19:26:23.970Z,36.501335144043,-120.99749755859,7.5199999809265,2.01,md,31,68,0.067,0.22,nc,nc75176431,2025-05-04T19:28:01.026Z,"13 km ESE of Pinnacles, CA",earthquake,0.37,1.25,0.19,31,automatic,nc,nc
 2025-05-04T18:53:13.189Z,-15.4337,-174.9147,233.848,4.5,mb,41,66,3.389,0.62,us,us7000px4i,2025-05-04T19:11:33.040Z,"133 km WNW of Hihifo, Tonga",earthquake,11.78,4.894,0.09,36,reviewed,us,us
 2025-05-04T18:50:53.132Z,62.2409,-150.729,60.8,1.4,ml,,,,0.78,ak,ak0255pdno0x,2025-05-04T18:53:03.113Z,"27 km WSW of Trapper Creek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-05-04T18:20:57.160Z,38.82799911499,-122.85749816894,2.4900000095367,0.69,md,13,97,0.0006664,0.02,nc,nc75176416,2025-05-04T18:52:17.826Z,"10 km NW of The Geysers, CA",earthquake,0.38,0.629999995,0.26,14,automatic,nc,nc
@@ -192,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-03T19:39:33.480Z,38.829498291016,-122.8073348999,1.9299999475479,0.75,md,14,43,0.006459,0.02,nc,nc75176061,2025-05-03T20:37:15.912Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.99000001,0.14,15,automatic,nc,nc
 2025-05-03T19:39:31.556Z,39.1504,-119.0624,9.5,0.9,ml,9,66.59,0.026,0.0922,nn,nn00897186,2025-05-03T19:41:36.266Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.36,4,automatic,nn,nn
 2025-05-03T19:37:00.320Z,36.821334838867,-121.55533599853,5.4400000572205,2.18,md,47,48,0.02787,0.16,nc,nc75176056,2025-05-03T20:17:19.779Z,"3 km SW of San Juan Bautista, CA",earthquake,0.28,0.419999987,0.11,40,automatic,nc,nc
-2025-05-03T19:21:08.780Z,38.795333862305,-122.78283691406,3.2799999713898,0.81,md,19,76,0.004516,0.02,nc,nc75176051,2025-05-03T19:47:21.553Z,"3 km NW of The Geysers, CA",earthquake,0.33,0.649999976,0.14,21,automatic,nc,nc
