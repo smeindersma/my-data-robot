@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-20T20:43:15.150Z,35.878,-117.701,7.71,1.56,ml,29,46,0.08096,0.14,ci,ci40971391,2025-05-20T20:46:52.157Z,"20 km ESE of Little Lake, CA",earthquake,0.15,0.49,0.33,26,automatic,ci,ci
+2025-05-20T20:38:43.108Z,31.964,-101.131,2.5291,1.6,ml,24,99,0,0.5,tx,tx2025jvod,2025-05-20T20:46:17.341Z,"19 km NW of Sterling City, Texas",earthquake,0,1.3351253271103,0.2,14,automatic,tx,tx
 2025-05-20T20:36:27.173Z,64.9358,-147.7623,1.1,0.9,ml,,,,0.98,ak,ak0256fvd13x,2025-05-20T20:37:51.253Z,"4 km NW of Farmers Loop, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2025-05-20T20:22:36.637Z,60.8967,-150.528,35,1.8,ml,,,,0.33,ak,ak0256fva1tb,2025-05-20T20:24:24.831Z,"9 km ESE of Point Possession, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-05-20T20:22:26.438Z,60.0593,-151.876,47.7,1.9,ml,,,,0.87,ak,ak0256fva10z,2025-05-20T20:24:20.877Z,"11 km W of Ninilchik, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -207,5 +209,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T21:16:26.550Z,44.407166666667,-110.4915,2.08,0.84,md,6,144,0.04136,0.16,uu,uu80108756,2025-05-19T22:34:21.200Z,"56 km ESE of West Yellowstone, Montana",earthquake,0.78,10.03,0.19759548163161,6,reviewed,uu,uu
 2025-05-19T21:15:55.740Z,38.835666656494,-122.78216552734,1.7799999713898,0.73,md,10,72,0.00695,0.02,nc,nc75183796,2025-05-19T21:32:17.001Z,"5 km WNW of Cobb, CA",earthquake,0.48,0.779999971,0.06,12,automatic,nc,nc
 2025-05-19T21:14:48.140Z,17.902666666667,-66.845333333333,14.9,2.52,md,10,232,0.07271,0.1,pr,pr71482873,2025-05-19T21:30:03.960Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.66,0.56,0.11556191802607,4,reviewed,pr,pr
+2025-05-19T21:12:01.640Z,61.201333333333,-152.30483333333,4.96,-0.97,ml,6,153,0.01793,0.07,av,av93612536,2025-05-20T20:48:52.030Z,"64 km WNW of Tyonek, Alaska",earthquake,0.39,0.61,0.21106172356472,6,reviewed,av,av
 2025-05-19T21:10:52.720Z,44.403833333333,-110.4915,2.06,0.95,md,5,122,0.04007,0.17,uu,uu80108751,2025-05-19T22:37:04.890Z,"56 km ESE of West Yellowstone, Montana",earthquake,0.91,11.43,0.35784604449343,4,reviewed,uu,uu
-2025-05-19T20:47:49.660Z,38.814666748047,-122.78533172607,1.5700000524521,1.32,md,24,53,0.003893,0.02,nc,nc75183786,2025-05-19T21:12:16.879Z,"5 km NNW of The Geysers, CA",earthquake,0.2,0.319999993,0.13,25,automatic,nc,nc
