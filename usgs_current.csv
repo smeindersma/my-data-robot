@@ -286,4 +286,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-06T18:08:44.780Z,34.0526667,-117.2616667,17.06,0.88,ml,18,85,0.09116,0.13,ci,ci41177216,2025-06-06T19:58:37.497Z,"0 km N of Loma Linda, CA",earthquake,0.28,0.5,0.259,14,reviewed,ci,ci
 2025-06-06T18:07:46.560Z,37.286666666667,-119.64366666667,22.5,2.03,md,10,100,0.1549,0.11,nc,nc75191886,2025-06-06T18:54:46.781Z,"5 km S of Oakhurst, CA",earthquake,0.37,0.8,0.153,8,reviewed,nc,nc
 2025-06-06T18:00:09.339Z,-18.848,65.4299,10,4.6,mb,69,68,2.145,0.5,us,us6000qihn,2025-06-06T18:31:16.040Z,"230 km ENE of Port Mathurin, Mauritius",earthquake,10.98,1.859,0.072,60,reviewed,us,us
-2025-06-06T17:58:05.950Z,58.246833333333,-155.145,3.02,-0.78,ml,4,247,0.04232,0.06,av,av93043884,2025-06-07T02:27:06.710Z,"85 km NNW of Karluk, Alaska",earthquake,0.63,0.71,0.1866851903645,4,reviewed,av,av
