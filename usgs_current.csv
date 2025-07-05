@@ -190,7 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-04T15:12:11.282Z,31.607,-103.956,5.2038,1.5,ml,39,47,0,0.4,tx,tx2025naxvju,2025-07-04T15:18:54.559Z,"35 km WSW of Mentone, Texas",earthquake,0,1.7054370641708,0.2,28,automatic,tx,tx
 2025-07-04T15:09:09.280Z,33.6683333,-118.2418333,3.95,1.7,ml,45,91,0.06189,0.27,ci,ci41014151,2025-07-04T15:12:43.571Z,"9 km SSE of San Pedro, CA",earthquake,0.28,1.02,0.182,31,automatic,ci,ci
 2025-07-04T14:51:07.419Z,32.016,-103.801,4.8784,1.2,ml,9,70,0,0.5,tx,tx2025naxdvo,2025-07-04T15:00:15.014Z,"34 km SE of Malaga, New Mexico",earthquake,0,2.0397453308105,0.4,6,automatic,tx,tx
-2025-07-04T14:48:47.670Z,33.7461667,-116.7918333,7.93,0.86,ml,40,47,0.06372,0.14,ci,ci41014119,2025-07-04T14:52:46.282Z,"7 km W of Idyllwild, CA",earthquake,0.13,0.38,0.227,27,automatic,ci,ci
-2025-07-04T14:43:12.450Z,58.172333333333,-155.36283333333,2.13,-0.05,ml,7,126,0.04202,0.09,av,av93657366,2025-07-05T01:16:35.610Z,"86 km NW of Karluk, Alaska",earthquake,0.27,0.47,0.099298616940915,7,reviewed,av,av
-2025-07-04T14:42:57.010Z,33.479,-116.4515,12.1,0.81,ml,51,50,0.1269,0.2,ci,ci41014111,2025-07-04T14:46:53.537Z,"22 km ESE of Anza, CA",earthquake,0.18,0.53,0.133,25,automatic,ci,ci
-2025-07-04T14:42:44.502Z,31.52,-104.626,5,1.8,ml,20,264,0.2,1.2,tx,tx2025nawwmp,2025-07-04T15:00:44.067Z,"56 km NNE of Van Horn, Texas",earthquake,0,,0.4,8,automatic,tx,tx
