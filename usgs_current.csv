@@ -251,7 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-23T06:08:47.120Z,33.039,-116.4238333,9.84,0.7,ml,32,87,0.04006,0.18,ci,ci41029471,2025-07-23T13:45:02.699Z,"17 km ESE of Julian, CA",earthquake,0.24,0.43,0.144,12,reviewed,ci,ci
 2025-07-23T06:01:04.179Z,61.3581,-151.0352,60.1,1.2,ml,,,,0.62,ak,ak0259dh7mep,2025-07-23T06:03:31.640Z,"24 km N of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-07-23T05:59:49.100Z,46.8505,-121.7615,-0.61,0.17,ml,15,80,0.02159,0.06,uw,uw62148877,2025-07-23T20:31:22.120Z,"22 km ENE of Ashford, Washington",earthquake,0.2,0.52,0.089957971791685,10,reviewed,uw,uw
-2025-07-23T05:56:40.746Z,32.749,-100.657,8.96,1.9,ml,23,80,0.1,0.1,tx,tx2025ojcgao,2025-07-23T08:07:38.864Z,"15 km NE of Hermleigh, Texas",earthquake,0.54817300785021,0.89016989516989,0.2,16,reviewed,tx,tx
-2025-07-23T05:56:02.142Z,54.5697,-159.9193,33.953,3.4,ml,29,195,0.324,1.07,us,us6000quay,2025-07-23T15:35:30.956Z,"93 km SSE of Sand Point, Alaska",earthquake,7.87,12.79,0.069,28,reviewed,us,us
-2025-07-23T05:53:25.856Z,61.3014,-152.436,0,1,ml,,,,0.87,ak,ak0259dgxdpl,2025-07-24T01:31:12.770Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-07-23T05:52:35.385Z,32.052,-103.745,8.1635,1.2,ml,27,65,0,0.2,tx,tx2025ojccll,2025-07-23T08:34:33.741Z,"36 km ESE of Malaga, New Mexico",earthquake,0.5720967391892,0.54719529635718,0.1,13,reviewed,tx,tx
