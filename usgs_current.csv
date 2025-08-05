@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-04T23:57:15.690Z,38.834331512451,-122.81649780273,1.6100000143051,0.79,md,14,109,0.01202,0.03,nc,nc75219242,2025-08-04T23:58:51.732Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.699999988,0.15,15,automatic,nc,nc
 2025-08-04T23:44:42.380Z,35.0296667,-117.6878333,0.49,1.53,ml,28,64,0.09531,0.18,ci,ci41253104,2025-08-04T23:48:24.867Z,"5 km NW of Boron, CA",earthquake,0.36,0.69,0.148,31,automatic,ci,ci
 2025-08-04T23:18:43.690Z,38.833999633789,-122.83666992188,8.289999961853,0.77,md,7,198,0.004675,0.06,nc,nc75219237,2025-08-04T23:20:21.362Z,"9 km NW of The Geysers, CA",earthquake,1.78,7.78000021,0.51,7,automatic,nc,nc
 2025-08-04T23:15:21.750Z,33.1941667,-116.032,5.57,0.69,ml,34,57,0.04995,0.19,ci,ci41253080,2025-08-04T23:18:50.668Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.18,0.42,0.177,11,automatic,ci,ci
