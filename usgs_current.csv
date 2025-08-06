@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T19:00:23.688Z,60.374,-150.6658,32.9,1.6,ml,,,,0.66,ak,ak025a0ugxz4,2025-08-06T19:03:34.329Z,"15 km SSE of Funny River, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-08-06T18:53:27.360Z,33.2713333,-116.4173333,4.47,0.52,ml,23,75,0.003128,0.18,ci,ci41255016,2025-08-06T19:44:33.183Z,"4 km WNW of Borrego Springs, CA",earthquake,0.22,0.34,0.103,11,reviewed,ci,ci
 2025-08-06T18:48:50.940Z,17.929166666667,-66.912666666667,11.61,1.71,md,7,244,0.04297,0.09,pr,pr71491798,2025-08-06T19:11:56.960Z,"4 km S of Guánica, Puerto Rico",earthquake,0.88,0.26,0.0077267896059084,2,reviewed,pr,pr
-2025-08-06T18:38:57.240Z,62.4466,-151.2159,84.4,4.6,ml,,,,0.83,ak,ak025a0u3q2q,2025-08-06T22:31:12.891Z,"23 km WSW of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-08-06T18:38:57.240Z,62.4466,-151.2159,84.4,4.6,ml,,,,0.83,ak,ak025a0u3q2q,2025-08-06T22:53:57.360Z,"23 km WSW of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-08-06T18:38:36.403Z,29.7198,138.4394,487.37,4.3,mb,37,160,5.577,0.54,us,us6000qypv,2025-08-06T19:06:16.040Z,"Izu Islands, Japan region",earthquake,14.73,11.184,0.106,25,reviewed,us,us
 2025-08-06T18:35:28.960Z,35.0598333,-118.3385,4.03,1.32,ml,34,33,0.06912,0.25,ci,ci41254984,2025-08-06T19:44:50.157Z,"13 km SE of Tehachapi, CA",quarry blast,0.27,1,0.166,28,automatic,ci,ci
 2025-08-06T18:31:38.340Z,36.330833333333,-89.474666666667,6.72,1.61,md,16,64,0.03446,0.06,nm,nm60612516,2025-08-06T21:15:56.289Z,"5 km S of Tiptonville, Tennessee",earthquake,0.24,0.53,0.055324303819798,12,reviewed,nm,nm
@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T16:58:45.960Z,38.749500274658,-122.72116851807,13.75,1.33,md,4,167,0.01242,0.01,nc,nc75220127,2025-08-06T17:00:19.372Z,"4 km SW of Anderson Springs, CA",earthquake,3.88,1.84000003,0.56,5,automatic,nc,nc
 2025-08-06T16:58:38.452Z,62.2839,-149.1754,36.2,1.2,ml,,,,0.82,ak,ak025a0t13tx,2025-08-06T18:53:34.945Z,"37 km ENE of Susitna North, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2025-08-06T16:57:39.120Z,33.0158333,-116.3693333,3.13,0.94,ml,35,68,0.08428,0.21,ci,ci41254872,2025-08-06T17:01:54.751Z,"23 km ESE of Julian, CA",earthquake,0.25,1.01,0.145,18,automatic,ci,ci
-2025-08-06T16:56:19.277Z,13.8584,144.7876,119.719,4.7,mb,44,62,0.279,0.68,us,us6000qync,2025-08-06T20:57:59.534Z,"37 km NNW of Yigo Village, Guam",earthquake,8.75,4.841,0.072,59,reviewed,us,us
+2025-08-06T16:56:19.277Z,13.8584,144.7876,119.719,4.7,mb,44,62,0.279,0.68,us,us6000qync,2025-08-06T22:46:32.778Z,"37 km NNW of Yigo Village, Guam",earthquake,8.75,4.841,0.072,59,reviewed,us,us
 2025-08-06T16:45:44.104Z,32.157,-101.73,0.8232,2.3,ml,8,182,0.1,0.5,tx,tx2025pjpxqs,2025-08-06T17:00:42.788Z,"6 km ENE of Stanton, Texas",earthquake,0,3.1244697570801,0.3,7,automatic,tx,tx
 2025-08-06T16:42:53.720Z,36.7214,-116.3085,8.3,0.2,ml,26,90.16,0.013,0.0975,nn,nn00902204,2025-08-06T19:19:41.082Z,"45 km ESE of Beatty, Nevada",earthquake,,0.7,0.54,6,reviewed,nn,nn
 2025-08-06T16:40:42.480Z,-23.9806,-66.6872,204.332,4.5,mb,28,58,1.71,0.71,us,us6000qymz,2025-08-06T22:43:54.040Z,"45 km NW of San Antonio de los Cobres, Argentina",earthquake,8.99,3.866,0.125,19,reviewed,us,us
@@ -261,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T23:10:31.440Z,38.831,-122.81566666667,1.51,0.31,md,18,49,0.008761,0.02,nc,nc75219762,2025-08-06T00:44:29.873Z,"8 km NNW of The Geysers, CA",earthquake,0.22,0.5,0.119,16,reviewed,nc,nc
 2025-08-05T22:59:27.883Z,61.1499,-151.121,53.8,2.8,ml,,,,0.29,ak,ak0259z92ju9,2025-08-06T02:02:34.040Z,"2 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-05T22:57:33.890Z,33.9978333,-116.6861667,16.8,1.37,ml,40,28,0.05152,0.13,ci,ci41254104,2025-08-06T21:21:15.470Z,"11 km WSW of Morongo Valley, CA",earthquake,0.16,0.39,0.214,24,reviewed,ci,ci
-2025-08-05T22:52:48.020Z,60.051833333333,-153.11383333333,-0.78,-0.81,ml,5,136,0.01458,0.28,av,av93703878,2025-08-06T03:00:07.490Z,"62 km ENE of Pedro Bay, Alaska",earthquake,1.05,3.82,0.26626139725491,5,reviewed,av,av
