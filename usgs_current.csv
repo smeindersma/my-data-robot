@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-16T15:25:53.134Z,32.417,-101.901,4.356,1.1,ml,24,65,0,0.5,tx,tx2025qbwnqp,2025-08-16T15:29:27.146Z,"21 km SW of Ackerly, Texas",earthquake,0,1.0168733596802,0.2,15,automatic,tx,tx
 2025-08-16T15:01:12.461Z,60.6051,-148.5366,16.1,1.9,ml,,,,0.64,ak,ak025ahbgvce,2025-08-16T15:03:08.593Z,"20 km SSE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-16T15:00:57.510Z,36.1689987,-118.0373306,1.37,1.38,ml,19,87,0.1564,0.22,ci,ci40400434,2025-08-16T15:04:28.062Z,"13 km SSW of Olancha, CA",earthquake,0.45,2.3,0.28,8,automatic,ci,ci
 2025-08-16T14:06:15.012Z,62.4839,-152.4309,0,1.5,ml,,,,1.43,ak,ak025ahawiil,2025-08-16T14:08:16.187Z,"76 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
