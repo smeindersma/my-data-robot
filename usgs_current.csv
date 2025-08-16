@@ -145,6 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T19:14:08.760Z,32.808,-116.1456667,10.85,2.18,ml,17,75,0.0439,0.17,ci,ci40399594,2025-08-15T19:20:43.506Z,"16 km WNW of Ocotillo, CA",earthquake,0.31,0.65,0.46,20,automatic,ci,ci
 2025-08-15T19:13:30.000Z,47.479666666667,-122.4275,21.76,2.29,ml,33,75,0.05946,0.17,uw,uw62163642,2025-08-16T00:28:17.790Z,"4 km NE of Vashon, Washington",earthquake,0.31,1.02,0.18432777565342,21,reviewed,uw,uw
 2025-08-15T19:09:12.700Z,54.753166666667,-163.982,-0.72,0.28,ml,5,92,0.04468,0.11,av,av93048279,2025-08-15T19:25:07.090Z,"38 km WSW of False Pass, Alaska",earthquake,0.27,0.33,0.39170268420544,5,reviewed,av,av
+2025-08-15T19:06:42.879Z,49.1665,156.2778,31.914,4.5,mb,103,155,4.141,0.74,us,us6000r1hq,2025-08-16T14:53:51.040Z,"168 km S of Severo-Kuril’sk, Russia",earthquake,11.77,6.05,0.057,97,reviewed,us,us
 2025-08-15T19:04:36.310Z,33.8626667,-117.5108333,9.5,1.08,ml,30,55,0.04378,0.36,ci,ci40399578,2025-08-15T19:08:08.333Z,"2 km SSE of Home Gardens, CA",earthquake,0.61,1.08,0.238,27,automatic,ci,ci
 2025-08-15T18:57:26.010Z,46.847666666667,-121.76533333333,-2.61,0.28,ml,14,99,0.01922,0.06,uw,uw62163622,2025-08-16T05:22:01.970Z,"22 km ENE of Ashford, Washington",earthquake,0.21,0.38,0.16975479098991,5,reviewed,uw,uw
 2025-08-15T18:54:03.837Z,49.9285,158.7559,10,4.5,mb,124,131,3.1,0.52,us,us6000r1hp,2025-08-15T21:38:21.040Z,"204 km ESE of Severo-Kuril’sk, Russia",earthquake,10.08,1.917,0.052,121,reviewed,us,us
