@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-24T18:33:42.930Z,38.801666259766,-122.82033538818,4.8600001335144,0.74,md,7,101,0.009972,0.01,nc,nc75228157,2025-08-24T18:35:21.929Z,"6 km NW of The Geysers, CA",earthquake,0.95,4.96999979,0.36,8,automatic,nc,nc
+2025-08-24T18:32:48.689Z,32.106,-101.932,4.3224,1.5,ml,33,45,0.1,0.4,tx,tx2025qqunmi,2025-08-24T18:37:31.967Z,"13 km W of Stanton, Texas",earthquake,0,1.0901063680649,0.1,25,automatic,tx,tx
 2025-08-24T18:29:49.140Z,38.828998565674,-122.86949920654,2.6099998950958,0.77,md,12,122,0.009968,0.03,nc,nc75228152,2025-08-24T18:31:26.830Z,"11 km NW of The Geysers, CA",earthquake,0.45,0.620000005,0.14,14,automatic,nc,nc
 2025-08-24T18:22:31.608Z,63.9159,-146.7824,11.1,1.6,ml,,,,0.32,ak,ak025aulohmg,2025-08-24T18:24:08.115Z,"50 km WSW of Whitestone, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-24T18:19:21.594Z,-4.6308,152.4374,104.109,4.8,mb,54,95,0.515,0.87,us,us6000r3i8,2025-08-24T18:34:55.040Z,"36 km SSE of Kokopo, Papua New Guinea",earthquake,9.55,5.786,0.055,102,reviewed,us,us
 2025-08-24T18:12:06.530Z,36.862335205078,-121.60266876221,4.8699998855591,1.99,md,36,59,0.02369,0.17,nc,nc75228147,2025-08-24T18:15:25.730Z,"5 km SE of Aromas, CA",earthquake,0.34,0.589999974,0.16,33,automatic,nc,nc
 2025-08-24T17:57:08.320Z,38.25350189209,-121.76866912842,6.4400000572205,1.9,md,11,173,0.5204,0.27,nc,nc75228142,2025-08-24T17:58:47.597Z,"13 km NNW of Rio Vista, CA",earthquake,1.07,1.74000001,0.11,2,automatic,nc,nc
 2025-08-24T17:52:18.349Z,1.0814,125.7569,71.771,4.4,mb,31,55,0.985,0.79,us,us6000r3i3,2025-08-24T18:27:49.040Z,"80 km ESE of Bitung, Indonesia",earthquake,4.77,7.75,0.121,20,reviewed,us,us
@@ -49,6 +52,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T11:35:11.874Z,34.39071655,-97.46665192,6.64074564,1.96,ml,12,87.65549469,0.02766246535,0.4010927243,ok,ok2025qogd,2025-08-24T11:40:40.589Z,"7 km SSE of Ratliff City, Oklahoma",earthquake,4.17456255,4.814898452,0.18,7,automatic,ok,ok
 2025-08-24T11:30:17.330Z,33.7011667,-116.7418333,16.1,0.36,ml,38,35,0.05024,0.16,ci,ci41273240,2025-08-24T13:18:48.910Z,"5 km SSW of Idyllwild, CA",earthquake,0.19,0.39,0.129,10,reviewed,ci,ci
 2025-08-24T11:21:45.750Z,34.0593333,-117.2548333,12.62,0.72,ml,50,32,0.1198,0.2,ci,ci41273232,2025-08-24T13:18:13.663Z,"1 km NNE of Loma Linda, CA",earthquake,0.18,0.48,0.203,24,reviewed,ci,ci
+2025-08-24T11:12:59.175Z,51.1398,-166.6954,4.2,2.6,ml,,,,0.85,ak,ak025auhgas5,2025-08-24T18:44:10.250Z,"249 km SE of Nikolski, Alaska",earthquake,,4.5,,,reviewed,ak,ak
+2025-08-24T11:12:24.508Z,51.3001,-177.3417,25.6,3.6,ml,,,,0.48,ak,ak025auhgb5h,2025-08-24T18:43:58.343Z,"80 km SW of Adak, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2025-08-24T11:10:46.570Z,38.5442,-116.3634,0.1,1.5,ml,9,248.13,1.125,0.374,nn,nn00903107,2025-08-24T11:13:45.711Z,"92 km NE of Tonopah, Nevada",earthquake,,4.2,0.54,5,automatic,nn,nn
 2025-08-24T11:06:11.301Z,60.4358,-147.8459,16.9,1.5,ml,,,,0.39,ak,ak025auhezd6,2025-08-24T11:08:07.106Z,"42 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-24T11:04:29.993Z,52.4752,160.8558,34.078,4.9,mb,93,117,1.449,0.72,us,us6000r3gu,2025-08-24T11:22:53.040Z,"164 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.1,5.385,0.042,177,reviewed,us,us
