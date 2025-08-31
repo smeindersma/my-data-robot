@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-31T10:41:22.396Z,60.0423,-152.9599,111.1,1.5,ml,,,,0.3,ak,ak025b61si4v,2025-08-31T10:43:10.139Z,"69 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-31T10:36:58.030Z,35.6898333,-117.5376667,4.5,0.44,ml,24,71,0.096,0.16,ci,ci41279944,2025-08-31T10:40:58.345Z,"15 km ENE of Ridgecrest, CA",earthquake,0.23,0.54,0.036,8,automatic,ci,ci
 2025-08-31T10:31:39.718Z,63.2354,-151.0986,0,1.5,ml,,,,0.78,ak,ak025b61qeb7,2025-08-31T10:33:57.402Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-31T10:31:07.782Z,57.1749,-154.7994,100.4,2,ml,,,,1.26,ak,ak025b61qbui,2025-08-31T10:33:52.647Z,"45 km WNW of Akhiok, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-08-31T10:24:53.912Z,63.3512,-149.7711,90.2,1.7,ml,,,,0.4,ak,ak025b61oxe7,2025-08-31T10:27:41.209Z,"41 km W of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
