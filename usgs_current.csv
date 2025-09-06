@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-06T13:34:44.727Z,31.53,-104.156,3.0902,1.6,ml,31,144,0.1,0.4,tx,tx2025rohcke,2025-09-06T13:39:19.372Z,"41 km NW of Toyah, Texas",earthquake,0,1.0710333585739,0.2,22,automatic,tx,tx
+2025-09-06T13:34:06.507Z,31.641,-104.387,4.3397,1.4,ml,18,90,0,0.4,tx,tx2025rohbul,2025-09-06T13:37:44.303Z,"59 km S of Whites City, New Mexico",earthquake,0,1.5971639156342,0.2,13,automatic,tx,tx
 2025-09-06T13:18:04.550Z,19.277000427246,-155.41166687012,30.379999160767,1.89,ml,55,73,0.04151,0.119999997,hv,hv74768642,2025-09-06T13:21:40.450Z,"10 km NE of Pāhala, Hawaii",earthquake,0.39,0.50999999,0.71,8,automatic,hv,hv
 2025-09-06T13:10:16.460Z,33.7151667,-117.482,7.66,1.56,ml,69,42,0.04518,0.21,ci,ci41284744,2025-09-06T13:21:14.700Z,"11 km ENE of Trabuco Canyon, CA",earthquake,0.18,0.42,0.171,30,automatic,ci,ci
 2025-09-06T12:54:08.475Z,32.097,-101.924,3.7741,1.1,ml,29,45,0.1,0.6,tx,tx2025roftke,2025-09-06T12:57:38.752Z,"13 km WSW of Stanton, Texas",earthquake,0,1.0650908946991,0.2,17,automatic,tx,tx
@@ -23,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T11:24:57.960Z,38.834167480469,-122.78350067139,1.8099999427795,1.69,md,26,59,0.006819,0.05,nc,nc75233872,2025-09-06T12:17:21.288Z,"5 km WNW of Cobb, CA",earthquake,0.2,0.300000012,0.16,28,automatic,nc,nc
 2025-09-06T11:02:45.246Z,31.054,-103.674,4.4575,1.4,ml,18,63,0.1,1.4,tx,tx2025rocbbv,2025-09-06T12:01:01.525Z,"10 km NE of Balmorhea, Texas",earthquake,0,1.452290892601,0.1,12,automatic,tx,tx
 2025-09-06T11:02:17.278Z,43.3319,-29.0282,10,4.7,mb,51,123,6.168,0.81,us,us7000qudy,2025-09-06T11:25:20.040Z,"northern Mid-Atlantic Ridge",earthquake,11.09,1.911,0.044,158,reviewed,us,us
-2025-09-06T10:47:32.980Z,38.823665618896,-122.81016540527,2.289999961853,1.31,md,25,56,0.0002795,0.02,nc,nc75233857,2025-09-06T11:42:20.062Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.389999986,0.11,25,automatic,nc,nc
+2025-09-06T10:47:32.980Z,38.823665618896,-122.81016540527,2.289999961853,1.31,md,25,56,0.0002795,0.02,nc,nc75233857,2025-09-06T13:32:18.819Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.389999986,0.11,25,automatic,nc,nc
 2025-09-06T10:45:45.350Z,38.805168151855,-122.81966400147,3.6800000667572,0.84,md,7,155,0.008301,0,nc,nc75233852,2025-09-06T10:47:19.510Z,"6 km NW of The Geysers, CA",earthquake,1.26,1.00999999,0.26,8,automatic,nc,nc
 2025-09-06T10:45:03.700Z,38.807834625244,-122.81716918945,3.6500000953674,0.74,md,8,115,0.009439,0.02,nc,nc75233847,2025-09-06T10:46:39.665Z,"6 km NW of The Geysers, CA",earthquake,0.54,1.30999994,0.24,12,automatic,nc,nc
 2025-09-06T10:42:16.640Z,36.0078316,-118.3633347,1.33,1.88,ml,38,53,0.1496,0.23,ci,ci41284624,2025-09-06T10:53:24.820Z,"29 km N of Kernville, CA",earthquake,0.26,1.01,0.305,27,automatic,ci,ci
