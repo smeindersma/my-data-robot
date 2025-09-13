@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-13T14:33:52.000Z,36.131168365479,-120.27500152588,10.970000267029,1.46,md,13,186,0.01732,0.11,nc,nc75237387,2025-09-13T14:35:29.800Z,"8 km ESE of Coalinga, CA",earthquake,1.22,1.10000002,0.23,6,automatic,nc,nc
 2025-09-13T14:27:23.960Z,35.6538333,-117.418,2.9,-0.21,ml,9,132,0.01218,0.16,ci,ci41290720,2025-09-13T14:30:53.194Z,"13 km S of Searles Valley, CA",earthquake,1.16,0.39,0.071,2,automatic,ci,ci
+2025-09-13T14:20:26.390Z,17.969,-66.831666666667,13.24,2.22,md,12,200,0.03504,0.06,pr,pr71495563,2025-09-13T14:39:35.580Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.64,0.28,0.041602655803558,7,reviewed,pr,pr
 2025-09-13T14:17:56.030Z,19.403999328613,-155.26184082031,1.4800000190735,1.75,ml,18,61,0.006961,0.289999992,hv,hv74775072,2025-09-13T14:20:49.560Z,"5 km SW of Volcano, Hawaii",earthquake,0.33,0.370000005,0.3,16,automatic,hv,hv
 2025-09-13T14:06:27.733Z,29.067,-97.887,6.987,1.5,ml,11,86,0.1,0.4,tx,tx2025sbefvk,2025-09-13T14:09:31.232Z,"15 km NE of Falls City, Texas",earthquake,0,3.7759966850281,0.1,9,automatic,tx,tx
 2025-09-13T14:03:33.790Z,33.4873333,-116.5473333,8.36,0.7,ml,23,55,0.04644,0.11,ci,ci41290704,2025-09-13T14:07:19.084Z,"14 km ESE of Anza, CA",earthquake,0.16,0.37,0.201,17,automatic,ci,ci
