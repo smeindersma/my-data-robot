@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-16T11:20:36.330Z,36.0831667,-117.6271667,2.21,0.68,ml,17,74,0.1147,0.13,ci,ci41292288,2025-09-16T11:26:26.913Z,"29 km E of Coso Junction, CA",earthquake,0.2,0.54,0.173,10,automatic,ci,ci
+2025-09-16T11:19:15.030Z,38.838165283203,-122.82250213623,1.9500000476837,1.37,md,14,90,0.01015,0.01,nc,nc75238362,2025-09-16T11:20:51.654Z,"9 km WNW of Cobb, CA",earthquake,0.27,0.409999996,0.12,15,automatic,nc,nc
 2025-09-16T11:14:35.879Z,59.949,-153.6318,154.5,1.8,ml,,,,0.47,ak,ak025bwitqcj,2025-09-16T11:18:04.620Z,"32 km NE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-16T11:12:48.748Z,32.096,-101.477,4.0327,1.3,ml,5,155,0.1,0.1,tx,tx2025sglquj,2025-09-16T11:17:13.408Z,"10 km W of Forsan, Texas",earthquake,0,2.4993534088135,0.4,5,automatic,tx,tx
 2025-09-16T11:08:55.760Z,38.794166564941,-122.78566741943,3.039999961853,1.43,md,20,78,0.0157,0.04,nc,nc75238347,2025-09-16T11:10:32.466Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.5,0.12,19,automatic,nc,nc
@@ -15,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T09:02:35.518Z,51.9896,-169.7646,10,5.2,mb,106,149,1.13,0.86,us,us7000qwg4,2025-09-16T11:12:50.156Z,"122 km SSW of Nikolski, Alaska",earthquake,6.99,1.893,0.023,644,reviewed,us,us
 2025-09-16T08:59:17.767Z,62.4683,-151.2742,85.9,1.8,ml,,,,0.8,ak,ak025bwhb1cw,2025-09-16T09:01:55.414Z,"26 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-16T08:58:55.280Z,35.894,-117.6776667,2.64,0.61,ml,14,107,0.05817,0.08,ci,ci41292248,2025-09-16T09:02:26.163Z,"21 km ESE of Little Lake, CA",earthquake,0.13,0.23,0.15,9,automatic,ci,ci
+2025-09-16T08:56:09.379Z,29.217,-97.499,7.5303,1.3,ml,16,57,0.1,0.4,tx,tx2025sghdck,2025-09-16T11:23:48.847Z,"14 km ESE of Smiley, Texas",earthquake,1.6988924941264,0.84755096321654,0.1,7,reviewed,tx,tx
 2025-09-16T08:52:36.812Z,59.8641,-151.0463,33.7,2.1,ml,,,,0.48,ak,ak025bwh9ktd,2025-09-16T08:54:11.206Z,"4 km W of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-16T08:44:07.600Z,33.0265,-116.2883333,7.09,0.43,ml,32,108,0.07281,0.17,ci,ci41292240,2025-09-16T08:47:35.094Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.25,0.53,0.077,5,automatic,ci,ci
 2025-09-16T08:39:04.023Z,59.2621,-151.8047,34.4,3.1,ml,,,,0.37,ak,ak025bwh6pyr,2025-09-16T08:49:44.040Z,"10 km S of Port Graham, Alaska",earthquake,,1023.2,,,automatic,ak,ak
@@ -205,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T12:07:08.923Z,61.2726,-146.8522,24.8,2,ml,,,,0.37,ak,ak025buvu9d8,2025-09-15T12:09:00.772Z,"31 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-15T11:54:44.552Z,31.615,-104.097,7.42,2.2,ml,43,56,0,0.2,tx,tx2025sericp,2025-09-15T12:39:11.110Z,"44 km NW of Toyah, Texas",earthquake,0.4044746407263,0.36074689183646,0.2,31,reviewed,tx,tx
 2025-09-15T11:30:12.920Z,38.812666666667,-122.771,1.52,0.63,md,6,172,0.007589,0.01,nc,nc75237977,2025-09-16T06:22:19.738Z,"4 km NNW of The Geysers, CA",earthquake,0.94,0.4,0.043,5,reviewed,nc,nc
-2025-09-15T11:20:24.500Z,33.8133333,-117.6443333,4.76,0.82,ml,23,110,0.03444,0.14,ci,ci41291744,2025-09-15T11:24:37.497Z,"10 km SW of Corona, CA",earthquake,0.22,0.37,0.311,18,automatic,ci,ci
