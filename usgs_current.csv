@@ -238,7 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T23:37:29.500Z,60.3323,-152.1951,88.9,1.9,ml,,,,0.4,ak,ak025c6nbxjq,2025-09-22T23:39:08.499Z,"42 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-22T23:36:40.310Z,35.98766667,-97.95983333,5.21,1.9,ml,71,36,0.04049205408,0.17,ok,ok2025sqdo,2025-09-23T12:18:20.351Z,"4 km W of Dover, Oklahoma",earthquake,,0.3,0.26,32,reviewed,ok,ok
 2025-09-22T23:30:58.520Z,33.6903333,-116.795,16.38,0.69,ml,22,80,0.07322,0.15,ci,ci40448378,2025-09-23T16:02:00.574Z,"9 km SW of Idyllwild, CA",earthquake,0.23,0.52,0.317,16,automatic,ci,ci
-2025-09-22T23:29:12.240Z,35.9005,-117.6766667,3.39,0.6,ml,19,43,0.05189,0.14,ci,ci40448370,2025-09-23T15:50:54.890Z,"21 km E of Little Lake, CA",earthquake,0.18,0.6,0.103,11,automatic,ci,ci
-2025-09-22T23:28:34.690Z,38.820167541504,-122.84616851807,2.2200000286102,1.23,md,18,107,0.01114,0.01,nc,nc75240677,2025-09-23T00:37:18.192Z,"9 km NW of The Geysers, CA",earthquake,0.26,0.409999996,0.1,18,automatic,nc,nc
-2025-09-22T23:26:46.333Z,64.998,-147.489,0,1.1,ml,,,,1.23,ak,ak025c6n9lyx,2025-09-22T23:28:55.612Z,"7 km NE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-09-22T23:24:37.110Z,36.1728333,-118.0223333,3.36,1.29,ml,26,55,0.1463,0.16,ci,ci40448362,2025-09-23T15:50:28.883Z,"12 km S of Olancha, CA",earthquake,0.21,0.64,0.191,22,automatic,ci,ci
