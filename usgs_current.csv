@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-27T07:41:24.410Z,38.83716583252,-122.78399658203,1.4099999666214,1.33,md,25,74,0.00511,0.03,nc,nc75242547,2025-09-27T07:42:58.763Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.310000002,0.09,26,automatic,nc,nc
 2025-09-27T07:34:18.720Z,38.819667816162,-122.80433654785,3.1800000667572,0.74,md,8,113,0.005826,0.01,nc,nc75242542,2025-09-27T07:35:54.471Z,"6 km NNW of The Geysers, CA",earthquake,0.58,1.16999996,0.37,11,automatic,nc,nc
+2025-09-27T07:25:00.701Z,49.1885,157.9032,10,5.1,mb,102,129,3.869,0.62,us,us6000rdal,2025-09-27T07:39:32.040Z,"208 km SE of Severo-Kuril’sk, Russia",earthquake,10.23,1.88,0.046,154,reviewed,us,us
 2025-09-27T07:17:14.044Z,-17.5364,167.6841,10,5,mb,26,152,4.395,0.74,us,us6000rdak,2025-09-27T07:33:11.040Z,"70 km WNW of Port-Vila, Vanuatu",earthquake,9.59,1.92,0.12,22,reviewed,us,us
 2025-09-27T06:54:50.141Z,31.719,-104.359,4.0789,1.5,ml,26,108,0.1,0.4,tx,tx2025taiceb,2025-09-27T06:57:49.965Z,"50 km S of Whites City, New Mexico",earthquake,0,1.0366603136063,0.1,19,automatic,tx,tx
 2025-09-27T06:53:20.500Z,35.6196667,-117.3901667,5.75,1.89,ml,37,64,0.05294,0.15,ci,ci41099151,2025-09-27T06:57:03.849Z,"16 km S of Trona, CA",earthquake,0.15,0.39,0.162,26,automatic,ci,ci
