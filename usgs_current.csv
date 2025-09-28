@@ -91,4 +91,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T23:01:56.620Z,46.120833333333,-122.5005,16.5,0.64,ml,13,106,0.1214,0.09,uw,uw62195166,2025-09-28T05:34:26.230Z,"23 km N of Amboy, Washington",earthquake,0.34,0.7,0.093987588795893,6,reviewed,uw,uw
 2025-09-27T22:55:11.801Z,31.814,-103.924,2.1312,1.6,ml,9,153,0.2,0.7,tx,tx2025tbnxuf,2025-09-28T00:00:48.049Z,"33 km WNW of Mentone, Texas",earthquake,0,2.722972869873,0.4,4,automatic,tx,tx
 2025-09-27T22:53:39.550Z,35.436166666667,-120.71983333333,7.06,1.17,md,16,84,0.04458,0.07,nc,nc75242747,2025-09-28T11:42:18.146Z,"7 km SW of Atascadero, CA",earthquake,0.23,0.46,0.146,10,reviewed,nc,nc
-2025-09-27T22:40:03.810Z,34.197,-117.482,3.75,0.97,ml,41,48,0.01813,0.19,ci,ci41099823,2025-09-27T22:43:50.739Z,"7 km SSE of Lytle Creek, CA",earthquake,0.21,0.29,0.148,30,automatic,ci,ci
