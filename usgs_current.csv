@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-28T14:31:29.174Z,60.3717,-150.7887,41,1.7,ml,,,,0.49,ak,ak025cgf5tqt,2025-09-28T14:34:25.751Z,"14 km S of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-28T14:01:04.740Z,32.8138333,-116.1301667,8.02,1.37,ml,50,50,0.03539,0.2,ci,ci41100167,2025-09-28T14:04:38.713Z,"16 km NW of Ocotillo, CA",earthquake,0.2,0.61,0.175,25,automatic,ci,ci
 2025-09-28T13:54:19.725Z,31.901,-101.503,4.678,1,ml,15,116,0.2,0.7,tx,tx2025tcrsps,2025-09-28T13:56:27.034Z,"4 km NNW of Garden City, Texas",earthquake,0,1.6523611545563,0.2,9,automatic,tx,tx
 2025-09-28T13:53:26.140Z,32.921,-116.2368333,8.56,0.89,ml,41,45,0.06523,0.17,ci,ci41100159,2025-09-28T13:56:54.444Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.48,0.246,15,automatic,ci,ci
@@ -25,6 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T12:00:41.701Z,62.0977,-147.5117,31.9,1.4,ml,,,,0.82,ak,ak025cgdscay,2025-09-28T12:03:09.600Z,"25 km NW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-28T11:52:41.221Z,39.7227,-119.9632,0,1.2,ml,11,117.09,0.115,0.2389,nn,nn00905117,2025-09-28T11:55:03.317Z,"4 km NNE of Cold Springs, Nevada",earthquake,,11.2,0.45,5,automatic,nn,nn
 2025-09-28T11:33:40.762Z,36.7713,-116.247,11.9,0.2,ml,18,63.81,0.052,0.1627,nn,nn00905116,2025-09-28T11:35:54.020Z,"48 km ESE of Beatty, Nevada",earthquake,,0.8,0.27,7,automatic,nn,nn
+2025-09-28T11:29:07.360Z,44.5825,-112.21666666667,5.43,2.03,ml,36,106,0.1274,0.16,mb,mb90113508,2025-09-28T14:29:05.040Z,"24 km N of Spencer, Idaho",earthquake,0.37,1.54,0.29826440879615,45,reviewed,mb,mb
 2025-09-28T11:26:54.178Z,31.614,-104.111,4.2968,1.9,ml,38,56,0,0.3,tx,tx2025tcmvof,2025-09-28T12:00:39.357Z,"44 km NW of Toyah, Texas",earthquake,0,0.89442902803421,0.2,27,automatic,tx,tx
 2025-09-28T11:26:52.562Z,59.5966,-150.3408,33.3,2.2,ml,,,,0.52,ak,ak025cgdci5k,2025-09-28T11:28:16.422Z,"45 km SE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-28T11:01:21.490Z,33.931,-117.1926667,13.35,0.61,ml,40,76,0.02324,0.18,ci,ci41100055,2025-09-28T13:40:26.070Z,"3 km E of Moreno Valley, CA",earthquake,0.21,0.49,0.26,22,reviewed,ci,ci
@@ -162,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T15:07:15.713Z,62.8891,-143.6856,12.7,1.8,ml,,,,0.38,ak,ak025ces2qmr,2025-09-27T15:08:58.469Z,"5 km SE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-27T14:52:50.870Z,32.6978333,-115.7775,9.18,1.2,ml,26,69,0.06479,0.21,ci,ci41099471,2025-09-27T15:15:11.317Z,"21 km ESE of Ocotillo, CA",earthquake,0.32,0.68,0.259,10,reviewed,ci,ci
 2025-09-27T14:50:11.290Z,38.823665618896,-122.84283447266,1.4800000190735,0.76,md,9,118,0.006121,0.01,nc,nc75242632,2025-09-27T15:22:18.292Z,"9 km NW of The Geysers, CA",earthquake,0.53,0.660000026,0.17,10,automatic,nc,nc
-2025-09-27T14:31:05.833Z,37.1065,-117.0457,2.4,0.7,ml,12,136.19,0.259,0.1932,nn,nn00905098,2025-09-27T14:33:17.458Z,"33 km NW of Beatty, Nevada",earthquake,,12.4,0.5,5,automatic,nn,nn
