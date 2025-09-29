@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T23:42:45.310Z,33.168,-116.4193333,8.73,0.74,ml,39,37,0.09183,0.2,ci,ci41100383,2025-09-28T23:46:14.799Z,"11 km SSW of Borrego Springs, CA",earthquake,0.21,0.71,0.121,12,automatic,ci,ci
 2025-09-28T23:42:29.940Z,19.221,-64.4281,66,3.77,md,8,289,0.731,0.22,pr,pr2025271001,2025-09-29T00:37:47.423Z,"105 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.11,8.69,0.12,6,reviewed,pr,pr
 2025-09-28T23:24:29.970Z,35.0296667,-117.6816667,2.41,1.45,ml,39,69,0.09581,0.31,ci,ci41100375,2025-09-28T23:28:13.638Z,"4 km NW of Boron, CA",earthquake,0.43,1.06,0.1,28,automatic,ci,ci
-2025-09-28T23:06:50.764Z,66.2136,-143.8157,0,2.5,ml,,,,1.19,ak,ak025cgkdeaa,2025-09-28T23:09:48.140Z,"44 km NNE of Circle, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-28T23:06:50.764Z,66.2136,-143.8157,0,2.5,ml,,,,1.19,ak,ak025cgkdeaa,2025-09-29T04:45:06.040Z,"44 km NNE of Circle, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-28T23:01:21.260Z,34.6716667,-120.2575,3.98,1.64,ml,30,52,0.06633,0.21,ci,ci41100367,2025-09-28T23:04:57.484Z,"8 km SSE of Los Alamos, CA",earthquake,0.25,0.9,0.159,27,automatic,ci,ci
 2025-09-28T23:00:40.470Z,38.821666717529,-122.83850097656,1.5599999427795,0.32,md,8,143,0.003073,0.01,nc,nc75243147,2025-09-28T23:27:17.358Z,"9 km NW of The Geysers, CA",earthquake,0.42,0.939999998,0.2,8,automatic,nc,nc
 2025-09-28T22:56:32.520Z,38.778999328613,-122.72299957275,1.8200000524521,1.03,md,12,79,0.01153,0.01,nc,nc75243142,2025-09-28T23:17:19.287Z,"3 km WNW of Anderson Springs, CA",earthquake,0.29,0.600000024,0.18,11,automatic,nc,nc
@@ -100,6 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T17:14:49.150Z,31.534,-104.019,6.51,1.7,ml,26,57,0,0.1,tx,tx2025tcyivc,2025-09-28T19:17:21.191Z,"32 km NW of Toyah, Texas",earthquake,0.58890881390488,0.45586948977619,0.1,18,reviewed,tx,tx
 2025-09-28T16:56:16.179Z,60.2885,-152.4778,80.8,1.8,ml,,,,0.21,ak,ak025cggi0up,2025-09-28T16:58:01.721Z,"52 km WNW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-09-28T16:49:29.092Z,41.1305,-116.7183,10.9,3.1,ml,13,138.23,0.277,0.1423,nn,nn00905131,2025-09-29T02:04:54.515Z,"50 km NE of Valmy, Nevada",earthquake,,1.6,0.16,8,reviewed,nn,nn
+2025-09-28T16:47:50.430Z,46.849666666667,-121.94416666667,11,0.6,ml,21,62,0.008574,0.07,uw,uw62195371,2025-09-29T04:44:04.020Z,"12 km NNE of Ashford, Washington",earthquake,0.3,0.37,0.21889619460932,12,reviewed,uw,uw
 2025-09-28T16:47:23.862Z,58.1012,-153.0562,146.2,2.1,ml,,,,1.02,ak,ak025cggg402,2025-09-28T16:50:26.405Z,"9 km WNW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-09-28T16:40:32.977Z,64.2221,-149.9456,0.4,1.8,ml,,,,0.58,ak,ak025cggemox,2025-09-28T16:42:26.424Z,"37 km W of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-28T16:37:46.360Z,64.9457,-147.7196,35.6,1.1,ml,,,,1.23,ak,ak025cgge0ks,2025-09-28T16:39:16.718Z,"4 km NNW of Farmers Loop, Alaska",earthquake,,0.6,,,automatic,ak,ak
