@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-04T07:27:07.090Z,38.524333953857,-122.84166717529,7.5999999046326,1.14,md,5,141,0.2756,0.09,nc,nc75244611,2025-10-04T07:28:42.791Z,"3 km SW of Windsor, CA",earthquake,3.19,3.56999993,0.08,3,automatic,nc,nc
+2025-10-04T07:26:14.550Z,38.792331695557,-122.45133209228,7.710000038147,1.84,md,19,48,0.01365,0.14,nc,nc75244606,2025-10-04T07:27:52.656Z,"9 km E of Hidden Valley Lake, CA",earthquake,0.36,0.75999999,0.09,17,automatic,nc,nc
 2025-10-04T06:48:42.540Z,36.7641,-116.2527,13.6,0.5,ml,26,42.57,0.047,0.3768,nn,nn00905406,2025-10-04T06:51:01.792Z,"47 km ESE of Beatty, Nevada",earthquake,,0.4,0.32,17,automatic,nn,nn
 2025-10-04T06:41:07.020Z,33.2103333,-116.3423333,11.12,0.74,ml,45,32,0.07613,0.21,ci,ci41102391,2025-10-04T06:44:35.742Z,"6 km SSE of Borrego Springs, CA",earthquake,0.24,0.43,0.13,14,automatic,ci,ci
 2025-10-04T06:30:15.980Z,38.83483505249,-122.78299713135,1.8300000429153,0.69,md,7,133,0.006757,0.01,nc,nc75244596,2025-10-04T07:07:17.111Z,"5 km WNW of Cobb, CA",earthquake,0.43,0.639999986,0.24,8,automatic,nc,nc
@@ -203,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T07:45:35.880Z,53.93,-166.36,10.83,0.55,ml,11,170,0.1206,0.27,av,av93803148,2025-10-03T22:19:29.620Z,"12 km ENE of Dutch Harbor, Alaska",earthquake,1.23,3.56,0.24234803479378,11,reviewed,av,av
 2025-10-03T07:45:24.782Z,62.1713,-150.5872,2.2,1.6,ml,,,,0.68,ak,ak025cokriny,2025-10-03T07:47:22.737Z,"24 km SW of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-03T07:37:44.980Z,45.349333333333,-121.7615,5.04,0.87,ml,11,140,0.03242,0.07,uw,uw62188532,2025-10-03T17:36:16.870Z,"5 km N of Government Camp, Oregon",earthquake,0.3,0.42,0.095655740687755,6,reviewed,uw,uw
-2025-10-03T07:34:36.992Z,60.722,-150.6032,46.2,1.4,ml,,,,0.56,ak,ak025cokp6qb,2025-10-03T07:36:57.362Z,"22 km NNE of Sterling, Alaska",earthquake,,0.8,,,automatic,ak,ak
