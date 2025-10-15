@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-15T07:31:32.910Z,38.788665771484,-122.76667022705,1.4700000286102,1.05,md,16,76,0.01721,0.02,nc,nc75249506,2025-10-15T07:33:08.538Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.400000006,0.08,17,automatic,nc,nc
 2025-10-15T07:26:37.740Z,38.786998748779,-122.76333618164,1.7200000286102,2.13,md,40,62,0.01636,0.05,nc,nc75249501,2025-10-15T07:30:32.600Z,"1 km NNW of The Geysers, CA",earthquake,0.18,0.280000001,0.13,39,automatic,nc,nc
-2025-10-15T07:25:32.297Z,63.0139,-149.1179,68.8,2.1,ml,,,,0.54,ak,ak025d8f3etn,2025-10-15T07:28:56.841Z,"42 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-15T07:11:21.120Z,37.438835144043,-118.87750244141,8.289999961853,1.92,md,24,106,0.1558,0.07,nc,nc75249491,2025-10-15T07:12:57.592Z,"22 km SW of Toms Place, CA",earthquake,0.31,2.30999994,0.23,24,automatic,nc,nc
+2025-10-15T07:25:32.291Z,63.0144,-149.1186,68.9,2.1,ml,,,,0.53,ak,ak025d8f3etn,2025-10-15T07:36:50.261Z,"42 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-15T07:11:21.120Z,37.438835144043,-118.87750244141,8.289999961853,1.92,md,24,106,0.1558,0.07,nc,nc75249491,2025-10-15T07:42:20.973Z,"22 km SW of Toms Place, CA",earthquake,0.31,2.30999994,0.23,24,automatic,nc,nc
 2025-10-15T06:59:03.090Z,35.558,-118.3626667,8.66,1.31,ml,35,35,0.1371,0.13,ci,ci41108399,2025-10-15T07:02:34.342Z,"12 km ESE of Lake Isabella, CA",earthquake,0.14,0.43,0.272,26,automatic,ci,ci
 2025-10-15T06:55:20.620Z,38.813499450684,-122.78717041016,3,0.56,md,12,66,0.005072,0.01,nc,nc75249481,2025-10-15T07:17:17.702Z,"5 km NNW of The Geysers, CA",earthquake,0.38,1.00999999,0.3,12,automatic,nc,nc
 2025-10-15T06:40:05.300Z,33.1328333,-116.6371667,3.16,0.94,ml,39,28,0.06148,0.24,ci,ci41108391,2025-10-15T06:43:26.141Z,"7 km NNW of Julian, CA",earthquake,0.26,0.71,0.189,18,automatic,ci,ci
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-15T05:26:53.684Z,58.1873,-155.3474,6.2,0.7,ml,,,,1.13,ak,ak025d8dwt02,2025-10-15T05:30:39.430Z,"86 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-15T05:24:19.001Z,36.4109,-116.7828,1,1,ml,18,122.03,0.086,0.3265,nn,nn00905928,2025-10-15T05:26:32.609Z,"7 km ESE of Furnace Creek, California",earthquake,,39.9,0.37,12,automatic,nn,nn
 2025-10-15T05:22:58.437Z,31.654,-104.479,7.2791,1.6,ml,26,72,0,0.2,tx,tx2025uhgcxd,2025-10-15T07:19:45.613Z,"58 km S of Whites City, New Mexico",earthquake,1.18718475436,0.7431215807176,0.2,15,reviewed,tx,tx
-2025-10-15T05:19:31.930Z,38.821166992188,-122.84216308594,2.039999961853,0.81,md,12,71,0.005902,0.01,nc,nc75249466,2025-10-15T05:37:17.057Z,"9 km WNW of The Geysers, CA",earthquake,0.28,0.460000008,0.39,13,automatic,nc,nc
+2025-10-15T05:19:31.930Z,38.821166992188,-122.84216308594,2.039999961853,0.81,md,12,71,0.005902,0.01,nc,nc75249466,2025-10-15T07:42:20.881Z,"9 km WNW of The Geysers, CA",earthquake,0.28,0.460000008,0.39,13,automatic,nc,nc
 2025-10-15T04:46:31.339Z,60.0476,-152.7383,92.3,1.3,ml,,,,0.2,ak,ak025d8dflzx,2025-10-15T04:48:13.764Z,"57 km W of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-10-15T04:35:55.770Z,38.820835113525,-122.80416870117,3.0199999809265,1.04,md,19,36,0.005274,0.02,nc,nc75249451,2025-10-15T04:57:16.656Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.560000002,0.2,18,automatic,nc,nc
 2025-10-15T04:17:11.340Z,37.446334838867,-118.87433624268,6.1700000762939,1.46,md,13,162,0.1479,0.04,nc,nc75249441,2025-10-15T06:52:18.636Z,"21 km SW of Toms Place, CA",earthquake,0.45,3.74000001,0.22,11,automatic,nc,nc
@@ -27,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-15T03:53:20.410Z,34.0176667,-117.221,10.12,0.73,ml,8,189,0.09192,0.27,ci,ci41108359,2025-10-15T03:56:59.700Z,"5 km SE of Loma Linda, CA",earthquake,2.65,2.26,0.11,19,automatic,ci,ci
 2025-10-15T03:30:52.000Z,33.9961667,-117.2486667,10.83,1.33,ml,71,43,0.06878,0.18,ci,ci41108351,2025-10-15T03:34:50.340Z,"6 km SSE of Loma Linda, CA",earthquake,0.14,0.27,0.223,29,automatic,ci,ci
 2025-10-15T03:30:44.862Z,61.7294,-147.4562,27,4,ml,,,,0.54,ak,ak025d8cqrw0,2025-10-15T07:10:04.800Z,"13 km SE of Glacier View, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2025-10-15T03:26:05.284Z,32.135,-102.009,3.478,1,ml,18,50,0.1,0.7,tx,tx2025uhcget,2025-10-15T03:29:58.730Z,"16 km NNE of Midland, Texas",earthquake,0,1.2490478754044,0.2,12,automatic,tx,tx
+2025-10-15T03:26:05.541Z,32.141,-101.993,6.9092,0.9,ml,36,53,0,0.2,tx,tx2025uhcget,2025-10-15T07:34:39.704Z,"17 km NNE of Midland, Texas",earthquake,0.4956910299679,1.1712596859703,0.1,19,reviewed,tx,tx
 2025-10-15T03:25:15.380Z,38.811832427979,-122.79683685303,9.0200004577637,0.77,md,8,79,0.004041,0.07,nc,nc75249421,2025-10-15T03:47:22.116Z,"5 km NW of The Geysers, CA",earthquake,1.62,7.57000017,0.33,11,automatic,nc,nc
 2025-10-15T03:20:02.640Z,46.6515,-121.942,6.81,1.17,ml,47,109,0.08661,0.1,uw,uw62194032,2025-10-15T04:11:51.090Z,"13 km SSE of Ashford, Washington",earthquake,0.24,0.33,0.12468545061465,24,reviewed,uw,uw
 2025-10-15T03:17:50.210Z,37.435832977295,-118.87733459473,3.8199999332428,1.65,md,22,154,0.1586,0.05,nc,nc75249416,2025-10-15T05:37:16.958Z,"22 km SW of Toms Place, CA",earthquake,0.29,2.5999999,0.16,17,automatic,nc,nc
@@ -219,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-14T08:09:05.608Z,61.056,-152.36,103.8,2,ml,,,,0.68,ak,ak025d6s20g0,2025-10-14T08:11:28.651Z,"66 km W of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-14T07:58:22.484Z,38.4325,-116.4995,5.4,1.5,ml,9,149.16,0.489,0.1423,nn,nn00905891,2025-10-14T16:45:50.533Z,"75 km ENE of Tonopah, Nevada",earthquake,,6.5,0.23,4,reviewed,nn,nn
 2025-10-14T07:51:46.431Z,61.7012,-149.8877,29.2,1.7,ml,,,,0.55,ak,ak025d6rpo2b,2025-10-14T07:54:21.309Z,"8 km NNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-10-14T07:36:53.780Z,60.042166666667,-153.08816666667,-1.09,-0.74,ml,5,99,0.0196,0.13,av,av93821596,2025-10-15T05:01:19.830Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.49,3.74,0.18006124952511,5,reviewed,av,av
-2025-10-14T07:34:03.450Z,33.1606667,-116.0056667,4.48,1.81,ml,64,25,0.02668,0.21,ci,ci41108063,2025-10-14T18:56:33.875Z,"12 km E of Ocotillo Wells, CA",earthquake,0.16,0.43,0.152,72,reviewed,ci,ci
