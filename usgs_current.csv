@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-18T21:51:14.340Z,61.9398,-149.9142,19.8,2.9,ml,,,,0.87,ak,ak025ddm722k,2025-10-18T21:53:11.384Z,"22 km NNE of Willow, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-10-18T20:50:53.990Z,19.280500411987,-155.36199951172,29.959999084473,2.28999996,md,56,129,0.05383,0.140000001,hv,hv74808076,2025-10-18T20:55:21.370Z,"14 km NE of Pāhala, Hawaii",earthquake,0.36,0.430000007,0.180000007,9,automatic,hv,hv
 2025-10-18T20:46:23.640Z,35.6688333,-117.477,6.8,0.95,ml,33,39,0.04355,0.16,ci,ci41110975,2025-10-18T20:49:49.596Z,"13 km SSW of Searles Valley, CA",earthquake,0.18,0.45,0.112,18,automatic,ci,ci
 2025-10-18T20:32:47.410Z,36.749500274658,-120.81833648682,1.2599999904633,1.73,md,15,109,0.08862,0.12,nc,nc75251196,2025-10-18T20:52:19.006Z,"28 km SSW of South Dos Palos, CA",earthquake,0.32,9.39999962,0.19,15,automatic,nc,nc
@@ -151,4 +152,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-17T22:51:47.560Z,49.089666666667,-122.1245,-0.84,1.26,ml,6,304,0.09504,0.16,uw,uw62203611,2025-10-18T19:38:31.890Z,"9 km ENE of Abbotsford, Canada",explosion,1.17,31.61,0.095004337985038,5,reviewed,uw,uw
 2025-10-17T22:36:13.690Z,32.9185,-116.2413333,7.1,1.1,ml,33,45,0.06339,0.16,ci,ci41110359,2025-10-17T22:40:07.807Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.19,0.47,0.138,16,automatic,ci,ci
 2025-10-17T22:17:56.878Z,56.3482,-156.5895,34.7,2.9,ml,,,,0.62,ak,ak025dbz1xxx,2025-10-18T21:28:49.040Z,"112 km E of Chignik, Alaska",earthquake,,2.7,,,automatic,ak,ak
-2025-10-17T21:48:05.715Z,63.2576,-145.2542,10.2,1.4,ml,,,,0.61,ak,ak025dbyn1q3,2025-10-17T21:50:08.172Z,"26 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
