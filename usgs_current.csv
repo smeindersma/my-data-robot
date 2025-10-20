@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-20T18:51:05.948Z,64.7617,-149.6674,0,2,ml,,,,1.13,ak,ak025dgvhfkb,2025-10-20T18:54:44.886Z,"31 km NW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-20T18:34:28.280Z,34.3466667,-116.8863333,-1.42,1.42,ml,46,47,0.04872,0.22,ci,ci41111775,2025-10-20T18:38:13.896Z,"10 km NNW of Big Bear City, CA",earthquake,0.24,0.49,0.133,33,automatic,ci,ci
 2025-10-20T18:12:19.658Z,60.18,-152.6847,111.1,2.3,ml,,,,0.5,ak,ak025dgv93pp,2025-10-20T18:15:22.675Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-20T17:57:01.779Z,57.6573,-155.3742,7,2.2,ml,,,,0.35,ak,ak025dgux9x3,2025-10-20T18:00:05.555Z,"55 km W of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -142,4 +143,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-19T19:15:51.503Z,32.365,-102.194,7.6904,0.7,ml,18,84,0,0.2,tx,tx2025upqqdp,2025-10-20T14:31:59.648Z,"32 km ENE of McKinney Acres, Texas",earthquake,1.0680763896093,1.0146344214817,0.2,13,reviewed,tx,tx
 2025-10-19T19:07:14.870Z,33.4086667,-116.6511667,5.65,0.84,ml,52,26,0.09417,0.23,ci,ci41111383,2025-10-20T14:02:00.380Z,"14 km N of Warner Springs, CA",earthquake,0.18,0.68,0.174,28,reviewed,ci,ci
 2025-10-19T19:03:03.324Z,61.9496,-150.6465,59.7,1.7,ml,,,,0.77,ak,ak025df89849,2025-10-19T19:08:15.373Z,"39 km NW of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-10-19T18:50:05.439Z,-17.551,-174.8966,240.171,4.3,mb,23,119,4.702,0.53,us,us6000ri6t,2025-10-19T20:37:14.040Z,"155 km NW of Neiafu, Tonga",earthquake,10.16,10.81,0.133,16,reviewed,us,us
