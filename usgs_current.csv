@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-30T17:15:28.250Z,38.820667266846,-122.80816650391,3.0199999809265,0.26,md,13,63,0.01618,0.01,nc,nc75256771,2025-10-30T17:17:03.169Z,"7 km NW of The Geysers, CA",earthquake,0.32,1.30999994,0.09,13,automatic,nc,nc
+2025-10-30T17:33:13.523Z,59.6237,-150.2571,19.6,5.6,ml,,,,0.74,ak,ak025dxe5mlz,2025-10-30T17:38:28.279Z,"47 km SE of Fox River, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-10-30T17:31:35.880Z,35.6973333,-117.5641667,8.1,1.86,ml,45,50,0.1188,0.15,ci,ci41322696,2025-10-30T17:35:07.285Z,"13 km NE of Ridgecrest, CA",earthquake,0.14,0.5,0.248,26,automatic,ci,ci
+2025-10-30T17:15:28.250Z,38.820667266846,-122.80816650391,3.0199999809265,0.26,md,13,63,0.01618,0.01,nc,nc75256771,2025-10-30T17:32:17.048Z,"7 km NW of The Geysers, CA",earthquake,0.32,1.30999994,0.09,13,automatic,nc,nc
 2025-10-30T17:07:23.298Z,58.1672,-155.3497,1.4,0.7,ml,,,,1.14,ak,ak025dxe02q1,2025-10-30T17:08:34.501Z,"85 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-10-30T16:49:17.920Z,32.9786667,-116.3045,9.81,0.85,ml,28,75,0.02402,0.16,ci,ci41322680,2025-10-30T16:52:41.038Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.2,0.46,0.19,14,automatic,ci,ci
 2025-10-30T16:36:21.929Z,35.90333333,-95.1515,0,1.66,ml,63,107,0.2825445551,0.38,ok,ok2025vhau,2025-10-30T16:51:55.568Z,"3 km SSW of Hulbert, Oklahoma",quarry blast,,0.4,0.24,15,reviewed,ok,ok
@@ -183,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-29T17:46:33.440Z,38.82799911499,-122.7876663208,1.2200000286102,1.09,md,11,74,0.0106,0.02,nc,nc75256251,2025-10-29T18:42:18.676Z,"6 km W of Cobb, CA",earthquake,0.35,0.639999986,0.16,13,automatic,nc,nc
 2025-10-29T17:44:38.501Z,64.6826,-149.618,18.1,1.3,ml,,,,0.53,ak,ak025dvqoowa,2025-10-29T17:46:34.879Z,"25 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-29T17:44:28.660Z,33.1923333,-116.38,10.83,1.19,ml,54,30,0.08182,0.2,ci,ci41322152,2025-10-29T17:47:50.970Z,"7 km S of Borrego Springs, CA",earthquake,0.18,0.37,0.17,27,automatic,ci,ci
-2025-10-29T17:31:31.040Z,33.7105,-116.8185,16.27,1.53,ml,64,20,0.08393,0.19,ci,ci41322128,2025-10-29T20:01:49.890Z,"8 km ESE of Valle Vista, CA",earthquake,0.16,0.35,0.272,27,reviewed,ci,ci
-2025-10-29T17:28:11.240Z,37.167667388916,-119.74633026123,18.989999771118,2.55,md,21,59,0.1291,0.17,nc,nc75256241,2025-10-29T22:11:29.980Z,"3 km SE of Yosemite Lakes, CA",earthquake,0.8,1.00999999,0.26,18,automatic,nc,nc
