@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-08T15:52:34.070Z,38.838500976562,-122.81833648682,2.539999961853,0.58,md,8,134,0.01339,0.03,nc,nc75260546,2025-11-08T16:32:17.791Z,"8 km WNW of Cobb, CA",earthquake,0.58,1.94000006,0.14,8,automatic,nc,nc
 2025-11-08T15:51:39.964Z,62.8562,-150.5776,78.1,2.1,ml,,,,0.43,ak,ak025ec8wsr0,2025-11-08T15:53:58.599Z,"41 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-08T15:48:23.093Z,-21.9385,-68.5952,144.058,4.1,mb,22,86,0.617,0.65,us,us6000rm9k,2025-11-08T18:27:08.040Z,"66 km NNE of Calama, Chile",earthquake,6.65,7.438,0.233,6,reviewed,us,us
-2025-11-08T15:44:01.710Z,35.6643333,-117.4728333,8.81,1.45,ml,39,30,0.04001,0.14,ci,ci40482650,2025-11-09T04:18:35.970Z,"13 km SSW of Searles Valley, CA",earthquake,0.14,0.4,0.192,26,reviewed,ci,ci
