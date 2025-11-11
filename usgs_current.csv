@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-11T22:44:00.921Z,32.143,-101.078,3.2116,2,ml,27,67,0.2,0.2,tx,tx2025wgdfrs,2025-11-11T22:46:49.024Z,"24 km SSW of Westbrook, Texas",earthquake,0,1.3237638473511,0.1,17,automatic,tx,tx
+2025-11-11T22:40:09.430Z,33.9646667,-117.2183333,12.12,1.33,ml,56,47,0.04161,0.18,ci,ci40483946,2025-11-11T22:44:12.239Z,"4 km NNE of Moreno Valley, CA",earthquake,0.15,0.36,0.147,27,automatic,ci,ci
 2025-11-11T22:33:44.820Z,38.789501190185,-122.75749969482,2.289999961853,1.04,md,12,79,0.0174,0.01,nc,nc75262151,2025-11-11T22:35:22.640Z,"1 km N of The Geysers, CA",earthquake,0.28,0.639999986,0.23,13,automatic,nc,nc
-2025-11-11T22:27:05.750Z,39.403667449951,-120.15166473389,-1.6399999856949,1.67,md,7,233,0.1423,0.09,nc,nc75262141,2025-11-11T22:28:43.705Z,"9 km NNE of Truckee, CA",earthquake,1.36,9.35000038,0.52,3,automatic,nc,nc
+2025-11-11T22:27:05.750Z,39.403667449951,-120.15166473389,-1.6399999856949,1.67,md,7,233,0.1423,0.09,nc,nc75262141,2025-11-11T22:47:20.729Z,"9 km NNE of Truckee, CA",earthquake,1.36,9.35000038,0.52,3,automatic,nc,nc
 2025-11-11T21:49:15.254Z,37.9018,-118.1346,1.4375,1.76,ml,10,155,0.455,0.2305,nn,nn00907197,2025-11-11T21:52:17.944Z,"26 km NNW of Dyer, Nevada",earthquake,,2.5983,0.21,2,automatic,nn,nn
 2025-11-11T21:23:31.127Z,-5.3701,133.9441,10,5.1,mb,42,61,2.657,0.82,us,us6000rmuu,2025-11-11T21:38:41.040Z,"135 km ENE of Tual, Indonesia",earthquake,8.06,1.815,0.086,45,reviewed,us,us
 2025-11-11T21:17:03.862Z,62.3536,-150.0269,2.4,1.9,ml,,,,0.62,ak,ak025ehaw2qa,2025-11-11T21:19:34.596Z,"5 km NE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
