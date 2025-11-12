@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-12T21:37:43.902Z,61.1478,-150.7329,14.6,1.9,ml,,,,0.64,ak,ak025eiyjsmz,2025-11-12T21:40:53.531Z,"18 km E of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-11-12T21:32:33.660Z,33.7095,-117.0653333,11.66,1.19,ml,23,109,0.05321,0.12,ci,ci40484514,2025-11-12T21:36:00.315Z,"2 km E of Winchester, CA",earthquake,0.87,0.53,0.158,28,automatic,ci,ci
 2025-11-12T21:05:17.040Z,38.792835235596,-122.75949859619,1.2300000190735,0.87,md,15,70,0.00778,0.03,nc,nc75262566,2025-11-12T21:06:54.454Z,"2 km N of The Geysers, CA",earthquake,0.25,0.49000001,0.16,14,automatic,nc,nc
 2025-11-12T21:03:32.748Z,64.8888,-149.1062,24.6,1.5,ml,,,,0.44,ak,ak025eiychfe,2025-11-12T21:05:46.569Z,"31 km SSE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-12T20:54:11.320Z,38.788333892822,-122.76699829102,1.7400000095367,1.51,md,25,77,0.01353,0.03,nc,nc75262556,2025-11-12T21:27:16.932Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.360000014,0.15,26,automatic,nc,nc
@@ -109,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-12T09:53:56.720Z,19.344999313354,-155.07800292969,0.62999999523163,2.2,ml,24,182,0.05627,0.280000001,hv,hv74827932,2025-11-12T09:57:26.870Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.65,0.529999971,0.15,3,automatic,hv,hv
 2025-11-12T09:44:11.860Z,42.4425,-112.43766666667,9.93,2.92,ml,27,108,0.301,0.19,uu,uu80122016,2025-11-12T20:38:54.500Z,"25 km WSW of Arimo, Idaho",earthquake,1.04,0.47,0.11710773769927,10,reviewed,uu,uu
 2025-11-12T09:41:51.566Z,34.7292,32.5043,10,4.7,mb,53,139,0.718,0.99,us,us6000rmxn,2025-11-12T14:45:00.242Z,"4 km ESE of Koloni, Cyprus",earthquake,5.31,1.924,0.092,36,reviewed,us,us
-2025-11-12T09:31:25.011Z,34.7782,32.4841,10,5.2,mww,76,48,0.72,1.49,us,us6000rmxj,2025-11-12T17:30:13.507Z,"2 km ESE of Konia, Cyprus",earthquake,4.15,1.838,0.08,15,reviewed,us,us
+2025-11-12T09:31:25.011Z,34.7782,32.4841,10,5.2,mww,76,48,0.72,1.49,us,us6000rmxj,2025-11-12T21:31:13.707Z,"2 km ESE of Konia, Cyprus",earthquake,4.15,1.838,0.08,15,reviewed,us,us
 2025-11-12T09:31:01.179Z,32.536,-101.136,2.7832,1.2,ml,11,56,0.1,0.1,tx,tx2025wgyrhl,2025-11-12T12:42:48.824Z,"23 km NNW of Westbrook, Texas",earthquake,0.8021859771593,1.7211570683253,0.2,6,reviewed,tx,tx
 2025-11-12T09:27:32.991Z,29.044,-97.87,7.9942,1.4,ml,10,77,0.1,0.2,tx,tx2025wgyogm,2025-11-12T12:46:23.323Z,"15 km ENE of Falls City, Texas",earthquake,0.61691358941954,1.0104343255137,0.1,8,reviewed,tx,tx
 2025-11-12T09:26:40.450Z,38.835834503174,-122.87599945068,2.9500000476837,0.24,md,7,161,0.01708,0.01,nc,nc75262306,2025-11-12T09:57:18.237Z,"12 km WNW of The Geysers, CA",earthquake,3.96,5.3499999,0.11,8,automatic,nc,nc
