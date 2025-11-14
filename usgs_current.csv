@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-14T21:48:42.180Z,33.4158325,-116.6376648,6.62,1.04,ml,28,57,0.04371,0.18,ci,ci40485202,2025-11-14T21:50:45.445Z,"15 km N of Warner Springs, CA",earthquake,0.34,0.73,0.171,8,automatic,ci,ci
 2025-11-14T21:28:50.032Z,65.2978,-149.0243,9.9,1.7,ml,,,,0.51,ak,ak025em9kknf,2025-11-14T21:31:00.007Z,"22 km NE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-14T21:22:35.713Z,65.2913,-148.952,0.8,2.4,ml,,,,0.4,ak,ak025em9j98z,2025-11-14T21:24:56.170Z,"24 km NE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-14T21:10:08.870Z,37.760833740234,-121.94400024414,6.5199999809265,1.23,md,9,108,0.02767,0.11,nc,nc75263331,2025-11-14T21:11:44.298Z,"4 km SE of San Ramon, CA",earthquake,0.46,0.959999979,0.18,8,automatic,nc,nc
@@ -33,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-14T16:54:05.910Z,36.0948333,-117.8888333,5.24,1.6,ml,26,74,0.03567,0.11,ci,ci40485130,2025-11-14T18:02:37.855Z,"8 km NE of Coso Junction, CA",earthquake,0.14,0.33,0.2,21,reviewed,ci,ci
 2025-11-14T16:44:23.975Z,60.797,-145.5616,39.9,1.9,ml,,,,1.11,ak,ak025em6os2l,2025-11-14T16:48:06.343Z,"30 km NNE of Cordova, Alaska",earthquake,,10,,,automatic,ak,ak
 2025-11-14T16:33:23.530Z,38.838832855225,-122.83866882324,1.9900000095367,0.76,md,12,112,0.002497,0.02,nc,nc75263231,2025-11-14T17:07:16.820Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.680000007,0.15,11,automatic,nc,nc
+2025-11-14T16:28:42.884Z,32.343,-101.926,8.5205,0.9,ml,21,56,0.1,0.1,tx,tx2025wldvtd,2025-11-14T21:47:55.883Z,"27 km NNW of Stanton, Texas",earthquake,0.44782312637539,0.85774301914484,0.1,11,reviewed,tx,tx
 2025-11-14T16:07:00.164Z,62.263,-148.5628,26.4,1.8,ml,,,,0.63,ak,ak025em6gsqo,2025-11-14T16:09:46.103Z,"52 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-14T15:59:04.440Z,52.6829,-34.839,10,4.9,mb,37,113,12.514,0.81,us,us6000rnac,2025-11-14T16:16:53.040Z,"Reykjanes Ridge",earthquake,5.95,1.839,0.079,51,reviewed,us,us
 2025-11-14T15:54:00.076Z,60.6029,-149.0926,3.5,1.4,ml,,,,0.31,ak,ak025em65fs7,2025-11-14T15:55:39.699Z,"19 km NE of Moose Pass, Alaska",earthquake,,0.5,,,automatic,ak,ak
