@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-13T13:20:20.690Z,33.193668365479,-116.38966369629,12.510000228882,1.3875051910893,ml,53,49,0.07782,0.230000004,ci,ci41350928,2025-12-13T15:03:00.200Z,"7 km S of Borrego Springs, CA",earthquake,0.26,0.860000014,0.28887417912483,8,automatic,ci,ci
 2025-12-13T13:12:16.693Z,59.836,-153.281,141.2,2.1,ml,16,168,0.1,0.4,ak,ak2025ymdngd,2025-12-13T13:15:53.611Z,"46 km E of Pedro Bay, Alaska",earthquake,0,5.7668,0.6,4,automatic,ak,ak
 2025-12-13T13:09:31.286Z,-17.2242,-178.7745,556.21,4.3,mb,21,132,1.925,0.47,us,us6000runk,2025-12-13T14:52:16.040Z,"216 km ESE of Labasa, Fiji",earthquake,13.67,10.916,0.129,17,reviewed,us,us
-2025-12-13T13:08:27.964Z,62.05,-149.324,0.6,3.1,ml,58,31,0.5,1.1,ak,ak2025ymdjyz,2025-12-13T19:56:55.807Z,"30 km ESE of Susitna North, Alaska",earthquake,0,1.4845,0.3,43,reviewed,ak,ak
+2025-12-13T13:08:33.794Z,62.06,-149.305,4,3,ml,112,27,0.5,2.4,ak,ak2025ymdjyz,2025-12-13T20:42:55.972Z,"30 km ESE of Susitna North, Alaska",earthquake,0,0,0.3,73,reviewed,ak,ak
 2025-12-13T13:07:55.240Z,19.420000076294,-155.39616394043,6.460000038147,1.83,md,46,44,0.07342,0.129999995,hv,hv74851622,2025-12-13T13:11:26.290Z,"17 km W of Volcano, Hawaii",earthquake,0.27,0.720000029,0.22820616319013,14,automatic,hv,hv
 2025-12-13T13:06:58.270Z,31.609,-104.273,4.3509,1.6,ml,25,72,0.1,0.4,tx,tx2025ymdiae,2025-12-13T18:06:16.974Z,"56 km NW of Toyah, Texas",earthquake,0,1.2271882295609,0.2,18,automatic,tx,tx
 2025-12-13T13:05:55.483Z,64.715,-149.101,10.4,1.1,ml,11,66,0.1,0.6,ak,ak2025ymdhug,2025-12-13T13:09:20.577Z,"12 km N of Four Mile Road, Alaska",earthquake,0,3.5684,0.4,4,automatic,ak,ak
