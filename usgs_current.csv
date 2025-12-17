@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-17T11:45:04.621Z,60.075,-141.22,5,1.7,ml,10,278,0.2,0.4,ak,ak2025ytjnqb,2025-12-17T11:48:10.225Z,"102 km NW of Yakutat, Alaska",earthquake,0,,0.4,4,automatic,ak,ak
 2025-12-17T11:35:33.630Z,40.49433517456,-125.04916381836,6.1199998855591,2.36,md,14,311,0.5775,0.22,nc,nc75281446,2025-12-17T11:37:04.055Z,"67 km W of Ferndale, CA",earthquake,12.26,9.63000011,0.03,2,automatic,nc,nc
 2025-12-17T11:27:02.570Z,35.897666666667,-117.67433333333,2.16,0.93,ml,25,43,0.05377,0.14,ci,ci41353424,2025-12-17T11:30:42.312Z,"21 km ESE of Little Lake, CA",earthquake,0.16,0.22,0.14343854401909,12,automatic,ci,ci
 2025-12-17T11:07:17.829Z,60.441,-147.461,19.6,2.4,ml,37,81,0.4,0.8,ak,ak2025ytihbp,2025-12-17T11:09:04.033Z,"51 km NE of Chenega, Alaska",earthquake,0,1.7748,0.3,4,automatic,ak,ak
