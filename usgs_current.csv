@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-17T11:35:33.630Z,40.49433517456,-125.04916381836,6.1199998855591,2.36,md,14,311,0.5775,0.22,nc,nc75281446,2025-12-17T11:37:04.055Z,"67 km W of Ferndale, CA",earthquake,12.26,9.63000011,0.03,2,automatic,nc,nc
+2025-12-17T11:27:02.570Z,35.897666666667,-117.67433333333,2.16,0.93,ml,25,43,0.05377,0.14,ci,ci41353424,2025-12-17T11:30:42.312Z,"21 km ESE of Little Lake, CA",earthquake,0.16,0.22,0.14343854401909,12,automatic,ci,ci
 2025-12-17T11:07:17.829Z,60.441,-147.461,19.6,2.4,ml,37,81,0.4,0.8,ak,ak2025ytihbp,2025-12-17T11:09:04.033Z,"51 km NE of Chenega, Alaska",earthquake,0,1.7748,0.3,4,automatic,ak,ak
 2025-12-17T11:01:37.240Z,19.479000091553,-155.63732910156,-3.5199999809265,2.13,ml,45,94,0.03841,0.189999998,hv,hv74855987,2025-12-17T11:05:00.200Z,"24 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.34,0.159999996,0.69,5,automatic,hv,hv
 2025-12-17T10:41:34.120Z,35.362833333333,-117.79016666667,4.86,1.05,ml,37,73,0.1055,0.18,ci,ci41353416,2025-12-17T10:45:13.534Z,"14 km W of Johannesburg, CA",earthquake,0.17,0.49,0.14543492733064,17,automatic,ci,ci
@@ -94,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-17T02:27:09.290Z,38.355834960938,-122.54233551025,4.2699999809265,1.86,md,6,233,0.3716,0.11,nc,nc75281146,2025-12-17T02:28:46.729Z,"1 km SW of Glen Ellen, CA",earthquake,8.97,11.7299995,0.08,4,automatic,nc,nc
 2025-12-17T02:23:11.927Z,60.5265,-139.9329,5,3,ml,28,80,0.46,1.05,us,us6000rved,2025-12-17T02:33:04.040Z,"109 km N of Yakutat, Alaska",earthquake,4.04,1.976,0.046,62,reviewed,us,us
 2025-12-17T02:17:58.740Z,35.8255,-117.6735,4.72,0.65,ml,21,60,0.06252,0.15,ci,ci41353208,2025-12-17T02:21:45.728Z,"23 km N of Ridgecrest, CA",earthquake,0.21,0.43,0.18233643622282,8,automatic,ci,ci
+2025-12-17T02:03:38.535Z,32.249,-101.945,6.0547,0.5,ml,31,31,0,0.2,tx,tx2025ysqgob,2025-12-17T11:32:37.334Z,"19 km NW of Stanton, Texas",earthquake,0.52425480120917,1.0248577193329,0.2,9,reviewed,tx,tx
 2025-12-17T01:44:10.548Z,43.4524,148.1737,10,5.2,mww,64,77,3.965,1.03,us,us6000rve6,2025-12-17T02:02:14.040Z,"123 km ESE of Shikotan, Russia",earthquake,9.55,1.857,0.103,9,reviewed,us,us
 2025-12-17T01:26:08.780Z,33.986166666667,-119.56933333333,13.85,1.53,ml,16,234,0.4257,0.12,ci,ci41353192,2025-12-17T01:30:03.630Z,"7 km SW of Santa Cruz Is. (E end), CA",earthquake,1.36,1.2,0.18249005961076,28,automatic,ci,ci
 2025-12-17T01:15:09.417Z,36.5952,36.4679,10,4.1,mb,35,93,0.711,0.83,us,us6000rvds,2025-12-17T03:22:16.978Z,"14 km NE of Kırıkhan, Turkey",earthquake,3.93,1.969,0.174,9,reviewed,us,us
@@ -186,6 +189,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-16T17:10:30.020Z,38.830501556396,-122.81533050537,2.1099998950958,0.73,md,18,48,0.008198,0.02,nc,nc75280881,2025-12-16T17:12:03.758Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.529999971,0.29,17,automatic,nc,nc
 2025-12-16T17:10:02.930Z,38.830001831055,-122.81500244141,1.9900000095367,0.78,md,18,47,0.007638,0.01,nc,nc75280876,2025-12-16T17:11:38.734Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.540000021,0.16,17,automatic,nc,nc
 2025-12-16T16:58:49.970Z,51.864333333333,-177.9425,6.01,0.22,ml,5,159,0.04378,0.09,av,av93053359,2025-12-17T02:30:09.770Z,"90 km W of Adak, Alaska",earthquake,0.44,0.91,0.17668786572338,5,reviewed,av,av
+2025-12-16T16:54:24.062Z,32.108,-102.162,6.3721,0.8,ml,22,72,0,0.2,tx,tx2025yrybhg,2025-12-17T11:25:38.298Z,"14 km NNW of Midland, Texas",earthquake,1.0393968881496,0.77657773451604,0.1,10,reviewed,tx,tx
 2025-12-16T16:50:47.081Z,62.016,-150.722,68,2.5,ml,42,44,0.4,0.7,ak,ak2025yrxyem,2025-12-16T20:18:39.040Z,"35 km E of Skwentna, Alaska",earthquake,0,3.6036,0.4,4,automatic,ak,ak
 2025-12-16T16:43:47.607Z,-18.3268,-177.8138,561.946,4.4,mb,35,109,3.257,0.77,us,us6000rva9,2025-12-16T19:41:32.040Z,"Fiji region",earthquake,16.01,12.368,0.102,28,reviewed,us,us
 2025-12-16T16:42:51.469Z,60.348,-152.098,85.6,1.8,ml,32,85,0.3,0.4,ak,ak2025yrxriu,2025-12-16T16:45:50.396Z,"40 km NW of Ninilchik, Alaska",earthquake,0,3.0687,0.4,4,automatic,ak,ak
