@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-01-03T15:34:33.193Z,64.458,-147.992,13.9,1,ml,9,164,0,0.5,ak,ak2026aewlch,2026-01-03T15:35:47.606Z,"40 km SSW of South Van Horn, Alaska",earthquake,0,4.3022,0.6,4,automatic,ak,ak
-2026-01-03T15:33:19.177Z,32.157,-101.013,0.9233,1.7,ml,14,108,0.3,0.7,tx,tx2026aewkai,2026-01-03T15:36:07.242Z,"22 km S of Westbrook, Texas",earthquake,0,1.6123121976852,0.3,5,automatic,tx,tx
+2026-01-03T15:33:19.177Z,32.157,-101.013,0.9233,1.8,ml,14,108,0.3,0.7,tx,tx2026aewkai,2026-01-03T15:37:33.254Z,"22 km S of Westbrook, Texas",earthquake,0,1.6123121976852,0.1,9,automatic,tx,tx
 2026-01-03T15:14:23.400Z,33.478333333333,-116.4545,7.28,0.42,ml,29,70,0.1245,0.18,ci,ci41151679,2026-01-03T15:18:01.326Z,"22 km ESE of Anza, CA",earthquake,0.24,0.9,0.15270146847424,9,automatic,ci,ci
 2026-01-03T15:10:32.520Z,35.6785,-117.54266666667,9.08,1.7,ml,35,35,0.09777,0.15,ci,ci41151671,2026-01-03T15:14:15.304Z,"14 km ENE of Ridgecrest, CA",earthquake,0.16,0.54,0.153509362673,26,automatic,ci,ci
 2026-01-03T15:05:51.870Z,38.839332580566,-122.80999755859,2.3399999141693,0.95,md,10,121,0.01538,0.03,nc,nc75290311,2026-01-03T15:07:26.363Z,"8 km WNW of Cobb, CA",earthquake,0.39,1.04999995,0.18,10,automatic,nc,nc
@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-02T16:18:29.877Z,28.679,-98.948,7.5084,1.7,ml,11,134,0.3,0.5,tx,tx2026adcebx,2026-01-02T23:07:47.882Z,"21 km E of Dilley, Texas",earthquake,0,3.5592226982117,0.1,9,automatic,tx,tx
 2026-01-02T15:50:30.131Z,60.558,-140.186,1,1.8,ml,10,279,0.5,0.7,ak,ak2026adbgan,2026-01-02T20:07:40.258Z,"115 km NNW of Yakutat, Alaska",earthquake,0,3.27,0.2,8,reviewed,ak,ak
 2026-01-02T15:46:53.979Z,32.065,-103.725,7.5995,1.9,ml,33,44,0,0.1,tx,tx2026adbcvz,2026-01-02T16:31:10.478Z,"37 km ESE of Malaga, New Mexico",earthquake,0.33811175003139,0.46480447016231,0.2,18,reviewed,tx,tx
-2026-01-02T15:37:08.151Z,16.8068,-99.2453,35,4.5,mb,39,193,0.993,1.01,us,us7000rm3u,2026-01-02T17:37:16.061Z,"5 km NNW of Las Vigas, Mexico",earthquake,10.24,1.969,0.039,197,reviewed,us,us
