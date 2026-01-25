@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-01-25T09:35:33.050Z,33.5305,-116.72983333333,3.97,0.37,ml,25,40,0.03536,0.11,ci,ci41171631,2026-01-25T09:39:16.029Z,"6 km WSW of Anza, CA",earthquake,0.13,0.23,0.25578537801539,6,automatic,ci,ci
-2026-01-25T09:33:57.060Z,38.15950012207,-121.88883209228,20.39999961853,2.95,md,88,48,0.06674,0.28,nc,nc75301426,2026-01-25T09:42:20.133Z,"15 km N of Pittsburg, CA",earthquake,0.31,0.430000007,0.12,97,automatic,nc,nc
+2026-01-25T09:33:57.060Z,38.15950012207,-121.88883209228,20.39999961853,2.95,md,88,48,0.06674,0.28,nc,nc75301426,2026-01-25T09:51:13.785Z,"15 km N of Pittsburg, CA",earthquake,0.31,0.430000007,0.12,97,automatic,nc,nc
 2026-01-25T09:31:59.230Z,33.985000610352,-116.67633056641,7.4299998283386,1.2728250245806,ml,35,89,0.1815,0.150000006,ci,ci41171623,2026-01-25T09:42:34.540Z,"11 km SW of Morongo Valley, CA",earthquake,0.35,2.31999993,0.28031030297279,6,automatic,ci,ci
 2026-01-25T09:26:48.660Z,31.446,-104.466,0,1.5,ml,8,211,0.3,0.7,tx,tx2026bsueys,2026-01-25T09:32:58.070Z,"56 km NE of Van Horn, Texas",earthquake,0,,0.2,7,automatic,tx,tx
 2026-01-25T09:22:25.104Z,61.427,-146.51,24.2,1.2,ml,8,120,0.3,0.5,ak,ak2026bsubub,2026-01-25T09:23:36.135Z,"34 km NNW of Valdez, Alaska",earthquake,5.3,7.4901,0,1,automatic,ak,ak
@@ -203,6 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-24T12:42:42.020Z,34.048833333333,-117.2575,16.07,0.86,ml,27,86,0.1124,0.14,ci,ci41170735,2026-01-24T12:46:20.944Z,"0 km E of Loma Linda, CA",earthquake,0.25,0.53,0.33353651976771,21,automatic,ci,ci
 2026-01-24T12:30:21.590Z,33.236166666667,-116.09983333333,9.05,0.85,ml,48,50,0.09848,0.21,ci,ci41170727,2026-01-24T12:34:02.304Z,"11 km NNE of Ocotillo Wells, CA",earthquake,0.19,0.65,0.084709887638601,17,automatic,ci,ci
 2026-01-24T12:28:59.140Z,32.999166666667,-116.35866666667,9.97,1.04,ml,53,35,0.0515,0.19,ci,ci41170719,2026-01-24T12:39:42.780Z,"24 km ESE of Julian, CA",earthquake,0.17,0.4,0.2085242515956,25,automatic,ci,ci
+2026-01-24T12:27:33.030Z,60.057166666667,-153.11216666667,1.4,-1.03,ml,4,170,0.01351,0.07,av,av94009281,2026-01-25T09:44:05.060Z,"63 km ENE of Pedro Bay, Alaska",earthquake,1.97,0.76,0.14840622787722,5,reviewed,av,av
 2026-01-24T12:17:27.240Z,60.984,-149.285,34.6,1.3,ml,13,106,0.2,0.3,ak,ak2026bredst,2026-01-24T12:19:04.831Z,"7 km NW of Girdwood, Alaska",earthquake,5.4,3.6161,0.2,5,automatic,ak,ak
 2026-01-24T12:12:59.350Z,31.9975,-117.35483333333,19.02,2.03,ml,10,252,0.4264,0.11,ci,ci41170703,2026-01-24T12:16:42.626Z,"48 km SW of Rosarito, B.C., MX",earthquake,0.83,1.11,0.12371401775035,15,automatic,ci,ci
 2026-01-24T12:12:41.564Z,-22.6665,-179.7186,590.366,4.9,mb,50,121,6.216,0.68,us,us7000rrst,2026-01-24T12:29:01.040Z,"south of the Fiji Islands",earthquake,14.23,9.246,0.079,51,reviewed,us,us
@@ -224,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-24T10:15:26.230Z,58.172166666667,-155.34566666667,0.82,-0.31,ml,7,120,0.03935,0.07,av,av94009221,2026-01-25T09:29:04.280Z,"85 km NW of Karluk, Alaska",earthquake,0.23,1.27,0.24967599952642,7,reviewed,av,av
 2026-01-24T10:05:53.405Z,-21.0722,-178.7583,587.326,5,mb,54,77,4.902,0.83,us,us7000rrsg,2026-01-24T10:21:50.040Z,"Fiji region",earthquake,10.39,8.643,0.032,305,reviewed,us,us
 2026-01-24T10:04:26.698Z,61.633,-146.29,40.6,1.5,ml,8,173,0.2,0.6,ak,ak2026bqztct,2026-01-24T10:05:41.617Z,"47 km SSE of Nelchina, Alaska",earthquake,13,15.8253,0,1,automatic,ak,ak
-2026-01-24T09:48:43.580Z,45.379333333333,-121.708,-1.35,1.16,ml,11,87,0.02083,0.08,uw,uw62215782,2026-01-25T05:21:39.540Z,"9 km NNE of Government Camp, Oregon",earthquake,0.24,0.18,0.37820737727495,6,reviewed,uw,uw
