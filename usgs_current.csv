@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-15T19:56:05.330Z,34.047164916992,-117.22116851807,15,1.4418420004392,ml,18,186,0.07743,0.270000011,ci,ci41204687,2026-03-15T19:58:07.760Z,"4 km WSW of Redlands, CA",earthquake,0.86,1.04999995,0.19086630642414,5,automatic,ci,ci
 2026-03-15T19:43:48.384Z,38.3427,-116.7227,0.1382,1.89,ml,10,218,0.961,0.331,nn,nn00912714,2026-03-15T19:46:21.670Z,"53 km NE of Tonopah, Nevada",earthquake,,5.4354,0.29,4,automatic,nn,nn
 2026-03-15T19:33:55.636Z,60.349,-151.974,77.2,2,ml,51,49,0.3,0.7,ak,aka2026ffmxvv,2026-03-15T19:35:35.449Z,"34 km WNW of Clam Gulch, Alaska",earthquake,3,2.5643,0.2,4,automatic,ak,ak
-2026-03-15T19:30:41.670Z,38.79349899292,-122.78717041016,2.920000076294,1.38,md,27,79,0.0006659,0.04,nc,nc75327822,2026-03-15T19:32:18.730Z,"3 km NW of The Geysers, CA",earthquake,0.27,0.419999987,0.11,27,automatic,nc,nc
+2026-03-15T19:30:41.670Z,38.79349899292,-122.78717041016,2.920000076294,1.38,md,27,79,0.0006659,0.04,nc,nc75327822,2026-03-15T19:57:21.015Z,"3 km NW of The Geysers, CA",earthquake,0.27,0.419999987,0.11,27,automatic,nc,nc
 2026-03-15T19:17:50.636Z,63.036,-149.647,76.4,1.4,ml,13,120,0.4,0.4,ak,aka2026ffmjyx,2026-03-15T19:19:19.337Z,"52 km SW of Cantwell, Alaska",earthquake,6.5,4.881,0.1,4,automatic,ak,ak
 2026-03-15T19:12:17.750Z,35.667,-117.486,6.76,0.67,ml,18,92,0.05076,0.12,ci,ci41204671,2026-03-15T19:15:50.928Z,"13 km SSW of Searles Valley, CA",earthquake,0.26,0.54,0.31813852608442,7,automatic,ci,ci
 2026-03-15T18:56:54.368Z,41.4045,142.6105,42.986,4.9,mb,72,124,0.734,0.88,us,us6000sghd,2026-03-15T19:13:23.040Z,"84 km SSW of Honchō, Japan",earthquake,5.96,7.092,0.036,241,reviewed,us,us
@@ -178,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-14T20:28:10.489Z,38.4506,-116.532,6.2192,3.17,ml,10,218,0.473,0.1923,nn,nn00912655,2026-03-15T02:04:47.460Z,"74 km NE of Tonopah, Nevada",earthquake,,4.4324,0.32,5,reviewed,nn,nn
 2026-03-14T20:23:32.699Z,64.937,-148.987,16.8,0.7,ml,6,137,0.3,0.1,ak,aka2026fdsvsv,2026-03-14T20:26:26.662Z,"29 km SE of Minto, Alaska",earthquake,8.4,6.0732,0.2,4,automatic,ak,ak
 2026-03-14T20:17:19.250Z,19.281833648682,-155.37100219727,30.010000228882,2.04,md,12,120,0.05071,0.140000001,hv,hv74917417,2026-03-14T20:21:57.870Z,"14 km NE of Pāhala, Hawaii",earthquake,0.83,0.870000005,0.22310330040841,11,automatic,hv,hv
-2026-03-14T19:48:14.680Z,36.002666666667,-117.80266666667,1.74,0.9,ml,19,50,0.02075,0.11,ci,ci41204287,2026-03-14T19:51:37.839Z,"12 km NE of Little Lake, CA",earthquake,0.13,0.15,0.23291054724165,10,automatic,ci,ci
