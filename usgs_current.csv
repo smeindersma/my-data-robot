@@ -1,4 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-05-03T15:01:00.286Z,28.838,-99.039,5.6092,1.7,ml,6,132,0.3,0.4,tx,tx2026irclsl,2026-05-03T15:03:54.535Z,"8 km SE of Pearsall, Texas",earthquake,0,4.9976749420166,0.5,6,automatic,tx,tx
+2026-05-03T14:57:49.995Z,60.29,-147.22,14.4,1.2,ml,10,124,0.3,1,ak,aka2026ismpuy,2026-05-03T14:59:17.290Z,"50 km ENE of Chenega, Alaska",earthquake,5.4,3.2214,0.1,4,automatic,ak,ak
+2026-05-03T14:56:46.040Z,34.244666666667,-117.47733333333,7.3,0.96,ml,42,65,0.01149,0.21,ci,ci41240479,2026-05-03T15:00:10.897Z,"3 km SE of Lytle Creek, CA",earthquake,0.26,0.46,0.28700472080344,30,automatic,ci,ci
+2026-05-03T14:44:15.010Z,33.710666666667,-116.81816666667,14.83,0.57,ml,16,150,0.09117,0.19,ci,ci41240463,2026-05-03T14:47:48.363Z,"8 km ESE of Valle Vista, CA",earthquake,0.66,0.6,0.27512851826067,10,automatic,ci,ci
+2026-05-03T14:40:44.660Z,35.682666666667,-117.509,2.95,0.48,ml,19,59,0.07162,0.13,ci,ci41240447,2026-05-03T14:44:15.884Z,"13 km SW of Searles Valley, CA",earthquake,0.29,0.39,0.14484967639383,7,automatic,ci,ci
+2026-05-03T14:37:52.060Z,32.0535,-93.5102,10,2.5,mb_lg,17,63,0.105,0.7,us,us7000shz0,2026-05-03T14:45:34.040Z,"16 km WNW of Coushatta, Louisiana",earthquake,2.13,1.826,0.1,26,reviewed,us,us
+2026-05-03T14:31:24.192Z,62.89,-149.672,74.4,1.6,ml,38,66,0.4,0.6,ak,aka2026islswz,2026-05-03T14:32:54.158Z,"53 km NNE of Chase, Alaska",earthquake,3.6,3.2599,0.1,4,automatic,ak,ak
+2026-05-03T14:26:13.650Z,38.799667358398,-122.79516601562,3.3599998950958,0.89,md,10,87,0.008289,0.01,nc,nc75356217,2026-05-03T14:27:51.722Z,"4 km NW of The Geysers, CA",earthquake,0.45,1.07000005,0.15,11,automatic,nc,nc
 2026-05-03T14:01:24.930Z,37.47766494751,-118.83999633789,4.8000001907349,0.94,md,8,223,0.1125,0.01,nc,nc75356207,2026-05-03T14:03:01.280Z,"17 km WSW of Toms Place, CA",earthquake,0.98,3.77999997,0.1,6,automatic,nc,nc
 2026-05-03T13:49:37.070Z,32.763,-100.652,0.6062,2.2,ml,30,79,0.1,0.7,tx,tx2026iracgx,2026-05-03T13:53:37.847Z,"17 km NE of Hermleigh, Texas",earthquake,0,1.1588133573532,0.2,16,automatic,tx,tx
 2026-05-03T13:46:54.496Z,61.649,-142.393,5,1.4,ml,17,102,0.4,0.6,ak,aka2026iskgik,2026-05-03T13:48:26.790Z,"36 km NE of McCarthy, Alaska",earthquake,3.3,,0.2,4,automatic,ak,ak
@@ -14,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-03T13:04:13.437Z,35.1566925,-98.21363068,6.488479614,1.68,ml,13,93.49139404,0.1286099255,0.9681188679,ok,ok2026ipxg,2026-05-03T13:06:28.933Z,"5 km SE of Gracemont, Oklahoma",earthquake,4.426899007,4.214059044,0.33,7,automatic,ok,ok
 2026-05-03T12:54:01.604Z,62.986,-150.664,120.6,1.5,ml,6,220,0.5,0.1,ak,aka2026isimma,2026-05-03T12:57:19.979Z,"54 km N of Petersville, Alaska",earthquake,51.2,39.0928,0.2,4,automatic,ak,ak
 2026-05-03T12:52:55.848Z,59.38,-150.944,39.1,2.1,ml,28,179,0.4,0.7,ak,aka2026isilgy,2026-05-03T12:55:26.195Z,"28 km SSE of Halibut Cove, Alaska",earthquake,5.1,3.7566,0.3,12,automatic,ak,ak
-2026-05-03T12:52:47.690Z,39.797500610352,-123.19933319092,6.25,3.48,ml,67,23,0.1357,0.18,nc,nc75356182,2026-05-03T13:57:06.480Z,"4 km E of Covelo, CA",earthquake,0.2,0.610000014,0.332,26,automatic,nc,nc
+2026-05-03T12:52:47.690Z,39.797500610352,-123.19933319092,6.25,3.48,ml,67,23,0.1357,0.18,nc,nc75356182,2026-05-03T14:24:36.676Z,"4 km E of Covelo, CA",earthquake,0.2,0.610000014,0.332,26,automatic,nc,nc
 2026-05-03T12:51:46.245Z,60.717,-148.451,9,2.1,ml,57,76,0.3,0.9,ak,aka2026isiknk,2026-05-03T12:53:42.146Z,"14 km ESE of Whittier, Alaska",earthquake,2.5,1.5419,0.2,6,automatic,ak,ak
 2026-05-03T12:50:48.940Z,45.633335113525,-123.6815032959,14.590000152588,2.0710978507996,ml,12,75,,0.109999999,uw,uw62241592,2026-05-03T12:53:34.080Z,"16 km ESE of Wheeler, Oregon",earthquake,0.43,1.77999997,0.2850154042244,12,automatic,uw,uw
 2026-05-03T12:46:09.580Z,38.827331542969,-122.7311630249,1,1.25,md,16,174,0.03043,0.06,nc,nc75356177,2026-05-03T12:47:45.689Z,"1 km NW of Cobb, CA",earthquake,0.4,0.769999981,0.21,15,automatic,nc,nc
@@ -109,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-03T05:38:54.812Z,47.459,152.2733,119.14,4.2,mb,30,135,6.637,0.74,us,us7000shx6,2026-05-03T06:23:08.040Z,"Kuril Islands",earthquake,12.9,8.66,0.107,24,reviewed,us,us
 2026-05-03T05:38:43.311Z,61.218,-147.729,8.9,1.1,ml,8,120,0.2,0.7,ak,aka2026irtzap,2026-05-03T05:40:01.978Z,"65 km S of Glacier View, Alaska",earthquake,12,42.7308,0.3,4,automatic,ak,ak
 2026-05-03T05:34:59.620Z,38.795333862305,-122.8073348999,3.2000000476837,1.06,md,17,76,0.007751,0.02,nc,nc75356007,2026-05-03T05:36:34.422Z,"5 km WNW of The Geysers, CA",earthquake,0.3,0.680000007,0.28,17,automatic,nc,nc
-2026-05-03T05:34:37.943Z,39.3322,-119.028,13.076,2.51,ml,31,54,0.078,0.2703,nn,nn00917419,2026-05-03T06:53:46.547Z,"19 km ESE of Silver Springs, Nevada",earthquake,,0.4186,0.17,13,automatic,nn,nn
+2026-05-03T05:34:37.943Z,39.3322,-119.028,13.076,2.51,ml,31,54,0.078,0.2703,nn,nn00917419,2026-05-03T14:37:40.905Z,"19 km ESE of Silver Springs, Nevada",earthquake,,0.4186,0.17,13,automatic,nn,nn
 2026-05-03T05:30:33.375Z,39.3236,-119.0454,9.6556,2.61,ml,30,57,0.072,0.2338,nn,nn00917416,2026-05-03T06:11:40.040Z,"18 km ESE of Silver Springs, Nevada",earthquake,,0.431,0.45,12,automatic,nn,nn
 2026-05-03T05:30:22.584Z,31.91,-102.066,4.1355,1.7,ml,85,43,0,0.4,tx,tx2026iqjobt,2026-05-03T11:20:34.525Z,"9 km S of Midland, Texas",earthquake,0,0.60761976242065,0.2,55,automatic,tx,tx
 2026-05-03T05:26:52.230Z,35.770333333333,-117.58766666667,6.93,0.27,ml,14,111,0.04601,0.12,ci,ci41240199,2026-05-03T05:30:21.393Z,"17 km W of Searles Valley, CA",earthquake,0.28,0.43,0.12310400288744,3,automatic,ci,ci
@@ -252,15 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-02T15:15:18.106Z,-41.1829,174.852,41.773,4.3,mb,30,95,0.168,0.7,us,us7000shtp,2026-05-03T00:40:47.721Z,"1 km NE of Grenada North, New Zealand",earthquake,4.47,10.267,0.375,2,reviewed,us,us
 2026-05-02T15:09:07.653Z,39.3257,-119.0489,0.007,1.76,ml,18,59,0.075,0.1757,nn,nn00917361,2026-05-02T15:11:07.857Z,"18 km ESE of Silver Springs, Nevada",earthquake,,2.299,0.23,9,automatic,nn,nn
 2026-05-02T15:06:37.520Z,38.831165313721,-122.81649780273,1.7300000190735,1.29,md,22,47,0.00924,0.01,nc,nc75355597,2026-05-02T15:08:14.127Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.340000004,0.14,25,automatic,nc,nc
-2026-05-02T15:00:32.178Z,-9.7023,107.9939,10,4.6,mb,29,121,2.251,0.76,us,us7000shtq,2026-05-02T16:50:33.040Z,"245 km SSW of Cilacap, Indonesia",earthquake,3.28,1.928,0.109,25,reviewed,us,us
-2026-05-02T14:54:29.600Z,34.492,-118.0315,8.88,1.05,ml,20,57,0.035,0.16,ci,ci41239607,2026-05-02T14:57:53.359Z,"5 km SW of Littlerock, CA",earthquake,0.25,0.48,0.48685920170028,34,automatic,ci,ci
-2026-05-02T14:51:39.483Z,62.578,-152.044,5,2,ml,20,76,0.6,0.7,ak,aka2026iqqjxd,2026-05-02T14:54:00.715Z,"66 km W of Petersville, Alaska",earthquake,3.8,,0.2,4,automatic,ak,ak
-2026-05-02T14:47:23.250Z,34.005166666667,-116.77,13.47,1.06,ml,39,55,0.04335,0.14,ci,ci41239599,2026-05-02T14:50:51.966Z,"10 km N of Cabazon, CA",earthquake,0.15,0.38,0.15081269009877,29,automatic,ci,ci
-2026-05-02T14:46:00.696Z,32.187,-101.001,1.8453,1.5,ml,23,90,0.3,0.3,tx,tx2026ipgfvx,2026-05-02T23:16:48.795Z,"18 km S of Westbrook, Texas",earthquake,0,1.3613308668137,0.1,13,automatic,tx,tx
-2026-05-02T14:42:55.300Z,38.838165283203,-122.83966827393,1.8799999952316,0.45,md,9,216,0.003293,0.02,nc,nc75355577,2026-05-02T14:44:33.638Z,"10 km NW of The Geysers, CA",earthquake,0.88,1.17999995,0.32,10,automatic,nc,nc
-2026-05-02T14:26:08.900Z,18.9692,121.0549,34.806,4.4,mb,58,120,3.829,0.9,us,us7000shtg,2026-05-02T19:08:29.040Z,"40 km N of Claveria, Philippines",earthquake,11.23,5.96,0.083,42,reviewed,us,us
-2026-05-02T14:24:22.985Z,60.553,-148.572,16.3,1.9,ml,10,127,0.5,0.5,ak,aka2026iqpmge,2026-05-02T14:26:33.941Z,"25 km SSE of Whittier, Alaska",earthquake,4,3.394,0.4,6,automatic,ak,ak
-2026-05-02T14:22:25.720Z,38.775001525879,-122.73883056641,0.72000002861023,1.28,md,19,66,0.008386,0.04,nc,nc75355572,2026-05-02T14:24:03.824Z,"2 km E of The Geysers, CA",earthquake,0.24,0.389999986,0.23,19,automatic,nc,nc
-2026-05-02T14:16:32.240Z,54.142,-165.97116666667,3.41,-0.84,ml,7,132,0.01695,0.23,av,av94174928,2026-05-03T06:56:24.790Z,"12 km W of Akutan, Alaska",earthquake,0.45,0.68,0.16827402615654,7,reviewed,av,av
-2026-05-02T14:15:34.556Z,-4.2751,152.7606,61.973,4.6,mb,38,93,0.601,0.63,us,us7000shti,2026-05-02T15:10:22.040Z,"55 km E of Kokopo, Papua New Guinea",earthquake,10.23,6.187,0.107,29,reviewed,us,us
-2026-05-02T14:14:53.870Z,51.800666666667,-178.80166666667,8.07,0.66,ml,5,116,0.01874,0.16,av,av94174923,2026-05-02T23:38:02.120Z,"149 km W of Adak, Alaska",earthquake,0.77,0.68,0.11488079935265,5,reviewed,av,av
